@@ -9,6 +9,8 @@
 #include <QString>
 #include "customengine.h"
 
+class CryptoFront;
+
 class ThreadBody : public QObject
 {
     Q_OBJECT
@@ -16,20 +18,17 @@ public:
   ThreadBody(QString name = "ThreadBody", CustomEngine *p=0);
 
   void doReport ();
+  void goToThread (QThread * t);
+  void setFront (CryptoFront * ft);
 
-private slots:
+public slots:
 
-  void getData();
-  void waitCon ();
-  void testTimer();
-
+  void makeData();
 
 private:
   QString m_name;
   CustomEngine * m_parentObj;
-  QTcpServer serv;
-  QTcpSocket * sock;
-  bool gotOtherSide;
+  CryptoFront  * m_front;
 };
 
 #endif // THREADLEFT_H

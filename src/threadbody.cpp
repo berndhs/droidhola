@@ -1,62 +1,55 @@
 #include <QDebug>
+#include <QMutex>
+#include <QtGlobal>
+#include <QDateTime>
+#include "cryptofront.h"
+#include <unistd.h>
 #include "threadbody.h"
 
 ThreadBody::ThreadBody(QString name, CustomEngine *p)
-    :m_parentObj(0),
-      sock(0)
+    :m_parentObj(p)
 {
-  qDebug() << Q_FUNC_INFO << name;
+  qDebug() << Q_FUNC_INFO << name << thread();
   m_name = name;
-  m_parentObj = p;
+  qsrand(QDateTime::currentDateTime().toTime_t());
   doReport();
-  qDebug() << Q_FUNC_INFO << "have connection" << sock;
-  connect (&serv,SIGNAL(newConnection()),this,SLOT(waitCon()));
 }
 
 void
 ThreadBody::doReport()
 {
+  qDebug() << Q_FUNC_INFO << thread();
   if (m_parentObj) {
     m_parentObj->reportIn (m_name,this);
   }
 }
 
-void ThreadBody::waitCon()
+void
+ThreadBody::goToThread(QThread *t)
 {
-  qDebug() << Q_FUNC_INFO ;
-  if (!(sock)) {
-    bool gotit = serv.waitForNewConnection(10000);
-    while (!gotit) {
-      gotit = serv.waitForNewConnection(10000);
-      qDebug() << "waiting" << gotit;
-    }
-
-    sock = serv.nextPendingConnection();
-    qDebug() << Q_FUNC_INFO << "now have connection" << sock;
-  }
-  if (sock) {
-    connect (sock,SIGNAL(readyRead()),this,SLOT(getData()));
-  }
-  qDebug() << Q_FUNC_INFO << "have connection" << sock;
+  qDebug() << Q_FUNC_INFO << thread() << t;
+  moveToThread(t);
 }
 
-void ThreadBody::testTimer()
+void
+ThreadBody::setFront(CryptoFront *ft)
 {
-  qDebug() << Q_FUNC_INFO;
+  m_front = ft;
 }
 
-void ThreadBody::getData()
+void ThreadBody::makeData()
 {
-  qDebug() << Q_FUNC_INFO;
-  if (sock) {
-    bool dontGotIt(true);
-    while (dontGotIt) {
-      dontGotIt = sock->waitForReadyRead(10000);
-      if (dontGotIt) {
-          qDebug() << "no data";
-      }
-    }
-    QByteArray data = sock->readAll();
-    qDebug() << Q_FUNC_INFO << data;
-  }
+  qDebug() << "make data for" << thread();
+  QMutex lock;
+  lock.lock();
+  QByteArray bytes;
+  int size = qrand() / (RAND_MAX/1000.0);
+  char daChar = 'a' + qrand() % 26;
+  qDebug() << "size is" << size;
+  bytes.fill (daChar,size);
+  qDebug () << "\t" << size << " of " << daChar;
+  QString strData (bytes);
+  m_front->backsetInput(strData);
+  lock.unlock();
 }
+

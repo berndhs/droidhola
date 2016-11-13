@@ -2,48 +2,59 @@
 #include <QDebug>
 #include <QHostAddress>
 #include <QTimer>
+#include <QMutex>
+#include <QDateTime>
+#include <QtGlobal>
 
 CryptoFront::CryptoFront(QObject *parent) : QObject(parent)
 {
+  qsrand(QDateTime::currentDateTime().toTime_t());
+  connecTimer = new QTimer(this);
+  connect (connecTimer,SIGNAL(timeout()),this,SLOT(pokeThread()));
+  connecTimer->setInterval(5);
+  connecTimer->start();
 }
 
 void
 CryptoFront::setThread(ThreadBody &thread)
 {
   m_thread = &thread;
+  (&thread)->setFront(this);
 }
 
-void CryptoFront::foundTheHost()
+void CryptoFront::addPoolThread(ThreadBody *tb)
 {
-  qDebug() << Q_FUNC_INFO;
+  tb->setFront(this);
+  int tpNext = threadPool.size();
+  threadPool[tpNext] = tb;
+}
+
+void CryptoFront::backsetInput(QString &input)
+{
+  m_input = input;
+  QString shouldBe (input.size(),input[0]);
+  if (input != shouldBe) {
+    qDebug() << "bad input " << input;
+    exit(1);
+  } else {
+    qDebug() << "ok";
+  }
+  emit inputChanged(input);
+}
+
+void CryptoFront::pokeThread()
+{
+  int threadNum = qrand() % threadPool.size();
+  qDebug() << "calling thread " << threadNum;
+  threadPool[threadNum]->makeData();
 }
 
 void
 CryptoFront::setInput(QString &input)
 {
   m_input = input;
-  QTimer::singleShot(100,Qt::PreciseTimer,m_thread,SLOT(testTimer()));
-  QTimer::singleShot(1000,Qt::PreciseTimer,m_thread,SLOT(waitCon()));
   qDebug() << Q_FUNC_INFO << "input is " << m_input;
-  if (!(sockToThread.state() == QTcpSocket::ConnectedState)) {
-    connect(&sockToThread,SIGNAL(connected()),this,SLOT(connectSock()));
-    QHostAddress host = QHostAddress(QHostAddress::LocalHost);
-    sockToThread.connectToHost(host,12345);
-  }
 }
-
-void
-CryptoFront::connectSock()
-{
-  qDebug() << Q_FUNC_INFO;
-  if (m_input.length() > 0) {
-    int inputBytes = m_input.toUtf8().length();
-    int bytesSent = sockToThread.write(m_input.toUtf8());
-    qDebug() << "\tsock status" << sockToThread.state();
-    qDebug() << "\tsent " << bytesSent << " of " << inputBytes;
-  }
-}
-
 QString
 CryptoFront::getInput()
 {

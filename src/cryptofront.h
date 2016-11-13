@@ -1,7 +1,8 @@
 #ifndef CRYPTOFRONT_H
 #define CRYPTOFRONT_H
-#include <QPointer>
-#include <QTcpSocket>
+
+#include <QTimer>
+#include <QMap>
 
 #include "threadbody.h"
 
@@ -20,6 +21,9 @@ public:
   explicit CryptoFront(QObject *parent = 0);
 
   void setThread (ThreadBody & thread);
+  void addPoolThread (ThreadBody * tb);
+  void xferData (QByteArray dataIn);
+  void backsetInput(QString & input);
 
 
 signals:
@@ -27,10 +31,11 @@ signals:
   void inputChanged(QString & input);
   void outputChanged(QString & output);
 
+  void sentData();
+
 public slots:
 
-  void foundTheHost();
-  void connectSock();
+  void pokeThread();
 
 private:
 
@@ -43,8 +48,11 @@ private:
   QString m_input;
   QString m_output;
 
+  QTimer *connecTimer;
+
   ThreadBody *m_thread;
-  QTcpSocket sockToThread;
+
+  QMap <int,ThreadBody*> threadPool;
 
 };
 

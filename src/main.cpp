@@ -17,10 +17,17 @@ int main(int argc, char *argv[])
   engine.load(QUrl(QLatin1String("qrc:/main.qml")));
 
   ThreadBody left("left", &engine);
-  cfront.setThread(left);
   QThread leftExec;
-  left.moveToThread(&leftExec);
+  left.goToThread(&leftExec);
   left.doReport();
+  cfront.setThread(left);
+
+  for (int i=0; i<10; ++i) {
+    ThreadBody *tb = new ThreadBody;
+    cfront.addPoolThread (tb);
+    tb->goToThread(new QThread);
+    tb->doReport();
+  }
 
 
   engine.reportState();
