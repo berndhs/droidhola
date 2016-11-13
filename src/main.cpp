@@ -1,26 +1,28 @@
 #include <QGuiApplication>
 #include <QThread>
+#include <QQmlContext>
 #include "customengine.h"
 #include "threadbody.h"
+#include "cryptofront.h"
 
 int main(int argc, char *argv[])
 {
-    QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
-    QGuiApplication app(argc, argv);
+  QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
+  QGuiApplication app(argc, argv);
 
-    CustomEngine engine;
-    engine.load(QUrl(QLatin1String("qrc:/main.qml")));
+  CryptoFront cfront;
 
-    ThreadBody left("left", &engine);
-    QThread leftExec;
-    left.moveToThread(&leftExec);
-    left.doReport();
+  CustomEngine engine;
+  engine.rootContext()->setContextProperty("crypto",&cfront);
+  engine.load(QUrl(QLatin1String("qrc:/main.qml")));
 
-    ThreadBody right("right", &engine);
-    QThread rightExec;
-    right.moveToThread(&rightExec);
-    right.doReport();
+  ThreadBody left("left", &engine);
+  cfront.setThread(left);
+  QThread leftExec;
+  left.moveToThread(&leftExec);
+  left.doReport();
 
-    engine.reportState();
-    return app.exec();
+
+  engine.reportState();
+  return app.exec();
 }
