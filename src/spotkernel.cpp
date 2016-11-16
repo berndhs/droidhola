@@ -66,6 +66,7 @@ void SpotKernel::setCrypto(CryptoFront *front)
 void
 SpotKernel::sendMsg(QByteArray msg)
 {
+  qDebug() << Q_FUNC_INFO << "tread" << thread();
   qDebug() << Q_FUNC_INFO << msg;
   qDebug() << "\non thread" << thread();
   qDebug() << Q_FUNC_INFO << "front" << m_front;
@@ -73,16 +74,15 @@ SpotKernel::sendMsg(QByteArray msg)
   data.reserve(msg.length()*2+2);
 //  m_Msg.resize(msg.length()+10);
   for (int i=0;i<msg.length();++i) {
-    QChar c = ((msg.at(i) + 13)%255);
+    unsigned char c = msg.at(i);
+    c = ((c & 0x0F) << 4) | ((c & 0xF0) >> 4);
     qDebug() << "\t\t" << c;
-    data.append( c.toLatin1());
+    data.append( c);
   }
   m_Msg = data.toHex();
   qDebug() << "\t " << m_Msg;
   qDebug() << "\t" << __LINE__;
 
-  if (m_front) {
-    emit reportCrypt (QString(m_Msg));
-  }
+  emit reportCrypt (QString(m_Msg));
 
 }

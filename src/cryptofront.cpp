@@ -109,7 +109,7 @@ CryptoFront::backsetInput(QString &input)
 
 void CryptoFront::reportEncrypted(QString crypto)
 {
-  qDebug() << Q_FUNC_INFO;
+  qDebug() << Q_FUNC_INFO << "tread" << thread();
   qDebug() << Q_FUNC_INFO << "going to emit for " << crypto;
   m_output = crypto;
   emit outputChanged(crypto);
@@ -134,7 +134,7 @@ CryptoFront::pokeThread()
 void
 CryptoFront::setInput(QString &input)
 {
-  qDebug() << Q_FUNC_INFO;
+  qDebug() << Q_FUNC_INFO << "tread" << thread();
   m_input = input;
   qDebug() << Q_FUNC_INFO << "input is " << m_input;
   m_kernel->sendMsg (m_input.toUtf8());
@@ -145,6 +145,7 @@ QString
 CryptoFront::getInput()
 {
   qDebug() << Q_FUNC_INFO;
+  qDebug() << Q_FUNC_INFO << "tread" << thread();
   return m_input;
 }
 
@@ -152,12 +153,14 @@ QString
 CryptoFront::getOutput()
 {
   qDebug() << Q_FUNC_INFO;
+  qDebug() << Q_FUNC_INFO << "tread" << thread();
   return m_output;
 }
 
 void
 CryptoFront::dumpInfo()
 {
+  qDebug() << Q_FUNC_INFO << "tread" << thread();
   qDebug() << Q_FUNC_INFO;
   qDebug() << "m_input" << m_input;
   qDebug() << "m_output" << m_output;
