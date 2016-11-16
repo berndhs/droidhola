@@ -67,23 +67,22 @@ void
 SpotKernel::sendMsg(QByteArray msg)
 {
   qDebug() << Q_FUNC_INFO << msg;
+  qDebug() << "\non thread" << thread();
   qDebug() << Q_FUNC_INFO << "front" << m_front;
-  qDebug() << "we are here " << __LINE__ << "buffer is " << m_Msg;
-  qDebug () << __LINE__<< "_ \t" << &(m_Msg);
-  qDebug () << __LINE__<< "_ \t" << m_Msg;
-  m_Msg.resize(msg.length()+10);
+  QByteArray data;
+  data.reserve(msg.length()*2+2);
+//  m_Msg.resize(msg.length()+10);
   for (int i=0;i<msg.length();++i) {
-    QChar c = ((msg[i] + 13)%255);
-    m_Msg.append( c.toLatin1());
+    QChar c = ((msg.at(i) + 13)%255);
+    qDebug() << "\t\t" << c;
+    data.append( c.toLatin1());
   }
-  qDebug() << "\t" << __LINE__;
-  qDebug() << "front at " << m_front;
-  qDebug() << "\t" << __LINE__;
-  qDebug() << "at " << m_Msg;
+  m_Msg = data.toHex();
+  qDebug() << "\t " << m_Msg;
   qDebug() << "\t" << __LINE__;
 
   if (m_front) {
-      m_front->reportEncrypted (QString(m_Msg));
-    }
-//  emit MsgChanged(m_Msg);
+    emit reportCrypt (QString(m_Msg));
+  }
+
 }

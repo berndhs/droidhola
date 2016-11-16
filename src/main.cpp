@@ -45,13 +45,9 @@ int main(int argc, char *argv[])
   QGuiApplication app(argc, argv);
 
   CryptoFront cfront("chatchat");
-
-  SpotKernel kernel (nullptr);
-
-
-  kernel.setCrypto(&cfront);
   CustomEngine engine;
   qDebug() << "cfront is called " << cfront.name();
+  cfront.dumpInfo();
   engine.rootContext()->setContextProperty(cfront.name(),&cfront);
   engine.load(QUrl(QLatin1String("qrc:/main.qml")));
 

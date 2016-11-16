@@ -52,12 +52,13 @@ public:
   explicit CryptoFront(QString daName, QObject *parent = 0);
 
   Q_INVOKABLE void sendMessage (QString msg);
-  void setThread (ThreadBody & thread);
-  void addPoolThread (ThreadBody * tb);
+//  void setThread (ThreadBody & thread);
+//  void addPoolThread (ThreadBody * tb);
   void backsetInput(QString & input);
-  void reportEncrypted (QString crypto);
 
   void addKernel (SpotKernel & kern);
+
+  Q_INVOKABLE void dumpInfo();
 
 
   QString name() const
@@ -73,6 +74,7 @@ signals:
   void sentData();
 
 public slots:
+  void reportEncrypted (QString crypto);
 
   void pokeThread();
 
@@ -89,11 +91,11 @@ private:
 
   QTimer *connecTimer;
 
-  ThreadBody *m_thread;
+//  ThreadBody *m_thread;
 
   SpotKernel *m_kernel;
 
-  QMap <int,ThreadBody*> threadPool;
+//  QMap <int,ThreadBody*> threadPool;
 
 };
 

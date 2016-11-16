@@ -61,6 +61,7 @@ public slots:
 signals:
 
   void MsgChanged(QByteArray Msg);
+  void reportCrypt (QString crypt);
 
 private:
 

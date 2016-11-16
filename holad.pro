@@ -3,8 +3,9 @@ TARGET = bin/holad
 
 CONFIG += c++11
 
-SOURCES += src/main.cpp \
-    src/threadbody.cpp \
+SOURCES += \
+  src/main.cpp \
+#    src/threadbody.cpp \
     src/customengine.cpp \
     src/cryptofront.cpp \
     src/spotkernel.cpp
@@ -23,7 +24,7 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
 HEADERS += \
-    src/threadbody.h \
+#    src/threadbody.h \
     src/customengine.h \
     src/cryptofront.h \
     src/copyright.h \

@@ -25,7 +25,7 @@ ApplicationWindow {
             }
             TextField {
                 id: textfield2;
-                text: "+";
+                text: chatchat.output
                 width: textfield1.width;
                 height: textfield1.height;
                 color: "red";
@@ -51,7 +51,19 @@ ApplicationWindow {
                 anchors.leftMargin: 10;
                 text: "Submit";
                 onClicked: {
+                    chatchat.dumpInfo();
                     chatchat.sendMessage(textfield1.text);
+                }
+            }
+            Button {
+                height: textfield1.height;
+                width: height*1.75;
+                anchors.horizontalCenter: textfield2.horizontalCenter;
+                anchors.top: textfield2.bottom;
+                anchors.topMargin: 10;
+                text: "Exit"
+                onReleased: {
+                    Qt.quit();
                 }
             }
         }
