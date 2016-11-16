@@ -14,7 +14,7 @@ Item {
 
         TextField {
             id: textField1
-            color: "#aaff7f"
+            color: "#000000"
             placeholderText: qsTr("Text Field")
         }
 
@@ -35,7 +35,7 @@ Item {
         id: textField2
         x: 170
         y: 66
-        color: "#aaff7f"
+        color: "#1a06ff"
         placeholderText: qsTr("Text Field")
     }
 }

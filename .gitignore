@@ -3,3 +3,6 @@ shadows/*
 obj/*.o
 moc/*.cpp
 Makefile
+build-holad*
+*~
+*/*~
