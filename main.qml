@@ -37,6 +37,7 @@ ApplicationWindow {
                 Connections {
                     target: chatchat;
                     onOutputChanged: {
+                        console.log("receiving "+chatchat.output)
                         textfield2.text = chatchat.output;
                     }
                 }

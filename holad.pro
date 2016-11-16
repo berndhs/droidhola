@@ -26,6 +26,7 @@ HEADERS += \
     src/threadbody.h \
     src/customengine.h \
     src/cryptofront.h \
+    src/copyright.h \
     src/spotkernel.h
 
 DISTFILES += \
