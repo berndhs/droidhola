@@ -3,20 +3,22 @@
 
 #include <QObject>
 
+class CryptoFront;
 
 class SpotKernel : public QObject
 {
   Q_OBJECT
 
-  Q_PROPERTY(QByteArray Msg READ Msg WRITE sendMsg NOTIFY MsgChanged)
+  Q_PROPERTY(QByteArray Msg READ msg WRITE sendMsg)
 
-  QByteArray m_Msg;
 
 public:
 
   SpotKernel(QObject *parent);
 
-  QByteArray Msg() const;
+  QByteArray msg() const;
+
+  void setCrypto (CryptoFront * front);
 
 public slots:
 
@@ -25,6 +27,12 @@ public slots:
 signals:
 
   void MsgChanged(QByteArray Msg);
+
+private:
+
+
+  CryptoFront * m_front;
+  static QByteArray m_Msg;
 };
 
 #endif // SPOTKERNEL_H

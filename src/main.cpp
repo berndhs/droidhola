@@ -11,24 +11,19 @@ int main(int argc, char *argv[])
   QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
   QGuiApplication app(argc, argv);
 
-  CryptoFront cfront;
+  CryptoFront cfront("chatchat");
 
   CustomEngine engine;
-  engine.rootContext()->setContextProperty("goldeneye",&cfront);
+  qDebug() << "cfront is called " << cfront.name();
+  engine.rootContext()->setContextProperty(cfront.name(),&cfront);
   engine.load(QUrl(QLatin1String("qrc:/main.qml")));
 
-  ThreadBody left("left", &engine);
-  QThread leftExec;
-  left.goToThread(&leftExec);
-  left.doReport();
-  cfront.setThread(left);
+//  ThreadBody left("left", &engine);
+//  QThread leftExec;
+//  left.goToThread(&leftExec);
+//  left.doReport();
+//  cfront.setThread(left);
 
-  for (int i=0; i<10; ++i) {
-    ThreadBody *tb = new ThreadBody;
-    cfront.addPoolThread (tb);
-    tb->goToThread(new QThread);
-    tb->doReport();
-  }
 
   SpotKernel kernel (&cfront);
 
