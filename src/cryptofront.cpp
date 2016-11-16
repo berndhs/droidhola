@@ -8,11 +8,9 @@
 
 CryptoFront::CryptoFront(QObject *parent) : QObject(parent)
 {
+  setObjectName("GoldenEye");
   qsrand(QDateTime::currentDateTime().toTime_t());
   connecTimer = new QTimer(this);
-  connect (connecTimer,SIGNAL(timeout()),this,SLOT(pokeThread()));
-  connecTimer->setInterval(5);
-  connecTimer->start();
 }
 
 void
@@ -42,6 +40,11 @@ void CryptoFront::backsetInput(QString &input)
   emit inputChanged(input);
 }
 
+void CryptoFront::addKernel(SpotKernel &kern)
+{
+  m_kernel = &kern;
+}
+
 void CryptoFront::pokeThread()
 {
   int threadNum = qrand() % threadPool.size();
@@ -54,7 +57,10 @@ CryptoFront::setInput(QString &input)
 {
   m_input = input;
   qDebug() << Q_FUNC_INFO << "input is " << m_input;
+  m_kernel->sendMsg (m_input.toUtf8());
 }
+
+
 QString
 CryptoFront::getInput()
 {

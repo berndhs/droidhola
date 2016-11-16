@@ -14,6 +14,7 @@ Item {
 
         TextField {
             id: textField1
+            color: "#aaff7f"
             placeholderText: qsTr("Text Field")
         }
 
@@ -27,9 +28,14 @@ Item {
         id: button2
         x: 270
         y: 132
-        text: qsTr("Exit")
-        onClicked: {
-            Qt.quit();
-        }
+        text: "Exit"
+    }
+
+    TextField {
+        id: textField2
+        x: 170
+        y: 66
+        color: "#aaff7f"
+        placeholderText: qsTr("Text Field")
     }
 }

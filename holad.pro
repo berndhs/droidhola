@@ -1,12 +1,13 @@
 QT += qml quick
-TARGET = holadex
+TARGET = bin/holad
 
 CONFIG += c++11
 
 SOURCES += src/main.cpp \
     src/threadbody.cpp \
     src/customengine.cpp \
-    src/cryptofront.cpp
+    src/cryptofront.cpp \
+    src/spotkernel.cpp
 
 RESOURCES += qml.qrc
 
@@ -24,7 +25,8 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 HEADERS += \
     src/threadbody.h \
     src/customengine.h \
-    src/cryptofront.h
+    src/cryptofront.h \
+    src/spotkernel.h
 
 DISTFILES += \
     android/AndroidManifest.xml \

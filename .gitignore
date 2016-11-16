@@ -1,0 +1,5 @@
+bin/holad
+shadows/*
+obj/*.o
+moc/*.cpp
+Makefile

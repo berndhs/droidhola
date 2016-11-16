@@ -4,6 +4,7 @@
 #include "customengine.h"
 #include "threadbody.h"
 #include "cryptofront.h"
+#include "spotkernel.h"
 
 int main(int argc, char *argv[])
 {
@@ -13,7 +14,7 @@ int main(int argc, char *argv[])
   CryptoFront cfront;
 
   CustomEngine engine;
-  engine.rootContext()->setContextProperty("crypto",&cfront);
+  engine.rootContext()->setContextProperty("goldeneye",&cfront);
   engine.load(QUrl(QLatin1String("qrc:/main.qml")));
 
   ThreadBody left("left", &engine);
@@ -28,6 +29,8 @@ int main(int argc, char *argv[])
     tb->goToThread(new QThread);
     tb->doReport();
   }
+
+  SpotKernel kernel (&cfront);
 
 
   engine.reportState();

@@ -5,6 +5,7 @@
 #include <QMap>
 
 #include "threadbody.h"
+#include "spotkernel.h"
 
 #include <QObject>
 #include <QTimer>
@@ -15,6 +16,7 @@ class CryptoFront : public QObject
 
   Q_PROPERTY(QString input READ getInput WRITE setInput NOTIFY inputChanged)
   Q_PROPERTY(QString output READ getOutput NOTIFY outputChanged)
+  Q_PROPERTY(QString name READ name)
 
 
 public:
@@ -25,6 +27,13 @@ public:
   void xferData (QByteArray dataIn);
   void backsetInput(QString & input);
 
+  void addKernel (SpotKernel & kern);
+
+
+  QString name() const
+  {
+    return objectName();
+  }
 
 signals:
 
@@ -51,6 +60,8 @@ private:
   QTimer *connecTimer;
 
   ThreadBody *m_thread;
+
+  SpotKernel *m_kernel;
 
   QMap <int,ThreadBody*> threadPool;
 
