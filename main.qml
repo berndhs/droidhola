@@ -32,15 +32,27 @@ ApplicationWindow {
                 anchors {
                     left: textfield1.left;
                     top: textfield1.bottom;
-                    topMargin: 20;
+                    topMargin: textfield1.height;
                 }
                 Connections {
                     target: chatchat;
                     onOutputChanged: {
-                        console.log("receiving "+chatchat.output)
-                        textfield2.text = chatchat.output;
+                        console.log("receiving "+chatchat.crypto)
+                        textfield3.text = chatchat.crypto;
                     }
                 }
+            }
+            TextField {
+                id: textfield3;
+                anchors {
+                    left: textfield1.left;
+                    top: textfield1.bottom;
+                    topMargin: 5;
+                }
+                width: textfield1.width;
+                height: textfield1.height/2;
+                color: "darkblue";
+                text: "dunno";
             }
 
             Button {

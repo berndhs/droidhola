@@ -1,3 +1,5 @@
+#ifndef COPYRIGHT_H
+#define COPYRIGHT_H
 
 
 /****************************************************************/
@@ -32,3 +34,22 @@
 
  /****************************************************************/
 
+
+
+#include <QString>
+#include <QDebug>
+
+
+class Copyright
+{
+public:
+  Copyright();
+  QString print();
+  void printRight();
+
+private:
+
+  QString m_text;
+};
+
+#endif // COPYRIGHT_H

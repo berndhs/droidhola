@@ -1,5 +1,5 @@
 QT += qml quick
-TARGET = bin/holad
+TARGET = holadexe
 
 CONFIG += c++11
 
@@ -8,7 +8,8 @@ SOURCES += \
 #    src/threadbody.cpp \
     src/customengine.cpp \
     src/cryptofront.cpp \
-    src/spotkernel.cpp
+    src/spotkernel.cpp \
+    src/copyright.cpp
 
 RESOURCES += qml.qrc
 

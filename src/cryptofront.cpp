@@ -53,13 +53,14 @@ CryptoFront::CryptoFront(QString daName, QObject *parent)
   qDebug() << "\ton thread" << thread();
   setObjectName(daName);
   QThread * newTh = new QThread(this);
-  m_kernel = new SpotKernel(this);
+  m_kernel = new SpotKernel(nullptr);
   m_kernel->moveToThread(newTh);
   m_kernel->setCrypto(this);
   qsrand(QDateTime::currentDateTime().toTime_t());
   connecTimer = nullptr;
   connect(m_kernel,SIGNAL(reportCrypt(QString)),this,SLOT(reportEncrypted(QString)),Qt::QueuedConnection);
-  dumpInfo();
+  connect(this,SIGNAL(haveInput(QByteArray)),m_kernel,SLOT(sendMsg(QByteArray)),Qt::QueuedConnection);
+//  dumpInfo();
   //  connecTimer = new QTimer(this);
 }
 
@@ -72,25 +73,9 @@ void CryptoFront::sendMessage(QString msg)
   sleep(1);
   qDebug() << "\tkernel is at " << m_kernel;
   sleep(1);
-  m_kernel->sendMsg (m_input.toUtf8());
+  emit haveInput(m_input.toUtf8());
+//  m_kernel->sendMsg (m_input.toUtf8());
 }
-
-//void
-//CryptoFront::setThread(ThreadBody &thread)
-//{
-//  qDebug() << Q_FUNC_INFO;
-//  m_thread = &thread;
-//  (&thread)->setFront(this);
-//}
-
-//void
-//CryptoFront::addPoolThread(ThreadBody *tb)
-//{
-//  qDebug() << Q_FUNC_INFO;
-////  tb->setFront(this);
-////  int tpNext = threadPool.size();
-////  threadPool[tpNext] = tb;
-//}
 
 void
 CryptoFront::backsetInput(QString &input)
@@ -111,8 +96,8 @@ void CryptoFront::reportEncrypted(QString crypto)
 {
   qDebug() << Q_FUNC_INFO << "tread" << thread();
   qDebug() << Q_FUNC_INFO << "going to emit for " << crypto;
-  m_output = crypto;
-  emit outputChanged(crypto);
+  m_crypto = crypto;
+  emit cryptoChanged(crypto);
 }
 
 void
@@ -165,5 +150,5 @@ CryptoFront::dumpInfo()
   qDebug() << "m_input" << m_input;
   qDebug() << "m_output" << m_output;
   qDebug() << "connectTimer ptr " << connecTimer;
-  qDebug() << "m_kernel" << m_kernel;
+  qDebug() << "m_kernel" << m_kernel << "on" << m_kernel->thread();
 }

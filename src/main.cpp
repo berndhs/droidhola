@@ -1,10 +1,15 @@
 #include <QGuiApplication>
 #include <QThread>
 #include <QQmlContext>
+#include <QStringList>
+
 #include "customengine.h"
 #include "threadbody.h"
 #include "cryptofront.h"
 #include "spotkernel.h"
+#include "copyright.h"
+
+#include <iostream>
 
 
 /****************************************************************/
@@ -39,8 +44,27 @@
 
  /****************************************************************/
 
+QStringList args;
+
+void
+getArgs (int argc, char *argv[])
+{
+  args.clear();
+  for (int i=0; i<argc; i++) {
+    args << argv[i];
+  }
+}
+
 int main(int argc, char *argv[])
 {
+
+  getArgs(argc,argv);
+  if (args.contains("--help") || args.contains("--copyright")) {
+    Copyright cpr;
+    std::cout << cpr.print().toStdString() << std::endl;
+    exit(0);
+  }
+
   QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
   QGuiApplication app(argc, argv);
 
