@@ -58,7 +58,7 @@ CryptoFront::CryptoFront(QString daName, QObject *parent)
   m_kernel->setCrypto(this);
   qsrand(QDateTime::currentDateTime().toTime_t());
   connecTimer = nullptr;
-  connect(m_kernel,SIGNAL(reportCrypt(QString)),this,SLOT(reportEncrypted(QString)));
+  connect(m_kernel,SIGNAL(reportCrypt(QString)),this,SLOT(reportEncrypted(QString)),Qt::QueuedConnection);
   dumpInfo();
   //  connecTimer = new QTimer(this);
 }
