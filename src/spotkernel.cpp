@@ -38,7 +38,7 @@
 
 
 SpotKernel::SpotKernel(QObject *parent)
-  :QObject (parent),
+  :QObject (0),
     m_front(nullptr)
 {
   qDebug() << Q_FUNC_INFO << "front at " << m_front;
@@ -48,6 +48,7 @@ SpotKernel::SpotKernel(QObject *parent)
 
   qDebug() << Q_FUNC_INFO << "m_Msg at " << &(m_Msg);
   qDebug() << Q_FUNC_INFO << "front" << m_front;
+
 }
 
 QByteArray
@@ -85,4 +86,21 @@ SpotKernel::sendMsg(QByteArray msg)
 
   emit reportCrypt (QString(m_Msg));
 
+}
+
+void SpotKernel::clearText(QByteArray Msg)
+{
+  qDebug() << Q_FUNC_INFO << thread() << Msg;
+  QByteArray shortBytes = QByteArray::fromHex(Msg);
+  QByteArray data;
+  data.reserve(shortBytes.length()+1);
+
+  for (int i=0;i<shortBytes.length();++i) {
+    unsigned char c = shortBytes.at(i);
+    c = ((c & 0x0F) << 4) | ((c & 0xF0) >> 4);
+    qDebug() << "\t\t" << c;
+    data.append( c);
+  }
+  qDebug() << Q_FUNC_INFO << "clear length " << data.length() << data;
+  emit reportClear(QString(data));
 }

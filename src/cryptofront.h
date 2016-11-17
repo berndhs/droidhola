@@ -46,6 +46,7 @@ class CryptoFront : public QObject
   Q_PROPERTY(QString input READ getInput WRITE setInput NOTIFY inputChanged)
   Q_PROPERTY(QString output READ getOutput NOTIFY outputChanged)
   Q_PROPERTY(QString crypto READ getCrypto NOTIFY cryptoChanged)
+  Q_PROPERTY(QString clear READ getClear NOTIFY clearChanged)
   Q_PROPERTY(QString name READ name)
 
 
@@ -53,6 +54,7 @@ public:
   explicit CryptoFront(QString daName, QObject *parent = 0);
 
   Q_INVOKABLE void sendMessage (QString msg);
+  Q_INVOKABLE void symmetric (QString msg);
   void backsetInput(QString & input);
 
   void addKernel (SpotKernel & kern);
@@ -70,11 +72,18 @@ public:
     return m_crypto;
   }
 
+  QString getClear() const
+  {
+    return m_clear;
+  }
+
 signals:
 
   void inputChanged(QString & input);
   void outputChanged(QString & output);
   void haveInput(QByteArray input);
+  void haveCrypto(QByteArray bytes);
+  void clearChanged(QString clear);
 
   void sentData();
 
@@ -82,6 +91,8 @@ signals:
 
 public slots:
   void reportEncrypted (QString crypto);
+  void reportClear (QString clear);
+  void gotSignal(QByteArray arg0);
 
   void pokeThread();
 
@@ -105,6 +116,7 @@ private:
 //  QMap <int,ThreadBody*> threadPool;
 
   QString m_crypto;
+  QString m_clear;
 };
 
 #endif // CRYPTOFRONT_H

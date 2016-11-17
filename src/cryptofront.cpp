@@ -56,12 +56,14 @@ CryptoFront::CryptoFront(QString daName, QObject *parent)
   m_kernel = new SpotKernel(nullptr);
   m_kernel->moveToThread(newTh);
   m_kernel->setCrypto(this);
+  newTh->start();
   qsrand(QDateTime::currentDateTime().toTime_t());
   connecTimer = nullptr;
   connect(m_kernel,SIGNAL(reportCrypt(QString)),this,SLOT(reportEncrypted(QString)),Qt::QueuedConnection);
+  connect(m_kernel,SIGNAL(reportClear(QString)),this,SLOT(reportClear(QString)),Qt::QueuedConnection);
   connect(this,SIGNAL(haveInput(QByteArray)),m_kernel,SLOT(sendMsg(QByteArray)),Qt::QueuedConnection);
-//  dumpInfo();
-  //  connecTimer = new QTimer(this);
+  connect(this,SIGNAL(haveCrypto(QByteArray)),m_kernel,SLOT(clearText(QByteArray)),Qt::QueuedConnection);
+
 }
 
 void CryptoFront::sendMessage(QString msg)
@@ -70,11 +72,17 @@ void CryptoFront::sendMessage(QString msg)
   qDebug() << Q_FUNC_INFO << msg;
   m_input = msg;
   qDebug() << Q_FUNC_INFO << "input is " << m_input;
-  sleep(1);
+//  sleep(1);
   qDebug() << "\tkernel is at " << m_kernel;
-  sleep(1);
+  sleep(0);
   emit haveInput(m_input.toUtf8());
-//  m_kernel->sendMsg (m_input.toUtf8());
+  sleep(1);
+  //  m_kernel->sendMsg (m_input.toUtf8());
+}
+
+void CryptoFront::symmetric(QString msg)
+{
+  emit haveCrypto(msg.toUtf8());
 }
 
 void
@@ -98,6 +106,18 @@ void CryptoFront::reportEncrypted(QString crypto)
   qDebug() << Q_FUNC_INFO << "going to emit for " << crypto;
   m_crypto = crypto;
   emit cryptoChanged(crypto);
+}
+
+void CryptoFront::reportClear(QString clear)
+{
+  qDebug() << Q_FUNC_INFO << "tread" << thread();
+  qDebug() << Q_FUNC_INFO << "going to emit for " << clear << "bytes:" <<clear.length();
+  m_clear = clear;
+  emit clearChanged(clear);
+}
+void CryptoFront::gotSignal(QByteArray arg0)
+{
+  qDebug() << Q_FUNC_INFO << arg0;
 }
 
 void

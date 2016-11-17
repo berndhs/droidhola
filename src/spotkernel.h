@@ -36,6 +36,7 @@
 
 
 #include <QObject>
+#include <QThread>
 
 class CryptoFront;
 
@@ -57,11 +58,13 @@ public:
 public slots:
 
   void sendMsg(QByteArray Msg);
+  void clearText(QByteArray Msg);
 
 signals:
 
   void MsgChanged(QByteArray Msg);
   void reportCrypt (QString crypt);
+  void reportClear (QString clear);
 
 private:
 

@@ -36,9 +36,13 @@ ApplicationWindow {
                 }
                 Connections {
                     target: chatchat;
-                    onOutputChanged: {
+                    onCryptoChanged: {
                         console.log("receiving "+chatchat.crypto)
                         textfield3.text = chatchat.crypto;
+                    }
+                    onClearChanged: {
+                        console.log("receiving clear "+chatchat.clear)
+                        textfield2.text = chatchat.clear;
                     }
                 }
             }
@@ -53,6 +57,20 @@ ApplicationWindow {
                 height: textfield1.height/2;
                 color: "darkblue";
                 text: "dunno";
+            }
+
+
+            Button {
+                height: textfield2.height;
+                width: 2*height;
+                anchors.left: textfield2.right;
+                anchors.verticalCenter: textfield2.verticalCenter;
+                anchors.leftMargin: 10;
+                text: "ClearText";
+                onClicked: {
+                    chatchat.dumpInfo();
+                    chatchat.symmetric(textfield3.text);
+                }
             }
 
             Button {
