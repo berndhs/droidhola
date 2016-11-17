@@ -55,11 +55,17 @@ getArgs (int argc, char *argv[])
   }
 }
 
+bool
+wantcopyright()
+{
+  return args.contains("--help") || args.contains("--copyright");
+}
+
 int main(int argc, char *argv[])
 {
 
   getArgs(argc,argv);
-  if (args.contains("--help") || args.contains("--copyright")) {
+  if (wantcopyright()) {
     Copyright cpr;
     std::cout << cpr.print().toStdString() << std::endl;
     exit(0);
