@@ -9,7 +9,9 @@ SOURCES += \
     src/customengine.cpp \
     src/cryptofront.cpp \
     src/spotkernel.cpp \
-    src/copyright.cpp
+    src/copyright.cpp \
+    src/chatapplication.cpp \
+    src/cryptobad.cpp
 
 RESOURCES += qml.qrc
 
@@ -29,7 +31,9 @@ HEADERS += \
     src/customengine.h \
     src/cryptofront.h \
     src/copyright.h \
-    src/spotkernel.h
+    src/spotkernel.h \
+    src/chatapplication.h \
+    src/cryptobad.h
 
 DISTFILES += \
     android/AndroidManifest.xml \

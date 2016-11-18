@@ -7,7 +7,9 @@
 #include <QtGlobal>
 #include <unistd.h>
 #include "spotkernel.h"
+#include "cryptobad.h"
 
+using namespace std;
 
 /****************************************************************/
 
@@ -63,6 +65,9 @@ CryptoFront::CryptoFront(QString daName, QObject *parent)
   connect(m_kernel,SIGNAL(reportClear(QString)),this,SLOT(reportClear(QString)),Qt::QueuedConnection);
   connect(this,SIGNAL(haveInput(QByteArray)),m_kernel,SLOT(sendMsg(QByteArray)),Qt::QueuedConnection);
   connect(this,SIGNAL(haveCrypto(QByteArray)),m_kernel,SLOT(clearText(QByteArray)),Qt::QueuedConnection);
+  connecTimer = new QTimer();
+  connect(connecTimer,SIGNAL(timeout()),this,SLOT(pokeThread()));
+  connecTimer->start(10000);
 
 }
 
@@ -72,11 +77,9 @@ void CryptoFront::sendMessage(QString msg)
   qDebug() << Q_FUNC_INFO << msg;
   m_input = msg;
   qDebug() << Q_FUNC_INFO << "input is " << m_input;
-//  sleep(1);
   qDebug() << "\tkernel is at " << m_kernel;
   sleep(0);
   emit haveInput(m_input.toUtf8());
-  sleep(1);
   //  m_kernel->sendMsg (m_input.toUtf8());
 }
 
@@ -131,6 +134,7 @@ void
 CryptoFront::pokeThread()
 {
   qDebug() << Q_FUNC_INFO;
+  throw CryptoBad();
 //  int threadNum = qrand() % threadPool.size();
 //  qDebug() << "calling thread " << threadNum;
 //  threadPool[threadNum]->makeData();

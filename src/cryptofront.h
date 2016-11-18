@@ -32,12 +32,15 @@
 
 #include <QTimer>
 #include <QMap>
+#include <exception>
 
 #include "threadbody.h"
 #include "spotkernel.h"
 
 #include <QObject>
 #include <QTimer>
+
+using namespace std;
 
 class CryptoFront : public QObject
 {
