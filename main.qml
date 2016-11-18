@@ -8,12 +8,24 @@ ApplicationWindow {
     height: 480
     title: chatchat.name
 
+
     SwipeView {
         id: swipeView
         anchors.fill: parent
         currentIndex: tabBar.currentIndex
 
+
         Page {
+            Button {
+                id: versionButton;
+                x: 0; y: 0;
+                width: 50;
+                height: 50;
+                text: "Version";
+                onPressed: {
+                    chatchat.showVersion();
+                }
+            }
             TextField {
                 id: textfield1;
                 text: "?";

@@ -1,17 +1,17 @@
-QT += qml quick
+QT += qml quick widgets
 TARGET = holadexe
 
 CONFIG += c++11
 
 SOURCES += \
   src/main.cpp \
-#    src/threadbody.cpp \
     src/customengine.cpp \
     src/cryptofront.cpp \
     src/spotkernel.cpp \
     src/copyright.cpp \
     src/chatapplication.cpp \
-    src/cryptobad.cpp
+    src/cryptobad.cpp \
+    src/programversion.cpp
 
 RESOURCES += qml.qrc
 
@@ -33,7 +33,8 @@ HEADERS += \
     src/copyright.h \
     src/spotkernel.h \
     src/chatapplication.h \
-    src/cryptobad.h
+    src/cryptobad.h \
+    src/programversion.h
 
 DISTFILES += \
     android/AndroidManifest.xml \

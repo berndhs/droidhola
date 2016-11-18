@@ -37,11 +37,13 @@
 
 #include "threadbody.h"
 #include "spotkernel.h"
+#include "programversion.h"
 
 #include <QObject>
 #include <QThread>
 
 using namespace std;
+using namespace deliberate;
 
 class CryptoFront : public QObject
 {
@@ -55,11 +57,13 @@ class CryptoFront : public QObject
 
 
 public:
-  explicit CryptoFront(ChatApplication & app, QString daName, QObject *parent = 0);
+  explicit CryptoFront(ChatApplication & app, ProgramVersion &vers, QString daName, QObject *parent = 0);
 
   Q_INVOKABLE void sendMessage (QString msg);
   Q_INVOKABLE void symmetric (QString msg);
   Q_INVOKABLE void done();
+  Q_INVOKABLE void showVersion();
+
   void backsetInput(QString & input);
 
   void addKernel (SpotKernel & kern);
@@ -125,6 +129,7 @@ private:
   QString m_clear;
 
   ChatApplication *chatApp;
+  ProgramVersion *version;
 };
 
 #endif // CRYPTOFRONT_H

@@ -9,6 +9,7 @@
 #include "cryptofront.h"
 #include "spotkernel.h"
 #include "copyright.h"
+#include "programversion.h"
 
 #include <iostream>
 #include <exception>
@@ -58,25 +59,34 @@ getArgs (int argc, char *argv[])
 }
 
 bool
-wantcopyright()
+wantcopyright(QStringList &args)
 {
-  return args.contains("--help") || args.contains("--copyright");
+  return args.contains("--help") || args.contains ("-H") || args.contains("--copyright");
+}
+
+bool
+wantversion (QStringList &args)
+{
+  return (args.contains("--version") || args.contains("-V"));
 }
 
 int main(int argc, char *argv[])
 {
 
+  deliberate::ProgramVersion version("chatchat");
   getArgs(argc,argv);
-  if (wantcopyright()) {
+  if (wantcopyright(args)) {
     Copyright cpr;
     std::cout << cpr.print().toStdString() << std::endl;
     exit(0);
-  }
+  } else if (wantversion(args)) {
+      std::cout << version.Version(). toStdString() << std::endl;
+    }
 
   QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
   ChatApplication app(argc, argv);
 
-  CryptoFront cfront(app,"chatchat");
+  CryptoFront cfront(app,version, "chatchat");
   CustomEngine engine;
   qDebug() << "cfront is called " << cfront.name();
   cfront.dumpInfo();

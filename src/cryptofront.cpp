@@ -43,8 +43,9 @@ using namespace std;
 
  /****************************************************************/
 
+using namespace deliberate;
 
-CryptoFront::CryptoFront(ChatApplication & app, QString daName, QObject *parent)
+CryptoFront::CryptoFront(ChatApplication & app, ProgramVersion &vers, QString daName, QObject *parent)
   : QObject(parent),
     m_input("?"),
     m_output("!"),
@@ -52,6 +53,7 @@ CryptoFront::CryptoFront(ChatApplication & app, QString daName, QObject *parent)
     m_kernel(nullptr)
 {
   chatApp = &app;
+  version = &vers;
   qDebug() << Q_FUNC_INFO;
   qDebug() << "\ton thread" << thread();
   setObjectName(daName);
@@ -101,6 +103,11 @@ void CryptoFront::done()
   disconnect(this,0,0,0);
 
   chatApp->quit();
+}
+
+void CryptoFront::showVersion()
+{
+  version->ShowVersionWindow();
 }
 
 void
