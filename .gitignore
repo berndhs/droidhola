@@ -1,3 +1,5 @@
+qrc_qml.cpp
+holad.pro.user
 bin/holad
 shadows/*
 obj/*.o
