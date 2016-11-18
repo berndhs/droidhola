@@ -33,12 +33,13 @@
 #include <QTimer>
 #include <QMap>
 #include <exception>
+#include "chatapplication.h"
 
 #include "threadbody.h"
 #include "spotkernel.h"
 
 #include <QObject>
-#include <QTimer>
+#include <QThread>
 
 using namespace std;
 
@@ -54,10 +55,11 @@ class CryptoFront : public QObject
 
 
 public:
-  explicit CryptoFront(QString daName, QObject *parent = 0);
+  explicit CryptoFront(ChatApplication & app, QString daName, QObject *parent = 0);
 
   Q_INVOKABLE void sendMessage (QString msg);
   Q_INVOKABLE void symmetric (QString msg);
+  Q_INVOKABLE void done();
   void backsetInput(QString & input);
 
   void addKernel (SpotKernel & kern);
@@ -115,11 +117,14 @@ private:
 //  ThreadBody *m_thread;
 
   SpotKernel *m_kernel;
+  QThread    *m_kernelThread;
 
 //  QMap <int,ThreadBody*> threadPool;
 
   QString m_crypto;
   QString m_clear;
+
+  ChatApplication *chatApp;
 };
 
 #endif // CRYPTOFRONT_H

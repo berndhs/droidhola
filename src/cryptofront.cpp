@@ -44,21 +44,22 @@ using namespace std;
  /****************************************************************/
 
 
-CryptoFront::CryptoFront(QString daName, QObject *parent)
+CryptoFront::CryptoFront(ChatApplication & app, QString daName, QObject *parent)
   : QObject(parent),
     m_input("?"),
     m_output("!"),
     connecTimer(nullptr),
     m_kernel(nullptr)
 {
+  chatApp = &app;
   qDebug() << Q_FUNC_INFO;
   qDebug() << "\ton thread" << thread();
   setObjectName(daName);
-  QThread * newTh = new QThread(this);
+  m_kernelThread = new QThread(this);
   m_kernel = new SpotKernel(nullptr);
-  m_kernel->moveToThread(newTh);
+  m_kernel->moveToThread(m_kernelThread);
   m_kernel->setCrypto(this);
-  newTh->start();
+  m_kernelThread->start();
   qsrand(QDateTime::currentDateTime().toTime_t());
   connecTimer = nullptr;
   connect(m_kernel,SIGNAL(reportCrypt(QString)),this,SLOT(reportEncrypted(QString)),Qt::QueuedConnection);
@@ -86,6 +87,20 @@ void CryptoFront::sendMessage(QString msg)
 void CryptoFront::symmetric(QString msg)
 {
   emit haveCrypto(msg.toUtf8());
+}
+
+void CryptoFront::done()
+{
+  qDebug() << Q_FUNC_INFO;
+  connecTimer->stop();
+  connecTimer->deleteLater();
+  m_kernelThread->terminate();
+  m_kernelThread->deleteLater();
+  m_kernel->deleteLater();
+  disconnect(m_kernel,0,0,0);
+  disconnect(this,0,0,0);
+
+  chatApp->quit();
 }
 
 void
@@ -134,7 +149,6 @@ void
 CryptoFront::pokeThread()
 {
   qDebug() << Q_FUNC_INFO;
-  throw CryptoBad();
 //  int threadNum = qrand() % threadPool.size();
 //  qDebug() << "calling thread " << threadNum;
 //  threadPool[threadNum]->makeData();

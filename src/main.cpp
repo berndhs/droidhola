@@ -3,6 +3,7 @@
 #include <QQmlContext>
 #include <QStringList>
 
+#include "chatapplication.h"
 #include "customengine.h"
 #include "threadbody.h"
 #include "cryptofront.h"
@@ -73,25 +74,19 @@ int main(int argc, char *argv[])
   }
 
   QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
-  QGuiApplication app(argc, argv);
+  ChatApplication app(argc, argv);
 
-  CryptoFront cfront("chatchat");
+  CryptoFront cfront(app,"chatchat");
   CustomEngine engine;
   qDebug() << "cfront is called " << cfront.name();
   cfront.dumpInfo();
-  try {
-    engine.rootContext()->setContextProperty(cfront.name(),&cfront);
-    engine.load(QUrl(QLatin1String("qrc:/main.qml")));
+  engine.rootContext()->setContextProperty(cfront.name(),&cfront);
+  engine.load(QUrl(QLatin1String("qrc:/main.qml")));
 
 
 
-    engine.reportState();
-    return app.exec();
-  } catch (exception e)
-  {
-    std::cout << "what went wrong? " << e.what();
-    return 1;
-  }
+  engine.reportState();
+  return app.exec();
 
   qDebug() << "done with " << Q_FUNC_INFO;
 }

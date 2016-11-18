@@ -1,11 +1,11 @@
 #ifndef CHATAPPLICATION_H
 #define CHATAPPLICATION_H
 
-#include <QCoreApplication>
+#include <QGuiApplication>
 #include "cryptobad.h"
 
 
-class ChatApplication : public QCoreApplication
+class ChatApplication : public QGuiApplication
 {
 public:
   ChatApplication(int &argc, char **argv);

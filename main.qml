@@ -93,7 +93,7 @@ ApplicationWindow {
                 anchors.topMargin: 10;
                 text: "Exit"
                 onReleased: {
-                    Qt.quit();
+                    chatchat.done();
                 }
             }
         }
