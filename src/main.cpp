@@ -10,6 +10,7 @@
 #include "copyright.h"
 
 #include <iostream>
+#include <exception>
 
 
 /****************************************************************/
@@ -78,12 +79,19 @@ int main(int argc, char *argv[])
   CustomEngine engine;
   qDebug() << "cfront is called " << cfront.name();
   cfront.dumpInfo();
-  engine.rootContext()->setContextProperty(cfront.name(),&cfront);
-  engine.load(QUrl(QLatin1String("qrc:/main.qml")));
+  try {
+    engine.rootContext()->setContextProperty(cfront.name(),&cfront);
+    engine.load(QUrl(QLatin1String("qrc:/main.qml")));
 
 
 
-  engine.reportState();
-  return app.exec();
+    engine.reportState();
+    return app.exec();
+  } catch (exception e)
+  {
+    std::cout << "what went wrong? " << e.what();
+    return 1;
+  }
+
   qDebug() << "done with " << Q_FUNC_INFO;
 }
