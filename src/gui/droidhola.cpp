@@ -14,6 +14,8 @@
 #include <iostream>
 #include <exception>
 
+#include "droidhola.h"
+
 
 /****************************************************************/
 
@@ -92,7 +94,7 @@ int main(int argc, char *argv[])
   qDebug() << "cfront is called " << cfront.name();
   cfront.dumpInfo();
   engine.rootContext()->setContextProperty(cfront.name(),&cfront);
-  engine.load(QUrl(QLatin1String("qrc:/main.qml")));
+  engine.load(QUrl(QLatin1String("qrc:/qml/main.qml")));
 
 
 
