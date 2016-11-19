@@ -19,7 +19,7 @@ ApplicationWindow {
             Button {
                 id: versionButton;
                 x: 0; y: 0;
-                width: 50;
+                width: 100;
                 height: 50;
                 text: "Version";
                 onPressed: {
@@ -31,6 +31,7 @@ ApplicationWindow {
                 text: "?";
                 x: 100;
                 y: 100;
+
                 height: 50;
                 width: 300;
                 color: "green";

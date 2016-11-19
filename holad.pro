@@ -1,40 +1,40 @@
 QT += qml quick widgets
+QT += sql
+QT += concurrent
+
 TARGET = holadexe
 
 CONFIG += c++11
+QMAKE_CC = clang
+QMAKE_CXX = clang++
 
-SOURCES += \
-  src/main.cpp \
-    src/customengine.cpp \
-    src/cryptofront.cpp \
-    src/spotkernel.cpp \
-    src/copyright.cpp \
-    src/chatapplication.cpp \
-    src/cryptobad.cpp \
-    src/programversion.cpp
+TEMPLATE = subdirs
+
+SUBDIRS = \
+  src/gui/droidholagui.pro \
+  src/Kernel/spot-on-kernel.qt5.pro \
+
 
 RESOURCES += qml.qrc
 
-OBJECTS_DIR = obj/
-MOC_DIR = moc/
+INCLUDEPATH += src
+INCLUDEPATH += src/Common
+INCLUDEPATH += src/Kernel
+INCLUDEPATH += src/libSpotOn
 
 # Additional import path used to resolve QML modules in Qt Creator's code model
 QML_IMPORT_PATH =
+
+LIBS += \
+      -lGeoIP -lntru \
+       -lcrypto -lcurl -lgcrypt -lgpg-error -lntl \
+       -lpq -lspoton -lssl \
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
-HEADERS += \
-#    src/threadbody.h \
-    src/customengine.h \
-    src/cryptofront.h \
-    src/copyright.h \
-    src/spotkernel.h \
-    src/chatapplication.h \
-    src/cryptobad.h \
-    src/programversion.h
 
 DISTFILES += \
     android/AndroidManifest.xml \
