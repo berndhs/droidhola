@@ -14,6 +14,9 @@ RESOURCES = \
 OBJECTS_DIR = obj/
 MOC_DIR = moc/
 
+INCLUDEPATH += ../Kernel/
+LIBS += -L$$(HOME)/lib/ -lspot
+
 HEADERS = \
     customengine.h \
     cryptofront.h \

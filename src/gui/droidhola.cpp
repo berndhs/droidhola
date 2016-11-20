@@ -15,6 +15,7 @@
 #include <exception>
 
 #include "droidhola.h"
+#include "spotonlib.h"
 
 
 /****************************************************************/
@@ -96,7 +97,8 @@ int main(int argc, char *argv[])
   engine.rootContext()->setContextProperty(cfront.name(),&cfront);
   engine.load(QUrl(QLatin1String("qrc:/qml/main.qml")));
 
-
+  SpotOnLib sl;
+  qDebug() << "lib says" << sl.do_it();
 
   engine.reportState();
 
