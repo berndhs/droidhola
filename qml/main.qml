@@ -28,7 +28,7 @@ ApplicationWindow {
             }
             TextField {
                 id: textfield1;
-                text: "?";
+                text: "¿ ";
                 x: 100;
                 y: 100;
 

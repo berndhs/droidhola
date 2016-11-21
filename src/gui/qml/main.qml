@@ -76,7 +76,7 @@ ApplicationWindow {
             Button {
                 height: textfield2.height;
                 width: 2*height;
-                anchors.left: textfield2.right;
+                anchors.right: textfield2.left;
                 anchors.verticalCenter: textfield2.verticalCenter;
                 anchors.leftMargin: 10;
                 text: "ClearText";
@@ -89,7 +89,7 @@ ApplicationWindow {
             Button {
                 height: textfield1.height;
                 width: 2*height;
-                anchors.left: textfield1.right;
+                anchors.right: textfield1.left;
                 anchors.verticalCenter: textfield1.verticalCenter;
                 anchors.leftMargin: 10;
                 text: "Submit";

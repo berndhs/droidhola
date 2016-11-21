@@ -16,25 +16,3 @@ MOC_DIR = moc/
 
 INCLUDEPATH += ../Kernel/
 LIBS += -L$$(HOME)/lib/ -lspot
-
-HEADERS = \
-    customengine.h \
-    cryptofront.h \
-    spotkernel.h \
-    copyright.h \
-    chatapplication.h \
-    programversion.h \
-    droidhola.h \
-    droidhola.h
-
-
-
-SOURCES += \
-    customengine.cpp \
-    cryptofront.cpp \
-    spotkernel.cpp \
-    copyright.cpp \
-    chatapplication.cpp \
-    programversion.cpp \
-    droidhola.cpp
-

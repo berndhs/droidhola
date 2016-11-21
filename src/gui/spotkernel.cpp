@@ -1,6 +1,7 @@
 #include <QDebug>
 #include "spotkernel.h"
 #include "cryptofront.h"
+#include "spotonlib.h"
 #include <QChar>
 
 
@@ -83,6 +84,9 @@ SpotKernel::sendMsg(QByteArray msg)
   m_Msg = data.toHex();
   qDebug() << "\t " << m_Msg;
   qDebug() << "\t" << __LINE__;
+
+  SpotOnLib sl(this);
+  qDebug() << "lib says" << sl.do_it();
 
   emit reportCrypt (QString(m_Msg));
 
