@@ -1,3 +1,17 @@
+QT += widgets
+QT += sql
+QT += network
+QT += concurrent
+QT += core
+
+
+CONFIG += c++11
+QMAKE_CC = clang
+QMAKE_CXX = clang++
+
+
+
+
 HEADERS		+= \
   spotonlib.h \
     ../Common/spot-on-crypt.cc \

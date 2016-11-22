@@ -8,6 +8,7 @@
 #include <unistd.h>
 #include "spotkernel.h"
 #include "cryptobad.h"
+#include "textbox.h"
 
 using namespace std;
 
@@ -71,6 +72,12 @@ CryptoFront::CryptoFront(ChatApplication & app, ProgramVersion &vers, QString da
 //  connecTimer = new QTimer();
 //  connect(connecTimer,SIGNAL(timeout()),this,SLOT(pokeThread()));
 //  connecTimer->start(10000);
+
+  m_passphrase = new TextBox(nullptr);
+  qDebug() << Q_FUNC_INFO << "PASSPHRASE FONT " << m_passphrase->font();
+  m_passphrase->SetLabel("Passphrase to Log In");
+  m_passphrase->exec();
+  qDebug() <<Q_FUNC_INFO <<  "FONT FONT FONT " << chatApp->font();
 
 }
 

@@ -5,6 +5,7 @@ shadows/*
 obj/*.o
 */*.o
 */*/*.o
+*/*/*/*.o
 */moc_*
 */*/ui*
 Makefile
