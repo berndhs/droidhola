@@ -62,23 +62,25 @@ getArgs (int argc, char *argv[])
 }
 
 bool
-wantcopyright(QStringList &args)
+wantSpecial (QStringList &args, QStringList choices)
 {
-  return args.contains("--help") || args.contains ("-H") || args.contains("--copyright");
+  bool isInThere(false);
+  foreach (QString str, choices) {
+    if (args.contains(str)) {
+      isInThere = true;
+      break;
+    }
+  }
+  return isInThere;
 }
 
-bool
-wantversion (QStringList &args)
-{
-  return (args.contains("--version") || args.contains("-V"));
-}
-
-int main(int argc, char *argv[])
+int
+main(int argc, char *argv[])
 {
 
   getArgs(argc,argv);
-  if (wantcopyright(args)) {
-    Copyright cpr;
+  if (wantSpecial(args,{"--help","-H","--copyright"})) {
+    CopyRight cpr;
     std::cout << cpr.print().toStdString() << std::endl;
     exit(0);
   } else
@@ -86,7 +88,7 @@ int main(int argc, char *argv[])
   QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
   ChatApplication app(argc, argv);
   deliberate::ProgramVersion version(app,"chatchat");
-  if (wantversion(args)) {
+  if (wantSpecial(args,{"--version","-V"})) {
     std::cout << version.Version(). toStdString() << std::endl;
     exit(0);
   }

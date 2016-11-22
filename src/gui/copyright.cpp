@@ -1,6 +1,6 @@
 #include "copyright.h"
 
-Copyright::Copyright()
+CopyRight::CopyRight()
 {
 m_text = ""
 "\n  "
@@ -46,12 +46,12 @@ m_text = ""
 
 }
 
-QString Copyright::print()
+QString CopyRight::print()
 {
   return m_text;
 }
 
-void Copyright::printRight()
+void CopyRight::printRight()
 {
   qDebug() << print();
 }

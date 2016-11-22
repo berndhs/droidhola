@@ -40,10 +40,10 @@
 #include <QDebug>
 
 
-class Copyright
+class CopyRight
 {
 public:
-  Copyright();
+  CopyRight();
   QString print();
   void printRight();
 
