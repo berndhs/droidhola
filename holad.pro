@@ -84,6 +84,7 @@ FORMS = \
 #     src/gbgui/spot-on-buzzpage.ui  \
 #     src/gbgui/spot-on-chatwindow.ui  \
      src/gbgui/spot-on-controlcenter.ui  \
+     src/gbgui/getstring.ui \
 #     src/gbgui/spot-on-documentation.ui  \
 #     src/gbgui/spot-on-echo-key-share.ui  \
 #     src/gbgui/spot-on-encryptfile-page.ui  \
@@ -117,6 +118,7 @@ HEADERS = \
     src/gui/chatapplication.h \
     src/gui/programversion.h \
     src/gui/droidhola.h \
+    src/gui/textbox.h \
     src/Kernel/spotonlib.h \
 #    src/Common/spot-on-crypt.h \
 #    src/Common/spot-on-common.h \
@@ -151,6 +153,7 @@ SOURCES += \
     src/gui/chatapplication.cpp \
     src/gui/programversion.cpp \
     src/gui/droidhola.cpp \
+    src/gui/textbox.cpp \
   src/Kernel/spotonlib.cpp \
 #    src/Common/spot-on-crypt.cc \
 #      src/Common/spot-on-crypt-mceliece.cc \

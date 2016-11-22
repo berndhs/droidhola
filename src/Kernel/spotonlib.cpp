@@ -1,9 +1,10 @@
 #include "spotonlib.h"
+//#include "spot-on-gui-server.h"
 #include <QDebug>
 
 SpotOnLib::SpotOnLib(QObject *parent)
-  :QObject(parent),
-    guiserv(this)
+  :QObject(parent)/*,
+    guiserv(this)*/
 {
   qDebug() << Q_FUNC_INFO << " thread" << thread();
 }

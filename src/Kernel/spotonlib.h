@@ -2,7 +2,7 @@
 #define SPOTONLIB_H
 
 #include <QObject>
-#include "spot-on-gui-server.h"
+//#include "spot-on-gui-server.h"
 
 
 class SpotOnLib : public QObject
@@ -15,7 +15,7 @@ public:
 
 private:
 
-  spoton_gui_server guiserv;
+//  spoton_gui_server guiserv;
 };
 
 #endif // SPOTONLIB_H
