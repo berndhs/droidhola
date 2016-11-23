@@ -14,7 +14,6 @@ ApplicationWindow {
         anchors.fill: parent
         currentIndex: tabBar.currentIndex
 
-
         Page {
             Button {
                 id: versionButton;
@@ -26,6 +25,32 @@ ApplicationWindow {
                     chatchat.showVersion();
                 }
             }
+            TextField {
+                id: passPhraseBox;
+                x: 100;
+                y: 200;
+                width: 140;
+                height:40;
+                text: "";
+            }
+            Button {
+                id: passButton;
+                anchors {
+                    top: passPhraseBox.top;
+                    right: passPhraseBox.left;
+                }
+
+                width: 90;
+                height: passPhraseBox.height;
+                text: "Set Pass"
+                onReleased: {
+                    chatchat.setPhrase(passPhraseBox.text);
+                }
+            }
+        }
+
+
+        Page {
             TextField {
                 id: textfield1;
                 text: "¿";
@@ -123,10 +148,13 @@ ApplicationWindow {
         id: tabBar
         currentIndex: swipeView.currentIndex
         TabButton {
-            text: qsTr("First")
+            text: qsTr("Uno")
         }
         TabButton {
-            text: qsTr("Second")
+            text: qsTr("Duo")
+        }
+        TabButton {
+            text: qsTr("Tres")
         }
     }
 }

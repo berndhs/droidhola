@@ -66,6 +66,7 @@ public:
   Q_INVOKABLE void symmetric (QString msg);
   Q_INVOKABLE void done();
   Q_INVOKABLE void showVersion();
+  Q_INVOKABLE void setPhrase (QString phrase);
 
   void backsetInput(QString & input);
 
