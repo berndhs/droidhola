@@ -2,5 +2,6 @@
     <qresource prefix="/qml">
         <file alias="main.qml">qml/main.qml</file>
         <file alias="Page1.qml">qml/Page1.qml</file>
+        <file alias="Page4.qml">qml/Page4.qml</file>
     </qresource>
 </RCC>

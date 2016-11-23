@@ -73,11 +73,6 @@ CryptoFront::CryptoFront(ChatApplication & app, ProgramVersion &vers, QString da
 //  connect(connecTimer,SIGNAL(timeout()),this,SLOT(pokeThread()));
 //  connecTimer->start(10000);
 
-//  m_passphrase = new TextBox(nullptr);
-//  qDebug() << Q_FUNC_INFO << "PASSPHRASE FONT " << m_passphrase->font();
-//  m_passphrase->SetLabel("Passphrase to Log In");
-//  m_passphrase->SetDefault("de dault with dis system is you man");
-//  m_passphrase->exec();
   qDebug() <<Q_FUNC_INFO <<  "FONT FONT FONT " << chatApp->font();
 
 }
