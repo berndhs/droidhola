@@ -11,6 +11,7 @@ ApplicationWindow {
 
     Loader {
         id: chatchatLoader;
+        anchors.fill: parent;
         source: "LoginPage.qml"
     }
 }

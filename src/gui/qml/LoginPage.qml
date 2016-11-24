@@ -6,7 +6,7 @@ Item {
     id: loginPage;
     visible: true;
     Button {
-        height: textfield1.height;
+        height: versionButton.height;
         width: height*1.75;
         anchors {
             top: versionButton.top;
@@ -33,7 +33,7 @@ Item {
         anchors {
             top: versionButton.bottom;
             topMargin: 5;
-            left: swipeView.left;
+            left: loginPage.left;
         }
         height: bigBox.height - 5 - versionButton.height;
         width: bigBox.width;

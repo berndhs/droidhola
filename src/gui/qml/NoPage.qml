@@ -3,31 +3,23 @@ import QtQuick.Controls 2.0
 import QtQuick.Layouts 1.0
 
 Item {
-    width: 200;
-    height: 200;
+    id: nopageItem;
+    anchors.fill: chatchatLoader;
     Rectangle {
         id: smallBox;
         anchors.centerIn: parent;
-        width: parent.width/2;
-        height: parent.height/2;
+        width: parent.width/4;
+        height: parent.height/4;
         color: "pink";
         Text {
-            anchors.centerIn: parent;
+            anchors.centerIn: smallBox;
             text: "No Page";
         }
     }
-    Button {
-        anchors {
-            top: smallBox.bottom;
-            horizontalCenter: smallBox.horizontalCenter;
-        }
+    NavRow {
+        id: navRow;
+        anchors.left: nopageItem.left;
+        anchors.bottom: nopageItem.bottom;
 
-        width: smallBox.width;
-        height: width;
-        text: "Login";
-        onReleased: {
-            chatchatLoader.source = "LoginPage.qml";
-        }
     }
-
 }
