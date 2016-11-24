@@ -3,5 +3,8 @@
         <file alias="main.qml">qml/main.qml</file>
         <file alias="Page1.qml">qml/Page1.qml</file>
         <file alias="Page4.qml">qml/Page4.qml</file>
+        <file alias="nouveauMain.qml">qml/nouveauMain.qml</file>
+        <file alias="LoginPage.qml">qml/LoginPage.qml</file>
+        <file alias="NoPage.qml">qml/NoPage.qml</file>
     </qresource>
 </RCC>

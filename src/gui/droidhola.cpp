@@ -97,7 +97,7 @@ main(int argc, char *argv[])
   qDebug() << "cfront is called " << cfront.name();
   cfront.dumpInfo();
   engine.rootContext()->setContextProperty(cfront.name(),&cfront);
-  engine.load(QUrl(QLatin1String("qrc:/qml/main.qml")));
+  engine.load(QUrl(QLatin1String("qrc:/qml/nouveauMain.qml")));
 
   engine.reportState();
 
