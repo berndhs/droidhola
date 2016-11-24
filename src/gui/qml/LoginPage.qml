@@ -4,6 +4,7 @@ import QtQuick.Layouts 1.0
 
 Item {
     id: loginPage;
+    objectName: "loginPage";
     visible: true;
     Button {
         height: versionButton.height;
@@ -21,6 +22,7 @@ Item {
     }
     Button {
         id: versionButton;
+        objectName: "versionButton";
         x: 0; y: 0;
         width: 100;
         height: 50;
@@ -35,6 +37,7 @@ Item {
             topMargin: 5;
             left: loginPage.left;
         }
+        objectName: "versionBox";
         height: bigBox.height - 5 - versionButton.height;
         width: bigBox.width;
         color: "lightblue";

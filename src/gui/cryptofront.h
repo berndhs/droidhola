@@ -68,6 +68,8 @@ public:
   Q_INVOKABLE void showVersion();
   Q_INVOKABLE void setPhrase (QString phrase);
 
+  void setMainDialog (QObject * dialogue);
+
   void backsetInput(QString & input);
 
   void addKernel (SpotKernel & kern);
@@ -136,6 +138,8 @@ private:
   ProgramVersion *version;
 
   TextBox  *m_passphrase;
+
+  QObject * mainDialog;
 };
 
 #endif // CRYPTOFRONT_H

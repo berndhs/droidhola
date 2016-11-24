@@ -98,6 +98,24 @@ main(int argc, char *argv[])
   cfront.dumpInfo();
   engine.rootContext()->setContextProperty(cfront.name(),&cfront);
   engine.load(QUrl(QLatin1String("qrc:/qml/nouveauMain.qml")));
+  QList<QObject*> rootList = engine.rootObjects();
+  qDebug() << Q_FUNC_INFO << "there are " << rootList.count() << "root objects";
+  qDebug() << Q_FUNC_INFO << "the are " << rootList;
+  QList<QObject*> mainGuys;
+  for (int i= 0; i<rootList.count(); ++i) {
+    QString name("cantSeeMe");
+    mainGuys = rootList.at(i)->findChildren<QObject*>();
+    qDebug() << Q_FUNC_INFO << "number of children with the name " << name << mainGuys.count();
+    for (int ii=0; ii<mainGuys.count(); ++ii) {
+      if (mainGuys.at(ii)->objectName() == name) {
+        qDebug() << "\t\t\tthis is the one !" << ii;
+        QObject* mainObj = mainGuys.at(ii);
+        cfront.setMainDialog(mainObj);
+      }
+      qDebug() << "\t\tchaild " << mainGuys.at(ii) << "called" << mainGuys.at(ii)->objectName();
+    }
+  }
+
 
   engine.reportState();
 

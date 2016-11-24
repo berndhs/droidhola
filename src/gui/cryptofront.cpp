@@ -5,6 +5,7 @@
 #include <QMutex>
 #include <QDateTime>
 #include <QtGlobal>
+#include <QMetaObject>
 #include <unistd.h>
 #include "spotkernel.h"
 #include "cryptobad.h"
@@ -51,7 +52,8 @@ CryptoFront::CryptoFront(ChatApplication & app, ProgramVersion &vers, QString da
     m_input("?"),
     m_output("!"),
     connecTimer(nullptr),
-    m_kernel(nullptr)
+    m_kernel(nullptr),
+    mainDialog(nullptr)
 {
   chatApp = &app;
   version = &vers;
@@ -102,26 +104,44 @@ void CryptoFront::symmetric(QString msg)
 
 void CryptoFront::done()
 {
-  qDebug() << Q_FUNC_INFO;
-  connecTimer->stop();
-  connecTimer->deleteLater();
-  m_kernelThread->terminate();
-  m_kernelThread->deleteLater();
-  m_kernel->deleteLater();
-  disconnect(m_kernel,0,0,0);
-  disconnect(this,0,0,0);
+//  qDebug() << Q_FUNC_INFO;
+//  connecTimer->stop();
+//  connecTimer->deleteLater();
+//  m_kernelThread->terminate();
+//  m_kernelThread->deleteLater();
+//  m_kernel->deleteLater();
+//  disconnect(m_kernel,0,0,0);
+//  disconnect(this,0,0,0);
 
   chatApp->quit();
 }
 
 void CryptoFront::showVersion()
 {
-  version->ShowVersionWindow();
+  qDebug() << Q_FUNC_INFO << mainDialog;
+  if(mainDialog) {
+    QVariant retval;
+//    QMetaObject::invokeMethod(mainDialog,
+//                        "showThePopup",
+//                        Qt::QueuedConnection,
+//                        Q_RETURN_ARG(QVariant, retval),
+//                        Q_ARG(QString, QString("Version")),
+//                        Q_ARG(QString, version->Version()));
+    mainDialog->setProperty("title",QVariant("Version 2"));
+    mainDialog->setProperty("text",QVariant(version->Version()));
+    mainDialog->setProperty("showVersion",QVariant(1));
+    qDebug() << Q_FUNC_INFO << "return " << retval;
+  }
 }
 
 void CryptoFront::setPhrase(QString phrase)
 {
   qDebug() << Q_FUNC_INFO << "passphrase " << phrase;
+}
+
+void CryptoFront::setMainDialog(QObject *dialogue)
+{
+  mainDialog = dialogue;
 }
 
 void

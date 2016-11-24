@@ -2,9 +2,10 @@ import QtQuick 2.7
 import QtQuick.Controls 2.0
 import QtQuick.Layouts 1.0
 
-Item {
+Rectangle {
     id: nopageItem;
-    anchors.fill: chatchatLoader;
+    anchors.fill: mainBigBox;
+    color: "lightgrey";
     Rectangle {
         id: smallBox;
         anchors.centerIn: parent;
