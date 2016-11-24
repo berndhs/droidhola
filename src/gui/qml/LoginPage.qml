@@ -82,7 +82,7 @@ Item {
             text: "Set Pass"
             onReleased: {
                 chatchat.setPhrase(passPhraseBox.text);
-                swipeView.visiblePage = 1;
+                passPhraseBox.enter();
             }
         }
     }
