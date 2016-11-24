@@ -54,7 +54,8 @@ message ("qmake_target product:")
 message ($$QMAKE_TARGET_PRODUCT)
 
 
-RESOURCES += src/gui/droidhola.qrc
+RESOURCES += src/gui/droidhola.qrc \
+#    src/gui/spoticons.qrc
 
 #INCLUDEPATH += /usr/include/bits
 #INCLUDEPATH += /usr/include
@@ -83,7 +84,7 @@ FORMS = \
 #     src/gbgui/spot-on-adaptive-echo-prompt.ui  \
 #     src/gbgui/spot-on-buzzpage.ui  \
 #     src/gbgui/spot-on-chatwindow.ui  \
-     src/gbgui/spot-on-controlcenter.ui  \
+#     src/gbgui/spot-on-controlcenter.ui  \
      src/gbgui/getstring.ui \
 #     src/gbgui/spot-on-documentation.ui  \
 #     src/gbgui/spot-on-echo-key-share.ui  \
