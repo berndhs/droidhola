@@ -10,7 +10,7 @@ ChatApplication::ChatApplication(int &argc, char **argv)
 }
 bool ChatApplication::notify(QObject* receiver, QEvent* event) {
   bool done = true;
-  done = QGuiApplication::notify(receiver, event);
+  done = QApplication::notify(receiver, event);
 
   return done;
 }

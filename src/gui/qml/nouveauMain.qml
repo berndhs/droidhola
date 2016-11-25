@@ -2,6 +2,7 @@ import QtQuick 2.7
 import QtQuick.Controls 2.0
 import QtQuick.Layouts 1.0
 import QtQuick.Dialogs 1.2
+import QtQuick.Controls.Styles 1.4
 
 ApplicationWindow {
     id: mainBigBox;
@@ -17,15 +18,21 @@ ApplicationWindow {
         property int showVersion: 0;
         onTitleChanged: {
             messageDialog.title = title;
+            messageDialogText.dumpStuff();
         }
         onTextChanged: {
             messageDialog.text = text;
+            messageDialogText.dumpStuff();
         }
         onShowVersionChanged: {
             messageDialog.visible = true;
             console.log("\tDialog title ",messageDialog.title);
             console.log("\tDualog text",messageDialog.text);
+            console.log("\tDualog text font ",messageDialogText.font);
+            messageDialogText.dumpStuff();
         }
+
+
 
         function showThePopup (myTitle, theText) {
             messageDialog.title = myTitle;
@@ -34,15 +41,62 @@ ApplicationWindow {
         }
     }
 
-    MessageDialog {
+    Rectangle {
         id: messageDialog
-        objectName: "mainDialog";
-        title: "May I have your attention please"
-        text: "It's so cool that you are using Qt Quick."
+        width: 150;
+        height: 150;
+        x: 150;
+        y: 200;
+        z: 200;
         visible: false;
-        onAccepted: {
-            console.log("And of course you could only agree.")
-            Qt.quit()
+        color: "lightblue";
+        opacity: 0.75;
+        border.color: "black";
+        border.width: 2;
+        radius: 4;
+        objectName: "mainDialog";
+        property string title: "The Text Title"
+        property string text: "the text field";
+        property int showVersion: 0;
+        TextField {
+
+            id: messageDialogText;
+            objectName: "MessageText";
+            function dumpStuff() {
+                console.log(text.font);
+            }
+
+            property alias showVersion: messageDialog.showVersion;
+            text: messageDialog.text;
+            font.pixelSize: 20;
+            font.weight: Font.Normal;
+            anchors {
+                top: titleLine.bottom;
+                horizontalCenter: titleLine.horizontalCenter;
+                topMargin: 20;
+            }
+
+        }
+        Text {
+            id: titleLine;
+            text: messageDialog.title;
+            anchors {
+                top: messageDialog.top;
+                horizontalCenter: messageDialog.horizontalCenter;
+                topMargin: 20;
+            }
+        }
+        Button {
+            id: closeButton;
+            anchors {
+                bottom: messageDialog.bottom;
+                horizontalCenter: messageDialog.horizontalCenter;
+            }
+
+            text: "OK";
+            onReleased: {
+                messageDialog.visible = false;
+            }
         }
     }
 

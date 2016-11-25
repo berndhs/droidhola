@@ -1,4 +1,4 @@
-#include <QGuiApplication>
+#include <QApplication>
 #include <QThread>
 #include <QQmlContext>
 #include <QStringList>
@@ -15,7 +15,7 @@
 #include <exception>
 
 #include "droidhola.h"
-#include "spotonlib.h"
+//#include "spotonlib.h"
 
 
 /****************************************************************/
@@ -50,15 +50,16 @@
 
  /****************************************************************/
 #include <QMessageBox>
-QStringList args;
 
-void
+QStringList
 getArgs (int argc, char *argv[])
 {
+  QStringList args;
   args.clear();
   for (int i=0; i<argc; i++) {
     args << argv[i];
   }
+  return args;
 }
 
 bool
@@ -78,14 +79,14 @@ int
 main(int argc, char *argv[])
 {
 
-  getArgs(argc,argv);
+  QStringList args;
+  args = getArgs(argc,argv);
   if (wantSpecial(args,{"--help","-H","--copyright"})) {
     CopyRight cpr;
     std::cout << cpr.print().toStdString() << std::endl;
     exit(0);
-  } else
-
-  QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
+  }
+//  ChatApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
   ChatApplication app(argc, argv);
   deliberate::ProgramVersion version(app,"chatchat");
   if (wantSpecial(args,{"--version","-V"})) {
@@ -93,6 +94,7 @@ main(int argc, char *argv[])
     exit(0);
   }
   CryptoFront cfront(app,version, version.MyName());
+
   CustomEngine engine;
   qDebug() << "cfront is called " << cfront.name();
   cfront.dumpInfo();
@@ -105,14 +107,18 @@ main(int argc, char *argv[])
   for (int i= 0; i<rootList.count(); ++i) {
     QString name("cantSeeMe");
     mainGuys = rootList.at(i)->findChildren<QObject*>();
-    qDebug() << Q_FUNC_INFO << "number of children with the name " << name << mainGuys.count();
+    qDebug() << Q_FUNC_INFO << "number of children of top " << name << mainGuys.count();
     for (int ii=0; ii<mainGuys.count(); ++ii) {
       if (mainGuys.at(ii)->objectName() == name) {
         qDebug() << "\t\t\tthis is the one !" << ii;
         QObject* mainObj = mainGuys.at(ii);
+        qDebug() << mainObj;
+//        QFont = mainObj->text
         cfront.setMainDialog(mainObj);
+      } else {
+        qDebug() << "\t\tchild " << mainGuys.at(ii) << "called" << mainGuys.at(ii)->objectName();
+
       }
-      qDebug() << "\t\tchaild " << mainGuys.at(ii) << "called" << mainGuys.at(ii)->objectName();
     }
   }
 
@@ -120,6 +126,7 @@ main(int argc, char *argv[])
   engine.reportState();
 
   return app.exec();
+
 
   qDebug() << "done with " << Q_FUNC_INFO;
 }

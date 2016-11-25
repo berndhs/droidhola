@@ -6,10 +6,13 @@
 #include <QDateTime>
 #include <QtGlobal>
 #include <QMetaObject>
+#include <QMessageBox>
+#include <QFontDatabase>
+#include <QFont>
 #include <unistd.h>
 #include "spotkernel.h"
 #include "cryptobad.h"
-#include "textbox.h"
+//#include "textbox.h"
 
 using namespace std;
 
@@ -76,7 +79,13 @@ CryptoFront::CryptoFront(ChatApplication & app, ProgramVersion &vers, QString da
 //  connecTimer->start(10000);
 
   qDebug() <<Q_FUNC_INFO <<  "FONT FONT FONT " << chatApp->font();
-
+  QFontDatabase fdb;
+  qDebug() << "we have fonts:\n" << fdb.families();
+  QFont ft;
+  ft.setFamily("Latin Modern Roman");
+  ft.setWeight(50);
+  ft.setPixelSize(18);
+  chatApp->setFont(ft);
 }
 
 CryptoFront::~CryptoFront()
@@ -119,19 +128,20 @@ void CryptoFront::done()
 void CryptoFront::showVersion()
 {
   qDebug() << Q_FUNC_INFO << mainDialog;
-  if(mainDialog) {
-    QVariant retval;
-//    QMetaObject::invokeMethod(mainDialog,
-//                        "showThePopup",
-//                        Qt::QueuedConnection,
-//                        Q_RETURN_ARG(QVariant, retval),
-//                        Q_ARG(QString, QString("Version")),
-//                        Q_ARG(QString, version->Version()));
-    mainDialog->setProperty("title",QVariant("Version 2"));
-    mainDialog->setProperty("text",QVariant(version->Version()));
-    mainDialog->setProperty("showVersion",QVariant(1));
-    qDebug() << Q_FUNC_INFO << "return " << retval;
-  }
+
+  QMessageBox box;
+  QFont ft = chatApp->font();
+  ft.setFamily("Waree");
+  ft.setWeight(50);
+  ft.setPointSize(16);
+  ft.setPixelSize(18);
+  box.setFont(ft);
+  box.setToolTip(QString("the tooltip for this box"));
+  box.setText(version->Version());
+  box.setIcon(QMessageBox::Information);
+  box.setDetailedText(version->Version());
+  qDebug() << box.font();
+  box.exec();
 }
 
 void CryptoFront::setPhrase(QString phrase)

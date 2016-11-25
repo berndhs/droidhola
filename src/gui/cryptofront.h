@@ -38,7 +38,7 @@
 #include "threadbody.h"
 #include "spotkernel.h"
 #include "programversion.h"
-#include "textbox.h"
+//#include "textbox.h"
 
 #include <QObject>
 #include <QThread>
@@ -137,7 +137,7 @@ private:
   ChatApplication *chatApp;
   ProgramVersion *version;
 
-  TextBox  *m_passphrase;
+//  TextBox  *m_passphrase;
 
   QObject * mainDialog;
 };

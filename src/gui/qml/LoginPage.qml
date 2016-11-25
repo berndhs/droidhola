@@ -38,8 +38,8 @@ Item {
             left: loginPage.left;
         }
         objectName: "versionBox";
-        height: bigBox.height - 5 - versionButton.height;
-        width: bigBox.width;
+        height: loginPage.height - 5 - versionButton.height;
+        width: loginPage.width;
         color: "lightblue";
 
         TextField {

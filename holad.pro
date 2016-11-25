@@ -61,11 +61,11 @@ RESOURCES += src/gui/droidhola.qrc \
 #INCLUDEPATH += /usr/include
 #INCLUDEPATH += /usr/local/include/bits
 #INCLUDEPATH += /usr/local/include
-INCLUDEPATH += .
-INCLUDEPATH += src
-INCLUDEPATH += src/Common
-INCLUDEPATH += src/Kernel
-INCLUDEPATH += src/libSpotOn
+#INCLUDEPATH += .
+#INCLUDEPATH += src
+#INCLUDEPATH += src/Common
+#INCLUDEPATH += src/Kernel
+#INCLUDEPATH += src/libSpotOn
 
 # Additional import path used to resolve QML modules in Qt Creator's code model
 QML_IMPORT_PATH =
@@ -120,7 +120,7 @@ HEADERS = \
     src/gui/programversion.h \
     src/gui/droidhola.h \
     src/gui/textbox.h \
-    src/Kernel/spotonlib.h \
+#    src/Kernel/spotonlib.h \
 #    src/Common/spot-on-crypt.h \
 #    src/Common/spot-on-common.h \
 #      src/Common/spot-on-mceliece.h \
@@ -155,7 +155,7 @@ SOURCES += \
     src/gui/programversion.cpp \
     src/gui/droidhola.cpp \
     src/gui/textbox.cpp \
-  src/Kernel/spotonlib.cpp \
+#  src/Kernel/spotonlib.cpp \
 #    src/Common/spot-on-crypt.cc \
 #      src/Common/spot-on-crypt-mceliece.cc \
 #      src/Common/spot-on-crypt-ntru.cc \
