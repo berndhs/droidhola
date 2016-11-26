@@ -5,6 +5,7 @@ QT += sql
 QT += network
 QT += concurrent
 QT += core
+QT += multimedia
 
 
 CONFIG += c++11
@@ -30,6 +31,7 @@ UI_DIR = ui
 RCC_DIR = rcc
 
 DEFINES += SPOTON_LINKED_WITH_LIBPTHREAD
+DEFINES += SPOTON_GOLDBUG=1
 
 #SUBDIRS = \
 #  src/gui/droidholagui.pro \
@@ -37,7 +39,7 @@ DEFINES += SPOTON_LINKED_WITH_LIBPTHREAD
 QMAKE_TARGET_COPYRIGHT = "(C) 2016 Alexis, Bernd & Schmidtt"
 QMAKE_TARGET_PRODUCT = chatchat
 QMAKE_TARGET.grmpfl = x86_64
-FOO = bar
+
 message ("foo:")
 message ($$FOO)
 message ("qmake_target:")
@@ -67,6 +69,15 @@ RESOURCES += src/gui/droidhola.qrc \
 #INCLUDEPATH += src/Kernel
 #INCLUDEPATH += src/libSpotOn
 
+INCLUDEPATH += \
+              src/ \
+              src/Common/ \
+              src/gui/include/ \
+              ui/ \
+              libs/ \
+              libs/libSpotOn/ \
+
+
 # Additional import path used to resolve QML modules in Qt Creator's code model
 QML_IMPORT_PATH =
 
@@ -82,67 +93,69 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 FORMS = \
 #     src/gbgui/spot-on-adaptive-echo-prompt.ui  \
-#     src/gbgui/spot-on-buzzpage.ui  \
-#     src/gbgui/spot-on-chatwindow.ui  \
-#     src/gbgui/spot-on-controlcenter.ui  \
+     src/gbgui/spot-on-buzzpage.ui  \
+     src/gbgui/spot-on-chatwindow.ui  \
+     src/gbgui/spot-on-controlcenter.ui  \
      src/gbgui/getstring.ui \
-#     src/gbgui/spot-on-documentation.ui  \
-#     src/gbgui/spot-on-echo-key-share.ui  \
-#     src/gbgui/spot-on-encryptfile-page.ui  \
-#     src/gbgui/spot-on-encryptfile.ui  \
-#     src/gbgui/spot-on-forward-secrecy-algorithms-selection.ui  \
-#     src/gbgui/spot-on-ipinformation.ui  \
-#     src/gbgui/spot-on-keyboard.ui  \
-#     src/gbgui/spot-on-listener-socket-options.ui  \
-#     src/gbgui/spot-on-logviewer.ui  \
-#     src/gbgui/spot-on-notificationswindow.ui  \
-#     src/gbgui/spot-on-options.ui  \
-#     src/gbgui/spot-on-pageviewer.ui  \
-#     src/gbgui/spot-on-password-prompt.ui  \
-#     src/gbgui/spot-on-poptastic-retrophone-settings.ui  \
-#     src/gbgui/spot-on-postgresql-connect.ui  \
-#     src/gbgui/spot-on-private-application-credentials.ui  \
-#     src/gbgui/spot-on-rosetta.ui  \
-#     src/gbgui/spot-on-rss.ui  \
-#     src/gbgui/spot-on-starbeamanalyzer.ui  \
-#     src/gbgui/spot-on-statisticswindow.ui  \
-#     src/gbgui/spot-on-statusbar.ui  \
-#     src/gbgui/spot-on-unlock.ui  \
-#     src/gbgui/spot-on-wizard.ui  \
+     src/gbgui/spot-on-documentation.ui  \
+     src/gbgui/spot-on-echo-key-share.ui  \
+     src/gbgui/spot-on-encryptfile-page.ui  \
+     src/gbgui/spot-on-encryptfile.ui  \
+     src/gbgui/spot-on-forward-secrecy-algorithms-selection.ui  \
+     src/gbgui/spot-on-ipinformation.ui  \
+     src/gbgui/spot-on-keyboard.ui  \
+     src/gbgui/spot-on-listener-socket-options.ui  \
+     src/gbgui/spot-on-logviewer.ui  \
+     src/gbgui/spot-on-notificationswindow.ui  \
+     src/gbgui/spot-on-options.ui  \
+     src/gbgui/spot-on-pageviewer.ui  \
+     src/gbgui/spot-on-password-prompt.ui  \
+     src/gbgui/spot-on-poptastic-retrophone-settings.ui  \
+     src/gbgui/spot-on-postgresql-connect.ui  \
+     src/gbgui/spot-on-private-application-credentials.ui  \
+     src/gbgui/spot-on-rosetta.ui  \
+     src/gbgui/spot-on-rss.ui  \
+     src/gbgui/spot-on-starbeamanalyzer.ui  \
+     src/gbgui/spot-on-statisticswindow.ui  \
+     src/gbgui/spot-on-statusbar.ui  \
+     src/gbgui/spot-on-unlock.ui  \
+     src/gbgui/spot-on-wizard.ui  \
 
 
 HEADERS = \
-    src/gui/customengine.h \
-    src/gui/cryptofront.h \
-    src/gui/spotkernel.h \
-    src/gui/copyright.h \
-    src/gui/chatapplication.h \
-    src/gui/programversion.h \
-    src/gui/droidhola.h \
-    src/gui/textbox.h \
-#    src/Kernel/spotonlib.h \
-#    src/Common/spot-on-crypt.h \
-#    src/Common/spot-on-common.h \
-#      src/Common/spot-on-mceliece.h \
-#      src/Common/spot-on-crypt-mceliece.h \
-#      src/Common/spot-on-crypt-ntru.h \
-#    src/Common/spot-on-external-address.h \
-#    src/Common/spot-on-mceliece.h \
-#    src/Common/spot-on-misc.h \
-#    src/Common/spot-on-receive.h \
-#      src/Common/spot-on-send.h \
-#      src/Common/spot-on-threefish.h \
-#      src/Kernel/spot-on-fireshare.h \
-#      src/Kernel/spot-on-gui-server.h \
-#      src/Kernel/spot-on-kernel.h \
-#      src/Kernel/spot-on-listener.h \
-#      src/Kernel/spot-on-mailer.h \
-#      src/Kernel/spot-on-neighbor.h \
-#      src/Kernel/spot-on-sctp-server.h \
-#      src/Kernel/spot-on-sctp-socket.h \
-#      src/Kernel/spot-on-starbeam-reader.h \
-#      src/Kernel/spot-on-starbeam-writer.h \
-#      src/Kernel/spot-on-urldistribution.h
+    src/gui/include/customengine.h \
+    src/gui/include/cryptofront.h \
+    src/gui/include/spotkernel.h \
+    src/gui/include/copyright.h \
+    src/gui/include/chatapplication.h \
+    src/gui/include/programversion.h \
+    src/gui/include/droidhola.h \
+    src/gui/include/textbox.h \
+    src/gui/include/pot-on-defines.h \
+    src/gui/include/spot-on.h \
+    src/Kernel/spotonlib.h \
+    src/Common/spot-on-crypt.h \
+    src/Common/spot-on-common.h \
+      src/Common/spot-on-mceliece.h \
+      src/Common/spot-on-crypt-mceliece.h \
+      src/Common/spot-on-crypt-ntru.h \
+    src/Common/spot-on-external-address.h \
+    src/Common/spot-on-mceliece.h \
+    src/Common/spot-on-misc.h \
+    src/Common/spot-on-receive.h \
+      src/Common/spot-on-send.h \
+      src/Common/spot-on-threefish.h \
+      src/Kernel/spot-on-fireshare.h \
+      src/Kernel/spot-on-gui-server.h \
+      src/Kernel/spot-on-kernel.h \
+      src/Kernel/spot-on-listener.h \
+      src/Kernel/spot-on-mailer.h \
+      src/Kernel/spot-on-neighbor.h \
+      src/Kernel/spot-on-sctp-server.h \
+      src/Kernel/spot-on-sctp-socket.h \
+      src/Kernel/spot-on-starbeam-reader.h \
+      src/Kernel/spot-on-starbeam-writer.h \
+      src/Kernel/spot-on-urldistribution.h
 
 
 
@@ -155,30 +168,31 @@ SOURCES += \
     src/gui/programversion.cpp \
     src/gui/droidhola.cpp \
     src/gui/textbox.cpp \
-#  src/Kernel/spotonlib.cpp \
-#    src/Common/spot-on-crypt.cc \
-#      src/Common/spot-on-crypt-mceliece.cc \
-#      src/Common/spot-on-crypt-ntru.cc \
-#      src/Common/spot-on-external-address.cc \
-#      src/Common/spot-on-mceliece.cc \
-#      src/Common/spot-on-misc.cc \
-#      src/Common/spot-on-receive.cc \
-#      src/Common/spot-on-send.cc \
-#      src/Common/spot-on-threefish.cc \
-#      src/Kernel/spot-on-fireshare.cc \
-#      src/Kernel/spot-on-gui-server.cc \
-#      src/Kernel/spot-on-kernel-a.cc \
+    src/gui/spot-on-a.cc \
+  src/Kernel/spotonlib.cpp \
+    src/Common/spot-on-crypt.cc \
+      src/Common/spot-on-crypt-mceliece.cc \
+      src/Common/spot-on-crypt-ntru.cc \
+      src/Common/spot-on-external-address.cc \
+      src/Common/spot-on-mceliece.cc \
+      src/Common/spot-on-misc.cc \
+      src/Common/spot-on-receive.cc \
+      src/Common/spot-on-send.cc \
+      src/Common/spot-on-threefish.cc \
+      src/Kernel/spot-on-fireshare.cc \
+      src/Kernel/spot-on-gui-server.cc \
+      src/Kernel/spot-on-kernel-a.cc \
 #      src/Kernel/spot-on-kernel-b.cc \
 #      src/Kernel/spot-on-kernel-c.cc \
-#      src/Kernel/spot-on-listener.cc \
-#      src/Kernel/spot-on-mailer.cc \
-#      src/Kernel/spot-on-neighbor-a.cc \
-#      src/Kernel/spot-on-neighbor-b.cc \
-#      src/Kernel/spot-on-sctp-server.cc \
-#      src/Kernel/spot-on-sctp-socket.cc \
-#      src/Kernel/spot-on-starbeam-reader.cc \
-#      src/Kernel/spot-on-starbeam-writer.cc \
-#      src/Kernel/spot-on-urldistribution.cc \
+      src/Kernel/spot-on-listener.cc \
+      src/Kernel/spot-on-mailer.cc \
+      src/Kernel/spot-on-neighbor-a.cc \
+      src/Kernel/spot-on-neighbor-b.cc \
+      src/Kernel/spot-on-sctp-server.cc \
+      src/Kernel/spot-on-sctp-socket.cc \
+      src/Kernel/spot-on-starbeam-reader.cc \
+      src/Kernel/spot-on-starbeam-writer.cc \
+      src/Kernel/spot-on-urldistribution.cc \
 
 
 

@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowIcon">
-   <iconset>
+   <iconset resource="../Icons/icons.qrc">
     <normaloff>:/Logo/goldbug.png</normaloff>:/Logo/goldbug.png</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
@@ -61,10 +61,6 @@
        <bool>false</bool>
       </property>
       <widget class="QWidget" name="tab_irc">
-       <attribute name="icon">
-        <iconset>
-         <normaloff>:/nuvola/buzz_t.png</normaloff>:/nuvola/buzz_t.png</iconset>
-       </attribute>
        <attribute name="title">
         <string/>
        </attribute>
@@ -135,8 +131,8 @@ color: rgb(255, 255, 255);
             <rect>
              <x>0</x>
              <y>0</y>
-             <width>578</width>
-             <height>682</height>
+             <width>616</width>
+             <height>685</height>
             </rect>
            </property>
            <layout class="QVBoxLayout" name="verticalLayout_54">
@@ -195,16 +191,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                 </property>
                 <property name="text">
                  <string>Save</string>
-                </property>
-                <property name="icon">
-                 <iconset>
-                  <normaloff>:/nuvola/ok.png</normaloff>:/nuvola/ok.png</iconset>
                 </property>
                </widget>
               </item>
@@ -539,16 +531,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; }
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  } </string>
                 </property>
                 <property name="text">
                  <string>Join</string>
-                </property>
-                <property name="icon">
-                 <iconset>
-                  <normaloff>:/nuvola/add.png</normaloff>:/nuvola/add.png</iconset>
                 </property>
                 <property name="iconSize">
                  <size>
@@ -577,10 +565,6 @@ QPushButton:pressed {
        </layout>
       </widget>
       <widget class="QWidget" name="tab_chat">
-       <attribute name="icon">
-        <iconset>
-         <normaloff>:/nuvola/chat_t.png</normaloff>:/nuvola/chat_t.png</iconset>
-       </attribute>
        <attribute name="title">
         <string/>
        </attribute>
@@ -789,16 +773,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                     </property>
                     <property name="text">
                      <string/>
-                    </property>
-                    <property name="icon">
-                     <iconset>
-                      <normaloff>:/nuvola/clear.png</normaloff>:/nuvola/clear.png</iconset>
                     </property>
                     <property name="iconSize">
                      <size>
@@ -834,7 +814,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } </string>
                     </property>
                     <property name="currentIndex">
-                     <number>4</number>
+                     <number>0</number>
                     </property>
                     <property name="maxCount">
                      <number>2100</number>
@@ -852,45 +832,25 @@ background-position: top center; } </string>
                      <property name="text">
                       <string>Away</string>
                      </property>
-                     <property name="icon">
-                      <iconset>
-                       <normaloff>:/nuvola/away.png</normaloff>:/nuvola/away.png</iconset>
-                     </property>
                     </item>
                     <item>
                      <property name="text">
                       <string>Busy</string>
-                     </property>
-                     <property name="icon">
-                      <iconset>
-                       <normaloff>:/nuvola/busy.png</normaloff>:/nuvola/busy.png</iconset>
                      </property>
                     </item>
                     <item>
                      <property name="text">
                       <string>Custom</string>
                      </property>
-                     <property name="icon">
-                      <iconset>
-                       <normaloff>:/nuvola/chat.png</normaloff>:/nuvola/chat.png</iconset>
-                     </property>
                     </item>
                     <item>
                      <property name="text">
                       <string>Offline</string>
                      </property>
-                     <property name="icon">
-                      <iconset>
-                       <normaloff>:/nuvola/offline.png</normaloff>:/nuvola/offline.png</iconset>
-                     </property>
                     </item>
                     <item>
                      <property name="text">
                       <string>Online</string>
-                     </property>
-                     <property name="icon">
-                      <iconset>
-                       <normaloff>:/nuvola/online.png</normaloff>:/nuvola/online.png</iconset>
                      </property>
                     </item>
                    </widget>
@@ -924,16 +884,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                     </property>
                     <property name="text">
                      <string>Send</string>
-                    </property>
-                    <property name="icon">
-                     <iconset>
-                      <normaloff>:/nuvola/ok.png</normaloff>:/nuvola/ok.png</iconset>
                     </property>
                     <property name="iconSize">
                      <size>
@@ -1156,17 +1112,13 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }
 </string>
                      </property>
                      <property name="text">
                       <string>Save</string>
-                     </property>
-                     <property name="icon">
-                      <iconset>
-                       <normaloff>:/nuvola/ok.png</normaloff>:/nuvola/ok.png</iconset>
                      </property>
                     </widget>
                    </item>
@@ -1219,7 +1171,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }
 </string>
@@ -1228,7 +1180,7 @@ QPushButton:pressed {
                   <string>Context Menu Reflection</string>
                  </property>
                  <property name="icon">
-                  <iconset>
+                  <iconset resource="../Icons/icons.qrc">
                    <normaloff>:/generic/menu.png</normaloff>:/generic/menu.png</iconset>
                  </property>
                  <property name="popupMode">
@@ -1249,10 +1201,6 @@ QPushButton:pressed {
        </layout>
       </widget>
       <widget class="QWidget" name="tab_email">
-       <attribute name="icon">
-        <iconset>
-         <normaloff>:/nuvola/email_t.png</normaloff>:/nuvola/email_t.png</iconset>
-       </attribute>
        <attribute name="title">
         <string/>
        </attribute>
@@ -1322,8 +1270,8 @@ color: rgb(255, 255, 255);</string>
             <rect>
              <x>0</x>
              <y>0</y>
-             <width>698</width>
-             <height>668</height>
+             <width>680</width>
+             <height>484</height>
             </rect>
            </property>
            <layout class="QVBoxLayout" name="verticalLayout_55">
@@ -1395,16 +1343,12 @@ background-position: top center; }
 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                 </property>
                 <property name="text">
                  <string/>
-                </property>
-                <property name="icon">
-                 <iconset>
-                  <normaloff>:/nuvola/refresh.png</normaloff>:/nuvola/refresh.png</iconset>
                 </property>
                 <property name="iconSize">
                  <size>
@@ -1443,16 +1387,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                 </property>
                 <property name="text">
                  <string/>
-                </property>
-                <property name="icon">
-                 <iconset>
-                  <normaloff>:/nuvola/down.png</normaloff>:/nuvola/down.png</iconset>
                 </property>
                 <property name="iconSize">
                  <size>
@@ -1490,16 +1430,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                 </property>
                 <property name="text">
                  <string/>
-                </property>
-                <property name="icon">
-                 <iconset>
-                  <normaloff>:/nuvola/empty-trash.png</normaloff>:/nuvola/empty-trash.png</iconset>
                 </property>
                 <property name="iconSize">
                  <size>
@@ -1539,10 +1475,6 @@ QPushButton:pressed {
                </size>
               </property>
               <widget class="QWidget" name="tab_4">
-               <attribute name="icon">
-                <iconset>
-                 <normaloff>:/nuvola/email.png</normaloff>:/nuvola/email.png</iconset>
-               </attribute>
                <attribute name="title">
                 <string>&amp;Read</string>
                </attribute>
@@ -1593,7 +1525,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                         </property>
@@ -1610,27 +1542,15 @@ QPushButton:pressed {
                          <property name="text">
                           <string>Inbox</string>
                          </property>
-                         <property name="icon">
-                          <iconset>
-                           <normaloff>:/nuvola/inbox.png</normaloff>:/nuvola/inbox.png</iconset>
-                         </property>
                         </item>
                         <item>
                          <property name="text">
                           <string>Sent</string>
                          </property>
-                         <property name="icon">
-                          <iconset>
-                           <normaloff>:/nuvola/read.png</normaloff>:/nuvola/read.png</iconset>
-                         </property>
                         </item>
                         <item>
                          <property name="text">
                           <string>Trash</string>
-                         </property>
-                         <property name="icon">
-                          <iconset>
-                           <normaloff>:/nuvola/full-trash.png</normaloff>:/nuvola/full-trash.png</iconset>
                          </property>
                         </item>
                        </widget>
@@ -1654,16 +1574,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                         </property>
                         <property name="text">
                          <string>Delete Selection</string>
-                        </property>
-                        <property name="icon">
-                         <iconset>
-                          <normaloff>:/nuvola/clear.png</normaloff>:/nuvola/clear.png</iconset>
                         </property>
                         <property name="iconSize">
                          <size>
@@ -1692,16 +1608,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                         </property>
                         <property name="text">
                          <string>Reply</string>
-                        </property>
-                        <property name="icon">
-                         <iconset>
-                          <normaloff>:/nuvola/reply.png</normaloff>:/nuvola/reply.png</iconset>
                         </property>
                         <property name="iconSize">
                          <size>
@@ -1730,16 +1642,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                         </property>
                         <property name="text">
                          <string>Resend</string>
-                        </property>
-                        <property name="icon">
-                         <iconset>
-                          <normaloff>:/nuvola/up.png</normaloff>:/nuvola/up.png</iconset>
                         </property>
                         <property name="iconSize">
                          <size>
@@ -1770,16 +1678,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                       </property>
                       <property name="text">
                        <string>Save Attachment(s)...</string>
-                      </property>
-                      <property name="icon">
-                       <iconset>
-                        <normaloff>:/generic/attach.png</normaloff>:/generic/attach.png</iconset>
                       </property>
                      </widget>
                     </item>
@@ -1891,10 +1795,6 @@ QPushButton:pressed {
                </layout>
               </widget>
               <widget class="QWidget" name="tab_6">
-               <attribute name="icon">
-                <iconset>
-                 <normaloff>:/nuvola/database.png</normaloff>:/nuvola/database.png</iconset>
-               </attribute>
                <attribute name="title">
                 <string>&amp;C/O</string>
                </attribute>
@@ -2099,16 +1999,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                          </property>
                          <property name="text">
                           <string>Copy</string>
-                         </property>
-                         <property name="icon">
-                          <iconset>
-                           <normaloff>:/nuvola/copy.png</normaloff>:/nuvola/copy.png</iconset>
                          </property>
                         </widget>
                        </item>
@@ -2132,16 +2028,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                          </property>
                          <property name="text">
                           <string>Delete</string>
-                         </property>
-                         <property name="icon">
-                          <iconset>
-                           <normaloff>:/nuvola/delete.png</normaloff>:/nuvola/delete.png</iconset>
                          </property>
                         </widget>
                        </item>
@@ -2322,16 +2214,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                           </property>
                           <property name="text">
                            <string>Add</string>
-                          </property>
-                          <property name="icon">
-                           <iconset>
-                            <normaloff>:/nuvola/add.png</normaloff>:/nuvola/add.png</iconset>
                           </property>
                          </widget>
                         </item>
@@ -2346,10 +2234,6 @@ QPushButton:pressed {
                </layout>
               </widget>
               <widget class="QWidget" name="tab_13">
-               <attribute name="icon">
-                <iconset>
-                 <normaloff>:/nuvola/modify.png</normaloff>:/nuvola/modify.png</iconset>
-               </attribute>
                <attribute name="title">
                 <string>&amp;Write</string>
                </attribute>
@@ -2428,7 +2312,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                       </property>
@@ -2607,16 +2491,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                       </property>
                       <property name="text">
                        <string>Send</string>
-                      </property>
-                      <property name="icon">
-                       <iconset>
-                        <normaloff>:/nuvola/email.png</normaloff>:/nuvola/email.png</iconset>
                       </property>
                      </widget>
                     </item>
@@ -2659,7 +2539,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                       </property>
@@ -2806,16 +2686,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                         </property>
                         <property name="text">
                          <string/>
-                        </property>
-                        <property name="icon">
-                         <iconset>
-                          <normaloff>:/nuvola/clear.png</normaloff>:/nuvola/clear.png</iconset>
                         </property>
                        </widget>
                       </item>
@@ -2851,7 +2727,7 @@ QPushButton:pressed {
                          <string>Context Menu Reflection</string>
                         </property>
                         <property name="icon">
-                         <iconset>
+                         <iconset resource="../Icons/icons.qrc">
                           <normaloff>:/generic/menu.png</normaloff>:/generic/menu.png</iconset>
                         </property>
                         <property name="popupMode">
@@ -2879,10 +2755,6 @@ QPushButton:pressed {
        </layout>
       </widget>
       <widget class="QWidget" name="tab_createserver">
-       <attribute name="icon">
-        <iconset>
-         <normaloff>:/nuvola/server_t.png</normaloff>:/nuvola/server_t.png</iconset>
-       </attribute>
        <attribute name="title">
         <string/>
        </attribute>
@@ -2952,8 +2824,8 @@ color: rgb(255, 255, 255);</string>
             <rect>
              <x>0</x>
              <y>0</y>
-             <width>564</width>
-             <height>1738</height>
+             <width>500</width>
+             <height>1691</height>
             </rect>
            </property>
            <layout class="QVBoxLayout" name="verticalLayout_29">
@@ -3245,7 +3117,7 @@ color: rgb(255, 255, 255);</string>
                       <string>Context Menu Reflection</string>
                      </property>
                      <property name="icon">
-                      <iconset>
+                      <iconset resource="../Icons/icons.qrc">
                        <normaloff>:/generic/menu.png</normaloff>:/generic/menu.png</iconset>
                      </property>
                      <property name="popupMode">
@@ -3520,16 +3392,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton#addListener:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                      </property>
                      <property name="text">
                       <string>Add</string>
-                     </property>
-                     <property name="icon">
-                      <iconset>
-                       <normaloff>:/nuvola/ok.png</normaloff>:/nuvola/ok.png</iconset>
                      </property>
                      <property name="iconSize">
                       <size>
@@ -3691,7 +3559,7 @@ background-position: top center; }
 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }
 </string>
@@ -3804,17 +3672,13 @@ background-position: top center; }
 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }
 </string>
                        </property>
                        <property name="text">
                         <string>Add</string>
-                       </property>
-                       <property name="icon">
-                        <iconset>
-                         <normaloff>:/nuvola/add.png</normaloff>:/nuvola/add.png</iconset>
                        </property>
                       </widget>
                      </item>
@@ -4150,10 +4014,6 @@ QPushButton:pressed {
        </layout>
       </widget>
       <widget class="QWidget" name="tab_neighbors">
-       <attribute name="icon">
-        <iconset>
-         <normaloff>:/nuvola/connect_t.png</normaloff>:/nuvola/connect_t.png</iconset>
-       </attribute>
        <attribute name="title">
         <string/>
        </attribute>
@@ -4224,7 +4084,7 @@ color: rgb(255, 255, 255);</string>
              <x>0</x>
              <y>0</y>
              <width>588</width>
-             <height>668</height>
+             <height>448</height>
             </rect>
            </property>
            <layout class="QVBoxLayout" name="verticalLayout_61">
@@ -4267,7 +4127,7 @@ color: rgb(255, 255, 255);</string>
                      <string>Context Menu Reflection</string>
                     </property>
                     <property name="icon">
-                     <iconset>
+                     <iconset resource="../Icons/icons.qrc">
                       <normaloff>:/generic/menu.png</normaloff>:/generic/menu.png</iconset>
                     </property>
                     <property name="popupMode">
@@ -5181,7 +5041,7 @@ background-position: top center; }
 
 
 QPushButton#addNeighbor:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }
 
@@ -5189,10 +5049,6 @@ QPushButton#addNeighbor:pressed {
                         </property>
                         <property name="text">
                          <string>Connect</string>
-                        </property>
-                        <property name="icon">
-                         <iconset>
-                          <normaloff>:/nuvola/connect.png</normaloff>:/nuvola/connect.png</iconset>
                         </property>
                         <property name="iconSize">
                          <size>
@@ -5302,8 +5158,8 @@ color: rgb(255, 255, 255);
             <rect>
              <x>0</x>
              <y>0</y>
-             <width>628</width>
-             <height>668</height>
+             <width>606</width>
+             <height>289</height>
             </rect>
            </property>
            <layout class="QVBoxLayout" name="verticalLayout_2">
@@ -5388,8 +5244,8 @@ color: rgb(255, 255, 255);
                 <rect>
                  <x>0</x>
                  <y>0</y>
-                 <width>630</width>
-                 <height>508</height>
+                 <width>631</width>
+                 <height>484</height>
                 </rect>
                </property>
                <layout class="QVBoxLayout" name="verticalLayout_65">
@@ -5539,7 +5395,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                      </property>
@@ -5583,7 +5439,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                      </property>
@@ -5611,12 +5467,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                      </property>
                      <property name="icon">
-                      <iconset>
+                      <iconset resource="../Icons/icons.qrc">
                        <normaloff>:/generic/menu.png</normaloff>:/generic/menu.png</iconset>
                      </property>
                      <property name="popupMode">
@@ -5767,7 +5623,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                        </property>
@@ -5976,7 +5832,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                        </property>
@@ -6010,7 +5866,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                        </property>
@@ -6222,7 +6078,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                        </property>
@@ -6280,7 +6136,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                        </property>
@@ -6332,7 +6188,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                        </property>
@@ -6418,16 +6274,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                    </property>
                    <property name="text">
                     <string>&amp;Discover!</string>
-                   </property>
-                   <property name="icon">
-                    <iconset>
-                     <normaloff>:/nuvola/search.png</normaloff>:/nuvola/search.png</iconset>
                    </property>
                   </widget>
                  </item>
@@ -6552,10 +6404,6 @@ QPushButton:pressed {
        </layout>
       </widget>
       <widget class="QWidget" name="tab_settings">
-       <attribute name="icon">
-        <iconset>
-         <normaloff>:/nuvola/settings_t.png</normaloff>:/nuvola/settings_t.png</iconset>
-       </attribute>
        <attribute name="title">
         <string/>
        </attribute>
@@ -6625,8 +6473,8 @@ color: rgb(255, 255, 255);</string>
             <rect>
              <x>0</x>
              <y>0</y>
-             <width>813</width>
-             <height>1185</height>
+             <width>848</width>
+             <height>1101</height>
             </rect>
            </property>
            <layout class="QVBoxLayout" name="verticalLayout_35">
@@ -7052,17 +6900,13 @@ background-position: top center; }
 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }
 </string>
                      </property>
                      <property name="text">
                       <string>Select...</string>
-                     </property>
-                     <property name="icon">
-                      <iconset>
-                       <normaloff>:/nuvola/ok.png</normaloff>:/nuvola/ok.png</iconset>
                      </property>
                     </widget>
                    </item>
@@ -7095,7 +6939,7 @@ QPushButton:pressed {
 
 
 QPushButton#activateKernel:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }
 
@@ -7110,10 +6954,6 @@ background-position: top center;
                      </property>
                      <property name="text">
                       <string>Activate</string>
-                     </property>
-                     <property name="icon">
-                      <iconset>
-                       <normaloff>:/nuvola/activate.png</normaloff>:/nuvola/activate.png</iconset>
                      </property>
                      <property name="iconSize">
                       <size>
@@ -7170,7 +7010,7 @@ background-position: top center;
 } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }
 
@@ -7179,10 +7019,6 @@ QPushButton:pressed {
                      </property>
                      <property name="text">
                       <string>Deactivate</string>
-                     </property>
-                     <property name="icon">
-                      <iconset>
-                       <normaloff>:/nuvola/deactivate.png</normaloff>:/nuvola/deactivate.png</iconset>
                      </property>
                      <property name="iconSize">
                       <size>
@@ -7647,17 +7483,13 @@ background-position: top center; }
 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }
 </string>
                    </property>
                    <property name="text">
                     <string>Save</string>
-                   </property>
-                   <property name="icon">
-                    <iconset>
-                     <normaloff>:/nuvola/ok.png</normaloff>:/nuvola/ok.png</iconset>
                    </property>
                    <property name="iconSize">
                     <size>
@@ -8103,10 +7935,6 @@ QPushButton:pressed {
        </layout>
       </widget>
       <widget class="QWidget" name="tab_starbeam">
-       <attribute name="icon">
-        <iconset>
-         <normaloff>:/nuvola/starbeam_t.png</normaloff>:/nuvola/starbeam_t.png</iconset>
-       </attribute>
        <attribute name="title">
         <string/>
        </attribute>
@@ -8176,8 +8004,8 @@ color: rgb(255, 255, 255);</string>
             <rect>
              <x>0</x>
              <y>0</y>
-             <width>564</width>
-             <height>707</height>
+             <width>450</width>
+             <height>619</height>
             </rect>
            </property>
            <layout class="QVBoxLayout" name="verticalLayout_43">
@@ -8208,10 +8036,6 @@ color: rgb(255, 255, 255);</string>
                </size>
               </property>
               <widget class="QWidget" name="tab_SB_Magnets">
-               <attribute name="icon">
-                <iconset>
-                 <normaloff>:/nuvola/magnet.png</normaloff>:/nuvola/magnet.png</iconset>
-               </attribute>
                <attribute name="title">
                 <string>&amp;Magnet-URI</string>
                </attribute>
@@ -8245,7 +8069,7 @@ color: rgb(255, 255, 255);</string>
                      <string>Context Menu Reflection</string>
                     </property>
                     <property name="icon">
-                     <iconset>
+                     <iconset resource="../Icons/icons.qrc">
                       <normaloff>:/generic/menu.png</normaloff>:/generic/menu.png</iconset>
                     </property>
                     <property name="popupMode">
@@ -8554,16 +8378,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                     </property>
                     <property name="text">
                      <string>Add</string>
-                    </property>
-                    <property name="icon">
-                     <iconset>
-                      <normaloff>:/nuvola/add.png</normaloff>:/nuvola/add.png</iconset>
                     </property>
                     <property name="iconSize">
                      <size>
@@ -8662,7 +8482,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                        </property>
@@ -8696,7 +8516,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                        </property>
@@ -8713,10 +8533,6 @@ QPushButton:pressed {
                </layout>
               </widget>
               <widget class="QWidget" name="tab_SB_incoming">
-               <attribute name="icon">
-                <iconset>
-                 <normaloff>:/nuvola/down.png</normaloff>:/nuvola/down.png</iconset>
-               </attribute>
                <attribute name="title">
                 <string>&amp;Received</string>
                </attribute>
@@ -8881,7 +8697,7 @@ QPushButton:pressed {
                          <string>Context Menu Reflection</string>
                         </property>
                         <property name="icon">
-                         <iconset>
+                         <iconset resource="../Icons/icons.qrc">
                           <normaloff>:/generic/menu.png</normaloff>:/generic/menu.png</iconset>
                         </property>
                         <property name="popupMode">
@@ -8950,10 +8766,6 @@ QPushButton:pressed {
                </layout>
               </widget>
               <widget class="QWidget" name="tab_SB_Upload">
-               <attribute name="icon">
-                <iconset>
-                 <normaloff>:/nuvola/up.png</normaloff>:/nuvola/up.png</iconset>
-               </attribute>
                <attribute name="title">
                 <string>&amp;Transmitted</string>
                </attribute>
@@ -9041,7 +8853,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                        </property>
@@ -9133,7 +8945,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                        </property>
@@ -9255,16 +9067,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                      </property>
                      <property name="text">
                       <string>Transmit</string>
-                     </property>
-                     <property name="icon">
-                      <iconset>
-                       <normaloff>:/nuvola/up.png</normaloff>:/nuvola/up.png</iconset>
                      </property>
                      <property name="iconSize">
                       <size>
@@ -9410,7 +9218,7 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                        </property>
@@ -9418,7 +9226,7 @@ QPushButton:pressed {
                         <string>Copy SB-Magnet</string>
                        </property>
                        <property name="icon">
-                        <iconset>
+                        <iconset resource="../Icons/icons.qrc">
                          <normaloff>:/generic/menu.png</normaloff>:/generic/menu.png</iconset>
                        </property>
                        <property name="popupMode">
@@ -9448,16 +9256,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                        </property>
                        <property name="text">
                         <string>Rewind &amp;&amp; Transmit Again</string>
-                       </property>
-                       <property name="icon">
-                        <iconset>
-                         <normaloff>:/nuvola/refresh.png</normaloff>:/nuvola/refresh.png</iconset>
                        </property>
                       </widget>
                      </item>
@@ -9547,8 +9351,8 @@ color: rgb(255, 255, 255);
             <rect>
              <x>0</x>
              <y>0</y>
-             <width>578</width>
-             <height>682</height>
+             <width>616</width>
+             <height>685</height>
             </rect>
            </property>
            <layout class="QVBoxLayout" name="verticalLayout_58">
@@ -9589,9 +9393,6 @@ color: rgb(255, 255, 255);
                 </property>
                 <property name="text">
                  <string>&amp;Active</string>
-                </property>
-                <property name="checked">
-                 <bool>true</bool>
                 </property>
                </widget>
               </item>
@@ -9678,7 +9479,7 @@ color: rgb(255, 255, 255);
                      <string>Context Menu Reflection</string>
                     </property>
                     <property name="icon">
-                     <iconset>
+                     <iconset resource="../Icons/icons.qrc">
                       <normaloff>:/generic/menu.png</normaloff>:/generic/menu.png</iconset>
                     </property>
                     <property name="popupMode">
@@ -9740,16 +9541,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                     </property>
                     <property name="text">
                      <string>Save</string>
-                    </property>
-                    <property name="icon">
-                     <iconset>
-                      <normaloff>:/nuvola/ok.png</normaloff>:/nuvola/ok.png</iconset>
                     </property>
                    </widget>
                   </item>
@@ -9845,10 +9642,6 @@ QPushButton:pressed {
                    <number>0</number>
                   </property>
                   <widget class="QWidget" name="tab_2">
-                   <attribute name="icon">
-                    <iconset>
-                     <normaloff>:/nuvola/down.png</normaloff>:/nuvola/down.png</iconset>
-                   </attribute>
                    <attribute name="title">
                     <string>&amp;Download</string>
                    </attribute>
@@ -9903,10 +9696,6 @@ QPushButton:pressed {
                    </layout>
                   </widget>
                   <widget class="QWidget" name="tab_5">
-                   <attribute name="icon">
-                    <iconset>
-                     <normaloff>:/nuvola/down.png</normaloff>:/nuvola/down.png</iconset>
-                   </attribute>
                    <attribute name="title">
                     <string>&amp;Import</string>
                    </attribute>
@@ -9961,10 +9750,6 @@ QPushButton:pressed {
                    </layout>
                   </widget>
                   <widget class="QWidget" name="tab_3">
-                   <attribute name="icon">
-                    <iconset>
-                     <normaloff>:/nuvola/up.png</normaloff>:/nuvola/up.png</iconset>
-                   </attribute>
                    <attribute name="title">
                     <string>&amp;Upload</string>
                    </attribute>
@@ -10134,16 +9919,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                      </property>
                      <property name="text">
                       <string>Add</string>
-                     </property>
-                     <property name="icon">
-                      <iconset>
-                       <normaloff>:/nuvola/add.png</normaloff>:/nuvola/add.png</iconset>
                      </property>
                     </widget>
                    </item>
@@ -10173,16 +9954,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                      </property>
                      <property name="text">
                       <string>Delete</string>
-                     </property>
-                     <property name="icon">
-                      <iconset>
-                       <normaloff>:/nuvola/delete.png</normaloff>:/nuvola/delete.png</iconset>
                      </property>
                     </widget>
                    </item>
@@ -10205,16 +9982,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                      </property>
                      <property name="text">
                       <string>Refresh</string>
-                     </property>
-                     <property name="icon">
-                      <iconset>
-                       <normaloff>:/nuvola/refresh.png</normaloff>:/nuvola/refresh.png</iconset>
                      </property>
                     </widget>
                    </item>
@@ -10232,10 +10005,6 @@ QPushButton:pressed {
        </layout>
       </widget>
       <widget class="QWidget" name="tab_addkey">
-       <attribute name="icon">
-        <iconset>
-         <normaloff>:/nuvola/key_t.png</normaloff>:/nuvola/key_t.png</iconset>
-       </attribute>
        <attribute name="title">
         <string/>
        </attribute>
@@ -10357,17 +10126,13 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton#pushButtonCopytoClipboard_All:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }
 </string>
                    </property>
                    <property name="text">
                     <string>Copy Own Public Keys</string>
-                   </property>
-                   <property name="icon">
-                    <iconset>
-                     <normaloff>:/nuvola/key.png</normaloff>:/nuvola/key.png</iconset>
                    </property>
                    <property name="iconSize">
                     <size>
@@ -10417,10 +10182,6 @@ QPushButton#pushButtonCopytoClipboard_All:pressed {
                  <property name="text">
                   <string>&amp;E-Mail Address</string>
                  </property>
-                 <property name="icon">
-                  <iconset>
-                   <normaloff>:/nuvola/email.png</normaloff>:/nuvola/email.png</iconset>
-                 </property>
                 </widget>
                </item>
                <item>
@@ -10440,10 +10201,6 @@ QPushButton#pushButtonCopytoClipboard_All:pressed {
                 <widget class="QRadioButton" name="addFriendPublicKeyRadio">
                  <property name="text">
                   <string>&amp;Key</string>
-                 </property>
-                 <property name="icon">
-                  <iconset>
-                   <normaloff>:/nuvola/key.png</normaloff>:/nuvola/key.png</iconset>
                  </property>
                  <property name="checked">
                   <bool>true</bool>
@@ -10552,16 +10309,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                  </property>
                  <property name="text">
                   <string>Add</string>
-                 </property>
-                 <property name="icon">
-                  <iconset>
-                   <normaloff>:/nuvola/add.png</normaloff>:/nuvola/add.png</iconset>
                  </property>
                 </widget>
                </item>
@@ -10601,16 +10354,12 @@ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
 background-position: top center; } 
 
 QPushButton:pressed {
-     background-color: darkgrey;
+     background-color: darkgray;
      border-style: inset;
  }</string>
                  </property>
                  <property name="text">
                   <string/>
-                 </property>
-                 <property name="icon">
-                  <iconset>
-                   <normaloff>:/nuvola/clear.png</normaloff>:/nuvola/clear.png</iconset>
                  </property>
                 </widget>
                </item>
@@ -10632,10 +10381,6 @@ QPushButton:pressed {
 }
 </string>
        </property>
-       <attribute name="icon">
-        <iconset>
-         <normaloff>:/everaldo/goldbug_t.png</normaloff>:/everaldo/goldbug_t.png</iconset>
-       </attribute>
        <attribute name="title">
         <string/>
        </attribute>
@@ -10685,7 +10430,7 @@ QPushButton:pressed {
              <string/>
             </property>
             <property name="pixmap">
-             <pixmap>:/Logo/goldbug-neuland.png</pixmap>
+             <pixmap resource="../Icons/icons.qrc">:/Logo/goldbug-neuland.png</pixmap>
             </property>
             <property name="scaledContents">
              <bool>false</bool>
@@ -10899,7 +10644,7 @@ background-color: qlineargradient(spread:pad, x1:0.968, y1:0.932, x2:0.513, y2:0
      border-style: outset;
      border-width: 2px;
      border-radius: 10px;
-     border-color: grey;
+     border-color: gray;
      min-width: 10em;
      padding: 2px;
  }
@@ -10925,7 +10670,7 @@ background-color: qlineargradient(spread:pad, x1:0.968, y1:0.932, x2:0.513, y2:0
      border-style: outset;
      border-width: 2px;
      border-radius: 10px;
-     border-color: grey;
+     border-color: gray;
      min-width: 10em;
      padding: 2px;
  }
@@ -10964,7 +10709,7 @@ background-color: qlineargradient(spread:pad, x1:0.968, y1:0.932, x2:0.513, y2:0
      border-style: outset;
      border-width: 2px;
      border-radius: 10px;
-     border-color: grey;
+     border-color: gray;
      min-width: 10em;
      padding: 2px;
  }
@@ -11062,7 +10807,7 @@ margin: 2px;
 border-style: outset;
 border-width: 2px;
 border-radius: 10px;
-border-color: grey;
+border-color: gray;
 min-width: 10em;
 padding: 2px;
 }
@@ -11088,10 +10833,6 @@ border-style: inset;
               </property>
               <property name="text">
                <string>Login</string>
-              </property>
-              <property name="icon">
-               <iconset>
-                <normaloff>:/nuvola/ok.png</normaloff>:/nuvola/ok.png</iconset>
               </property>
               <property name="iconSize">
                <size>
@@ -11388,7 +11129,7 @@ border-style: inset;
   </action>
   <action name="action_Poptastic_Settings">
    <property name="icon">
-    <iconset>
+    <iconset resource="../Icons/icons.qrc">
      <normaloff>:/generic/poptastic.png</normaloff>:/generic/poptastic.png</iconset>
    </property>
    <property name="text">
@@ -11408,7 +11149,7 @@ border-style: inset;
   </action>
   <action name="action_About">
    <property name="icon">
-    <iconset>
+    <iconset resource="../Icons/icons.qrc">
      <normaloff>:/Logo/goldbug.png</normaloff>:/Logo/goldbug.png</iconset>
    </property>
    <property name="text">
@@ -11449,7 +11190,7 @@ border-style: inset;
   </action>
   <action name="action_RSS">
    <property name="icon">
-    <iconset>
+    <iconset resource="../Icons/icons.qrc">
      <normaloff>:/generic/rss.png</normaloff>:/generic/rss.png</iconset>
    </property>
    <property name="text">
@@ -11854,6 +11595,8 @@ border-style: inset;
   <tabstop>passphrase</tabstop>
   <tabstop>passphraseButton</tabstop>
  </tabstops>
- <resources/>
+ <resources>
+  <include location="../Icons/icons.qrc"/>
+ </resources>
  <connections/>
 </ui>

@@ -98,8 +98,11 @@ main(int argc, char *argv[])
   CustomEngine engine;
   qDebug() << "cfront is called " << cfront.name();
   cfront.dumpInfo();
+
   engine.rootContext()->setContextProperty(cfront.name(),&cfront);
   engine.load(QUrl(QLatin1String("qrc:/qml/nouveauMain.qml")));
+
+  cfront.connectQML(engine);
   QList<QObject*> rootList = engine.rootObjects();
   qDebug() << Q_FUNC_INFO << "there are " << rootList.count() << "root objects";
   qDebug() << Q_FUNC_INFO << "the are " << rootList;

@@ -6,6 +6,7 @@ Item {
     id: loginPage;
     objectName: "loginPage";
     visible: true;
+
     Button {
         height: versionButton.height;
         width: height*1.75;
@@ -61,7 +62,6 @@ Item {
             function enter() {
                 chatchat.setPhrase(passPhraseBox.text);
                 console.log("got pass phrase " + passPhraseBox.text);
-//                swipeView.visiblePage = 1;
                 chatchatLoader.source = "NoPage.qml"
             }
 
@@ -75,6 +75,8 @@ Item {
         }
         Button {
             id: passButton;
+            objectName: "passPhraseButton";
+            signal wantPhrase();
             anchors {
                 top: passPhraseBox.top;
                 right: passPhraseBox.left;
@@ -84,8 +86,9 @@ Item {
             height: passPhraseBox.height;
             text: "Set Pass"
             onReleased: {
-                chatchat.setPhrase(passPhraseBox.text);
-                passPhraseBox.enter();
+//                chatchat.setPhrase(passPhraseBox.text);
+//                passPhraseBox.enter();
+                passButton.wantPhrase();
             }
         }
     }

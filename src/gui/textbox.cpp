@@ -20,19 +20,15 @@
 namespace deliberate {
 
   TextBox::TextBox (QWidget *parent)
-          :theValue("")
+          :theValue(""),
+            okButton(nullptr)
   {
-    QFontDatabase fdb;
-    QFont ft("Monospace",20,2,true);
-//    ft.setPixelSize(22);
-    ft.setPointSize(22);
-    ft.setWeight(1);
-    ft.setFixedPitch(true);
-    setFont(ft);
-    qDebug() << Q_FUNC_INFO << "fonts from" << fdb.families();
-    qDebug() << Q_FUNC_INFO << "current font " << font() << "/ w" << font().weight() << "/ px"
-             << font().pixelSize() << "/ pt" << font().pointSize() ;
     setupUi(this);
+    QObject * but = findChild<QObject*> ("okButton");
+    if (but) {
+      okButton = but;
+      connect (but,SIGNAL(clicked()),this,SLOT(grabPass()));
+    }
   }
 
   TextBox::~TextBox ()
@@ -56,18 +52,19 @@ namespace deliberate {
   QString
   TextBox::GetText ()
   {
+    exec();
     return textValueBox->text();
+  }
+
+  void TextBox::grabPass()
+  {
+    theValue = textValueBox->text();
+    accept();
   }
 
   int
   TextBox::exec ()
   {
-    QFont ft = font();
-    QFontInfo inf(ft);
-    qDebug() << Q_FUNC_INFO << "font info " << inf.pixelSize() << "/" << inf.pointSize() << "fam " << inf.family();
-    ft.setPixelSize(20); ft.setPointSize(40);
-    setFont(ft);
-    qDebug() << Q_FUNC_INFO << "font size px " << font().pixelSize() << " pt " << font().pointSize();
     return this->QDialog::exec();
   }
 

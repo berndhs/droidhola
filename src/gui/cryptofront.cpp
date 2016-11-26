@@ -12,7 +12,7 @@
 #include <unistd.h>
 #include "spotkernel.h"
 #include "cryptobad.h"
-//#include "textbox.h"
+#include "textbox.h"
 
 using namespace std;
 
@@ -70,6 +70,7 @@ CryptoFront::CryptoFront(ChatApplication & app, ProgramVersion &vers, QString da
   m_kernelThread->start();
   qsrand(QDateTime::currentDateTime().toTime_t());
   connecTimer = nullptr;
+  m_passphrase = new TextBox (0);
   connect(m_kernel,SIGNAL(reportCrypt(QString)),this,SLOT(reportEncrypted(QString)),Qt::QueuedConnection);
   connect(m_kernel,SIGNAL(reportClear(QString)),this,SLOT(reportClear(QString)),Qt::QueuedConnection);
   connect(this,SIGNAL(haveInput(QByteArray)),m_kernel,SLOT(sendMsg(QByteArray)),Qt::QueuedConnection);
@@ -154,21 +155,6 @@ void CryptoFront::setMainDialog(QObject *dialogue)
   mainDialog = dialogue;
 }
 
-void
-CryptoFront::backsetInput(QString &input)
-{
-  qDebug() << Q_FUNC_INFO;
-  m_input = input;
-  QString shouldBe (input.size(),input[0]);
-  if (input != shouldBe) {
-    qDebug() << "bad input " << input;
-    exit(1);
-  } else {
-    qDebug() << "ok";
-  }
-  emit inputChanged(input);
-}
-
 void CryptoFront::reportEncrypted(QString crypto)
 {
   qDebug() << Q_FUNC_INFO << "tread" << thread();
@@ -189,6 +175,16 @@ void CryptoFront::gotSignal(QByteArray arg0)
   qDebug() << Q_FUNC_INFO << arg0;
 }
 
+void CryptoFront::getPhrase()
+{
+  qDebug() << Q_FUNC_INFO;
+  if (m_passphrase) {
+    m_passphrase->SetLabel("Enter Passphrase");
+    QString phrase = m_passphrase->GetText();
+    qDebug() << "phrase is " << phrase;
+  }
+}
+
 void
 CryptoFront::addKernel(SpotKernel &kern)
 {
@@ -202,7 +198,18 @@ CryptoFront::pokeThread()
   qDebug() << Q_FUNC_INFO;
 //  int threadNum = qrand() % threadPool.size();
 //  qDebug() << "calling thread " << threadNum;
-//  threadPool[threadNum]->makeData();
+  //  threadPool[threadNum]->makeData();
+}
+
+void CryptoFront::connectQML(CustomEngine &eng)
+{
+  if (m_passphrase) {
+    QList<QObject*> rootList = eng.rootObjects();
+    QObject *root0 = rootList.at(0);
+    QObject * button = root0->findChild<QObject*> ("passPhraseButton");
+    qDebug() << Q_FUNC_INFO << "passPhraseButton" << "is " << button;
+    connect (button,SIGNAL(wantPhrase()),this,SLOT(getPhrase()));
+  }
 }
 
 void
