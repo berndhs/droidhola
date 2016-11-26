@@ -1,6 +1,7 @@
 qrc_qml.cpp
 holad.pro.user
 bin/holad
+src/build*
 shadows/*
 obj/*.o
 */*.o
