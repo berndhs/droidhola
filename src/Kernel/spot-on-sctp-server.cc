@@ -608,7 +608,7 @@ void spoton_sctp_server::slotTimeout(void)
 #if QT_VERSION < 0x050000
 	    emit newConnection(socketDescriptor, address, port);
 #else
-	    emit newConnection(static_cast<qintptr> (socketDescriptor),
+			emit newQ5Connection(static_cast<qintptr> (socketDescriptor),
 			       address, port);
 #endif
 	}
@@ -730,7 +730,7 @@ void spoton_sctp_server::slotTimeout(void)
 #if QT_VERSION < 0x050000
 	    emit newConnection(socketDescriptor, address, port);
 #else
-	    emit newConnection(static_cast<qintptr> (socketDescriptor),
+			emit newQ5Connection(static_cast<qintptr> (socketDescriptor),
 			       address, port);
 #endif
 	}

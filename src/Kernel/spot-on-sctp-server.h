@@ -34,6 +34,7 @@
 
 #pragma message STR_HELPER(QT_VERSION)
 #pragma message STR(QT_VERSION)
+
 #if QT_VERSION >= 0x050000
 //  major bummer
 #else

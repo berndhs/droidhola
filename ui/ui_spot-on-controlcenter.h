@@ -44,8 +44,8 @@
 #include <QtWidgets/QToolButton>
 #include <QtWidgets/QVBoxLayout>
 #include <QtWidgets/QWidget>
-#include "spot-on-tabwidget.h"
-#include "spot-on-textedit.h"
+#include "GUI/spot-on-tabwidget.h"
+#include "GUI/spot-on-textedit.h"
 #include "spot-on-textbrowser.h"
 #include "spot-on.h"
 
@@ -991,7 +991,7 @@ public:
         scrollArea_5->setWidgetResizable(true);
         scrollAreaWidgetContents_5 = new QWidget();
         scrollAreaWidgetContents_5->setObjectName(QStringLiteral("scrollAreaWidgetContents_5"));
-        scrollAreaWidgetContents_5->setGeometry(QRect(0, 0, 578, 682));
+        scrollAreaWidgetContents_5->setGeometry(QRect(0, 0, 616, 685));
         verticalLayout_54 = new QVBoxLayout(scrollAreaWidgetContents_5);
         verticalLayout_54->setSpacing(5);
         verticalLayout_54->setObjectName(QStringLiteral("verticalLayout_54"));
@@ -1026,12 +1026,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        QIcon icon3;
-        icon3.addFile(QStringLiteral(":/nuvola/ok.png"), QSize(), QIcon::Normal, QIcon::Off);
-        saveBuzzName->setIcon(icon3);
 
         horizontalLayout_41->addWidget(saveBuzzName);
 
@@ -1244,12 +1241,9 @@ public:
 "background-position: top center; }\n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " } "));
-        QIcon icon4;
-        icon4.addFile(QStringLiteral(":/nuvola/add.png"), QSize(), QIcon::Normal, QIcon::Off);
-        join->setIcon(icon4);
         join->setIconSize(QSize(40, 40));
 
         horizontalLayout_28->addWidget(join);
@@ -1267,9 +1261,7 @@ public:
 
         verticalLayout_9->addWidget(scrollArea_5);
 
-        QIcon icon5;
-        icon5.addFile(QStringLiteral(":/nuvola/buzz_t.png"), QSize(), QIcon::Normal, QIcon::Off);
-        tab->addTab(tab_irc, icon5, QString());
+        tab->addTab(tab_irc, QString());
         tab_chat = new QWidget();
         tab_chat->setObjectName(QStringLiteral("tab_chat"));
         verticalLayout_18 = new QVBoxLayout(tab_chat);
@@ -1374,33 +1366,15 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        QIcon icon6;
-        icon6.addFile(QStringLiteral(":/nuvola/clear.png"), QSize(), QIcon::Normal, QIcon::Off);
-        clearMessages->setIcon(icon6);
         clearMessages->setIconSize(QSize(40, 40));
         clearMessages->setFlat(false);
 
         horizontalLayout_62gb->addWidget(clearMessages);
 
         status = new QComboBox(groupBox);
-        QIcon icon7;
-        icon7.addFile(QStringLiteral(":/nuvola/away.png"), QSize(), QIcon::Normal, QIcon::Off);
-        status->addItem(icon7, QString());
-        QIcon icon8;
-        icon8.addFile(QStringLiteral(":/nuvola/busy.png"), QSize(), QIcon::Normal, QIcon::Off);
-        status->addItem(icon8, QString());
-        QIcon icon9;
-        icon9.addFile(QStringLiteral(":/nuvola/chat.png"), QSize(), QIcon::Normal, QIcon::Off);
-        status->addItem(icon9, QString());
-        QIcon icon10;
-        icon10.addFile(QStringLiteral(":/nuvola/offline.png"), QSize(), QIcon::Normal, QIcon::Off);
-        status->addItem(icon10, QString());
-        QIcon icon11;
-        icon11.addFile(QStringLiteral(":/nuvola/online.png"), QSize(), QIcon::Normal, QIcon::Off);
-        status->addItem(icon11, QString());
         status->setObjectName(QStringLiteral("status"));
         status->setStyleSheet(QLatin1String("QComboBox#status {\n"
 " border: 2px solid gray;\n"
@@ -1444,10 +1418,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        sendMessage->setIcon(icon3);
         sendMessage->setIconSize(QSize(40, 40));
 
         horizontalLayout_62gb->addWidget(sendMessage);
@@ -1561,11 +1534,10 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }\n"
 ""));
-        saveNodeName->setIcon(icon3);
 
         verticalLayout_74->addWidget(saveNodeName);
 
@@ -1606,13 +1578,13 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }\n"
 ""));
-        QIcon icon12;
-        icon12.addFile(QStringLiteral(":/generic/menu.png"), QSize(), QIcon::Normal, QIcon::Off);
-        chatActionMenu->setIcon(icon12);
+        QIcon icon3;
+        icon3.addFile(QStringLiteral(":/generic/menu.png"), QSize(), QIcon::Normal, QIcon::Off);
+        chatActionMenu->setIcon(icon3);
         chatActionMenu->setPopupMode(QToolButton::MenuButtonPopup);
         chatActionMenu->setAutoRaise(true);
 
@@ -1625,9 +1597,7 @@ public:
 
         verticalLayout_18->addWidget(layouttab);
 
-        QIcon icon13;
-        icon13.addFile(QStringLiteral(":/nuvola/chat_t.png"), QSize(), QIcon::Normal, QIcon::Off);
-        tab->addTab(tab_chat, icon13, QString());
+        tab->addTab(tab_chat, QString());
         tab_email = new QWidget();
         tab_email->setObjectName(QStringLiteral("tab_email"));
         verticalLayout_26 = new QVBoxLayout(tab_email);
@@ -1657,7 +1627,7 @@ public:
         scrollArea_6->setWidgetResizable(true);
         scrollAreaWidgetContents_6 = new QWidget();
         scrollAreaWidgetContents_6->setObjectName(QStringLiteral("scrollAreaWidgetContents_6"));
-        scrollAreaWidgetContents_6->setGeometry(QRect(0, 0, 698, 668));
+        scrollAreaWidgetContents_6->setGeometry(QRect(0, 0, 680, 484));
         verticalLayout_55 = new QVBoxLayout(scrollAreaWidgetContents_6);
         verticalLayout_55->setSpacing(5);
         verticalLayout_55->setObjectName(QStringLiteral("verticalLayout_55"));
@@ -1694,12 +1664,9 @@ public:
 "\n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        QIcon icon14;
-        icon14.addFile(QStringLiteral(":/nuvola/refresh.png"), QSize(), QIcon::Normal, QIcon::Off);
-        refreshMail->setIcon(icon14);
         refreshMail->setIconSize(QSize(40, 40));
 
         horizontalLayout_8->addWidget(refreshMail);
@@ -1724,12 +1691,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        QIcon icon15;
-        icon15.addFile(QStringLiteral(":/nuvola/down.png"), QSize(), QIcon::Normal, QIcon::Off);
-        retrieveMail->setIcon(icon15);
         retrieveMail->setIconSize(QSize(40, 40));
 
         horizontalLayout_8->addWidget(retrieveMail);
@@ -1753,12 +1717,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        QIcon icon16;
-        icon16.addFile(QStringLiteral(":/nuvola/empty-trash.png"), QSize(), QIcon::Normal, QIcon::Off);
-        emptyTrash->setIcon(icon16);
         emptyTrash->setIconSize(QSize(40, 40));
 
         horizontalLayout_8->addWidget(emptyTrash);
@@ -1792,15 +1753,6 @@ public:
         horizontalLayout_85 = new QHBoxLayout();
         horizontalLayout_85->setObjectName(QStringLiteral("horizontalLayout_85"));
         folder = new QComboBox(verticalLayoutWidget_2);
-        QIcon icon17;
-        icon17.addFile(QStringLiteral(":/nuvola/inbox.png"), QSize(), QIcon::Normal, QIcon::Off);
-        folder->addItem(icon17, QString());
-        QIcon icon18;
-        icon18.addFile(QStringLiteral(":/nuvola/read.png"), QSize(), QIcon::Normal, QIcon::Off);
-        folder->addItem(icon18, QString());
-        QIcon icon19;
-        icon19.addFile(QStringLiteral(":/nuvola/full-trash.png"), QSize(), QIcon::Normal, QIcon::Off);
-        folder->addItem(icon19, QString());
         folder->setObjectName(QStringLiteral("folder"));
         folder->setStyleSheet(QLatin1String("QPushButton {\n"
 " border: 2px solid gray;\n"
@@ -1818,7 +1770,7 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
         folder->setSizeAdjustPolicy(QComboBox::AdjustToContents);
@@ -1844,10 +1796,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        deleteEmail->setIcon(icon6);
         deleteEmail->setIconSize(QSize(40, 40));
 
         horizontalLayout_85->addWidget(deleteEmail);
@@ -1870,12 +1821,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        QIcon icon20;
-        icon20.addFile(QStringLiteral(":/nuvola/reply.png"), QSize(), QIcon::Normal, QIcon::Off);
-        reply->setIcon(icon20);
         reply->setIconSize(QSize(40, 40));
 
         horizontalLayout_85->addWidget(reply);
@@ -1898,12 +1846,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        QIcon icon21;
-        icon21.addFile(QStringLiteral(":/nuvola/up.png"), QSize(), QIcon::Normal, QIcon::Off);
-        resend->setIcon(icon21);
         resend->setIconSize(QSize(40, 40));
 
         horizontalLayout_85->addWidget(resend);
@@ -1929,12 +1874,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        QIcon icon22;
-        icon22.addFile(QStringLiteral(":/generic/attach.png"), QSize(), QIcon::Normal, QIcon::Off);
-        saveAttachment->setIcon(icon22);
 
         verticalLayout_69->addWidget(saveAttachment);
 
@@ -1990,9 +1932,7 @@ public:
 
         horizontalLayout->addWidget(emailSplitter);
 
-        QIcon icon23;
-        icon23.addFile(QStringLiteral(":/nuvola/email.png"), QSize(), QIcon::Normal, QIcon::Off);
-        mailTab->addTab(tab_4, icon23, QString());
+        mailTab->addTab(tab_4, QString());
         tab_6 = new QWidget();
         tab_6->setObjectName(QStringLiteral("tab_6"));
         verticalLayout_23 = new QVBoxLayout(tab_6);
@@ -2109,12 +2049,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        QIcon icon24;
-        icon24.addFile(QStringLiteral(":/nuvola/copy.png"), QSize(), QIcon::Normal, QIcon::Off);
-        copyInstitution->setIcon(icon24);
 
         horizontalLayout_76->addWidget(copyInstitution);
 
@@ -2137,12 +2074,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        QIcon icon25;
-        icon25.addFile(QStringLiteral(":/nuvola/delete.png"), QSize(), QIcon::Normal, QIcon::Off);
-        deleteInstitution->setIcon(icon25);
 
         horizontalLayout_76->addWidget(deleteInstitution);
 
@@ -2263,10 +2197,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        addInstitution->setIcon(icon4);
 
         horizontalLayout_79->addWidget(addInstitution);
 
@@ -2279,9 +2212,7 @@ public:
 
         verticalLayout_23->addWidget(groupBox_6);
 
-        QIcon icon26;
-        icon26.addFile(QStringLiteral(":/nuvola/database.png"), QSize(), QIcon::Normal, QIcon::Off);
-        mailTab->addTab(tab_6, icon26, QString());
+        mailTab->addTab(tab_6, QString());
         tab_13 = new QWidget();
         tab_13->setObjectName(QStringLiteral("tab_13"));
         verticalLayout_19 = new QVBoxLayout(tab_13);
@@ -2339,7 +2270,7 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
 
@@ -2430,10 +2361,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        sendMail->setIcon(icon23);
 
         horizontalLayout_31->addWidget(sendMail);
 
@@ -2471,7 +2401,7 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
 
@@ -2564,10 +2494,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        clearOutgoing->setIcon(icon6);
 
         horizontalLayout_9->addWidget(clearOutgoing);
 
@@ -2586,7 +2515,7 @@ public:
         horizontalLayout_24->setContentsMargins(-1, 0, -1, -1);
         emailWriteActionMenu = new QToolButton(tab_13);
         emailWriteActionMenu->setObjectName(QStringLiteral("emailWriteActionMenu"));
-        emailWriteActionMenu->setIcon(icon12);
+        emailWriteActionMenu->setIcon(icon3);
         emailWriteActionMenu->setPopupMode(QToolButton::MenuButtonPopup);
         emailWriteActionMenu->setAutoRaise(true);
 
@@ -2601,9 +2530,7 @@ public:
 
         verticalLayout_19->addLayout(gridLayout_4);
 
-        QIcon icon27;
-        icon27.addFile(QStringLiteral(":/nuvola/modify.png"), QSize(), QIcon::Normal, QIcon::Off);
-        mailTab->addTab(tab_13, icon27, QString());
+        mailTab->addTab(tab_13, QString());
 
         verticalLayout_55->addWidget(mailTab);
 
@@ -2611,9 +2538,7 @@ public:
 
         verticalLayout_26->addWidget(scrollArea_6);
 
-        QIcon icon28;
-        icon28.addFile(QStringLiteral(":/nuvola/email_t.png"), QSize(), QIcon::Normal, QIcon::Off);
-        tab->addTab(tab_email, icon28, QString());
+        tab->addTab(tab_email, QString());
         tab_createserver = new QWidget();
         tab_createserver->setObjectName(QStringLiteral("tab_createserver"));
         verticalLayout_33 = new QVBoxLayout(tab_createserver);
@@ -2643,7 +2568,7 @@ public:
         scrollArea_7->setWidgetResizable(true);
         scrollAreaWidgetContents_7 = new QWidget();
         scrollAreaWidgetContents_7->setObjectName(QStringLiteral("scrollAreaWidgetContents_7"));
-        scrollAreaWidgetContents_7->setGeometry(QRect(0, 0, 564, 1738));
+        scrollAreaWidgetContents_7->setGeometry(QRect(0, 0, 500, 1691));
         verticalLayout_29 = new QVBoxLayout(scrollAreaWidgetContents_7);
         verticalLayout_29->setObjectName(QStringLiteral("verticalLayout_29"));
         verticalLayout_6 = new QVBoxLayout();
@@ -2765,7 +2690,7 @@ public:
 
         listenersActionMenu = new QToolButton(groupBox_7);
         listenersActionMenu->setObjectName(QStringLiteral("listenersActionMenu"));
-        listenersActionMenu->setIcon(icon12);
+        listenersActionMenu->setIcon(icon3);
         listenersActionMenu->setPopupMode(QToolButton::MenuButtonPopup);
         listenersActionMenu->setAutoRaise(true);
 
@@ -2921,10 +2846,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton#addListener:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        addListener->setIcon(icon3);
         addListener->setIconSize(QSize(40, 40));
 
         gridLayout_12->addWidget(addListener, 7, 4, 2, 1);
@@ -3019,7 +2943,7 @@ public:
 "\n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }\n"
 ""));
@@ -3101,11 +3025,10 @@ public:
 "\n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }\n"
 ""));
-        addAccount->setIcon(icon4);
 
         horizontalLayout_30->addWidget(addAccount);
 
@@ -3308,9 +3231,7 @@ public:
 
         verticalLayout_33->addWidget(scrollArea_7);
 
-        QIcon icon29;
-        icon29.addFile(QStringLiteral(":/nuvola/server_t.png"), QSize(), QIcon::Normal, QIcon::Off);
-        tab->addTab(tab_createserver, icon29, QString());
+        tab->addTab(tab_createserver, QString());
         tab_neighbors = new QWidget();
         tab_neighbors->setObjectName(QStringLiteral("tab_neighbors"));
         verticalLayout_34 = new QVBoxLayout(tab_neighbors);
@@ -3340,7 +3261,7 @@ public:
         scrollArea_8->setWidgetResizable(true);
         scrollAreaWidgetContents_8 = new QWidget();
         scrollAreaWidgetContents_8->setObjectName(QStringLiteral("scrollAreaWidgetContents_8"));
-        scrollAreaWidgetContents_8->setGeometry(QRect(0, 0, 588, 668));
+        scrollAreaWidgetContents_8->setGeometry(QRect(0, 0, 588, 448));
         verticalLayout_61 = new QVBoxLayout(scrollAreaWidgetContents_8);
         verticalLayout_61->setSpacing(5);
         verticalLayout_61->setObjectName(QStringLiteral("verticalLayout_61"));
@@ -3359,7 +3280,7 @@ public:
         horizontalLayout_26->setObjectName(QStringLiteral("horizontalLayout_26"));
         neighborsActionMenu = new QToolButton(layoutWidget1);
         neighborsActionMenu->setObjectName(QStringLiteral("neighborsActionMenu"));
-        neighborsActionMenu->setIcon(icon12);
+        neighborsActionMenu->setIcon(icon3);
         neighborsActionMenu->setPopupMode(QToolButton::MenuButtonPopup);
         neighborsActionMenu->setAutoRaise(true);
 
@@ -3806,14 +3727,11 @@ public:
 "\n"
 "\n"
 "QPushButton#addNeighbor:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }\n"
 "\n"
 ""));
-        QIcon icon30;
-        icon30.addFile(QStringLiteral(":/nuvola/connect.png"), QSize(), QIcon::Normal, QIcon::Off);
-        addNeighbor->setIcon(icon30);
         addNeighbor->setIconSize(QSize(40, 40));
 
         horizontalLayout_6->addWidget(addNeighbor);
@@ -3837,9 +3755,7 @@ public:
 
         verticalLayout_34->addWidget(scrollArea_8);
 
-        QIcon icon31;
-        icon31.addFile(QStringLiteral(":/nuvola/connect_t.png"), QSize(), QIcon::Normal, QIcon::Off);
-        tab->addTab(tab_neighbors, icon31, QString());
+        tab->addTab(tab_neighbors, QString());
         tab_search = new QWidget();
         tab_search->setObjectName(QStringLiteral("tab_search"));
         verticalLayout = new QVBoxLayout(tab_search);
@@ -3870,7 +3786,7 @@ public:
         scrollArea_9->setWidgetResizable(true);
         scrollAreaWidgetContents_9 = new QWidget();
         scrollAreaWidgetContents_9->setObjectName(QStringLiteral("scrollAreaWidgetContents_9"));
-        scrollAreaWidgetContents_9->setGeometry(QRect(0, 0, 628, 668));
+        scrollAreaWidgetContents_9->setGeometry(QRect(0, 0, 606, 289));
         verticalLayout_2 = new QVBoxLayout(scrollAreaWidgetContents_9);
         verticalLayout_2->setSpacing(5);
         verticalLayout_2->setObjectName(QStringLiteral("verticalLayout_2"));
@@ -3910,7 +3826,7 @@ public:
         urlSettings->setWidgetResizable(true);
         scrollAreaWidgetContents_12 = new QWidget();
         scrollAreaWidgetContents_12->setObjectName(QStringLiteral("scrollAreaWidgetContents_12"));
-        scrollAreaWidgetContents_12->setGeometry(QRect(0, 0, 630, 508));
+        scrollAreaWidgetContents_12->setGeometry(QRect(0, 0, 631, 484));
         verticalLayout_65 = new QVBoxLayout(scrollAreaWidgetContents_12);
         verticalLayout_65->setSpacing(5);
         verticalLayout_65->setObjectName(QStringLiteral("verticalLayout_65"));
@@ -3989,7 +3905,7 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
 
@@ -4017,7 +3933,7 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
 
@@ -4041,10 +3957,10 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        deleteAllUrls->setIcon(icon12);
+        deleteAllUrls->setIcon(icon3);
         deleteAllUrls->setPopupMode(QToolButton::MenuButtonPopup);
         deleteAllUrls->setAutoRaise(true);
 
@@ -4135,7 +4051,7 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
 
@@ -4260,7 +4176,7 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
 
@@ -4286,7 +4202,7 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
 
@@ -4423,7 +4339,7 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
 
@@ -4462,7 +4378,7 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
 
@@ -4499,7 +4415,7 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
 
@@ -4552,12 +4468,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        QIcon icon32;
-        icon32.addFile(QStringLiteral(":/nuvola/search.png"), QSize(), QIcon::Normal, QIcon::Off);
-        discover->setIcon(icon32);
 
         horizontalLayout_7->addWidget(discover);
 
@@ -4647,7 +4560,7 @@ public:
         scrollArea->setWidgetResizable(true);
         scrollAreaWidgetContents = new QWidget();
         scrollAreaWidgetContents->setObjectName(QStringLiteral("scrollAreaWidgetContents"));
-        scrollAreaWidgetContents->setGeometry(QRect(0, 0, 813, 1185));
+        scrollAreaWidgetContents->setGeometry(QRect(0, 0, 848, 1101));
         verticalLayout_35 = new QVBoxLayout(scrollAreaWidgetContents);
         verticalLayout_35->setSpacing(5);
         verticalLayout_35->setObjectName(QStringLiteral("verticalLayout_35"));
@@ -4864,11 +4777,10 @@ public:
 "\n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }\n"
 ""));
-        selectKernelPath->setIcon(icon3);
 
         horizontalLayout_58->addWidget(selectKernelPath);
 
@@ -4895,7 +4807,7 @@ public:
 "\n"
 "\n"
 "QPushButton#activateKernel:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }\n"
 "\n"
@@ -4907,9 +4819,6 @@ public:
 "\n"
 "\n"
 ""));
-        QIcon icon33;
-        icon33.addFile(QStringLiteral(":/nuvola/activate.png"), QSize(), QIcon::Normal, QIcon::Off);
-        activateKernel->setIcon(icon33);
         activateKernel->setIconSize(QSize(40, 40));
 
         horizontalLayout_15->addWidget(activateKernel);
@@ -4947,15 +4856,12 @@ public:
 "} \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }\n"
 "\n"
 "\n"
 ""));
-        QIcon icon34;
-        icon34.addFile(QStringLiteral(":/nuvola/deactivate.png"), QSize(), QIcon::Normal, QIcon::Off);
-        deactivateKernel->setIcon(icon34);
         deactivateKernel->setIconSize(QSize(40, 40));
 
         horizontalLayout_15->addWidget(deactivateKernel);
@@ -5245,11 +5151,10 @@ public:
 "\n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }\n"
 ""));
-        setPassphrase->setIcon(icon3);
         setPassphrase->setIconSize(QSize(40, 40));
 
         verticalLayout_16->addWidget(setPassphrase);
@@ -5420,9 +5325,7 @@ public:
 
         verticalLayout_15->addWidget(scrollArea);
 
-        QIcon icon35;
-        icon35.addFile(QStringLiteral(":/nuvola/settings_t.png"), QSize(), QIcon::Normal, QIcon::Off);
-        tab->addTab(tab_settings, icon35, QString());
+        tab->addTab(tab_settings, QString());
         tab_starbeam = new QWidget();
         tab_starbeam->setObjectName(QStringLiteral("tab_starbeam"));
         verticalLayout_39 = new QVBoxLayout(tab_starbeam);
@@ -5452,7 +5355,7 @@ public:
         scrollArea_4->setWidgetResizable(true);
         scrollAreaWidgetContents_4 = new QWidget();
         scrollAreaWidgetContents_4->setObjectName(QStringLiteral("scrollAreaWidgetContents_4"));
-        scrollAreaWidgetContents_4->setGeometry(QRect(0, 0, 564, 707));
+        scrollAreaWidgetContents_4->setGeometry(QRect(0, 0, 450, 619));
         verticalLayout_43 = new QVBoxLayout(scrollAreaWidgetContents_4);
         verticalLayout_43->setSpacing(5);
         verticalLayout_43->setObjectName(QStringLiteral("verticalLayout_43"));
@@ -5471,7 +5374,7 @@ public:
         horizontalLayout_71->setObjectName(QStringLiteral("horizontalLayout_71"));
         magnetsActionMenu = new QToolButton(tab_SB_Magnets);
         magnetsActionMenu->setObjectName(QStringLiteral("magnetsActionMenu"));
-        magnetsActionMenu->setIcon(icon12);
+        magnetsActionMenu->setIcon(icon3);
         magnetsActionMenu->setPopupMode(QToolButton::MenuButtonPopup);
         magnetsActionMenu->setAutoRaise(true);
 
@@ -5640,10 +5543,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        addMagnet->setIcon(icon4);
         addMagnet->setIconSize(QSize(40, 40));
 
         horizontalLayout_57->addWidget(addMagnet);
@@ -5702,7 +5604,7 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
 
@@ -5728,7 +5630,7 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
 
@@ -5740,9 +5642,7 @@ public:
 
         verticalLayout_48->addWidget(groupBox_8);
 
-        QIcon icon36;
-        icon36.addFile(QStringLiteral(":/nuvola/magnet.png"), QSize(), QIcon::Normal, QIcon::Off);
-        etpTab->addTab(tab_SB_Magnets, icon36, QString());
+        etpTab->addTab(tab_SB_Magnets, QString());
         tab_SB_incoming = new QWidget();
         tab_SB_incoming->setObjectName(QStringLiteral("tab_SB_incoming"));
         verticalLayout_44 = new QVBoxLayout(tab_SB_incoming);
@@ -5822,7 +5722,7 @@ public:
         horizontalLayout_55->setObjectName(QStringLiteral("horizontalLayout_55"));
         receivedActionMenu = new QToolButton(receivers);
         receivedActionMenu->setObjectName(QStringLiteral("receivedActionMenu"));
-        receivedActionMenu->setIcon(icon12);
+        receivedActionMenu->setIcon(icon3);
         receivedActionMenu->setPopupMode(QToolButton::MenuButtonPopup);
         receivedActionMenu->setAutoRaise(true);
 
@@ -5858,7 +5758,7 @@ public:
 
         verticalLayout_44->addWidget(splitter);
 
-        etpTab->addTab(tab_SB_incoming, icon15, QString());
+        etpTab->addTab(tab_SB_incoming, QString());
         tab_SB_Upload = new QWidget();
         tab_SB_Upload->setObjectName(QStringLiteral("tab_SB_Upload"));
         verticalLayout_46 = new QVBoxLayout(tab_SB_Upload);
@@ -5907,7 +5807,7 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
 
@@ -5966,7 +5866,7 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
 
@@ -6045,10 +5945,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        transmit->setIcon(icon21);
         transmit->setIconSize(QSize(40, 40));
 
         verticalLayout_56->addWidget(transmit);
@@ -6122,10 +6021,10 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        transmittedActionMenu->setIcon(icon12);
+        transmittedActionMenu->setIcon(icon3);
         transmittedActionMenu->setPopupMode(QToolButton::MenuButtonPopup);
         transmittedActionMenu->setAutoRaise(true);
 
@@ -6149,10 +6048,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        rewind->setIcon(icon14);
 
         horizontalLayout_72->addWidget(rewind);
 
@@ -6162,7 +6060,7 @@ public:
 
         verticalLayout_46->addWidget(groupBox_9);
 
-        etpTab->addTab(tab_SB_Upload, icon21, QString());
+        etpTab->addTab(tab_SB_Upload, QString());
 
         verticalLayout_43->addWidget(etpTab);
 
@@ -6170,9 +6068,7 @@ public:
 
         verticalLayout_39->addWidget(scrollArea_4);
 
-        QIcon icon37;
-        icon37.addFile(QStringLiteral(":/nuvola/starbeam_t.png"), QSize(), QIcon::Normal, QIcon::Off);
-        tab->addTab(tab_starbeam, icon37, QString());
+        tab->addTab(tab_starbeam, QString());
         tab_cultivation = new QWidget();
         tab_cultivation->setObjectName(QStringLiteral("tab_cultivation"));
         verticalLayout_10 = new QVBoxLayout(tab_cultivation);
@@ -6203,7 +6099,7 @@ public:
         scrollArea_10->setWidgetResizable(true);
         scrollAreaWidgetContents_10 = new QWidget();
         scrollAreaWidgetContents_10->setObjectName(QStringLiteral("scrollAreaWidgetContents_10"));
-        scrollAreaWidgetContents_10->setGeometry(QRect(0, 0, 578, 682));
+        scrollAreaWidgetContents_10->setGeometry(QRect(0, 0, 616, 685));
         verticalLayout_58 = new QVBoxLayout(scrollAreaWidgetContents_10);
         verticalLayout_58->setSpacing(5);
         verticalLayout_58->setObjectName(QStringLiteral("verticalLayout_58"));
@@ -6220,7 +6116,6 @@ public:
         font3.setBold(true);
         font3.setWeight(75);
         activeUrlDistribution->setFont(font3);
-        activeUrlDistribution->setChecked(true);
 
         horizontalLayout_56->addWidget(activeUrlDistribution);
 
@@ -6263,7 +6158,7 @@ public:
         horizontalLayout_12->setObjectName(QStringLiteral("horizontalLayout_12"));
         urlActionMenu = new QToolButton(groupBox_2);
         urlActionMenu->setObjectName(QStringLiteral("urlActionMenu"));
-        urlActionMenu->setIcon(icon12);
+        urlActionMenu->setIcon(icon3);
         urlActionMenu->setPopupMode(QToolButton::MenuButtonPopup);
         urlActionMenu->setAutoRaise(true);
 
@@ -6303,10 +6198,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        saveUrlName->setIcon(icon3);
 
         horizontalLayout_12->addWidget(saveUrlName);
 
@@ -6379,7 +6273,7 @@ public:
 
         verticalLayout_13->addWidget(downDistillers);
 
-        urlTab->addTab(tab_2, icon15, QString());
+        urlTab->addTab(tab_2, QString());
         tab_5 = new QWidget();
         tab_5->setObjectName(QStringLiteral("tab_5"));
         verticalLayout_8 = new QVBoxLayout(tab_5);
@@ -6403,7 +6297,7 @@ public:
 
         verticalLayout_8->addWidget(sharedDistillers);
 
-        urlTab->addTab(tab_5, icon15, QString());
+        urlTab->addTab(tab_5, QString());
         tab_3 = new QWidget();
         tab_3->setObjectName(QStringLiteral("tab_3"));
         verticalLayout_17 = new QVBoxLayout(tab_3);
@@ -6427,7 +6321,7 @@ public:
 
         verticalLayout_17->addWidget(upDistillers);
 
-        urlTab->addTab(tab_3, icon21, QString());
+        urlTab->addTab(tab_3, QString());
 
         verticalLayout_11->addWidget(urlTab);
 
@@ -6498,10 +6392,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        addDistiller->setIcon(icon4);
 
         horizontalLayout_5->addWidget(addDistiller);
 
@@ -6530,10 +6423,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        deleteDistillers->setIcon(icon25);
 
         horizontalLayout_5->addWidget(deleteDistillers);
 
@@ -6555,10 +6447,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        refreshDistillers->setIcon(icon14);
 
         horizontalLayout_5->addWidget(refreshDistillers);
 
@@ -6632,13 +6523,10 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton#pushButtonCopytoClipboard_All:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }\n"
 ""));
-        QIcon icon38;
-        icon38.addFile(QStringLiteral(":/nuvola/key.png"), QSize(), QIcon::Normal, QIcon::Off);
-        toolButtonCopyToClipboard->setIcon(icon38);
         toolButtonCopyToClipboard->setIconSize(QSize(40, 40));
 
         horizontalLayout_38->addWidget(toolButtonCopyToClipboard);
@@ -6661,7 +6549,6 @@ public:
 
         addFriendEmail = new QRadioButton(groupBox_addkey_3);
         addFriendEmail->setObjectName(QStringLiteral("addFriendEmail"));
-        addFriendEmail->setIcon(icon23);
 
         horizontalLayout_62->addWidget(addFriendEmail);
 
@@ -6671,7 +6558,6 @@ public:
 
         addFriendPublicKeyRadio = new QRadioButton(groupBox_addkey_3);
         addFriendPublicKeyRadio->setObjectName(QStringLiteral("addFriendPublicKeyRadio"));
-        addFriendPublicKeyRadio->setIcon(icon38);
         addFriendPublicKeyRadio->setChecked(true);
 
         horizontalLayout_62->addWidget(addFriendPublicKeyRadio);
@@ -6722,10 +6608,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        addFriend->setIcon(icon4);
 
         horizontalLayout_64->addWidget(addFriend);
 
@@ -6752,10 +6637,9 @@ public:
 "background-position: top center; } \n"
 "\n"
 "QPushButton:pressed {\n"
-"     background-color: darkgrey;\n"
+"     background-color: darkgray;\n"
 "     border-style: inset;\n"
 " }"));
-        clearFriend->setIcon(icon6);
 
         horizontalLayout_64->addWidget(clearFriend);
 
@@ -6768,9 +6652,7 @@ public:
 
         verticalLayout_22->addLayout(horizontalLayout_27);
 
-        QIcon icon39;
-        icon39.addFile(QStringLiteral(":/nuvola/key_t.png"), QSize(), QIcon::Normal, QIcon::Off);
-        tab->addTab(tab_addkey, icon39, QString());
+        tab->addTab(tab_addkey, QString());
         tab_login = new QWidget();
         tab_login->setObjectName(QStringLiteral("tab_login"));
         tab_login->setStyleSheet(QLatin1String("QWidget#tab_login \n"
@@ -6899,7 +6781,7 @@ public:
 "     border-style: outset;\n"
 "     border-width: 2px;\n"
 "     border-radius: 10px;\n"
-"     border-color: grey;\n"
+"     border-color: gray;\n"
 "     min-width: 10em;\n"
 "     padding: 2px;\n"
 " }\n"
@@ -6919,7 +6801,7 @@ public:
 "     border-style: outset;\n"
 "     border-width: 2px;\n"
 "     border-radius: 10px;\n"
-"     border-color: grey;\n"
+"     border-color: gray;\n"
 "     min-width: 10em;\n"
 "     padding: 2px;\n"
 " }\n"
@@ -6946,7 +6828,7 @@ public:
 "     border-style: outset;\n"
 "     border-width: 2px;\n"
 "     border-radius: 10px;\n"
-"     border-color: grey;\n"
+"     border-color: gray;\n"
 "     min-width: 10em;\n"
 "     padding: 2px;\n"
 " }\n"
@@ -6998,7 +6880,7 @@ public:
 "border-style: outset;\n"
 "border-width: 2px;\n"
 "border-radius: 10px;\n"
-"border-color: grey;\n"
+"border-color: gray;\n"
 "min-width: 10em;\n"
 "padding: 2px;\n"
 "}\n"
@@ -7021,7 +6903,6 @@ public:
 "color: rgb(255, 255, 255);\n"
 "border-style: inset;\n"
 "}"));
-        passphraseButton->setIcon(icon3);
         passphraseButton->setIconSize(QSize(40, 40));
 
         horizontalLayout_42->addWidget(passphraseButton);
@@ -7070,9 +6951,7 @@ public:
 
         verticalLayout_60->addLayout(verticalLayout_5);
 
-        QIcon icon40;
-        icon40.addFile(QStringLiteral(":/everaldo/goldbug_t.png"), QSize(), QIcon::Normal, QIcon::Off);
-        tab->addTab(tab_login, icon40, QString());
+        tab->addTab(tab_login, QString());
 
         verticalLayout_3->addWidget(tab);
 
@@ -7526,7 +7405,7 @@ public:
 
         tab->setCurrentIndex(0);
         buzzTab->setCurrentIndex(-1);
-        status->setCurrentIndex(4);
+        status->setCurrentIndex(0);
         mailTab->setCurrentIndex(0);
         email_fs_gb->setCurrentIndex(2);
         listenerTransport->setCurrentIndex(2);
@@ -7638,12 +7517,14 @@ public:
         clearMessages->setToolTip(QApplication::translate("spoton_mainwindow", "Clear chat.", 0));
 #endif // QT_NO_TOOLTIP
         clearMessages->setText(QString());
-        status->setItemText(0, QApplication::translate("spoton_mainwindow", "Away", 0));
-        status->setItemText(1, QApplication::translate("spoton_mainwindow", "Busy", 0));
-        status->setItemText(2, QApplication::translate("spoton_mainwindow", "Custom", 0));
-        status->setItemText(3, QApplication::translate("spoton_mainwindow", "Offline", 0));
-        status->setItemText(4, QApplication::translate("spoton_mainwindow", "Online", 0));
-
+        status->clear();
+        status->insertItems(0, QStringList()
+         << QApplication::translate("spoton_mainwindow", "Away", 0)
+         << QApplication::translate("spoton_mainwindow", "Busy", 0)
+         << QApplication::translate("spoton_mainwindow", "Custom", 0)
+         << QApplication::translate("spoton_mainwindow", "Offline", 0)
+         << QApplication::translate("spoton_mainwindow", "Online", 0)
+        );
 #ifndef QT_NO_TOOLTIP
         status->setToolTip(QApplication::translate("spoton_mainwindow", "Set your status.", 0));
 #endif // QT_NO_TOOLTIP
@@ -7707,10 +7588,12 @@ public:
         emptyTrash->setToolTip(QApplication::translate("spoton_mainwindow", "Empty Trash", 0));
 #endif // QT_NO_TOOLTIP
         emptyTrash->setText(QString());
-        folder->setItemText(0, QApplication::translate("spoton_mainwindow", "Inbox", 0));
-        folder->setItemText(1, QApplication::translate("spoton_mainwindow", "Sent", 0));
-        folder->setItemText(2, QApplication::translate("spoton_mainwindow", "Trash", 0));
-
+        folder->clear();
+        folder->insertItems(0, QStringList()
+         << QApplication::translate("spoton_mainwindow", "Inbox", 0)
+         << QApplication::translate("spoton_mainwindow", "Sent", 0)
+         << QApplication::translate("spoton_mainwindow", "Trash", 0)
+        );
         deleteEmail->setText(QApplication::translate("spoton_mainwindow", "Delete Selection", 0));
         reply->setText(QApplication::translate("spoton_mainwindow", "Reply", 0));
         resend->setText(QApplication::translate("spoton_mainwindow", "Resend", 0));

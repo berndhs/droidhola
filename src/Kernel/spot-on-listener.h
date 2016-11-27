@@ -82,7 +82,7 @@ class spoton_listener_tcp_server: public QTcpServer
 		     const QHostAddress &address,
 		     const quint16 port);
 #else
-  void newConnection(const qintptr socketDescriptor,
+	void newQ5Connection(const qintptr socketDescriptor,
 		     const QHostAddress &address,
 		     const quint16 port);
 #endif
@@ -155,7 +155,7 @@ class spoton_listener_udp_server: public QUdpSocket
 		     const QHostAddress &address,
 		     const quint16 port);
 #else
-  void newConnection(const qintptr socketDescriptor,
+	void newQ5Connection(const qintptr socketDescriptor,
 		     const QHostAddress &address,
 		     const quint16 port);
 #endif

@@ -107,7 +107,11 @@ void spoton_listener_tcp_server::incomingConnection(int socketDescriptor)
           socket.abort();
         }
       else
+#if QT_VERSION >= 050000
+        emit newQ5Connection(socketDescriptor, peerAddress, peerPort);
+#else
         emit newConnection(socketDescriptor, peerAddress, peerPort);
+#endif
     }
 }
 
@@ -155,7 +159,11 @@ void spoton_listener_udp_server::slotReadyRead(void)
       else
         {
           if(!clientExists(peerAddress, peerPort))
+#if QT_VERSION >= 0x050000
+            emit newQ5Connection(socketDescriptor(), peerAddress, peerPort);
+#else
             emit newConnection(socketDescriptor(), peerAddress, peerPort);
+#endif
 
           if(!datagram.isEmpty() && size > 0)
             emit newDatagram(datagram.mid(0, static_cast<int> (size)));
