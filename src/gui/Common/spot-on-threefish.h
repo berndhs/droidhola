@@ -1,12 +1,5 @@
-
-#ifndef THREADBODY_H
-#define THREADBODY_H
-
-
-/****************************************************************/
-
 /*
-** Copyright (c) 2016 - present, Bernd Stramm.
+** Copyright (c) 2011 - 10^10^10, Alexis Megas.
 ** All rights reserved.
 **
 ** Redistribution and use in source and binary forms, with or without
@@ -18,9 +11,9 @@
 **    notice, this list of conditions and the following disclaimer in the
 **    documentation and/or other materials provided with the distribution.
 ** 3. The name of the author may not be used to endorse or promote products
-**    derived from chatchat without specific prior written permission.
+**    derived from Spot-On without specific prior written permission.
 **
-** chatchat IS PROVIDED BY THE AUTHORS ``AS IS'' AND ANY EXPRESS OR
+** SPOT-ON IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
 ** IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
 ** OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
 ** IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
@@ -29,40 +22,37 @@
 ** DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 ** THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 ** (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
-** chatchat, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+** SPOT-ON, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
+#ifndef _spoton_threefish_h_
+#define _spoton_threefish_h_
 
- /****************************************************************/
+#include <QByteArray>
+#include <QReadWriteLock>
 
-
-#include <QObject>
-#include <QThread>
-#include <QTcpServer>
-#include <QTcpSocket>
-#include <QString>
-#include "customengine.h"
-
-class CryptoFront;
-
-class ThreadBody : public QObject
+class spoton_threefish
 {
-    Q_OBJECT
-public:
-  ThreadBody(QString name = "ThreadBody", CustomEngine *p=0);
+ public:
+  spoton_threefish(void);
+  ~spoton_threefish();
+  QByteArray decrypted(const QByteArray &bytes, bool *ok) const;
+  QByteArray encrypted(const QByteArray &bytes, bool *ok) const;
+  static void test1(void);
+  static void test2(void);
+  static void test3(void);
+  void setKey(const QByteArray &key, bool *ok);
+  void setKey(const char *key, const size_t keyLength, bool *ok);
+  void setTweak(const QByteArray &tweak, bool *ok);
 
-  void doReport ();
-  void goToThread (QThread * t);
-  void setFront (CryptoFront * ft);
-
-public slots:
-
-  void makeData();
-
-private:
-  QString m_name;
-  CustomEngine * m_parentObj;
-  CryptoFront  * m_front;
+ private:
+  char *m_key; // Stored in secure memory.
+  char *m_tweak;
+  mutable QReadWriteLock m_locker;
+  size_t m_blockSize;
+  size_t m_keyLength;
+  size_t m_tweakLength;
+  void setInitializationVector(QByteArray &bytes, bool *ok) const;
 };
 
-#endif // THREADLEFT_H
+#endif

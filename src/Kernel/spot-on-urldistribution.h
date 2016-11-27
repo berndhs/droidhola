@@ -1,11 +1,5 @@
-#ifndef SPOTKERNEL_H
-#define SPOTKERNEL_H
-
-
-/****************************************************************/
-
 /*
-** Copyright (c) 2016 - present, Bernd Stramm.
+** Copyright (c) 2011 - 10^10^10, Alexis Megas.
 ** All rights reserved.
 **
 ** Redistribution and use in source and binary forms, with or without
@@ -17,9 +11,9 @@
 **    notice, this list of conditions and the following disclaimer in the
 **    documentation and/or other materials provided with the distribution.
 ** 3. The name of the author may not be used to endorse or promote products
-**    derived from chatchat without specific prior written permission.
+**    derived from Spot-On without specific prior written permission.
 **
-** chatchat IS PROVIDED BY THE AUTHORS ``AS IS'' AND ANY EXPRESS OR
+** SPOT-ON IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
 ** IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
 ** OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
 ** IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
@@ -28,51 +22,37 @@
 ** DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 ** THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 ** (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
-** chatchat, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+** SPOT-ON, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
+#ifndef _spoton_urldistribution_h_
+#define _spoton_urldistribution_h_
 
- /****************************************************************/
-
-
-#include <QObject>
+#include <QAtomicInt>
 #include <QThread>
 
-class CryptoFront;
-
-class SpotKernel : public QObject
+class spoton_urldistribution: public QThread
 {
   Q_OBJECT
 
-  Q_PROPERTY(QByteArray Msg READ msg WRITE sendMsg)
+ public:
+  spoton_urldistribution(QObject *parent);
+  ~spoton_urldistribution();
 
+ private:
+  QAtomicInt m_quit;
+  qint64 m_lastUniqueId;
+  quint64 m_limit;
+  void run(void);
 
-public:
+ private slots:
+  void slotTimeout(void);
 
-  SpotKernel(QObject *parent);
+ public slots:
+  void quit(void);
 
-  QByteArray msg() const;
-
-  void setCrypto (CryptoFront * front);
-
-public slots:
-
-  void sendMsg(QByteArray Msg);
-  void clearText(QByteArray Msg);
-
-signals:
-
-  void MsgChanged(QByteArray Msg);
-  void reportCrypt (QString crypt);
-  void reportClear (QString clear);
-
-private:
-
-
-  char padding1[57];
-  CryptoFront * m_front;
-  QByteArray m_Msg;
-  char padding2[69];
+ signals:
+  void sendURLs(const QByteArray &data);
 };
 
-#endif // SPOTKERNEL_H
+#endif

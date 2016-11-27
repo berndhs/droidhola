@@ -210,7 +210,7 @@ class spoton_webengine_url_request_interceptor:
 };
 #endif
 
-int spot_a_main(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
   /*
   ** Disable JIT.
