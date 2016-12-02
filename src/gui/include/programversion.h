@@ -27,6 +27,11 @@
 
 #include <QObject>
 
+#if QT_VERSION >= 0x050000
+#else
+we don't want to build this for Qt-4
+#endif
+
 namespace deliberate {
 
 class ProgramVersion : public QObject{

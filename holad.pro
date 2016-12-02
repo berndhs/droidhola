@@ -16,8 +16,10 @@ CONFIG += c++11
 #  QMAKE_CXX = /usr/bin/clang++
 #}
 
-QMAKE_CC = /usr/bin/gcc
-QMAKE_CXX = /usr/bin/g++
+contains(QMAKESPEC,"x86") {
+  QMAKE_CC = /usr/bin/gcc
+  QMAKE_CXX = /usr/bin/g++
+}
 
 message ("qmakespec:")
 message ($$QMAKESPEC)
@@ -42,7 +44,9 @@ DEFINES -= SPOTON_SCTP_ENABLED
 DEFINES -= SPOTON_BLUETOOTH_ENABLED \
            SPOTON_LINKED_WITH_LIBGEOIP \
            SPOTON_LINKED_WITH_LIBPTHREAD \
-           SPOTON_MCELIECE_ENABLED
+           SPOTON_MCELIECE_ENABLED \
+           SPOTON_DOC_ENABLED \
+           SPOTON_ALL \
 
 message("DEFINES is " $$DEFINES)
 
@@ -86,8 +90,8 @@ RESOURCES += src/gui/droidhola.qrc \
 
 INCLUDEPATH += \
               src/ \
-              src/Common/ \
               src/gui/include/ \
+              src/Common/ \
               ui/ \
               libs/ \
               libs/libSpotOn/ \
@@ -96,10 +100,14 @@ INCLUDEPATH += \
 # Additional import path used to resolve QML modules in Qt Creator's code model
 QML_IMPORT_PATH =
 
-LIBS += \
+
+contains(QMAKESPEC,"x86") {
+  LIBS += \
       -lGeoIP -lntru \
        -lcrypto -lcurl -lgcrypt -lgpg-error -lntl \
        -lpq -lspoton -lssl \
+
+}
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
@@ -109,13 +117,13 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 FORMS = \
 #     src/gbgui/spot-on-adaptive-echo-prompt.ui  \
 #     src/gbgui/spot-on-buzzpage.ui  \
-#     src/gbgui/spot-on-chatwindow.ui  \
+     src/gbgui/spot-on-chatwindow.ui  \
 #     src/gbgui/spot-on-controlcenter.ui  \
      src/gbgui/getstring.ui \
 #     src/gbgui/spot-on-adaptive-echo-prompt.ui \
 #     src/gbgui/spot-on-neighborstatistics.ui  \
 #     src/gbgui/spot-on-documentation.ui  \
-#     src/gbgui/spot-on-echo-key-share.ui  \
+     src/gbgui/spot-on-echo-key-share.ui  \
 #     src/gbgui/spot-on-encryptfile-page.ui  \
 #     src/gbgui/spot-on-encryptfile.ui  \
 #     src/gbgui/spot-on-forward-secrecy-algorithms-selection.ui  \
@@ -149,7 +157,7 @@ HEADERS = \
     src/gui/include/droidhola.h \
     src/gui/include/textbox.h \
     src/gui/include/spot-on-defines.h \
-#    src/gui/include/spot-on.h \
+    src/gui/include/spot-on.h \
 #    src/gui/include/spot-on-encryptfile.h \
 #    src/gui/include/spot-on-encryptfile-page.h \
 #    src/gui/include/spot-on-logviewer.h \
@@ -201,7 +209,7 @@ SOURCES += \
     src/gui/programversion.cpp \
     src/gui/droidhola.cpp \
     src/gui/textbox.cpp \
-#    src/gui/spot-on-a.cc \
+    src/gui/spot-on-a.cc \
 #  src/Kernel/spotonlib.cpp \
 #    src/Common/spot-on-crypt.cc \
 #    src/gui/spot-on-encryptfile.cc \

@@ -98,7 +98,8 @@ Item {
         id: navRow;
         visible: loginPage.havePass;
         anchors.left: loginPage.left;
-        anchors.bottom: loginPage.bottom;
+        anchors.top: loginPage.top;
+        anchors.topMargin: versionButton.height+5
 
     }
 }
