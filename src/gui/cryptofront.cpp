@@ -75,6 +75,7 @@ CryptoFront::CryptoFront(ChatApplication & app, ProgramVersion &vers, QString da
   connect(m_kernel,SIGNAL(reportClear(QString)),this,SLOT(reportClear(QString)),Qt::QueuedConnection);
   connect(this,SIGNAL(haveInput(QByteArray)),m_kernel,SLOT(sendMsg(QByteArray)),Qt::QueuedConnection);
   connect(this,SIGNAL(haveCrypto(QByteArray)),m_kernel,SLOT(clearText(QByteArray)),Qt::QueuedConnection);
+  connect (m_passphrase, SIGNAL(haveText(QString)),this,SLOT(changeSource(QString)));
 //  connecTimer = new QTimer();
 //  connect(connecTimer,SIGNAL(timeout()),this,SLOT(pokeThread()));
 //  connecTimer->start(10000);
@@ -180,6 +181,7 @@ void CryptoFront::getPhrase()
   qDebug() << Q_FUNC_INFO;
   if (m_passphrase) {
     m_passphrase->SetLabel("Enter Passphrase");
+    m_passphrase->SetButtonText("AllRight");
     QString phrase = m_passphrase->GetText();
     qDebug() << "phrase is " << phrase;
   }
@@ -201,14 +203,47 @@ CryptoFront::pokeThread()
   //  threadPool[threadNum]->makeData();
 }
 
+void CryptoFront::changeSource(QString pass)
+{
+  qDebug() << Q_FUNC_INFO << pass;
+  QVariant msg = "NoPage.qml";
+  QVariant returnedValue ("nothing");
+  QMetaObject::invokeMethod(loadConnect, "nextQml",
+          Q_RETURN_ARG(QVariant, returnedValue),
+          Q_ARG(QVariant, msg));
+  qDebug() << "after dooDa" << returnedValue;
+
+  if (root0) {
+    QObject * cantSee = root0->findChild<QObject*> ("cantSeeMe");
+    qDebug() << Q_FUNC_INFO << "cantSee at " << cantSee;
+    if (cantSee) {
+      cantSee->setProperty("havePass",QVariant(true));
+    }
+  }
+}
+
 void CryptoFront::connectQML(CustomEngine &eng)
 {
+  qDebug() << Q_FUNC_INFO << "\t\t\t======================================="
+           << "\n---------------------------------------"
+          ;
   if (m_passphrase) {
     QList<QObject*> rootList = eng.rootObjects();
-    QObject *root0 = rootList.at(0);
+    root0 = rootList.at(0);
     QObject * button = root0->findChild<QObject*> ("passPhraseButton");
     qDebug() << Q_FUNC_INFO << "passPhraseButton" << "is " << button;
     connect (button,SIGNAL(wantPhrase()),this,SLOT(getPhrase()));
+    QObject * top = root0->findChild<QObject*> ("cantSeeMe");
+    qDebug() << "\n\n\n\n\n\ntop at " << top;
+    if (top) {
+      loadConnect = top;
+      QVariant returnedValue;
+      QVariant msg = "Hello from C++";
+      QMetaObject::invokeMethod(loadConnect, "dooDa",
+              Q_RETURN_ARG(QVariant, returnedValue),
+              Q_ARG(QVariant, msg));
+      qDebug() << "after dooDa" << returnedValue;
+    }
   }
 }
 

@@ -7,6 +7,8 @@ Item {
     objectName: "loginPage";
     visible: true;
 
+    property alias havePass: mainBigBox.havePass;
+
     Button {
         height: versionButton.height;
         width: height*1.75;
@@ -91,5 +93,13 @@ Item {
                 passButton.wantPhrase();
             }
         }
+    }
+
+    NavRow {
+        id: navRow;
+        visible: loginPage.havePass;
+        anchors.left: bigBox.left;
+        anchors.bottom: bigBox.bottom;
+
     }
 }

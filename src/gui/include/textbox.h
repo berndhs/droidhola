@@ -14,6 +14,7 @@
 #include "ui_getstring.h"
 #include <QInputDialog>
 #include <QDialog>
+#include <QAbstractButton>
 
 namespace deliberate {
 
@@ -27,8 +28,14 @@ Q_OBJECT
     ~TextBox ();
 
     void SetLabel (QString lbl);
+    void SetButtonText (QString butText);
     void SetDefault (QString def);
     QString GetText ();
+
+ signals:
+
+    void haveText (QString text);
+
 
   public slots:
 
@@ -41,7 +48,7 @@ Q_OBJECT
   private:
 
     QString theValue;
-    QObject * okButton;
+    QAbstractButton * okButton;
 
 };
 

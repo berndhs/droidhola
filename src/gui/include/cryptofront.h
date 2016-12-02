@@ -110,6 +110,7 @@ public slots:
   void getPhrase();
 
   void pokeThread();
+  void changeSource (QString pass);
 
 public:
 
@@ -142,6 +143,8 @@ private:
   TextBox  *m_passphrase;
 
   QObject * mainDialog;
+  QObject * root0;
+  QObject * loadConnect;
 };
 
 #endif // CRYPTOFRONT_H

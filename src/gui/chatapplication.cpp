@@ -16,10 +16,18 @@ bool ChatApplication::notify(QObject* receiver, QEvent* event)
   static int count(0);
   ++count;
 
-  qDebug() << Q_FUNC_INFO << count;
+//  qDebug() << Q_FUNC_INFO;
   done = QApplication::notify(receiver, event);
   try {
-    qDebug() << "\tsays" << done << "on " << count;
+    if (event->spontaneous()) {
+//      qDebug() << "outside event" << event->type();
+    } else {
+      if (event->type() == QEvent::MouseMove) {
+//        qDebug() << "taking it";
+        event->accept();
+      }
+    }
+//    qDebug() << "\tsays" << done << "on " << count;
 
   } catch (...) {
     qDebug() << Q_FUNC_INFO << "some exception that we will ignore";

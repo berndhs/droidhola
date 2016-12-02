@@ -11,11 +11,24 @@ ApplicationWindow {
     height: 480
     title: chatchat.name
     objectName: "nouveauMainTop";
+    property alias havePass: cantSeeMe.havePass;
+
     Item {
+        id: cantSeeMe;
         objectName: "cantSeeMe";
         property string title: "";
         property string text: "";
         property int showVersion: 0;
+        property bool havePass: false;
+        function dooDa(argument) {
+            console.log(objectName + " / dooDa " + argument);
+            return "returrrrn";
+        }
+        function nextQml (theSource) {
+            chatchatLoader.source = theSource;
+            return theSource;
+        }
+
         onTitleChanged: {
             messageDialog.title = title;
             messageDialogText.dumpStuff();
@@ -31,8 +44,6 @@ ApplicationWindow {
             console.log("\tDualog text font ",messageDialogText.font);
             messageDialogText.dumpStuff();
         }
-
-
 
         function showThePopup (myTitle, theText) {
             messageDialog.title = myTitle;
@@ -103,6 +114,7 @@ ApplicationWindow {
 
     Loader {
         id: chatchatLoader;
+        property alias havePass: mainBigBox.havePass;
         objectName: "chatchatLoader";
         anchors.fill: parent;
         source: "LoginPage.qml"

@@ -106,23 +106,12 @@ main(int argc, char *argv[])
   QList<QObject*> rootList = engine.rootObjects();
   qDebug() << Q_FUNC_INFO << "there are " << rootList.count() << "root objects";
   qDebug() << Q_FUNC_INFO << "the are " << rootList;
-  QList<QObject*> mainGuys;
+  QObject* mainGuy;
   for (int i= 0; i<rootList.count(); ++i) {
     QString name("cantSeeMe");
-    mainGuys = rootList.at(i)->findChildren<QObject*>();
-    qDebug() << Q_FUNC_INFO << "number of children of top " << name << mainGuys.count();
-    for (int ii=0; ii<mainGuys.count(); ++ii) {
-      if (mainGuys.at(ii)->objectName() == name) {
-        qDebug() << "\t\t\tthis is the one !" << ii;
-        QObject* mainObj = mainGuys.at(ii);
-        qDebug() << mainObj;
-//        QFont = mainObj->text
-        cfront.setMainDialog(mainObj);
-      } else {
-        qDebug() << "\t\tchild " << mainGuys.at(ii) << "called" << mainGuys.at(ii)->objectName();
+    mainGuy = rootList.at(i)->findChild<QObject*>(name);
+    qDebug() << "\tmain guy" << mainGuy;
 
-      }
-    }
   }
 
 
