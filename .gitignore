@@ -11,6 +11,9 @@ obj/*.o
 */*/*.so
 */*/*/*.so
 */moc_*
+moc/
+src/moc/
+src/gui/moc/
 */*/ui*
 Makefile
 build-holad*
