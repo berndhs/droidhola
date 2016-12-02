@@ -28,12 +28,13 @@ public:
     QLabel *boxLabel;
     QPushButton *okButton;
     QLineEdit *textValueBox;
+    QLabel *dateLabel;
 
     void setupUi(QDialog *getStringDialog)
     {
         if (getStringDialog->objectName().isEmpty())
             getStringDialog->setObjectName(QStringLiteral("getStringDialog"));
-        getStringDialog->resize(469, 176);
+        getStringDialog->resize(451, 109);
         QPalette palette;
         QBrush brush(QColor(0, 0, 0, 255));
         brush.setStyle(Qt::SolidPattern);
@@ -97,14 +98,14 @@ public:
         palette.setBrush(QPalette::Disabled, QPalette::ToolTipBase, brush7);
         palette.setBrush(QPalette::Disabled, QPalette::ToolTipText, brush);
         getStringDialog->setPalette(palette);
-        getStringDialog->setCursor(QCursor(Qt::WaitCursor));
+        getStringDialog->setCursor(QCursor(Qt::ArrowCursor));
         getStringDialog->setLocale(QLocale(QLocale::English, QLocale::Canada));
         boxLabel = new QLabel(getStringDialog);
         boxLabel->setObjectName(QStringLiteral("boxLabel"));
         boxLabel->setGeometry(QRect(25, 10, 81, 31));
         okButton = new QPushButton(getStringDialog);
         okButton->setObjectName(QStringLiteral("okButton"));
-        okButton->setGeometry(QRect(130, 90, 311, 64));
+        okButton->setGeometry(QRect(10, 60, 91, 41));
         QSizePolicy sizePolicy(QSizePolicy::Fixed, QSizePolicy::Fixed);
         sizePolicy.setHorizontalStretch(0);
         sizePolicy.setVerticalStretch(0);
@@ -119,7 +120,7 @@ public:
         okButton->setPalette(palette1);
         textValueBox = new QLineEdit(getStringDialog);
         textValueBox->setObjectName(QStringLiteral("textValueBox"));
-        textValueBox->setGeometry(QRect(125, 15, 321, 61));
+        textValueBox->setGeometry(QRect(120, 30, 321, 71));
         QPalette palette2;
         palette2.setBrush(QPalette::Active, QPalette::WindowText, brush);
         QBrush brush9(QColor(255, 0, 255, 255));
@@ -179,6 +180,15 @@ public:
         palette2.setBrush(QPalette::Disabled, QPalette::ToolTipBase, brush7);
         palette2.setBrush(QPalette::Disabled, QPalette::ToolTipText, brush);
         textValueBox->setPalette(palette2);
+        QFont font;
+        font.setPointSize(8);
+        textValueBox->setFont(font);
+        dateLabel = new QLabel(getStringDialog);
+        dateLabel->setObjectName(QStringLiteral("dateLabel"));
+        dateLabel->setGeometry(QRect(130, 0, 291, 31));
+        QFont font1;
+        font1.setPointSize(6);
+        dateLabel->setFont(font1);
 
         retranslateUi(getStringDialog);
 
@@ -188,8 +198,9 @@ public:
     void retranslateUi(QDialog *getStringDialog)
     {
         getStringDialog->setWindowTitle(QApplication::translate("getStringDialog", "Dialog", 0));
-        boxLabel->setText(QApplication::translate("getStringDialog", "File Name", 0));
-        okButton->setText(QApplication::translate("getStringDialog", "OK", 0));
+        boxLabel->setText(QApplication::translate("getStringDialog", "Label", 0));
+        okButton->setText(QApplication::translate("getStringDialog", "Got It", 0));
+        dateLabel->setText(QApplication::translate("getStringDialog", "label 2", 0));
     } // retranslateUi
 
 };

@@ -5,6 +5,7 @@ import QtQuick.Layouts 1.0
 Rectangle {
     id: bigBox;
     anchors.fill: chatchatLoader;
+    property bool havePass: false;
     color: "lightgreen";
     Item {
         id: page1;

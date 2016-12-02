@@ -6,8 +6,7 @@ Item {
     id: loginPage;
     objectName: "loginPage";
     visible: true;
-
-    property alias havePass: mainBigBox.havePass;
+    property bool havePass;
 
     Button {
         height: versionButton.height;
@@ -98,8 +97,8 @@ Item {
     NavRow {
         id: navRow;
         visible: loginPage.havePass;
-        anchors.left: bigBox.left;
-        anchors.bottom: bigBox.bottom;
+        anchors.left: loginPage.left;
+        anchors.bottom: loginPage.bottom;
 
     }
 }

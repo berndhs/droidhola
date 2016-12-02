@@ -118,5 +118,10 @@ ApplicationWindow {
         objectName: "chatchatLoader";
         anchors.fill: parent;
         source: "LoginPage.qml"
+        onLoaded: {
+            item.havePass = mainBigBox.havePass;
+            console.log ("done loading ",chatchatLoader.source);
+        }
     }
 }
+

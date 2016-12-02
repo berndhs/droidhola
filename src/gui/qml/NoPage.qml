@@ -6,6 +6,7 @@ Rectangle {
     id: nopageItem;
     anchors.fill: mainBigBox;
     color: "lightgrey";
+    property bool havePass;
     Rectangle {
         id: smallBox;
         anchors.centerIn: parent;
