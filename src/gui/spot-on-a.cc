@@ -46,7 +46,9 @@ extern "C"
 #include <QNetworkAccessManager>
 #include <QNetworkReply>
 #endif
+#ifdef SPOTON_ALL
 #include <QProgressDialog>
+#endif
 #include <QScopedPointer>
 #include <QStandardItemModel>
 #include <QThread>
@@ -64,9 +66,11 @@ extern "C"
 #endif
 #include "Common/spot-on-threefish.h"
 #include "spot-on-defines.h"
+#ifdef SPOTON_DOC_ENABLED
 #include "spot-on-documentation.h"
-#include "spot-on.h"
 #include "ui_spot-on-password-prompt.h"
+#endif
+#include "spot-on.h"
 
 #ifdef SPOTON_MCELIECE_ENABLED
 #include <NTL/version.h>
@@ -6415,8 +6419,9 @@ void spoton::slotSetPassphrase(void)
 	      list << spoton_common::SPOTON_ENCRYPTION_KEY_NAMES
 		   << spoton_common::SPOTON_SIGNATURE_KEY_NAMES;
 	      qSort(list);
-
+#ifdef SPOTON_ALL
 	      QProgressDialog progress(this);
+#endif
 
 #ifdef Q_OS_MAC
 #if QT_VERSION < 0x050000

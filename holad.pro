@@ -1,3 +1,7 @@
+# project file for Souverain secure chat
+#
+
+
 QT += qml
 QT += quick
 QT += widgets

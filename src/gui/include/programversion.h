@@ -17,7 +17,7 @@
  *  GNU General Public License for more details.
  *
  *  You should have received a copy of the GNU General Public License
- *  along with this program; if not, write to the Free Software
+ *  along with this program; if not, write to the Free Software32
  *  Foundation, Inc., 51 Franklin Street, Fifth Floor,
  *  Boston, MA  02110-1301, USA.
  ****************************************************************/
@@ -29,7 +29,7 @@
 
 #if QT_VERSION >= 0x050000
 #else
-we don't want to build this for Qt-4
+we dont want to build this for Qt-4
 #endif
 
 namespace deliberate {

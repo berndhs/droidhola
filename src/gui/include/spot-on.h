@@ -88,9 +88,11 @@ extern "C"
 #endif
 #endif
 
+#ifdef SPOTON_ALL
 #include "spot-on-buzzpage.h"
-#include "spot-on-defines.h"
 #include "ui_spot-on-keyboard.h"
+#endif
+#include "spot-on-defines.h"
 
 class QStandardItemModel;
 
@@ -128,10 +130,10 @@ class spoton_virtual_keyboard: public QDialog
     QStringList row;
 
     if(country == QLocale::Germany)
-      row << "°\n^"
+      row << "Â°\n^"
 	  << "!\n1"
 	  << "\"\n2"
-	  << "§\n3"
+	  << "Â§\n3"
 	  << "$\n4"
 	  << "%\n5"
 	  << "&&\n6"
@@ -139,8 +141,8 @@ class spoton_virtual_keyboard: public QDialog
 	  << "(\n8"
 	  << ")\n9"
 	  << "=\n0"
-	  << "?\nß"
-	  << "`\n´";
+	  << "?\nÃ"
+	  << "`\nÂ´";
     else
       row << "~\n`"
 	  << "!\n1"
@@ -178,7 +180,7 @@ class spoton_virtual_keyboard: public QDialog
 	  << "i"
 	  << "o"
 	  << "p"
-	  << "ü"
+	  << "Ã¼"
 	  << "*\n+"
 	  << "'\n#";
     else
@@ -217,8 +219,8 @@ class spoton_virtual_keyboard: public QDialog
 	  << "j"
 	  << "k"
 	  << "l"
-	  << "ö"
-	  << "ä";
+	  << "Ã¶"
+	  << "Ã¤";
     else
       row << "a"
 	  << "s"
@@ -383,6 +385,7 @@ class spoton_lineedit: public QLineEdit
 #include "Common/spot-on-send.h"
 #include "spot-on-chatwindow.h"
 #include "spot-on-echo-key-share.h"
+#ifdef SPOTON_ALL
 #include "spot-on-encryptfile.h"
 #include "spot-on-logviewer.h"
 #include "spot-on-reencode.h"
@@ -397,6 +400,7 @@ class spoton_lineedit: public QLineEdit
 #include "ui_spot-on-statisticswindow.h"
 #include "ui_spot-on-statusbar.h"
 #include "ui_spot-on-wizard.h"
+#endif
 
 class QProgressDialog;
 class spoton_documentation;
