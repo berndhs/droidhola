@@ -5514,9 +5514,11 @@ void spoton::slotActivateKernel(void)
   status = QProcess::startDetached(program);
 #endif
 
+#ifdef SPOTON_ALL
   QElapsedTimer time;
 
   time.start();
+#endif
 
   do
     {
@@ -5526,8 +5528,10 @@ void spoton::slotActivateKernel(void)
 
       if(m_ui.pid->text().toLongLong() > 0)
 	break;
+#ifdef SPOTON_ALL
       else if(time.hasExpired(10000))
 	break;
+#endif
     }
   while(true);
 
