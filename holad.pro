@@ -106,14 +106,11 @@ INCLUDEPATH += \
 # Additional import path used to resolve QML modules in Qt Creator's code model
 QML_IMPORT_PATH =
 
-
-contains(QMAKESPEC,"x86") {
   LIBS += \
       -lGeoIP \
       -lntru \
       -L/usr/include/ \
-      -lssl \
-       -lcrypto \
+      -lssl -lcrypto \
       -lcurl \
       -lgcrypt \
       -lgpg-error \
@@ -121,7 +118,7 @@ contains(QMAKESPEC,"x86") {
        -lpq \
       -lspoton \
 
-}
+message ("LIBS is "$$LIBS)
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
