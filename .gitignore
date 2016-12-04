@@ -15,6 +15,7 @@ moc/
 src/moc/
 src/gui/moc/
 */*/ui*
+ui/ui_*.h
 Makefile
 build-holad*
 *~
