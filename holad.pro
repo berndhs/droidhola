@@ -33,6 +33,12 @@ message ("android_ndk_root:")
 message ($$ANDROID_NDK_ROOT)
 message ("compilers " $$QMAKE_CC " and " $$QMAKE_CXX)
 
+greaterThan(QT_VERSION,5) {
+  DEFINES += QT_IS_5
+} else {
+  DEFINES += QT_IS_4
+}
+
 TARGET = holadexe
 
 TEMPLATE = app
@@ -52,8 +58,6 @@ DEFINES -= SPOTON_BLUETOOTH_ENABLED \
            SPOTON_DOC_ENABLED \
 
 DEFINES += SPOTON_ALL \
-
-message("DEFINES is " $$DEFINES)
 
 #DEFINES += SPOTON_BLUETOOTH_ENABLED \
 #           SPOTON_LINKED_WITH_LIBGEOIP \
@@ -119,6 +123,7 @@ QML_IMPORT_PATH =
       -lspoton \
 
 message ("LIBS is "$$LIBS)
+message("DEFINES is " $$DEFINES)
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
@@ -170,44 +175,44 @@ HEADERS = \
     src/gui/include/spot-on-defines.h \
     src/gui/include/spot-on.h \
     src/gui/include/spot-on-encryptfile.h \
-#    src/gui/include/spot-on-encryptfile-page.h \
-#    src/gui/include/spot-on-logviewer.h \
-#src/gui/include/spot-on-reencode.h \
-#src/gui/include/spot-on-pageviewer.h \
-#src/gui/include/spot-on-pacify.h \
-#src/gui/include/spot-on-neighborstatistics.h \
-#src/gui/include/spot-on-echo-key-share.h \
-#src/gui/include/spot-on-documentation.h \
-#src/gui/include/spot-on-defines.h \
-#src/gui/include/spot-on-chatwindow.h \
-#src/gui/include/spot-on-buzzpage.h \
-#src/gui/include/spot-on-textedit.h \
-#src/gui/include/spot-on-textbrowser.h \
-#src/gui/include/spot-on-tabwidget.h \
-#src/gui/include/spot-on-starbeamanalyzer.h \
-#src/gui/include/spot-on-smp.h \
-#src/gui/include/spot-on-rss.h \
-#src/gui/include/spot-on-rosetta.h \
-#    src/Kernel/spotonlib.h \
+    src/gui/include/spot-on-encryptfile-page.h \
+    src/gui/include/spot-on-logviewer.h \
+src/gui/include/spot-on-reencode.h \
+src/gui/include/spot-on-pageviewer.h \
+src/gui/include/spot-on-pacify.h \
+src/gui/include/spot-on-neighborstatistics.h \
+src/gui/include/spot-on-echo-key-share.h \
+src/gui/include/spot-on-documentation.h \
+src/gui/include/spot-on-defines.h \
+src/gui/include/spot-on-chatwindow.h \
+src/gui/include/spot-on-buzzpage.h \
+src/gui/include/spot-on-textedit.h \
+src/gui/include/spot-on-textbrowser.h \
+src/gui/include/spot-on-tabwidget.h \
+src/gui/include/spot-on-starbeamanalyzer.h \
+src/gui/include/spot-on-smp.h \
+src/gui/include/spot-on-rss.h \
+src/gui/include/spot-on-rosetta.h \
+    src/Kernel/spotonlib.h \
     src/Common/spot-on-crypt.h \
-#    src/Common/spot-on-common.h \
-#      src/Common/spot-on-mceliece.h \
-#    src/Common/spot-on-external-address.h \
+    src/Common/spot-on-common.h \
+      src/Common/spot-on-mceliece.h \
+    src/Common/spot-on-external-address.h \
     src/Common/spot-on-misc.h \
-#    src/Common/spot-on-receive.h \
-#      src/Common/spot-on-send.h \
-#      src/Common/spot-on-threefish.h \
-#      src/Kernel/spot-on-fireshare.h \
-#      src/Kernel/spot-on-gui-server.h \
-#      src/Kernel/spot-on-kernel.h \
-#      src/Kernel/spot-on-listener.h \
-#      src/Kernel/spot-on-mailer.h \
-#      src/Kernel/spot-on-neighbor.h \
+    src/Common/spot-on-receive.h \
+      src/Common/spot-on-send.h \
+      src/Common/spot-on-threefish.h \
+      src/Kernel/spot-on-fireshare.h \
+      src/Kernel/spot-on-gui-server.h \
+      src/Kernel/spot-on-kernel.h \
+      src/Kernel/spot-on-listener.h \
+      src/Kernel/spot-on-mailer.h \
+      src/Kernel/spot-on-neighbor.h \
 #      src/Kernel/spot-on-sctp-server.h \
 #      src/Kernel/spot-on-sctp-socket.h \
-#      src/Kernel/spot-on-starbeam-reader.h \
-#      src/Kernel/spot-on-starbeam-writer.h \
-#      src/Kernel/spot-on-urldistribution.h \
+      src/Kernel/spot-on-starbeam-reader.h \
+      src/Kernel/spot-on-starbeam-writer.h \
+      src/Kernel/spot-on-urldistribution.h \
 
 
 
@@ -221,17 +226,17 @@ SOURCES += \
     src/gui/droidhola.cpp \
     src/gui/textbox.cpp \
     src/gui/spot-on-a.cc \
-#  src/Kernel/spotonlib.cpp \
+  src/Kernel/spotonlib.cpp \
     src/Common/spot-on-crypt.cc \
-#    src/gui/spot-on-encryptfile.cc \
-#    src/gui/spot-on-encryptfile-page.cc \
+    src/gui/spot-on-encryptfile.cc \
+    src/gui/spot-on-encryptfile-page.cc \
 #    src/gui/spot-on-logviewer.cc \
-#src/gui/spot-on-d.cc \
+src/gui/spot-on-d.cc \
 #src/gui/spot-on-chatwindow.cc \
-#src/gui/spot-on-c.cc \
-#src/gui/spot-on-buzzpage.cc \
-#src/gui/spot-on-b.cc \
-#src/gui/spot-on-urls.cc \
+src/gui/spot-on-c.cc \
+src/gui/spot-on-buzzpage.cc \
+src/gui/spot-on-b.cc \
+src/gui/spot-on-urls.cc \
 #src/gui/spot-on-textedit.cc \
 #src/gui/spot-on-textbrowser.cc \
 #src/gui/spot-on-tabwidget.cc \
@@ -243,10 +248,10 @@ SOURCES += \
 #src/gui/spot-on-pageviewer.cc \
 #src/gui/spot-on-neighborstatistics.cc \
 #src/gui/spot-on-logviewer.cc \
-#src/gui/spot-on-g.cc \
-#src/gui/spot-on-f.cc \
+src/gui/spot-on-g.cc \
+src/gui/spot-on-f.cc \
 #src/gui/spot-on-echo-key-share.cc \
-#src/gui/spot-on-e.cc \
+src/gui/spot-on-e.cc \
 #src/gui/spot-on-documentation.cc \
 #src/gui/spot-on-urls-search.cc \
 #      src/Common/spot-on-crypt-mceliece.cc \
@@ -262,7 +267,7 @@ SOURCES += \
 #      src/Kernel/spot-on-kernel-a.cc \
 #      src/Kernel/spot-on-kernel-b.cc \
 #      src/Kernel/spot-on-kernel-c.cc \
-#      src/Kernel/spot-on-listener.cc \
+      src/Kernel/spot-on-listener.cc \
 #      src/Kernel/spot-on-mailer.cc \
 #      src/Kernel/spot-on-neighbor-a.cc \
 #      src/Kernel/spot-on-neighbor-b.cc \

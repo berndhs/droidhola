@@ -28,6 +28,7 @@
 #ifndef _spoton_listener_h_
 #define _spoton_listener_h_
 
+#include <QtGlobal>
 #include <QHash>
 #include <QPointer>
 #include <QSqlDatabase>
@@ -37,6 +38,16 @@
 #include <qbluetoothserver.h>
 #include <qbluetoothserviceinfo.h>
 #include <qbluetoothsocket.h>
+#endif
+#ifdef QT_VERSION
+#warning yes we know the qt version
+#if QT_VERSION >= 0x050000
+#warning THe version is more than 0x050000
+#else
+#warning It is less than 5
+#endif
+#else
+#error Unknown QT_VERSION
 #endif
 
 #include "Common/spot-on-misc.h"
@@ -81,10 +92,11 @@ class spoton_listener_tcp_server: public QTcpServer
   void newConnection(const int socketDescriptor,
 		     const QHostAddress &address,
 		     const quint16 port);
+
 #else
-	void newQ5Connection(const qintptr socketDescriptor,
+  void newConnection(const qintptr socketDescriptor,
 		     const QHostAddress &address,
-		     const quint16 port);
+				 const quint16 port);
 #endif
 };
 
@@ -155,7 +167,7 @@ class spoton_listener_udp_server: public QUdpSocket
 		     const QHostAddress &address,
 		     const quint16 port);
 #else
-	void newQ5Connection(const qintptr socketDescriptor,
+  void newConnection(const qintptr socketDescriptor,
 		     const QHostAddress &address,
 		     const quint16 port);
 #endif
