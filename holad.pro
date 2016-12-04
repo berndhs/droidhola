@@ -43,14 +43,15 @@ UI_DIR = ui
 RCC_DIR = rcc
 
 DEFINES -= SPOTON_LINKED_WITH_LIBPTHREAD
-DEFINES -= SPOTON_GOLDBUG=1
+DEFINES += SPOTON_GOLDBUG=1
 DEFINES -= SPOTON_SCTP_ENABLED
 DEFINES -= SPOTON_BLUETOOTH_ENABLED \
            SPOTON_LINKED_WITH_LIBGEOIP \
            SPOTON_LINKED_WITH_LIBPTHREAD \
            SPOTON_MCELIECE_ENABLED \
            SPOTON_DOC_ENABLED \
-           SPOTON_ALL \
+
+DEFINES += SPOTON_ALL \
 
 message("DEFINES is " $$DEFINES)
 
@@ -96,6 +97,7 @@ INCLUDEPATH += \
               src/ \
               src/gui/include/ \
               src/Common/ \
+              temp/ui/ \
               ui/ \
               libs/ \
               libs/libSpotOn/ \
@@ -107,9 +109,17 @@ QML_IMPORT_PATH =
 
 contains(QMAKESPEC,"x86") {
   LIBS += \
-      -lGeoIP -lntru \
-       -lcrypto -lcurl -lgcrypt -lgpg-error -lntl \
-       -lpq -lspoton -lssl \
+      -lGeoIP \
+      -lntru \
+      -L/usr/include/ \
+      -lssl \
+       -lcrypto \
+      -lcurl \
+      -lgcrypt \
+      -lgpg-error \
+      -lntl \
+       -lpq \
+      -lspoton \
 
 }
 
@@ -119,36 +129,36 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
 FORMS = \
-#     src/gbgui/spot-on-adaptive-echo-prompt.ui  \
-#     src/gbgui/spot-on-buzzpage.ui  \
+     src/gbgui/spot-on-adaptive-echo-prompt.ui  \
+     src/gbgui/spot-on-buzzpage.ui  \
      src/gbgui/spot-on-chatwindow.ui  \
-#     src/gbgui/spot-on-controlcenter.ui  \
+     src/gbgui/spot-on-controlcenter.ui  \
      src/gbgui/getstring.ui \
-#     src/gbgui/spot-on-adaptive-echo-prompt.ui \
-#     src/gbgui/spot-on-neighborstatistics.ui  \
-#     src/gbgui/spot-on-documentation.ui  \
+     src/gbgui/spot-on-adaptive-echo-prompt.ui \
+     src/gbgui/spot-on-neighborstatistics.ui  \
+     src/gbgui/spot-on-documentation.ui  \
      src/gbgui/spot-on-echo-key-share.ui  \
-#     src/gbgui/spot-on-encryptfile-page.ui  \
-#     src/gbgui/spot-on-encryptfile.ui  \
-#     src/gbgui/spot-on-forward-secrecy-algorithms-selection.ui  \
-#     src/gbgui/spot-on-ipinformation.ui  \
-#     src/gbgui/spot-on-keyboard.ui  \
-#     src/gbgui/spot-on-listener-socket-options.ui  \
-#     src/gbgui/spot-on-logviewer.ui  \
-#     src/gbgui/spot-on-notificationswindow.ui  \
-#     src/gbgui/spot-on-options.ui  \
-#     src/gbgui/spot-on-pageviewer.ui  \
-#     src/gbgui/spot-on-password-prompt.ui  \
-#     src/gbgui/spot-on-poptastic-retrophone-settings.ui  \
-#     src/gbgui/spot-on-postgresql-connect.ui  \
-#     src/gbgui/spot-on-private-application-credentials.ui  \
-#     src/gbgui/spot-on-rosetta.ui  \
-#     src/gbgui/spot-on-rss.ui  \
-#     src/gbgui/spot-on-starbeamanalyzer.ui  \
-#     src/gbgui/spot-on-statisticswindow.ui  \
-#     src/gbgui/spot-on-statusbar.ui  \
-#     src/gbgui/spot-on-unlock.ui  \
-#     src/gbgui/spot-on-wizard.ui  \
+     src/gbgui/spot-on-encryptfile-page.ui  \
+     src/gbgui/spot-on-encryptfile.ui  \
+     src/gbgui/spot-on-forward-secrecy-algorithms-selection.ui  \
+     src/gbgui/spot-on-ipinformation.ui  \
+     src/gbgui/spot-on-keyboard.ui  \
+     src/gbgui/spot-on-listener-socket-options.ui  \
+     src/gbgui/spot-on-logviewer.ui  \
+     src/gbgui/spot-on-notificationswindow.ui  \
+     src/gbgui/spot-on-options.ui  \
+     src/gbgui/spot-on-pageviewer.ui  \
+     src/gbgui/spot-on-password-prompt.ui  \
+     src/gbgui/spot-on-poptastic-retrophone-settings.ui  \
+     src/gbgui/spot-on-postgresql-connect.ui  \
+     src/gbgui/spot-on-private-application-credentials.ui  \
+     src/gbgui/spot-on-rosetta.ui  \
+     src/gbgui/spot-on-rss.ui  \
+     src/gbgui/spot-on-starbeamanalyzer.ui  \
+     src/gbgui/spot-on-statisticswindow.ui  \
+     src/gbgui/spot-on-statusbar.ui  \
+     src/gbgui/spot-on-unlock.ui  \
+     src/gbgui/spot-on-wizard.ui  \
 
 
 HEADERS = \
@@ -162,7 +172,7 @@ HEADERS = \
     src/gui/include/textbox.h \
     src/gui/include/spot-on-defines.h \
     src/gui/include/spot-on.h \
-#    src/gui/include/spot-on-encryptfile.h \
+    src/gui/include/spot-on-encryptfile.h \
 #    src/gui/include/spot-on-encryptfile-page.h \
 #    src/gui/include/spot-on-logviewer.h \
 #src/gui/include/spot-on-reencode.h \
@@ -182,11 +192,11 @@ HEADERS = \
 #src/gui/include/spot-on-rss.h \
 #src/gui/include/spot-on-rosetta.h \
 #    src/Kernel/spotonlib.h \
-#    src/Common/spot-on-crypt.h \
+    src/Common/spot-on-crypt.h \
 #    src/Common/spot-on-common.h \
 #      src/Common/spot-on-mceliece.h \
 #    src/Common/spot-on-external-address.h \
-#    src/Common/spot-on-misc.h \
+    src/Common/spot-on-misc.h \
 #    src/Common/spot-on-receive.h \
 #      src/Common/spot-on-send.h \
 #      src/Common/spot-on-threefish.h \
@@ -215,7 +225,7 @@ SOURCES += \
     src/gui/textbox.cpp \
     src/gui/spot-on-a.cc \
 #  src/Kernel/spotonlib.cpp \
-#    src/Common/spot-on-crypt.cc \
+    src/Common/spot-on-crypt.cc \
 #    src/gui/spot-on-encryptfile.cc \
 #    src/gui/spot-on-encryptfile-page.cc \
 #    src/gui/spot-on-logviewer.cc \
@@ -246,7 +256,7 @@ SOURCES += \
 #      src/Common/spot-on-crypt-ntru.cc \
 #      src/Common/spot-on-external-address.cc \
 #      src/Common/spot-on-mceliece.cc \
-#      src/Common/spot-on-misc.cc \
+      src/Common/spot-on-misc.cc \
 #      src/Common/spot-on-receive.cc \
 #      src/Common/spot-on-send.cc \
 #      src/Common/spot-on-threefish.cc \

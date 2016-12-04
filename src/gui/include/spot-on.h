@@ -88,10 +88,8 @@ extern "C"
 #endif
 #endif
 
-#ifdef SPOTON_ALL
 #include "spot-on-buzzpage.h"
 #include "ui_spot-on-keyboard.h"
-#endif
 #include "spot-on-defines.h"
 
 class QStandardItemModel;
@@ -385,7 +383,6 @@ class spoton_lineedit: public QLineEdit
 #include "Common/spot-on-send.h"
 #include "spot-on-chatwindow.h"
 #include "spot-on-echo-key-share.h"
-#ifdef SPOTON_ALL
 #include "spot-on-encryptfile.h"
 #include "spot-on-logviewer.h"
 #include "spot-on-reencode.h"
@@ -400,7 +397,6 @@ class spoton_lineedit: public QLineEdit
 #include "ui_spot-on-statisticswindow.h"
 #include "ui_spot-on-statusbar.h"
 #include "ui_spot-on-wizard.h"
-#endif
 
 class QProgressDialog;
 class spoton_documentation;

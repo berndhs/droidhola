@@ -46,9 +46,7 @@ extern "C"
 #include <QNetworkAccessManager>
 #include <QNetworkReply>
 #endif
-#ifdef SPOTON_ALL
 #include <QProgressDialog>
-#endif
 #include <QScopedPointer>
 #include <QStandardItemModel>
 #include <QThread>
@@ -66,10 +64,8 @@ extern "C"
 #endif
 #include "Common/spot-on-threefish.h"
 #include "spot-on-defines.h"
-#ifdef SPOTON_DOC_ENABLED
 #include "spot-on-documentation.h"
 #include "ui_spot-on-password-prompt.h"
-#endif
 #include "spot-on.h"
 
 #ifdef SPOTON_MCELIECE_ENABLED
@@ -214,7 +210,7 @@ class spoton_webengine_url_request_interceptor:
 };
 #endif
 
-int main(int argc, char *argv[])
+int spoton_main(int argc, char *argv[])
 {
   /*
   ** Disable JIT.
@@ -528,7 +524,7 @@ spoton::spoton(void):QMainWindow()
        << "settings"
        << "starbeam"
        << "urls";
-#if SPOTON_GOLDBUG == 1
+#if SPOTON_GOLDBUG >= 1
   list << "add_friend";
 #endif
   list << "about";
