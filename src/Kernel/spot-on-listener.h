@@ -50,6 +50,7 @@
 #error Unknown QT_VERSION
 #endif
 
+#include "bitsdef.h"
 #include "Common/spot-on-misc.h"
 #include "spot-on-neighbor.h"
 
@@ -79,7 +80,7 @@ class spoton_listener_tcp_server: public QTcpServer
   }
 
 #if QT_VERSION >= 0x050000
-  void incomingConnection(qintptr socketDescriptor);
+  void incomingConnection(word_int socketDescriptor);
 #else
   void incomingConnection(int socketDescriptor);
 #endif
@@ -94,7 +95,7 @@ class spoton_listener_tcp_server: public QTcpServer
 		     const quint16 port);
 
 #else
-  void newConnection(const qintptr socketDescriptor,
+	void newConnection(const word_int socketDescriptor,
 		     const QHostAddress &address,
 				 const quint16 port);
 #endif
@@ -167,7 +168,7 @@ class spoton_listener_udp_server: public QUdpSocket
 		     const QHostAddress &address,
 		     const quint16 port);
 #else
-  void newConnection(const qintptr socketDescriptor,
+	void newConnection(const word_int socketDescriptor,
 		     const QHostAddress &address,
 		     const quint16 port);
 #endif
@@ -266,7 +267,7 @@ class spoton_listener: public QObject
 			 const QHostAddress &address,
 			 const quint16 port);
 #else
-  void slotNewConnection(const qintptr socketDescriptor,
+	void slotNewConnection(const word_int socketDescriptor,
 			 const QHostAddress &address,
 			 const quint16 port);
 #endif

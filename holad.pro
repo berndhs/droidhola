@@ -20,10 +20,19 @@ CONFIG += c++11
 #  QMAKE_CXX = /usr/bin/clang++
 #}
 
-contains(QMAKESPEC,"x86") {
   QMAKE_CC = /usr/bin/gcc
   QMAKE_CXX = /usr/bin/g++
+
+ARCH = $$system(uname -m)
+contains(ARCH,"x86_64") {
+  DEFINES += BITS_64
+  QMAKE_CC = /usr/bin/clang
+  QMAKE_CXX = /usr/bin/clang++
+} else {
+  DEFINES += BITS_32
 }
+
+message ("arch is "$$ARCH)
 
 message ("qmakespec:")
 message ($$QMAKESPEC)
@@ -164,6 +173,7 @@ FORMS = \
 
 
 HEADERS = \
+    src/bitsdef.h \
     src/gui/include/customengine.h \
     src/gui/include/cryptofront.h \
     src/gui/include/spotkernel.h \
@@ -213,6 +223,7 @@ src/gui/include/spot-on-rosetta.h \
       src/Kernel/spot-on-starbeam-reader.h \
       src/Kernel/spot-on-starbeam-writer.h \
       src/Kernel/spot-on-urldistribution.h \
+    src/bitsdef.h
 
 
 
