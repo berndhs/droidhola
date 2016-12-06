@@ -40,7 +40,7 @@
 #include "spot-on-sctp-server.h"
 
 #if QT_VERSION >= 0x050000
-void spoton_listener_tcp_server::incomingConnection(word_int socketDescriptor)
+void spoton_listener_tcp_server::incomingConnection(intptr socketDescriptor)
 #else
 void spoton_listener_tcp_server::incomingConnection(int socketDescriptor)
 #endif
@@ -276,20 +276,20 @@ spoton_listener::spoton_listener
 #if QT_VERSION < 0x050000
   if(m_sctpServer)
     connect(m_sctpServer,
-	    SIGNAL(newConnection(const int,
+      SIGNAL(newConnection(const intword,
 				 const QHostAddress &,
 				 const quint16)),
 	    this,
-	    SLOT(slotNewConnection(const int,
+			SLOT(slotNewConnection(const intword,
 				   const QHostAddress &,
 				   const quint16)));
   else if(m_tcpServer)
     connect(m_tcpServer,
-	    SIGNAL(newConnection(const int,
+      SIGNAL(newConnection(const intword,
 				 const QHostAddress &,
 				 const quint16)),
 	    this,
-	    SLOT(slotNewConnection(const int,
+			SLOT(slotNewConnection(const intword,
 				   const QHostAddress &,
 				   const quint16)));
   else if(m_udpServer)
@@ -298,35 +298,35 @@ spoton_listener::spoton_listener
 				 const QHostAddress &,
 				 const quint16)),
 	    this,
-	    SLOT(slotNewConnection(const int,
+			SLOT(slotNewConnection(const intword,
 				   const QHostAddress &,
 				   const quint16)));
 #else
   if(m_sctpServer)
     connect(m_sctpServer,
-      SIGNAL(newConnection(const word_int,
+      SIGNAL(newConnection(const intword,
 				 const QHostAddress &,
 				 const quint16)),
 	    this,
-			SLOT(slotNewConnection(const word_int,
+			SLOT(slotNewConnection(const intword,
 				   const QHostAddress &,
 				   const quint16)));
   else if(m_tcpServer)
     connect(m_tcpServer,
-      SIGNAL(newConnection(const word_int,
+      SIGNAL(newConnection(const intword,
 				 const QHostAddress &,
 				 const quint16)),
 	    this,
-			SLOT(slotNewConnection(const word_int,
+			SLOT(slotNewConnection(const intword,
 				   const QHostAddress &,
 				   const quint16)));
   else if(m_udpServer)
     connect(m_udpServer,
-      SIGNAL(newConnection(const word_int,
+      SIGNAL(newConnection(const intword,
 				 const QHostAddress &,
 				 const quint16)),
 	    this,
-			SLOT(slotNewConnection(const word_int,
+			SLOT(slotNewConnection(const intword,
 				   const QHostAddress &,
 				   const quint16)));
 #endif
@@ -752,7 +752,7 @@ void spoton_listener::slotNewConnection(const int socketDescriptor,
 					const QHostAddress &address,
 					const quint16 port)
 #else
-void spoton_listener::slotNewConnection(const word_int socketDescriptor,
+void spoton_listener::slotNewConnection(const intptr socketDescriptor,
 					const QHostAddress &address,
 					const quint16 port)
 #endif
