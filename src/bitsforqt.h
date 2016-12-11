@@ -5,6 +5,7 @@
 
 #if QT_VERSION >= 0x050000
 #define FIVE 5
+typedef long long int intword;
 #else
 #define FIVE 4
 #endif

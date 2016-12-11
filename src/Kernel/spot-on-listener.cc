@@ -39,7 +39,6 @@
 #include "spot-on-listener.h"
 #include "spot-on-sctp-server.h"
 
-
 void spoton_listener_tcp_server::incomingConnection(BitsForQt sockDesc)
 {
   if(spoton_kernel::s_connectionCounts.count(m_id) >= maxPendingConnections())
@@ -279,20 +278,20 @@ spoton_listener::spoton_listener
 #if QT_VERSION < 0x050000
   if(m_sctpServer)
     connect(m_sctpServer,
-	    SIGNAL(newConnection(const int,
+      SIGNAL(newConnection(const intword,
 				 const QHostAddress &,
 				 const quint16)),
 	    this,
-	    SLOT(slotNewConnection(const int,
+			SLOT(slotNewConnection(const intword,
 				   const QHostAddress &,
 				   const quint16)));
   else if(m_tcpServer)
     connect(m_tcpServer,
-	    SIGNAL(newConnection(const int,
+      SIGNAL(newConnection(const intword,
 				 const QHostAddress &,
 				 const quint16)),
 	    this,
-	    SLOT(slotNewConnection(const int,
+			SLOT(slotNewConnection(const intword,
 				   const QHostAddress &,
 				   const quint16)));
   else if(m_udpServer)
@@ -301,35 +300,35 @@ spoton_listener::spoton_listener
 				 const QHostAddress &,
 				 const quint16)),
 	    this,
-	    SLOT(slotNewConnection(const int,
+			SLOT(slotNewConnection(const intword,
 				   const QHostAddress &,
 				   const quint16)));
 #else
   if(m_sctpServer)
     connect(m_sctpServer,
-	    SIGNAL(newConnection(const qintptr,
+      SIGNAL(newConnection(const intword,
 				 const QHostAddress &,
 				 const quint16)),
 	    this,
-	    SLOT(slotNewConnection(const qintptr,
+			SLOT(slotNewConnection(const intword,
 				   const QHostAddress &,
 				   const quint16)));
   else if(m_tcpServer)
     connect(m_tcpServer,
-	    SIGNAL(newConnection(const qintptr,
+      SIGNAL(newConnection(const intword,
 				 const QHostAddress &,
 				 const quint16)),
 	    this,
-	    SLOT(slotNewConnection(const qintptr,
+			SLOT(slotNewConnection(const intword,
 				   const QHostAddress &,
 				   const quint16)));
   else if(m_udpServer)
     connect(m_udpServer,
-	    SIGNAL(newConnection(const qintptr,
+      SIGNAL(newConnection(const intword,
 				 const QHostAddress &,
 				 const quint16)),
 	    this,
-	    SLOT(slotNewConnection(const qintptr,
+			SLOT(slotNewConnection(const intword,
 				   const QHostAddress &,
 				   const quint16)));
 #endif

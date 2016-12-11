@@ -15,11 +15,17 @@ QT += printsupport
 
 CONFIG += c++11
 
-  QMAKE_CC = /usr/bin/gcc
-  QMAKE_CXX = /usr/bin/g++
   QMAKE_CXXFLAGS += -fno-delete-null-pointer-checks
 #  QMAKE_CXXFLAGS += -fsanitize=undefined
   QMAKE_CXXFLAGS += -fgnu-tm
+
+  QMAKE_CC = /usr/bin/gcc
+  QMAKE_CXX = /usr/bin/g++
+
+ARCH = $$system(uname -m)
+
+message ("arch is "$$ARCH)
+
 message ("qmakespec:")
 message ($$QMAKESPEC)
 message ("qt vesion:")

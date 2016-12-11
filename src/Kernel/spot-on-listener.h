@@ -28,6 +28,8 @@
 #ifndef _spoton_listener_h_
 #define _spoton_listener_h_
 
+#include "bitsforqt.h"
+
 #include <QtGlobal>
 #include <QHash>
 #include <QPointer>
@@ -88,16 +90,6 @@ class spoton_listener_tcp_server: public QTcpServer
   void newConnection (BitsForQt sockDesc,
                       const QHostAddress & address,
                       const quint16 port);
-//#if QT_VERSION < 0x050000
-//  void newConnection(const int socketDescriptor,
-//		     const QHostAddress &address,
-//		     const quint16 port);
-
-//#else
-//  void newConnection(const qintptr socketDescriptor,
-//		     const QHostAddress &address,
-//				 const quint16 port);
-//#endif
 };
 
 class spoton_listener_udp_server: public QUdpSocket
@@ -256,11 +248,11 @@ class spoton_listener: public QObject
   void slotExternalAddressDiscovered(const QHostAddress &address);
   void slotNeighborDisconnected(void);
 #if QT_VERSION < 0x050000
-  void slotNewConnection(const int socketDescriptor,
+	void slotNewConnection(const intword socketDescriptor,
 			 const QHostAddress &address,
 			 const quint16 port);
 #else
-  void slotNewConnection(const qintptr socketDescriptor,
+	void slotNewConnection(const intword socketDescriptor,
 			 const QHostAddress &address,
 			 const quint16 port);
 #endif
