@@ -75,7 +75,7 @@ extern "C"
 /*
 ** Not pleasant! Please avoid this solution!
 */
-
+#ifndef SPOTON_KERNEL_GLOBALS
 QList<int> spoton_common::LANE_WIDTHS = QList<int> () << 14500
 						      << 20000
                                                       << 25000
@@ -150,6 +150,8 @@ int spoton_common::MAIL_TIME_DELTA_MAXIMUM =
   spoton_common::MAIL_TIME_DELTA_MAXIMUM_STATIC;
 int spoton_common::POPTASTIC_FORWARD_SECRECY_TIME_DELTA_MAXIMUM =
   spoton_common::POPTASTIC_FORWARD_SECRECY_TIME_DELTA_MAXIMUM_STATIC;
+#endif // not defined SPOTON_KERNEL_GLOBALS
+
 static QPointer<spoton> s_gui = 0;
 
 #if QT_VERSION >= 0x050000
@@ -210,7 +212,7 @@ class spoton_webengine_url_request_interceptor:
 };
 #endif
 
-int spoton_main(int argc, char *argv[])
+int spotonguimain(int argc, char *argv[])
 {
   /*
   ** Disable JIT.

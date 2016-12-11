@@ -131,6 +131,8 @@ QReadWriteLock spoton_kernel::s_totalUiBytesReadWrittenMutex;
 ** Not pleasant! Please avoid this solution!
 */
 
+#ifdef SPOTON_KERNEL_GLOBALS
+
 QList<int> spoton_common::LANE_WIDTHS = QList<int> () << 14500
 						      << 20000
                                                       << 25000
@@ -205,6 +207,9 @@ int spoton_common::MAIL_TIME_DELTA_MAXIMUM =
   spoton_common::MAIL_TIME_DELTA_MAXIMUM_STATIC;
 int spoton_common::POPTASTIC_FORWARD_SECRECY_TIME_DELTA_MAXIMUM =
   spoton_common::POPTASTIC_FORWARD_SECRECY_TIME_DELTA_MAXIMUM_STATIC;
+
+#endif // yes defined SPOTON_KERNEL_GLOBALS
+
 static QPointer<spoton_kernel> s_kernel = 0;
 static char *s_congestion_control_db_path = 0; // We're not deleting.
 static char *s_kernel_db_path = 0; // We're not deleting.

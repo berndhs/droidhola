@@ -39,17 +39,14 @@
 #include "spot-on-listener.h"
 #include "spot-on-sctp-server.h"
 
-#if QT_VERSION >= 0x050000
-void spoton_listener_tcp_server::incomingConnection(qintptr socketDescriptor)
-#else
-void spoton_listener_tcp_server::incomingConnection(int socketDescriptor)
-#endif
+
+void spoton_listener_tcp_server::incomingConnection(BitsForQt sockDesc)
 {
   if(spoton_kernel::s_connectionCounts.count(m_id) >= maxPendingConnections())
     {
       QAbstractSocket socket(QAbstractSocket::TcpSocket, this);
 
-      socket.setSocketDescriptor(socketDescriptor);
+      socket.setSocketDescriptor(sockDesc.sock());
       socket.abort();
     }
   else
@@ -58,7 +55,7 @@ void spoton_listener_tcp_server::incomingConnection(int socketDescriptor)
       quint16 peerPort = 0;
 
       peerAddress = spoton_misc::peerAddressAndPort
-	(static_cast<int> (socketDescriptor), &peerPort);
+  (static_cast<int> (sockDesc.sock()), &peerPort);
 
       if(spoton_kernel::instance() &&
 	 !spoton_kernel::instance()->acceptRemoteConnection(serverAddress(),
@@ -66,7 +63,7 @@ void spoton_listener_tcp_server::incomingConnection(int socketDescriptor)
 	{
 	  QAbstractSocket socket(QAbstractSocket::TcpSocket, this);
 
-	  socket.setSocketDescriptor(socketDescriptor);
+		socket.setSocketDescriptor(sockDesc.sock());
 	  socket.abort();
 	}
       else if(!spoton_misc::
@@ -75,7 +72,7 @@ void spoton_listener_tcp_server::incomingConnection(int socketDescriptor)
 	{
 	  QAbstractSocket socket(QAbstractSocket::TcpSocket, this);
 
-	  socket.setSocketDescriptor(socketDescriptor);
+		socket.setSocketDescriptor(sockDesc.sock());
 	  socket.abort();
 	  spoton_misc::logError
 	    (QString("spoton_listener_tcp_server::incomingConnection(): "
@@ -90,7 +87,7 @@ void spoton_listener_tcp_server::incomingConnection(int socketDescriptor)
 	{
 	  QAbstractSocket socket(QAbstractSocket::TcpSocket, this);
 
-	  socket.setSocketDescriptor(socketDescriptor);
+		socket.setSocketDescriptor(sockDesc.sock());
 	  socket.abort();
 	  spoton_misc::logError
 	    (QString("spoton_listener_tcp_server::incomingConnection(): "
@@ -103,11 +100,14 @@ void spoton_listener_tcp_server::incomingConnection(int socketDescriptor)
 	{
 	  QAbstractSocket socket(QAbstractSocket::TcpSocket, this);
 
-	  socket.setSocketDescriptor(socketDescriptor);
+		socket.setSocketDescriptor(sockDesc.sock());
 	  socket.abort();
 	}
-      else
-	emit newConnection(socketDescriptor, peerAddress, peerPort);
+			else {
+				BitsForQt bits;
+				bits.setSock(sockDesc.sock());
+				emit newConnection(bits, peerAddress, peerPort);
+			}
     }
 }
 
@@ -154,8 +154,11 @@ void spoton_listener_udp_server::slotReadyRead(void)
 	   arg(localPort()));
       else
 	{
-	  if(!clientExists(peerAddress, peerPort))
-	    emit newConnection(socketDescriptor(), peerAddress, peerPort);
+		if(!clientExists(peerAddress, peerPort)) {
+			BitsForQt bits;
+			bits.setSock(socketDescriptor());
+			emit newConnection(bits, peerAddress, peerPort);
+		}
 
 	  if(!datagram.isEmpty() && size > 0)
 	    emit newDatagram(datagram.mid(0, static_cast<int> (size)));

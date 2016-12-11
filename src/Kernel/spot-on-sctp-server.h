@@ -28,6 +28,8 @@
 #ifndef _spoton_sctp_server_h_
 #define _spoton_sctp_server_h_
 
+#include "bitsforqt.h"
+
 #include <QHostInfo>
 #if defined(Q_OS_LINUX) || defined(Q_OS_MAC) || defined(Q_OS_UNIX)
 #include <QSocketNotifier>
@@ -76,15 +78,10 @@ class spoton_sctp_server: public QObject
 #endif
 
  signals:
-#if QT_VERSION < 0x050000
-  void newConnection(const int socketDescriptor,
-		     const QHostAddress &address,
-		     const quint16 port);
-#else
-  void newConnection(const qintptr socketDescriptor,
-		     const QHostAddress &address,
-		     const quint16 port);
-#endif
+  void newConnection (BitsForQt bits,
+                      const QHostAddress & address,
+                      const quint16 port);
+
 };
 
 #endif

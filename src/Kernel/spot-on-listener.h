@@ -42,7 +42,7 @@
 #ifdef QT_VERSION
 #warning yes we know the qt version
 #if QT_VERSION >= 0x050000
-#warning THe version is more than 0x050000
+#warning The version is more than 0x050000
 #else
 #warning It is less than 5
 #endif
@@ -50,6 +50,7 @@
 #error Unknown QT_VERSION
 #endif
 
+#include "bitsforqt.h"
 #include "Common/spot-on-misc.h"
 #include "spot-on-neighbor.h"
 
@@ -78,26 +79,25 @@ class spoton_listener_tcp_server: public QTcpServer
     QTcpServer::setMaxPendingConnections(qMax(1, maxPendingConnections));
   }
 
-#if QT_VERSION >= 0x050000
-  void incomingConnection(qintptr socketDescriptor);
-#else
-  void incomingConnection(int socketDescriptor);
-#endif
+  void incomingConnection(BitsForQt sockDesc);
 
  private:
   qint64 m_id;
 
  signals:
-#if QT_VERSION < 0x050000
-  void newConnection(const int socketDescriptor,
-		     const QHostAddress &address,
-		     const quint16 port);
+  void newConnection (BitsForQt sockDesc,
+                      const QHostAddress & address,
+                      const quint16 port);
+//#if QT_VERSION < 0x050000
+//  void newConnection(const int socketDescriptor,
+//		     const QHostAddress &address,
+//		     const quint16 port);
 
-#else
-  void newConnection(const qintptr socketDescriptor,
-		     const QHostAddress &address,
-				 const quint16 port);
-#endif
+//#else
+//  void newConnection(const qintptr socketDescriptor,
+//		     const QHostAddress &address,
+//				 const quint16 port);
+//#endif
 };
 
 class spoton_listener_udp_server: public QUdpSocket
@@ -162,15 +162,9 @@ class spoton_listener_udp_server: public QUdpSocket
   void slotReadyRead(void);
 
  signals:
-#if QT_VERSION < 0x050000
-  void newConnection(const int socketDescriptor,
-		     const QHostAddress &address,
-		     const quint16 port);
-#else
-  void newConnection(const qintptr socketDescriptor,
-		     const QHostAddress &address,
-		     const quint16 port);
-#endif
+  void newConnection (BitsForQt bits,
+                      const QHostAddress & address,
+                      const quint16 port);
   void newDatagram(const QByteArray &datagram);
 };
 

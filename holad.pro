@@ -15,16 +15,11 @@ QT += printsupport
 
 CONFIG += c++11
 
-#contains(QMAKESPEC,"x86") {
-#  QMAKE_CC = /usr/bin/clang
-#  QMAKE_CXX = /usr/bin/clang++
-#}
-
-contains(QMAKESPEC,"x86") {
   QMAKE_CC = /usr/bin/gcc
   QMAKE_CXX = /usr/bin/g++
-}
-
+  QMAKE_CXXFLAGS += -fno-delete-null-pointer-checks
+#  QMAKE_CXXFLAGS += -fsanitize=undefined
+  QMAKE_CXXFLAGS += -fgnu-tm
 message ("qmakespec:")
 message ($$QMAKESPEC)
 message ("qt vesion:")
@@ -32,6 +27,7 @@ message ($$QT_VERSION)
 message ("android_ndk_root:")
 message ($$ANDROID_NDK_ROOT)
 message ("compilers " $$QMAKE_CC " and " $$QMAKE_CXX)
+message ("compiler flags " $$QMAKE_CXXFLAGS)
 
 greaterThan(QT_VERSION,5) {
   DEFINES += QT_IS_5
@@ -50,7 +46,7 @@ RCC_DIR = rcc
 
 DEFINES -= SPOTON_LINKED_WITH_LIBPTHREAD
 DEFINES += SPOTON_GOLDBUG=1
-DEFINES -= SPOTON_SCTP_ENABLED
+DEFINES += SPOTON_SCTP_ENABLED
 DEFINES -= SPOTON_BLUETOOTH_ENABLED \
            SPOTON_LINKED_WITH_LIBGEOIP \
            SPOTON_LINKED_WITH_LIBPTHREAD \
@@ -58,6 +54,8 @@ DEFINES -= SPOTON_BLUETOOTH_ENABLED \
            SPOTON_DOC_ENABLED \
 
 DEFINES += SPOTON_ALL \
+
+DEFINES += SPOTON_KERNEL_GLOBALS \
 
 #DEFINES += SPOTON_BLUETOOTH_ENABLED \
 #           SPOTON_LINKED_WITH_LIBGEOIP \
@@ -208,74 +206,79 @@ src/gui/include/spot-on-rosetta.h \
       src/Kernel/spot-on-listener.h \
       src/Kernel/spot-on-mailer.h \
       src/Kernel/spot-on-neighbor.h \
-#      src/Kernel/spot-on-sctp-server.h \
-#      src/Kernel/spot-on-sctp-socket.h \
+      src/Kernel/spot-on-sctp-server.h \
+      src/Kernel/spot-on-sctp-socket.h \
       src/Kernel/spot-on-starbeam-reader.h \
       src/Kernel/spot-on-starbeam-writer.h \
       src/Kernel/spot-on-urldistribution.h \
+    src/bitsforqt.h
 
 
 
 SOURCES += \
-    src/gui/customengine.cpp \
-    src/gui/cryptofront.cpp \
-    src/gui/spotkernel.cpp \
-    src/gui/copyright.cpp \
-    src/gui/chatapplication.cpp \
-    src/gui/programversion.cpp \
-    src/gui/droidhola.cpp \
-    src/gui/textbox.cpp \
-    src/gui/spot-on-a.cc \
-  src/Kernel/spotonlib.cpp \
-    src/Common/spot-on-crypt.cc \
-    src/gui/spot-on-encryptfile.cc \
-    src/gui/spot-on-encryptfile-page.cc \
-#    src/gui/spot-on-logviewer.cc \
-src/gui/spot-on-d.cc \
-#src/gui/spot-on-chatwindow.cc \
-src/gui/spot-on-c.cc \
-src/gui/spot-on-buzzpage.cc \
-src/gui/spot-on-b.cc \
-src/gui/spot-on-urls.cc \
-#src/gui/spot-on-textedit.cc \
-#src/gui/spot-on-textbrowser.cc \
-#src/gui/spot-on-tabwidget.cc \
-#src/gui/spot-on-starbeamanalyzer.cc \
-#src/gui/spot-on-smp.cc \
-#src/gui/spot-on-rss.cc \
-#src/gui/spot-on-rosetta.cc \
-#src/gui/spot-on-reencode.cc \
-#src/gui/spot-on-pageviewer.cc \
-#src/gui/spot-on-neighborstatistics.cc \
-#src/gui/spot-on-logviewer.cc \
-src/gui/spot-on-g.cc \
-src/gui/spot-on-f.cc \
-#src/gui/spot-on-echo-key-share.cc \
-src/gui/spot-on-e.cc \
-#src/gui/spot-on-documentation.cc \
-#src/gui/spot-on-urls-search.cc \
-#      src/Common/spot-on-crypt-mceliece.cc \
-#      src/Common/spot-on-crypt-ntru.cc \
-#      src/Common/spot-on-external-address.cc \
-#      src/Common/spot-on-mceliece.cc \
-      src/Common/spot-on-misc.cc \
-#      src/Common/spot-on-receive.cc \
-#      src/Common/spot-on-send.cc \
-#      src/Common/spot-on-threefish.cc \
-#      src/Kernel/spot-on-fireshare.cc \
-#      src/Kernel/spot-on-gui-server.cc \
-#      src/Kernel/spot-on-kernel-a.cc \
-#      src/Kernel/spot-on-kernel-b.cc \
-#      src/Kernel/spot-on-kernel-c.cc \
-      src/Kernel/spot-on-listener.cc \
-#      src/Kernel/spot-on-mailer.cc \
-#      src/Kernel/spot-on-neighbor-a.cc \
-#      src/Kernel/spot-on-neighbor-b.cc \
-#      src/Kernel/spot-on-sctp-server.cc \
-#      src/Kernel/spot-on-sctp-socket.cc \
-#      src/Kernel/spot-on-starbeam-reader.cc \
-#      src/Kernel/spot-on-starbeam-writer.cc \
-#      src/Kernel/spot-on-urldistribution.cc \
+src/bitsforqt.cpp  \
+src/Common/spot-on-crypt.cc  \
+src/Common/spot-on-crypt-mceliece.cc  \
+src/Common/spot-on-crypt-ntru.cc  \
+src/Common/spot-on-external-address.cc  \
+src/Common/spot-on-mceliece.cc  \
+src/Common/spot-on-misc.cc  \
+#src/Common/spot-on-randomness-download.cc  \
+src/Common/spot-on-receive.cc  \
+src/Common/spot-on-send.cc  \
+src/Common/spot-on-threefish.cc  \
+src/gui/chatapplication.cpp  \
+src/gui/copyright.cpp  \
+src/gui/cryptobad.cpp  \
+src/gui/cryptofront.cpp  \
+src/gui/customengine.cpp  \
+src/gui/droidhola.cpp  \
+src/gui/programversion.cpp  \
+src/gui/spotkernel.cpp  \
+src/gui/spot-on-a.cc  \
+src/gui/spot-on-b.cc  \
+src/gui/spot-on-buzzpage.cc  \
+src/gui/spot-on-c.cc  \
+src/gui/spot-on-chatwindow.cc  \
+src/gui/spot-on-d.cc  \
+src/gui/spot-on-documentation.cc  \
+src/gui/spot-on-e.cc  \
+src/gui/spot-on-echo-key-share.cc  \
+src/gui/spot-on-encryptfile.cc  \
+src/gui/spot-on-encryptfile-page.cc  \
+src/gui/spot-on-f.cc  \
+src/gui/spot-on-g.cc  \
+src/gui/spot-on-logviewer.cc  \
+src/gui/spot-on-neighborstatistics.cc  \
+src/gui/spot-on-pageviewer.cc  \
+src/gui/spot-on-reencode.cc  \
+src/gui/spot-on-rosetta.cc  \
+src/gui/spot-on-rss.cc  \
+src/gui/spot-on-smp.cc  \
+src/gui/spot-on-starbeamanalyzer.cc  \
+src/gui/spot-on-tabwidget.cc  \
+src/gui/spot-on-textbrowser.cc  \
+src/gui/spot-on-textedit.cc  \
+src/gui/spot-on-urls.cc  \
+src/gui/spot-on-urls-search.cc  \
+src/gui/textbox.cpp  \
+#src/gui/threadbody.cpp  \
+src/Kernel/spot-on-fireshare.cc  \
+src/Kernel/spot-on-gui-server.cc  \
+src/Kernel/spot-on-kernel-a.cc  \
+src/Kernel/spot-on-kernel-b.cc  \
+src/Kernel/spot-on-kernel-c.cc  \
+src/Kernel/spotonlib.cpp  \
+src/Kernel/spot-on-listener.cc  \
+src/Kernel/spot-on-mailer.cc  \
+src/Kernel/spot-on-neighbor-a.cc  \
+src/Kernel/spot-on-neighbor-b.cc  \
+src/Kernel/spot-on-sctp-server.cc  \
+src/Kernel/spot-on-sctp-socket.cc  \
+src/Kernel/spot-on-starbeam-reader.cc  \
+src/Kernel/spot-on-starbeam-writer.cc  \
+src/Kernel/spot-on-urldistribution.cc  \
+
 
 
 

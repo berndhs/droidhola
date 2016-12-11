@@ -26,6 +26,7 @@ namespace deliberate {
           :theValue(""),
             okButton(nullptr)
   {
+    Q_UNUSED(parent)
     setupUi(this);
     QAbstractButton * but = findChild<QAbstractButton*> ("okButton");
     if (but) {
