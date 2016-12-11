@@ -1,4 +1,5 @@
 qrc_qml.cpp
+doc/
 holad.pro.user
 bin/holad
 src/build*
