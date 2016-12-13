@@ -248,11 +248,11 @@ class spoton_listener: public QObject
   void slotExternalAddressDiscovered(const QHostAddress &address);
   void slotNeighborDisconnected(void);
 #if QT_VERSION < 0x050000
-	void slotNewConnection(const intword socketDescriptor,
+	void slotNewConnection(const int socketDescriptor,
 			 const QHostAddress &address,
 			 const quint16 port);
 #else
-	void slotNewConnection(const intword socketDescriptor,
+	void slotNewConnection(const qintptr socketDescriptor,
 			 const QHostAddress &address,
 			 const quint16 port);
 #endif
