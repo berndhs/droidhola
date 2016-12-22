@@ -19,8 +19,8 @@ CONFIG += c++11
 #  QMAKE_CXXFLAGS += -fsanitize=undefined
   QMAKE_CXXFLAGS += -fgnu-tm
 
-  QMAKE_CC = /usr/bin/gcc
-  QMAKE_CXX = /usr/bin/g++
+#  QMAKE_CC = /usr/bin/gcc
+#  QMAKE_CXX = /usr/bin/g++
 
 ARCH = $$system(uname -m)
 
@@ -96,10 +96,10 @@ RESOURCES += src/gui/droidhola.qrc \
 #INCLUDEPATH += /usr/local/include/bits
 #INCLUDEPATH += /usr/local/include
 #INCLUDEPATH += .
-#INCLUDEPATH += src
-#INCLUDEPATH += src/Common
-#INCLUDEPATH += src/Kernel
-#INCLUDEPATH += src/libSpotOn
+INCLUDEPATH += src
+INCLUDEPATH += src/Common
+INCLUDEPATH += src/Kernel
+INCLUDEPATH += src/libSpotOn
 
 INCLUDEPATH += \
               src/ \
@@ -289,13 +289,13 @@ src/Kernel/spot-on-urldistribution.cc  \
 
 
 
-DISTFILES += \
-    android/AndroidManifest.xml \
-    android/gradle/wrapper/gradle-wrapper.jar \
-    android/gradlew \
-    android/res/values/libs.xml \
-    android/build.gradle \
-    android/gradle/wrapper/gradle-wrapper.properties \
-    android/gradlew.bat
+#DISTFILES += \
+#    android/AndroidManifest.xml \
+#    android/gradle/wrapper/gradle-wrapper.jar \
+#    android/gradlew \
+#    android/res/values/libs.xml \
+#    android/build.gradle \
+#    android/gradle/wrapper/gradle-wrapper.properties \
+#    android/gradlew.bat
 
-ANDROID_PACKAGE_SOURCE_DIR = $$PWD/android
+#ANDROID_PACKAGE_SOURCE_DIR = $$PWD/android

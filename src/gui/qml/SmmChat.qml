@@ -51,7 +51,7 @@ Rectangle {
                 topMargin: 5;
             }
             width: textfield1.width;
-            height: textfield1.height/2;
+            height: textfield1.height * 0.75;
             color: "darkblue";
             text: "dunno";
         }
