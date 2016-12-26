@@ -2,6 +2,31 @@
 #
 
 
+ASSSUAN_DIR = libassuan-2.4.3
+GPG_ERROR_DIR = libgpg_error-1.24
+SKBA_DIR = libksba-1.3.5
+GCRYPT_DIR = libgcrypt-1.6.6
+
+libassuan.target = libassuan.so
+libassuan.commands = $(MAKE) -C ${ASSUAN_DIR}; cp `find . -name libassuan.so` .
+libassuan.depends =
+
+libksba.target = libksba.so
+libksba.commands = $(MAKE) -C ${SKBA_DIR}; cp `find . -name libksba.so` .
+libksba.depends =
+
+libgpg_error.target = libgpg-error.so
+libgpg_error.commands = $(MAKE) -C ${GPG_ERROR_DIR}; cp `find . -name libgpg-error.so` .
+libgpg_error.depends =
+
+libgcrypt.target = libgcrypt.so
+libgcrypt.commands = $(MAKE) -C ${GCRYPT_DIR}
+libgcrypt.depends =
+
+libspoton.target = libspoton.so
+libspoton.commands = $(MAKE) -C ../../../libSpotOn library
+libspoton.depends =
+
 QT += qml
 QT += quick
 QT += widgets
@@ -74,7 +99,11 @@ DEFINES += SPOTON_KERNEL_GLOBALS \
 #  src/gui/droidholagui.pro \
 #  src/Kernel/spot-on-kernel.qt5.pro \
 QMAKE_TARGET_COPYRIGHT = "(C) 2016 Alexis, Bernd & Schmidtt"
-QMAKE_TARGET_PRODUCT = chatchat
+QMAKE_TARGET_PRODUCT = sourverain
+
+QMAKE_EXTRA_TARGETS = libassuan libksba libgbg_error libgcrypt libntru libspoton purge
+
+PRE_TARGETDEPS = libgcrypt.so
 
 message ("qmake_target:")
 message ($$QMAKE_TARGET)
@@ -87,6 +116,7 @@ message ($$QMAKE_TARGET_COPYRIGHT)
 message ("qmake_target product:")
 message ($$QMAKE_TARGET_PRODUCT)
 
+        message ("crypto libs: "$$CRYPTOLIBS)
 
 RESOURCES += src/gui/droidhola.qrc \
 #    src/gui/spoticons.qrc

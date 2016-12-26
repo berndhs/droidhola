@@ -8,6 +8,7 @@ Item {
     visible: true;
     property bool havePass;
 
+
     Button {
         height: versionButton.height;
         width: height*1.75;
