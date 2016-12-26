@@ -2,30 +2,30 @@
 #
 
 
-ASSSUAN_DIR = libassuan-2.4.3
+ASSUAN_DIR = libassuan-2.4.3
 GPG_ERROR_DIR = libgpg_error-1.24
-SKBA_DIR = libksba-1.3.5
+KSBA_DIR = libksba-1.3.5
 GCRYPT_DIR = libgcrypt-1.6.6
 
 libassuan.target = libassuan.so
-libassuan.commands = $(MAKE) -C ${ASSUAN_DIR}; cp `find . -name libassuan.so` .
+libassuan.commands = $(MAKE)  -C $${ASSUAN_DIR} || cp `find . -name libassuan.so` .
 libassuan.depends =
 
 libksba.target = libksba.so
-libksba.commands = $(MAKE) -C ${SKBA_DIR}; cp `find . -name libksba.so` .
+libksba.commands = $(MAKE)  -C $${KSBA_DIR} || cp `find . -name libksba.so` .
 libksba.depends =
 
-libgpg_error.target = libgpg-error.so
-libgpg_error.commands = $(MAKE) -C ${GPG_ERROR_DIR}; cp `find . -name libgpg-error.so` .
-libgpg_error.depends =
+libgpg-error.target = libgpg-error.so
+libgpg-error.commands = $(MAKE) -C $${GPG_ERROR_DIR} || cp `find . -name libgpg-error.so` .
+libgpg-error.depends =
 
 libgcrypt.target = libgcrypt.so
-libgcrypt.commands = $(MAKE) -C ${GCRYPT_DIR}
+libgcrypt.commands = cd $${GCRYPT_DIR}; pwd; $(MAKE)  || cp `find -name libgcrpyt.so` .
 libgcrypt.depends =
 
-libspoton.target = libspoton.so
-libspoton.commands = $(MAKE) -C ../../../libSpotOn library
-libspoton.depends =
+#libspoton.target = libspoton.so
+#libspoton.commands = $(MAKE) -C library
+#libspoton.depends =
 
 QT += qml
 QT += quick
@@ -59,6 +59,7 @@ message ("android_ndk_root:")
 message ($$ANDROID_NDK_ROOT)
 message ("compilers " $$QMAKE_CC " and " $$QMAKE_CXX)
 message ("compiler flags " $$QMAKE_CXXFLAGS)
+message ("dirs for libs: $$ASSUAN_DIR and $$GPG_ERROR_DIR and $$KSBA_DIR and $$GCRYPT_DIR")
 
 greaterThan(QT_VERSION,5) {
   DEFINES += QT_IS_5
@@ -75,6 +76,11 @@ MOC_DIR = moc
 UI_DIR = ui
 RCC_DIR = rcc
 
+
+DEFINES += KSBA_DIR=$${KSBA_DIR}
+DEFINES += GPG_ERROR_DIR=$${GPG_ERROR_DIR}
+DEFINES += ASSUAN_DIR=$${ASSUAN_DIR}
+DEFINES += GCRYPT_DIR=$${GCRYPT_DIR}
 DEFINES -= SPOTON_LINKED_WITH_LIBPTHREAD
 DEFINES += SPOTON_GOLDBUG=1
 DEFINES += SPOTON_SCTP_ENABLED
