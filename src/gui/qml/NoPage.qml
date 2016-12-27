@@ -7,6 +7,34 @@ Rectangle {
     anchors.fill: mainBigBox;
     color: "lightgrey";
     property bool havePass;
+
+    Menu {
+        id: optionsMenu;
+        title: "Options";
+
+        Image {
+            id: optionsImg;
+            z: 1000;
+
+            width: 24;
+            height: width;
+            source: "options.png"
+            MouseArea {
+                anchors.fill: optionsImg;
+                onReleased: {
+                    optionsMenu.visible = true;
+                    optionsMenu.popup();
+                }
+            }
+        }
+
+        MenuItem {
+            text: "Configuration";
+            onTriggered: {
+                console.log("first menu item chose")
+            }
+        }
+    }
     Rectangle {
         id: smallBox;
         anchors.centerIn: parent;
@@ -20,8 +48,6 @@ Rectangle {
     }
     NavRow {
         id: navRow;
-        anchors.left: nopageItem.left;
-        anchors.bottom: nopageItem.bottom;
 
     }
 }

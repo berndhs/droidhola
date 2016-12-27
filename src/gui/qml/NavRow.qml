@@ -6,10 +6,39 @@ Rectangle {
     id: navRowPage;
     anchors.fill: chatchatLoader;
     color: "transparent";
+    Menu {
+        id: optionsMenu;
+        title: "Options";
+
+        Image {
+            id: optionsImg;
+            z: 1000;
+
+            width: 24;
+            height: width;
+            source: "options.png"
+            MouseArea {
+                anchors.fill: optionsImg;
+                onReleased: {
+                    optionsMenu.visible = true;
+                    optionsMenu.popup();
+                }
+            }
+        }
+
+        MenuItem {
+            text: "Configuration";
+            onTriggered: {
+                console.log("first menu item chose")
+            }
+        }
+    }
+
     Row {
         anchors {
-            left: parent.left;
-            bottom: parent.bottom;
+            left: navRowPage.left;
+            top: navRowPage.top;
+	    topMargin: optionsImg.height+2;
         }
 
         width: navRowPage.width;

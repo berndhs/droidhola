@@ -13,21 +13,6 @@ ApplicationWindow {
     objectName: "nouveauMainTop";
     property alias havePass: cantSeeMe.havePass;
 
-    Menu {
-        title: "Options";
-        Image {
-            width: 24;
-            height: width;
-            source: "options.png"
-        }
-
-        MenuItem {
-            text: "Configuration";
-            onTriggered: {
-                console.log("first menu item chose")
-            }
-        }
-    }
     Item {
         id: cantSeeMe;
         objectName: "cantSeeMe";
