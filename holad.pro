@@ -8,19 +8,19 @@ KSBA_DIR = libksba-1.3.5
 GCRYPT_DIR = libgcrypt-1.6.6
 
 libassuan.target = libassuan.so
-libassuan.commands = cd $${ASSUAN_DIR}; ./configure; cd ..; $(MAKE)  -C $${ASSUAN_DIR} || cp `find . -name libassuan.so` .
+libassuan.commands =  $(MAKE)  -C $${ASSUAN_DIR} || cp `find . -name libassuan.so` .
 libassuan.depends =
 
 libksba.target = libksba.so
-libksba.commands = cd $${KSBA_DIR}; ./configure; cd ..; $(MAKE)  -C $${KSBA_DIR} || cp `find . -name libksba.so` .
+libksba.commands =  $(MAKE)  -C $${KSBA_DIR} || cp `find . -name libksba.so` .
 libksba.depends =
 
 libgpg-error.target = libgpg-error.so
-libgpg-error.commands = cd $${GPG_ERROR_DIR}; ./confifure; cd ..; $(MAKE) -C $${GPG_ERROR_DIR} || cp `find . -name libgpg-error.so` .
+libgpg-error.commands =  $(MAKE) -C $${GPG_ERROR_DIR} || cp `find . -name libgpg-error.so` .
 libgpg-error.depends =
 
 libgcrypt.target = libgcrypt.so
-libgcrypt.commands = cd $${GCRYPT_DIR}; pwd; ./configure;  $(MAKE)  || cp `find -name libgcrpyt.so` .
+libgcrypt.commands =  $(MAKE)  || cp `find -name libgcrpyt.so` .
 libgcrypt.depends =
 
 #libspoton.target = libspoton.so
