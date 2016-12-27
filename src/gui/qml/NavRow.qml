@@ -15,7 +15,7 @@ Rectangle {
 
             width: 24;
             height: width;
-            source: "options.png"
+            source: "pics/options.png"
             MouseArea {
                 anchors.fill: optionsImg;
                 onReleased: {
@@ -50,7 +50,7 @@ Rectangle {
             height: width/2;
             text: "Login";
             onReleased: {
-                chatchatLoader.source = "LoginPage.qml";
+                subLoader.source = "LoginPage.qml";
             }
         }
         Button {
@@ -58,7 +58,7 @@ Rectangle {
             height: width/2;
             text: "Symmetric";
             onReleased: {
-                chatchatLoader.source = "SmmChat.qml";
+                subLoader.source = "SmmChat.qml";
             }
         }
         Button {
@@ -66,7 +66,7 @@ Rectangle {
             height: width/2;
             text: "Nada";
             onReleased: {
-                chatchatLoader.source = "NoPage.qml";
+                subLoader.source = "NoPage.qml";
             }
         }
     }

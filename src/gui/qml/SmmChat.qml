@@ -18,6 +18,12 @@ Rectangle {
             height: 50;
             width: 300;
             color: "green";
+            Keys.onReturnPressed: {
+                submitButton.asIfClicked();
+            }
+            Keys.onEnterPressed: {
+                submitButton.asIfClicked();
+            }
         }
         TextField {
             id: textfield2;
@@ -70,15 +76,20 @@ Rectangle {
         }
 
         Button {
+            id: submitButton;
             height: textfield1.height;
             width: 2*height;
             anchors.right: textfield1.left;
             anchors.verticalCenter: textfield1.verticalCenter;
             anchors.leftMargin: 10;
             text: "Submit";
-            onClicked: {
+            function asIfClicked() {
                 chatchat.dumpInfo();
                 chatchat.sendMessage(textfield1.text);
+            }
+
+            onClicked: {
+                asIfClicked();
             }
         }
         Button {
@@ -95,19 +106,29 @@ Rectangle {
     }
 
     Rectangle {
+        id: bottomMarker;
         anchors.left: bigBox.left;
         anchors.bottom: bigBox.bottom;
         width: bigBox.width/2;
         height: 10;
+        color: "beige";
+    }
+
+    Rectangle {
+        id: topBox;
+        width: navRow.ewidth;
+        height: 100;
+        x: 200;
+        y: 200;
         color: "red";
+        NavRow {
+            id: navRow;
+            width: bigBox.width/2;
+            anchors.left:bottomMarker.right;
+            anchors.top: topBox.top;
+
+        }
     }
 
-    NavRow {
-        id: navRow;
-        width: bigBox.width/2;
-        anchors.right: bigBox.right;
-        anchors.bottom: bigBox.bottom;
-
-    }
 }
 

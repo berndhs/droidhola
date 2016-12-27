@@ -12,7 +12,7 @@ ApplicationWindow {
     color: "beige";
     title: appTitle.text
     objectName: "nouveauMainTop";
-    property int titleHeight: 30;
+    property int titleHeight: 40;
     
     Rectangle {
         id: titleBox;
@@ -42,6 +42,11 @@ ApplicationWindow {
             height: 2*titleBox.height;
             z: 999;
             source: "/pics/logo.png";
+        }
+        Image {
+            id: optionsPic;
+            anchors.left: titlePic.right;
+            source: "pics/options.png";
         }
     }
 

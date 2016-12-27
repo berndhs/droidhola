@@ -1,7 +1,7 @@
 <RCC>
     <qresource prefix="/pics">
         <file alias="logo.png">souverain-logo.png</file>
-        <file alias="options.png">src/gui/qml/options.png</file>
+        <file alias="options.png">src/gui/qml/pics/options.png</file>
     </qresource>
     <qresource prefix="/qml">
         <file alias="nouveauMain.qml">src/gui/qml/nouveauMain.qml</file>

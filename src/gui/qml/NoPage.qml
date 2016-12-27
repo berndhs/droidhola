@@ -18,7 +18,7 @@ Rectangle {
 
             width: 24;
             height: width;
-            source: "options.png"
+            source: "pics/options.png"
             MouseArea {
                 anchors.fill: optionsImg;
                 onReleased: {
