@@ -1,5 +1,9 @@
 qrc_qml.cpp
 doc/
+*.Po
+*.Plo
+*.Pio
+cipher/.deps*
 holad.pro.user
 bin/holad
 src/build*

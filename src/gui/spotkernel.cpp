@@ -42,13 +42,9 @@ SpotKernel::SpotKernel(QObject *parent)
   :QObject (0),
     m_front(nullptr)
 {
-  qDebug() << Q_FUNC_INFO << "front at " << m_front;
+  qDebug() << Q_FUNC_INFO ;
   m_Msg.reserve(256*1014);
   m_Msg.fill ('?',12);
-  qDebug() << Q_FUNC_INFO << "m_Msg has space for " << m_Msg.capacity();
-
-  qDebug() << Q_FUNC_INFO << "m_Msg at " << &(m_Msg);
-  qDebug() << Q_FUNC_INFO << "front" << m_front;
 
 }
 

@@ -80,9 +80,6 @@ CryptoFront::CryptoFront(ChatApplication & app, ProgramVersion &vers, QString da
 //  connect(connecTimer,SIGNAL(timeout()),this,SLOT(pokeThread()));
 //  connecTimer->start(10000);
 
-  qDebug() <<Q_FUNC_INFO <<  "FONT FONT FONT " << chatApp->font();
-  QFontDatabase fdb;
-  qDebug() << "we have fonts:\n" << fdb.families();
   QFont ft;
   ft.setFamily("Latin Modern Roman");
   ft.setWeight(50);
@@ -96,7 +93,8 @@ CryptoFront::~CryptoFront()
   m_kernelThread->deleteLater();
 }
 
-void CryptoFront::sendMessage(QString msg)
+void
+CryptoFront::sendMessage(QString msg)
 {
   qDebug() << Q_FUNC_INFO;
   qDebug() << Q_FUNC_INFO << msg;
@@ -108,12 +106,14 @@ void CryptoFront::sendMessage(QString msg)
   //  m_kernel->sendMsg (m_input.toUtf8());
 }
 
-void CryptoFront::symmetric(QString msg)
+void
+CryptoFront::symmetric(QString msg)
 {
   emit haveCrypto(msg.toUtf8());
 }
 
-void CryptoFront::done()
+void
+CryptoFront::done()
 {
 //  qDebug() << Q_FUNC_INFO;
 //  connecTimer->stop();
@@ -127,7 +127,8 @@ void CryptoFront::done()
   chatApp->quit();
 }
 
-void CryptoFront::showVersion()
+void
+CryptoFront::showVersion()
 {
   qDebug() << Q_FUNC_INFO << mainDialog;
 
@@ -146,17 +147,22 @@ void CryptoFront::showVersion()
   box.exec();
 }
 
-void CryptoFront::setPhrase(QString phrase)
+void
+CryptoFront::setPhrase(QString phrase)
 {
   qDebug() << Q_FUNC_INFO << "passphrase " << phrase;
+  m_pass = phrase;
+  emit haveLoggedIn();
 }
 
-void CryptoFront::setMainDialog(QObject *dialogue)
+void
+CryptoFront::setMainDialog(QObject *dialogue)
 {
   mainDialog = dialogue;
 }
 
-void CryptoFront::reportEncrypted(QString crypto)
+void
+CryptoFront::reportEncrypted(QString crypto)
 {
   qDebug() << Q_FUNC_INFO << "tread" << thread();
   qDebug() << Q_FUNC_INFO << "going to emit for " << crypto;
@@ -164,19 +170,22 @@ void CryptoFront::reportEncrypted(QString crypto)
   emit cryptoChanged(crypto);
 }
 
-void CryptoFront::reportClear(QString clear)
+void
+CryptoFront::reportClear(QString clear)
 {
   qDebug() << Q_FUNC_INFO << "tread" << thread();
   qDebug() << Q_FUNC_INFO << "going to emit for " << clear << "bytes:" <<clear.length();
   m_clear = clear;
   emit clearChanged(clear);
 }
-void CryptoFront::gotSignal(QByteArray arg0)
+void
+CryptoFront::gotSignal(QByteArray arg0)
 {
   qDebug() << Q_FUNC_INFO << arg0;
 }
 
-void CryptoFront::getPhrase()
+void
+CryptoFront::getPhrase()
 {
   qDebug() << Q_FUNC_INFO;
   if (m_passphrase) {
@@ -203,7 +212,8 @@ CryptoFront::pokeThread()
   //  threadPool[threadNum]->makeData();
 }
 
-void CryptoFront::changeSource(QString pass)
+void
+CryptoFront::changeSource(QString pass)
 {
   qDebug() << Q_FUNC_INFO << pass;
   QVariant msg = "NoPage.qml";
@@ -222,7 +232,8 @@ void CryptoFront::changeSource(QString pass)
   }
 }
 
-void CryptoFront::connectQML(CustomEngine &eng)
+void
+CryptoFront::connectQML(CustomEngine &eng)
 {
   qDebug() << Q_FUNC_INFO << "\t\t\t======================================="
            << "\n---------------------------------------"

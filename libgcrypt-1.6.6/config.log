@@ -792,7 +792,7 @@ configure:14563: result: yes
 configure:14563: checking for pthread.h
 configure:14563: result: yes
 configure:14591: gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccxMtSea.o: In function `main':
+/tmp/ccp8cjHI.o: In function `main':
 /home/bernd/mywork/droidhola/libgcrypt-1.6.6/conftest.c:46: undefined reference to `pthread_mutexattr_init'
 collect2: error: ld returned 1 exit status
 configure:14591: $? = 1
@@ -1588,10 +1588,10 @@ configure:16029: $? = 0
 configure:16034: result: yes
 configure:16049: checking whether GCC assembler is compatible for ARM assembly implementations
 configure:16070: gcc -c -g -O2 -fvisibility=hidden  conftest.c >&5
-/tmp/ccZdxcX1.s: Assembler messages:
-/tmp/ccZdxcX1.s:5: Error: unknown pseudo-op: `.syntax'
-/tmp/ccZdxcX1.s:6: Error: unknown pseudo-op: `.arm'
-/tmp/ccZdxcX1.s:8: Error: bad register name `%r0'
+/tmp/ccWqwxdc.s: Assembler messages:
+/tmp/ccWqwxdc.s:5: Error: unknown pseudo-op: `.syntax'
+/tmp/ccWqwxdc.s:6: Error: unknown pseudo-op: `.arm'
+/tmp/ccWqwxdc.s:8: Error: bad register name `%r0'
 configure:16070: $? = 1
 configure: failed program was:
 | /* confdefs.h */
@@ -1716,7 +1716,7 @@ configure:16714: $? = 0
 configure:16714: result: yes
 configure:16720: checking for _doprnt
 configure:16720: gcc -o conftest -g -O2 -fvisibility=hidden   conftest.c  >&5
-/tmp/ccF9lFCK.o: In function `main':
+/tmp/ccnziltX.o: In function `main':
 /home/bernd/mywork/droidhola/libgcrypt-1.6.6/conftest.c:102: undefined reference to `_doprnt'
 collect2: error: ld returned 1 exit status
 configure:16720: $? = 1
@@ -1854,7 +1854,7 @@ configure:16748: $? = 0
 configure:16748: result: yes
 configure:16748: checking for stricmp
 configure:16748: gcc -o conftest -g -O2 -fvisibility=hidden   conftest.c  >&5
-/tmp/ccVytzJZ.o: In function `main':
+/tmp/cclf268b.o: In function `main':
 /home/bernd/mywork/droidhola/libgcrypt-1.6.6/conftest.c:106: undefined reference to `stricmp'
 collect2: error: ld returned 1 exit status
 configure:16748: $? = 1
@@ -2015,7 +2015,7 @@ configure:16773: $? = 0
 configure:16773: result: yes
 configure:16773: checking for gethrtime
 configure:16773: gcc -o conftest -g -O2 -fvisibility=hidden   conftest.c  >&5
-/tmp/ccLob72n.o: In function `main':
+/tmp/cchdhEHE.o: In function `main':
 /home/bernd/mywork/droidhola/libgcrypt-1.6.6/conftest.c:117: undefined reference to `gethrtime'
 collect2: error: ld returned 1 exit status
 configure:16773: $? = 1
@@ -2436,7 +2436,7 @@ AUTOMAKE='${SHELL} /home/bernd/mywork/droidhola/libgcrypt-1.6.6/build-aux/missin
 AWK='gawk'
 BUILD_FILEVERSION='1,6,6,57999'
 BUILD_REVISION='e28f3f3'
-BUILD_TIMESTAMP='2016-12-26T23:29+0000'
+BUILD_TIMESTAMP='2016-12-27T00:26+0000'
 CC='gcc'
 CCAS='gcc'
 CCASDEPMODE='depmode=gcc3'
@@ -2774,6 +2774,6 @@ target_alias=''
 #define LIBGCRYPT_KDFS "s2k:pkdf2:scrypt"
 #define HAVE_CPU_ARCH_X86 1
 #define BUILD_REVISION "e28f3f3"
-#define BUILD_TIMESTAMP "2016-12-26T23:29+0000"
+#define BUILD_TIMESTAMP "2016-12-27T00:26+0000"
 
 configure: exit 0

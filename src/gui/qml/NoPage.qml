@@ -48,6 +48,7 @@ Rectangle {
     }
     NavRow {
         id: navRow;
+        anchors.bottom: nopageItem.bottom;
 
     }
 }

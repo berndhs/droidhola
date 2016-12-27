@@ -103,6 +103,8 @@ signals:
 
   void cryptoChanged(QString crypto);
 
+  void haveLoggedIn();
+
 public slots:
   void reportEncrypted (QString crypto);
   void reportClear (QString clear);
@@ -141,6 +143,7 @@ private:
   ProgramVersion *version;
 
   TextBox  *m_passphrase;
+  QString m_pass;
 
   QObject * mainDialog;
   QObject * root0;

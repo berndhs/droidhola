@@ -68,7 +68,6 @@ Rectangle {
             function enter() {
                 chatchat.setPhrase(passPhraseBox.text);
                 console.log("got pass phrase " + passPhraseBox.text);
-                chatchatLoader.source = "NoPage.qml"
             }
 
             Keys.onEnterPressed: {
@@ -92,8 +91,8 @@ Rectangle {
             height: passPhraseBox.height;
             text: "Set Pass"
             onReleased: {
-//                chatchat.setPhrase(passPhraseBox.text);
-//                passPhraseBox.enter();
+                chatchat.setPhrase(passPhraseBox.text);
+                passPhraseBox.enter();
                 passButton.wantPhrase();
             }
         }
@@ -103,8 +102,7 @@ Rectangle {
         id: navRow;
         visible: loginPage.havePass;
         anchors.left: loginPage.left;
-        anchors.top: loginPage.top;
-        anchors.topMargin: versionButton.height+5
+        anchors.bottom: loginPage.bottom;
 
     }
 }

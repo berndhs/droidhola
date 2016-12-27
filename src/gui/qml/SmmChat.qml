@@ -4,7 +4,6 @@ import QtQuick.Layouts 1.0
 
 Rectangle {
     id: bigBox;
-    anchors.fill: chatchatLoader;
     property bool havePass: false;
     color: "lightgreen";
     Item {
@@ -18,7 +17,7 @@ Rectangle {
 
             height: 50;
             width: 300;
-            color: "white";
+            color: "green";
         }
         TextField {
             id: textfield2;
@@ -95,9 +94,18 @@ Rectangle {
         }
     }
 
+    Rectangle {
+        anchors.left: bigBox.left;
+        anchors.bottom: bigBox.bottom;
+        width: bigBox.width/2;
+        height: 10;
+        color: "red";
+    }
+
     NavRow {
         id: navRow;
-        anchors.left: bigBox.left;
+        width: bigBox.width/2;
+        anchors.right: bigBox.right;
         anchors.bottom: bigBox.bottom;
 
     }

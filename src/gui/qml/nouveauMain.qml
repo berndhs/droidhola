@@ -12,7 +12,7 @@ ApplicationWindow {
     color: "beige";
     title: appTitle.text
     objectName: "nouveauMainTop";
-    property real titleHeight: 30;
+    property int titleHeight: 30;
     
     Rectangle {
         id: titleBox;
@@ -27,10 +27,20 @@ ApplicationWindow {
             text: "Souverain";
             anchors.centerIn:  titleBox;
         }
+        Text {
+            id: loadedFile;
+            font.pointSize: 12;
+            text: subLoader.source;
+            anchors.bottom: appTitle.bottom;
+            anchors.left: appTitle.right;
+            anchors.leftMargin: 20;
+        }
+
         Image {
             id: titlePic;
             width: height;
             height: 2*titleBox.height;
+            z: 999;
             source: "/pics/logo.png";
         }
     }
@@ -38,34 +48,51 @@ ApplicationWindow {
     Rectangle {
         id: subPageBox;
         width: mainBigBox.width;
-        height: 200;
-        anchors.centerIn: parent;
 
-//        height: mainBigBox.height - mainBigBox.titleHeight;
+        height: mainBigBox.height - mainBigBox.titleHeight;
         color: "pink";
-//        Button {
-//            id: startButton;
-//            text: "Start";
-////            visible: subLoader.status != Loader.Ready;
-//            width: 75;
-//            height: 50;
-//            anchors.centerIn: subPageBox;
-//            onReleased: {
-////                subLoader.source = "LoginPage.qml";
-//            }
-//        }
+        anchors.top: titleBox.bottom;
+
+        Button {
+            id: startButton;
+            text: "Start";
+            visible: subLoader.status != Loader.Ready;
+            width: 75;
+            height: 50;
+            anchors.centerIn: subPageBox;
+            onReleased: {
+                subLoader.source = "LoginPage.qml";
+            }
+        }
     }
-        
-//    Loader {
-//        id: subLoader;
-//        objectName: "chatchatLoader";
-//        width: subPageBox.width;
-//        height: subPageBox.height;
-//        anchors.centerIn: subPageBox;
-//        source: "";
-//        onLoaded: {
-//            console.log ("done loading ",chatchatLoader.source);
-//        }
-//    }
+
+    Timer {
+        id: loginTimer;
+        interval: 3000;
+        repeat: false;
+        running: true;
+        onTriggered: {
+            subLoader.source = "LoginPage.qml";
+        }
+    }
+
+    Connections {
+        target: chatchat;
+        onHaveLoggedIn: {
+            subLoader.source = "SmmChat.qml";
+        }
+    }
+
+    Loader {
+        id: subLoader;
+        objectName: "chatchatLoader";
+        width: subPageBox.width;
+        height: subPageBox.height;
+        anchors.centerIn: subPageBox;
+        source: "";
+        onLoaded: {
+            console.log ("done loading ",subLoader.source);
+        }
+    }
 }
 

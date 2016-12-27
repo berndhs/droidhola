@@ -104,7 +104,7 @@ main(int argc, char *argv[])
 
   cfront.connectQML(engine);
 
-  engine.reportState();
+//  engine.reportState();
 
   return app.exec();
 

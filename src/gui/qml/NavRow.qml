@@ -4,7 +4,6 @@ import QtQuick.Layouts 1.0
 
 Rectangle {
     id: navRowPage;
-    anchors.fill: chatchatLoader;
     color: "transparent";
     Menu {
         id: optionsMenu;
