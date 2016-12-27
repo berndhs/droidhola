@@ -67,7 +67,7 @@ greaterThan(QT_VERSION,5) {
   DEFINES += QT_IS_4
 }
 
-TARGET = holadexe
+TARGET = souverain
 
 TEMPLATE = app
 
@@ -105,7 +105,7 @@ DEFINES += SPOTON_KERNEL_GLOBALS \
 #  src/gui/droidholagui.pro \
 #  src/Kernel/spot-on-kernel.qt5.pro \
 QMAKE_TARGET_COPYRIGHT = "(C) 2016 Alexis, Bernd & Schmidtt"
-QMAKE_TARGET_PRODUCT = sourverain
+QMAKE_TARGET_PRODUCT = souverain
 
 QMAKE_EXTRA_TARGETS = libassuan libksba libgbg_error libgcrypt libntru libspoton purge
 
@@ -124,7 +124,7 @@ message ($$QMAKE_TARGET_PRODUCT)
 
         message ("crypto libs: "$$CRYPTOLIBS)
 
-RESOURCES += src/gui/droidhola.qrc \
+RESOURCES += souverain.qrc \
 #    src/gui/spoticons.qrc
 
 #INCLUDEPATH += /usr/include/bits

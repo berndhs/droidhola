@@ -16,7 +16,7 @@
 #define BUILD_REVISION "e28f3f3"
 
 /* The time this package was configured for a build */
-#define BUILD_TIMESTAMP "2016-12-26T23:29+0000"
+#define BUILD_TIMESTAMP "2016-12-27T00:26+0000"
 
 /* configure did not test for endianess */
 /* #undef DISABLED_ENDIAN_CHECK */

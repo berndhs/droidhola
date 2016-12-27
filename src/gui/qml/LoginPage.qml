@@ -2,8 +2,9 @@ import QtQuick 2.7
 import QtQuick.Controls 2.0
 import QtQuick.Layouts 1.0
 
-Item {
+Rectangle {
     id: loginPage;
+    color: "green";
     objectName: "loginPage";
     visible: true;
     property bool havePass;
@@ -26,9 +27,12 @@ Item {
     Button {
         id: versionButton;
         objectName: "versionButton";
-        x: 0; y: 0;
+        anchors {
+            left: loginPage.left;
+            top: loginPage.top;
+        }
         width: 100;
-        height: 50;
+        height: 30;
         text: "Version";
         onPressed: {
             chatchat.showVersion();

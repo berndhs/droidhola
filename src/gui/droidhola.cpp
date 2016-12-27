@@ -103,17 +103,6 @@ main(int argc, char *argv[])
   engine.load(QUrl(QLatin1String("qrc:/qml/nouveauMain.qml")));
 
   cfront.connectQML(engine);
-  QList<QObject*> rootList = engine.rootObjects();
-  qDebug() << Q_FUNC_INFO << "there are " << rootList.count() << "root objects";
-  qDebug() << Q_FUNC_INFO << "the are " << rootList;
-  QObject* mainGuy;
-  for (int i= 0; i<rootList.count(); ++i) {
-    QString name("cantSeeMe");
-    mainGuy = rootList.at(i)->findChild<QObject*>(name);
-    qDebug() << "\tmain guy" << mainGuy;
-
-  }
-
 
   engine.reportState();
 

@@ -9,119 +9,63 @@ ApplicationWindow {
     visible: true
     width: 640
     height: 480
-    title: chatchat.name
+    color: "beige";
+    title: appTitle.text
     objectName: "nouveauMainTop";
-    property alias havePass: cantSeeMe.havePass;
-
-    Item {
-        id: cantSeeMe;
-        objectName: "cantSeeMe";
-        property string title: "";
-        property string text: "";
-        property int showVersion: 0;
-        property bool havePass: false;
-        function dooDa(argument) {
-            console.log(objectName + " / dooDa " + argument);
-            return "returrrrn";
+    property real titleHeight: 30;
+    
+    Rectangle {
+        id: titleBox;
+        anchors.top:mainBigBox.top;
+        anchors.left: mainBigBox.left;
+        width: mainBigBox.width;
+        height: mainBigBox.titleHeight
+        color: "lightgreen";
+        Text {
+            id: appTitle;
+            font.pointSize: 20;
+            text: "Souverain";
+            anchors.centerIn:  titleBox;
         }
-        function nextQml (theSource) {
-            chatchatLoader.source = theSource;
-            return theSource;
-        }
-
-        onTitleChanged: {
-            messageDialog.title = title;
-            messageDialogText.dumpStuff();
-        }
-        onTextChanged: {
-            messageDialog.text = text;
-            messageDialogText.dumpStuff();
-        }
-        onShowVersionChanged: {
-            messageDialog.visible = true;
-            console.log("\tDialog title ",messageDialog.title);
-            console.log("\tDualog text",messageDialog.text);
-            console.log("\tDualog text font ",messageDialogText.font);
-            messageDialogText.dumpStuff();
-        }
-
-        function showThePopup (myTitle, theText) {
-            messageDialog.title = myTitle;
-            messageDialog.text = theText;
-            messageDialog.visible = true;
+        Image {
+            id: titlePic;
+            width: height;
+            height: 2*titleBox.height;
+            source: "/pics/logo.png";
         }
     }
 
     Rectangle {
-        id: messageDialog
-        width: 150;
-        height: 150;
-        x: 150;
-        y: 200;
-        z: 200;
-        visible: false;
-        color: "lightblue";
-        opacity: 0.75;
-        border.color: "black";
-        border.width: 2;
-        radius: 4;
-        objectName: "mainDialog";
-        property string title: "The Text Title"
-        property string text: "the text field";
-        property int showVersion: 0;
-        TextField {
+        id: subPageBox;
+        width: mainBigBox.width;
+        height: 200;
+        anchors.centerIn: parent;
 
-            id: messageDialogText;
-            objectName: "MessageText";
-            function dumpStuff() {
-                console.log(text.font);
-            }
-
-            property alias showVersion: messageDialog.showVersion;
-            text: messageDialog.text;
-            font.pixelSize: 20;
-            font.weight: Font.Normal;
-            anchors {
-                top: titleLine.bottom;
-                horizontalCenter: titleLine.horizontalCenter;
-                topMargin: 20;
-            }
-
-        }
-        Text {
-            id: titleLine;
-            text: messageDialog.title;
-            anchors {
-                top: messageDialog.top;
-                horizontalCenter: messageDialog.horizontalCenter;
-                topMargin: 20;
-            }
-        }
-        Button {
-            id: closeButton;
-            anchors {
-                bottom: messageDialog.bottom;
-                horizontalCenter: messageDialog.horizontalCenter;
-            }
-
-            text: "OK";
-            onReleased: {
-                messageDialog.visible = false;
-            }
-        }
+//        height: mainBigBox.height - mainBigBox.titleHeight;
+        color: "pink";
+//        Button {
+//            id: startButton;
+//            text: "Start";
+////            visible: subLoader.status != Loader.Ready;
+//            width: 75;
+//            height: 50;
+//            anchors.centerIn: subPageBox;
+//            onReleased: {
+////                subLoader.source = "LoginPage.qml";
+//            }
+//        }
     }
-
-
-    Loader {
-        id: chatchatLoader;
-        property alias havePass: mainBigBox.havePass;
-        objectName: "chatchatLoader";
-        anchors.fill: parent;
-        source: "LoginPage.qml"
-        onLoaded: {
-            item.havePass = mainBigBox.havePass;
-            console.log ("done loading ",chatchatLoader.source);
-        }
-    }
+        
+//    Loader {
+//        id: subLoader;
+//        objectName: "chatchatLoader";
+//        width: subPageBox.width;
+//        height: subPageBox.height;
+//        anchors.centerIn: subPageBox;
+//        source: "";
+//        onLoaded: {
+//            console.log ("done loading ",chatchatLoader.source);
+//        }
+//    }
 }
 

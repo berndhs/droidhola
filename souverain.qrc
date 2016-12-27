@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file alias="logo.png">souverain-logo.png</file>
+        <file alias="options.png">src/gui/qml/options.png</file>
+    </qresource>
+    <qresource prefix="/qml">
+        <file alias="nouveauMain.qml">src/gui/qml/nouveauMain.qml</file>
+        <file alias="LoginPage.qml">src/gui/qml/LoginPage.qml</file>
+        <file alias="NoPage.qml">src/gui/qml/NoPage.qml</file>
+        <file alias="SmmChat.qml">src/gui/qml/SmmChat.qml</file>
+        <file alias="NavRow.qml">src/gui/qml/NavRow.qml</file>
+    </qresource>
+</RCC>
