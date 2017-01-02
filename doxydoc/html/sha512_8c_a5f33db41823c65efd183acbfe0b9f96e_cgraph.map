@@ -1,0 +1,11 @@
+<map id="sha384_init" name="sha384_init">
+<area shape="rect" id="node2" href="$g10lib_8h.html#aea824f7fabf4b6f049106a272b63f36d" title="_gcry_get_hw_features" alt="" coords="141,5,299,32"/>
+<area shape="rect" id="node3" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="197,56,243,83"/>
+<area shape="rect" id="node4" href="$sha512_8c.html#adbbd8c4963d9095e549ae5e64b22bfa5" title="transform" alt="" coords="181,107,259,133"/>
+<area shape="rect" id="node5" href="$sha512_8c.html#a81bfd07769b0b9ca0c550c81dd3c1b04" title="__transform" alt="" coords="347,107,437,133"/>
+<area shape="rect" id="node6" href="$sha512_8c.html#a8317cd32454b3fde2e87af13588c36f8" title="Sum1" alt="" coords="485,31,541,57"/>
+<area shape="rect" id="node8" href="$sha512_8c.html#a811b1d8410d69fcf6d3fd9a347ef34fd" title="Ch" alt="" coords="494,81,533,108"/>
+<area shape="rect" id="node9" href="$sha512_8c.html#a43bc2a2068d25e1812bcba9cb856212d" title="Sum0" alt="" coords="485,132,541,159"/>
+<area shape="rect" id="node10" href="$sha512_8c.html#afc65bd0f3b1e2957dee26e7ad821e574" title="Maj" alt="" coords="492,183,535,209"/>
+<area shape="rect" id="node7" href="$sha512_8c.html#a8c40fd6c7ca48e8de06955a005de1f3b" title="ROTR" alt="" coords="589,81,649,108"/>
+</map>

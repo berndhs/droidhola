@@ -1,0 +1,8 @@
+<map id="spoton_crypt" name="spoton_crypt">
+<area shape="rect" id="node2" href="$classspoton__threefish.html" title="spoton_threefish" alt="" coords="5,199,124,225"/>
+<area shape="rect" id="node3" href="$structgcry__cipher__handle.html" title="gcry_cipher_handle" alt="" coords="148,199,283,225"/>
+<area shape="rect" id="node4" href="$structgcry__cipher__spec.html" title="gcry_cipher_spec" alt="" coords="44,95,168,121"/>
+<area shape="rect" id="node5" href="$structgcry__cipher__oid__spec.html" title="gcry_cipher_oid_spec" alt="" coords="25,5,173,32"/>
+<area shape="rect" id="node6" href="$unioncipher__context__alignment__t.html" title="cipher_context_alignment_t" alt="" coords="203,95,385,121"/>
+<area shape="rect" id="node7" href="$unionPROPERLY__ALIGNED__TYPE.html" title="PROPERLY_ALIGNED_TYPE" alt="" coords="198,5,401,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="_assuan_w32ce_finish_pipe" name="_assuan_w32ce_finish_pipe">
+<area shape="rect" id="node2" href="$assuan-handler_8c.html#a40bd474c42e72a69631ff73dccf29a7b" title="std_handler_input" alt="" coords="272,5,396,32"/>
+<area shape="rect" id="node3" href="$assuan-handler_8c.html#a436dfb198fc68f83d839c4a7ebdb6f90" title="std_handler_output" alt="" coords="268,56,400,83"/>
+<area shape="rect" id="node4" href="$system-w32ce_8c.html#aecdd72af1a6f8e60db84878da007186e" title="_assuan_w32ce_create_pipe" alt="" coords="239,107,429,133"/>
+<area shape="rect" id="node5" href="$pipeconnect_8c.html#a49993c1447edb6ff672d98f35f6a6654" title="parse_std_file_handles" alt="" coords="257,157,411,184"/>
+<area shape="rect" id="node6" href="$pipeconnect_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="477,157,528,184"/>
+</map>

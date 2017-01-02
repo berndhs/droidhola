@@ -1,0 +1,15 @@
+<map id="int2octets" name="int2octets">
+<area shape="rect" id="node2" href="$dsa-common_8c.html#af6ee624d116503dab9796e20356ee351" title="bits2octets" alt="" coords="132,81,219,108"/>
+<area shape="rect" id="node3" href="$pubkey-internal_8h.html#a9ee9cac9b13e0002cc5dfcf186854562" title="_gcry_dsa_gen_rfc6979_k" alt="" coords="267,107,441,133"/>
+<area shape="rect" id="node4" href="$dsa_8c.html#a231324bcad8da3ba6cdfb16a9935e5f5" title="sign" alt="" coords="543,81,590,108"/>
+<area shape="rect" id="node10" href="$ecc-ecdsa_8c.html#a92ecc1c83f033fcdd7871828aed52c3a" title="_gcry_ecc_ecdsa_sign" alt="" coords="489,132,644,159"/>
+<area shape="rect" id="node5" href="$dsa_8c.html#a313de49e2a7c8c5bd9f252ec25967b87" title="test_keys" alt="" coords="692,31,771,57"/>
+<area shape="rect" id="node9" href="$dsa_8c.html#a92df06c995f05b0bf50f364e4e82c78b" title="dsa_sign" alt="" coords="694,81,769,108"/>
+<area shape="rect" id="node6" href="$dsa_8c.html#a1d6920548443c034f763699cb326932b" title="generate" alt="" coords="847,5,919,32"/>
+<area shape="rect" id="node8" href="$dsa_8c.html#aadf9cfd4724eed44e05a1695dcc5bd37" title="generate_fips186" alt="" coords="822,56,943,83"/>
+<area shape="rect" id="node7" href="$dsa_8c.html#ae90d85c7509d37fa1c8600b12e831f75" title="dsa_generate" alt="" coords="995,31,1095,57"/>
+<area shape="rect" id="node11" href="$ecc_8c.html#ab824af94d5e7a2c6a1ad4559ee2ea9a1" title="test_keys" alt="" coords="692,132,771,159"/>
+<area shape="rect" id="node14" href="$ecc_8c.html#ae11b517c533d922d85067aa6c4948907" title="ecc_sign" alt="" coords="694,183,769,209"/>
+<area shape="rect" id="node12" href="$ecc_8c.html#a727c0b4e54d26594ca00e4550ec7fb06" title="nist_generate_key" alt="" coords="819,132,947,159"/>
+<area shape="rect" id="node13" href="$ecc_8c.html#afb500d86a0c20d38b6e95eac941221ca" title="ecc_generate" alt="" coords="995,132,1095,159"/>
+</map>

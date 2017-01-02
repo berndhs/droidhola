@@ -1,0 +1,5 @@
+<map id="_gcry_detect_hw_features" name="_gcry_detect_hw_features">
+<area shape="rect" id="node2" href="$hwfeatures_8c.html#a3677c386001d3da65c8e663b7cab2509" title="parse_hwf_deny_file" alt="" coords="235,5,376,32"/>
+<area shape="rect" id="node3" href="$hwf-common_8h.html#a1b5f4849b489504b95d54b27e7a06270" title="_gcry_hwf_detect_x86" alt="" coords="229,56,382,83"/>
+<area shape="rect" id="node4" href="$hwf-arm_8c.html#afd6feb1acb524f33730e2185348b73b7" title="_gcry_hwf_detect_arm" alt="" coords="228,107,383,133"/>
+</map>

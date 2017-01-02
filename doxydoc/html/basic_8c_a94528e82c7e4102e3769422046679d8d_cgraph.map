@@ -1,0 +1,8 @@
+<map id="check_pubkey_sign_ecdsa" name="check_pubkey_sign_ecdsa">
+<area shape="rect" id="node2" href="$basic_8c.html#aa77cc587dc65b9282085c7403a84ae8e" title="die" alt="" coords="284,5,323,32"/>
+<area shape="rect" id="node3" href="$libgcrypt-1_86_86_2src_2gcrypt_8h.html#ae3d89d899ca8b3b91709c0d970a17cd6" title="gcry_err_code" alt="" coords="423,81,527,108"/>
+<area shape="rect" id="node5" href="$basic_8c.html#a4dd0d318d4c89c0532458533ab35ead4" title="fail" alt="" coords="455,157,494,184"/>
+<area shape="rect" id="node6" href="$basic_8c.html#a5753711823ae182c7ac47927cae17e69" title="show_sexp" alt="" coords="259,157,347,184"/>
+<area shape="rect" id="node7" href="$basic_8c.html#a234151a3026e69fdde0066b06894e1b4" title="verify_one_signature" alt="" coords="232,107,375,133"/>
+<area shape="rect" id="node4" href="$gpg-error_8h.html#ae9aa174cb4e6c638dcfa58942b79ed2d" title="gpg_err_code" alt="" coords="575,81,675,108"/>
+</map>

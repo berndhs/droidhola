@@ -1,0 +1,5 @@
+<map id="spoton_kernel::slotMessagingCachePurge" name="spoton_kernel::slotMessagingCachePurge">
+<area shape="rect" id="node2" href="$classspoton__kernel.html#ab734b04d22f40343107400961310ba39" title="spoton_kernel::purgeMessaging\lCache" alt="" coords="248,23,455,65"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#acbb66a506c79752732614d3883df9298" title="spoton_misc::database" alt="" coords="505,5,663,32"/>
+<area shape="rect" id="node4" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="503,56,665,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="spoton_gui_server::slotStatusMessageReceived" name="spoton_gui_server::slotStatusMessageReceived">
+<area shape="rect" id="node2" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="723,34,872,61"/>
+<area shape="rect" id="node4" href="$classspoton__gui__server.html#aeea94c18ac6b0fcfa60fd0781e943075" title="spoton_gui_server::\lslotForwardSecrecyRequest" alt="" coords="243,35,429,76"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="920,34,1083,61"/>
+<area shape="rect" id="node5" href="$classspoton__gui__server.html#a79358fb66d39995ab93b8fa625a07a2d" title="spoton_gui_server::\lslotForwardSecrecyResponse" alt="" coords="477,85,675,127"/>
+</map>

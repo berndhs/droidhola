@@ -1,0 +1,13 @@
+<map id="_ksba_asn_expand_object_id" name="_ksba_asn_expand_object_id">
+<area shape="rect" id="node2" href="$asn1-func_8c.html#ae9a1455bfb37eb74adb75b5a4d6bbb97" title="_ksba_asn_walk_tree" alt="" coords="258,5,406,32"/>
+<area shape="rect" id="node4" href="$asn1-func_8c.html#a09b304df147f3e99936886483645203e" title="_ksba_asn_find_node" alt="" coords="258,56,406,83"/>
+<area shape="rect" id="node7" href="$asn1-func_8c.html#af38bbeffc6c4379fd2b4369ea92ee42f" title="set_down" alt="" coords="293,107,371,133"/>
+<area shape="rect" id="node8" href="$asn1-func_8c.html#a83c923ff6c9f5d80e4b46507fffdbda1" title="_ksba_asn_remove_node" alt="" coords="247,157,417,184"/>
+<area shape="rect" id="node9" href="$asn1-func_8c.html#aae9f4c3399deae4fb5ec48c46ea3aec3" title="add_node" alt="" coords="293,208,371,235"/>
+<area shape="rect" id="node10" href="$asn1-func_8c.html#ae59c8b7930843ab5d70c6a7384fb4cb0" title="_ksba_asn_set_name" alt="" coords="257,259,407,285"/>
+<area shape="rect" id="node11" href="$asn1-func_8c.html#a6859442e15ff570d66f80245c3aff671" title="_ksba_asn_set_value" alt="" coords="258,309,406,336"/>
+<area shape="rect" id="node12" href="$asn1-func_8c.html#a99fee02050d5e4d0f81ca7c46d425573" title="set_right" alt="" coords="296,360,368,387"/>
+<area shape="rect" id="node3" href="$asn1-func_8c.html#a77a8f4cb360886f71c0cf49e96348d5c" title="find_up" alt="" coords="473,5,537,32"/>
+<area shape="rect" id="node5" href="$asn1-func_8c.html#a70169494dc8baa8359cd990492387761" title="find_node" alt="" coords="465,56,544,83"/>
+<area shape="rect" id="node6" href="$asn1-func_8c.html#a45812535c3da5692ced4fefebad07ffb" title="resolve_identifier" alt="" coords="592,81,712,108"/>
+</map>

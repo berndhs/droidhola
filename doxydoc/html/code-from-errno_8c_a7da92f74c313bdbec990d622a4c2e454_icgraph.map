@@ -1,0 +1,25 @@
+<map id="_gpg_err_code_from_syserror" name="_gpg_err_code_from_syserror">
+<area shape="rect" id="node2" href="$gpg-error_8h.html#abd4e9b5cd83f274daf75333e29224759" title="gpg_err_code_from_syserror" alt="" coords="193,440,380,467"/>
+<area shape="rect" id="node3" href="$gpg-error_8h.html#ad13b95c1d66d829de5ca339cb854906f" title="gpg_err_source" alt="" coords="428,440,539,467"/>
+<area shape="rect" id="node4" href="$ce-server_8c.html#acf879048d18a12aed5fad22e444da52f" title="leave_cmd" alt="" coords="612,208,697,235"/>
+<area shape="rect" id="node17" href="$libgcrypt-1_86_86_2src_2gcrypt_8h.html#a5ff0de5b52c503c6955e4f63d6344c69" title="gcry_err_source" alt="" coords="597,360,712,387"/>
+<area shape="rect" id="node18" href="$gpg-error_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1225,487,1276,513"/>
+<area shape="rect" id="node19" href="$strsource-sym_8c.html#a0a35d53192c076dd069162c39cbe4fb7" title="gpg_strsource_sym" alt="" coords="587,468,723,495"/>
+<area shape="rect" id="node23" href="$strsource_8c.html#af15f06c5bc56a1a648ac4653915eb46a" title="_gpg_strsource" alt="" coords="599,531,710,557"/>
+<area shape="rect" id="node5" href="$ce-server_8c.html#ae86b788540e99663261e763b010f368e" title="cmd_echo" alt="" coords="1021,5,1104,32"/>
+<area shape="rect" id="node9" href="$ce-server_8c.html#ae0b124f50ba7f537986c5e73b23d35c3" title="cmd_cat" alt="" coords="1027,56,1099,83"/>
+<area shape="rect" id="node10" href="$ce-server_8c.html#a331de1c8f338a79340a4b57cf4a4e8f3" title="cmd_pwd" alt="" coords="1023,107,1102,133"/>
+<area shape="rect" id="node11" href="$ce-server_8c.html#ae9b2113e102b8081f4b3583afafae9ed" title="cmd_cd" alt="" coords="1029,157,1097,184"/>
+<area shape="rect" id="node12" href="$ce-server_8c.html#ae48877ae09338da597921b5dfa1502a8" title="cmd_newdataport_cont" alt="" coords="778,208,935,235"/>
+<area shape="rect" id="node14" href="$ce-server_8c.html#a8201000eefef07dbf0827b5bb6ed20f4" title="cmd_dataport" alt="" coords="1012,259,1113,285"/>
+<area shape="rect" id="node15" href="$ce-server_8c.html#a2535f31f7672fd612edf1424e414a113" title="cmd_getinfo" alt="" coords="810,309,903,336"/>
+<area shape="rect" id="node16" href="$ce-server_8c.html#aff3e39ca029ea890caee1b092dfeee5c" title="cmd_shutdown" alt="" coords="801,360,912,387"/>
+<area shape="rect" id="node6" href="$ce-server_8c.html#a2c49eb687d21286f04c061a565a34585" title="register_commands" alt="" coords="1183,183,1319,209"/>
+<area shape="rect" id="node7" href="$ce-server_8c.html#ad18fdc3df8fad95296a014ea46567b4b" title="server" alt="" coords="1367,183,1425,209"/>
+<area shape="rect" id="node8" href="$ce-server_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1473,183,1524,209"/>
+<area shape="rect" id="node13" href="$ce-server_8c.html#a5889bfc3a260e383c0b989cb1529e8b9" title="cmd_newdataport" alt="" coords="1000,208,1125,235"/>
+<area shape="rect" id="node20" href="$gpg-error_8c.html#acabe4d47e700ccf24f6398dacefea739" title="i18n_init" alt="" coords="821,512,892,539"/>
+<area shape="rect" id="node21" href="$gpg-error_8c.html#aed2ae1439eb4c26440e1d02f64d33207" title="get_err_from_symbol_one" alt="" coords="771,563,943,589"/>
+<area shape="rect" id="node22" href="$gpg-error_8c.html#a86cf30f4e35fa7d82929c71f3d05b704" title="get_err_from_symbol" alt="" coords="991,563,1135,589"/>
+<area shape="rect" id="node24" href="$gpg-error_8h.html#aa6a748ca208dd01e7946814bf5ce87a4" title="gpg_strsource" alt="" coords="805,613,909,640"/>
+</map>

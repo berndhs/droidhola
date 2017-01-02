@@ -1,0 +1,8 @@
+<map id="spoton::slotRemoveEmailParticipants" name="spoton::slotRemoveEmailParticipants">
+<area shape="rect" id="node2" href="$classspoton__misc.html#acbb66a506c79752732614d3883df9298" title="spoton_misc::database" alt="" coords="311,5,469,32"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="949,81,1112,108"/>
+<area shape="rect" id="node4" href="$classspoton__misc.html#aa3d4eb65616162e7649b7546a48dd028" title="spoton_misc::purgeSignature\lRelationships" alt="" coords="295,107,485,149"/>
+<area shape="rect" id="node5" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="752,107,901,133"/>
+<area shape="rect" id="node6" href="$classspoton__crypt.html#a7382dbdb47b772128ea0f12cb975d959" title="spoton_crypt::keyedHash" alt="" coords="533,157,704,184"/>
+<area shape="rect" id="node7" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="807,157,846,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="gcry_md_get_algo" name="gcry_md_get_algo">
+<area shape="rect" id="node2" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="225,5,272,32"/>
+<area shape="rect" id="node3" href="$md_8c.html#a9e94bed4a2c9fb9ac13dfa80b5d1a25d" title="_gcry_md_get_algo" alt="" coords="181,56,316,83"/>
+<area shape="rect" id="node4" href="$md_8c.html#a808b3826e83a4b22339c1246f2b10f07" title="md_get_algo" alt="" coords="364,56,460,83"/>
+<area shape="rect" id="node5" href="$common_8h.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="508,56,580,83"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="curl_write_memory_callback" name="curl_write_memory_callback">
+<area shape="rect" id="node2" href="$spot-on-kernel-b_8cc.html#a721e9cb62b7ac9f132bde0343aaf20ce" title="curl_payload_source" alt="" coords="263,36,404,63"/>
+<area shape="rect" id="node6" href="$classspoton__kernel.html#ad7c6763176d695587e243046df71c9bd" title="spoton_kernel::popPoptastic" alt="" coords="240,96,427,123"/>
+<area shape="rect" id="node3" href="$classspoton__kernel.html#a0c02131f8a119ec017029e52fce05d61" title="spoton_kernel::postPoptastic" alt="" coords="482,16,673,43"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#af7d1db502ae56a455bf25ed6c458f006" title="spoton_kernel::slotPoptasticPost" alt="" coords="1245,5,1460,32"/>
+<area shape="rect" id="node5" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="1733,113,1884,154"/>
+<area shape="rect" id="node7" href="$classspoton__kernel.html#a62d81c13819de860823044d01da21856" title="spoton_kernel::slotRetrieveMail" alt="" coords="475,96,680,123"/>
+<area shape="rect" id="node14" href="$classspoton__kernel.html#a4e5e24c5da55d9e406d864bf5e9b6c40" title="spoton_kernel::slotPoptasticPop" alt="" coords="728,216,939,243"/>
+<area shape="rect" id="node8" href="$classspoton__kernel.html#a9223a77b13d95689d77ea3ba52b59e7d" title="spoton_kernel::connectSignals\lToNeighbor" alt="" coords="733,129,933,170"/>
+<area shape="rect" id="node9" href="$classspoton__kernel.html#acc4b038c20734b08617da1aad9193501" title="spoton_kernel::prepareNeighbors" alt="" coords="1246,107,1459,133"/>
+<area shape="rect" id="node11" href="$classspoton__kernel.html#aa9947ef6ff1cc446368a165607518ac0" title="spoton_kernel::slotNewNeighbor" alt="" coords="987,157,1197,184"/>
+<area shape="rect" id="node13" href="$classspoton__kernel.html#a8326fb4c480d72dff4a2357b4f17bee3" title="spoton_kernel::slotUpdate\lSettings" alt="" coords="1509,183,1684,225"/>
+<area shape="rect" id="node10" href="$classspoton__kernel.html#a47b33a0b468dd5ff9d112a4be0a78c3b" title="spoton_kernel::slotPrepare\lObjects" alt="" coords="1508,113,1685,154"/>
+<area shape="rect" id="node12" href="$classspoton__kernel.html#a7ea263d96ed3589d0709ae5183dca388" title="spoton_kernel::prepareListeners" alt="" coords="1249,157,1456,184"/>
+</map>

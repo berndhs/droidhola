@@ -1,0 +1,35 @@
+<map id="secmem_init" name="secmem_init">
+<area shape="rect" id="node2" href="$secmem_8h.html#ac8943284027b0634706c1056f2d99b73" title="_gcry_secmem_init" alt="" coords="160,145,295,172"/>
+<area shape="rect" id="node5" href="$secmem_8c.html#a3e20dbb030ed41bfb6e0514f6fea870f" title="_gcry_secmem_malloc\l_internal" alt="" coords="149,197,305,238"/>
+<area shape="rect" id="node3" href="$global_8c.html#a197de31474f305a294a7555b4ed6f26f" title="_gcry_vcontrol" alt="" coords="378,145,485,172"/>
+<area shape="rect" id="node4" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a1880c4ce4c093ba2ea4a775ecf26ca29" title="gcry_control" alt="" coords="589,145,682,172"/>
+<area shape="rect" id="node6" href="$secmem_8h.html#af975411f04ff358cee408bb2df0be3c2" title="_gcry_secmem_malloc" alt="" coords="353,204,509,231"/>
+<area shape="rect" id="node34" href="$secmem_8h.html#a6924f39beddf2cefb8c49d2fdc717526" title="_gcry_secmem_realloc" alt="" coords="557,263,713,289"/>
+<area shape="rect" id="node7" href="$stdmem_8h.html#a2799fee4c6bd1e573090713d3c530254" title="_gcry_private_malloc\l_secure" alt="" coords="563,197,708,238"/>
+<area shape="rect" id="node8" href="$global_8c.html#acc407e838981c4be278417503f04970d" title="do_malloc" alt="" coords="793,204,875,231"/>
+<area shape="rect" id="node33" href="$stdmem_8h.html#a579f9a2c64b300e7c4ab6a83bc5db2b2" title="_gcry_private_realloc" alt="" coords="761,259,907,285"/>
+<area shape="rect" id="node9" href="$global_8c.html#a91583243b97d493ff3ac6def26d259e6" title="_gcry_malloc" alt="" coords="978,199,1077,225"/>
+<area shape="rect" id="node25" href="$global_8c.html#a3c7a06d9dc64847e1d681d39ea297010" title="_gcry_malloc_secure" alt="" coords="955,360,1100,387"/>
+<area shape="rect" id="node10" href="$global_8c.html#a31dbb52a966a438c02e5ff7548652d16" title="_gcry_realloc" alt="" coords="1175,259,1273,285"/>
+<area shape="rect" id="node14" href="$global_8c.html#a9c4a59252c75fd63348b8cbf2bf61210" title="_gcry_calloc" alt="" coords="1177,19,1271,45"/>
+<area shape="rect" id="node16" href="$global_8c.html#a719a22ac2678422f857eda29a88c1b07" title="_gcry_strdup" alt="" coords="1175,203,1273,229"/>
+<area shape="rect" id="node20" href="$global_8c.html#ae4492f6462d22200e38ac6d295b1980f" title="_gcry_xmalloc" alt="" coords="1171,131,1277,157"/>
+<area shape="rect" id="node24" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#ab4bf362b90b5edb1b8f3f192803b4d26" title="gcry_malloc" alt="" coords="1178,80,1270,107"/>
+<area shape="rect" id="node11" href="$global_8c.html#adf9af44c81575543dd0b9853b1ba4716" title="_gcry_xrealloc" alt="" coords="1369,309,1475,336"/>
+<area shape="rect" id="node13" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#af440c1f0a34d238104d2533eaf14744f" title="gcry_realloc" alt="" coords="1376,259,1468,285"/>
+<area shape="rect" id="node12" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#af5cdc9bcd21942d7da753b3129301bc3" title="gcry_xrealloc" alt="" coords="1565,309,1664,336"/>
+<area shape="rect" id="node15" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a9e974ec8005af2ae4ceff9ee4ed7a902" title="gcry_calloc" alt="" coords="1378,5,1466,32"/>
+<area shape="rect" id="node17" href="$global_8c.html#a9cae8a970fc5647550c1746730ad2b74" title="_gcry_xstrdup" alt="" coords="1370,157,1474,184"/>
+<area shape="rect" id="node19" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a29e30d2a15b8bbc7ea0d35a119510551" title="gcry_strdup" alt="" coords="1377,208,1467,235"/>
+<area shape="rect" id="node18" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#af2d8dab3403122806ad412b974b42004" title="gcry_xstrdup" alt="" coords="1566,157,1663,184"/>
+<area shape="rect" id="node21" href="$global_8c.html#add639de575b923cc4878837da02341ef" title="_gcry_xcalloc" alt="" coords="1371,56,1473,83"/>
+<area shape="rect" id="node23" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a93c60141a8452af93a0220c05f60441f" title="gcry_xmalloc" alt="" coords="1373,107,1471,133"/>
+<area shape="rect" id="node22" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#acc0089a629ddb86ff77db9fdd75423b3" title="gcry_xcalloc" alt="" coords="1567,56,1662,83"/>
+<area shape="rect" id="node26" href="$global_8c.html#ab4c77086cca1c7d2fb08f0cf86369c90" title="_gcry_calloc_secure" alt="" coords="1153,360,1295,387"/>
+<area shape="rect" id="node28" href="$global_8c.html#adee355b25b4137cbc675009d0041bf77" title="_gcry_xmalloc_secure" alt="" coords="1148,411,1300,437"/>
+<area shape="rect" id="node32" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#aee22e5f1f335bbcea24faf0cd01a98cf" title="gcry_malloc_secure" alt="" coords="1155,461,1293,488"/>
+<area shape="rect" id="node27" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#af4379e1cb84111f98fad616e6916f61c" title="gcry_calloc_secure" alt="" coords="1355,360,1489,387"/>
+<area shape="rect" id="node29" href="$global_8c.html#acaa17caaa0598b90c61a8fdc1d313cc3" title="_gcry_xcalloc_secure" alt="" coords="1348,461,1496,488"/>
+<area shape="rect" id="node31" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a542c05eb775e1c64bf35dea1524e7fb6" title="gcry_xmalloc_secure" alt="" coords="1349,411,1495,437"/>
+<area shape="rect" id="node30" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a2efcbf5e5c918728184392bf557a39d8" title="gcry_xcalloc_secure" alt="" coords="1544,461,1685,488"/>
+</map>

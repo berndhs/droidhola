@@ -1,0 +1,11 @@
+<map id="assuan_get_pid" name="assuan_get_pid">
+<area shape="rect" id="node2" href="$assuan-listen_8c.html#a02779c5ba956c543140dcebc37cdcb09" title="assuan_accept" alt="" coords="167,56,277,83"/>
+<area shape="rect" id="node3" href="$ce-server_8c.html#ad18fdc3df8fad95296a014ea46567b4b" title="server" alt="" coords="390,5,449,32"/>
+<area shape="rect" id="node5" href="$pipeconnect_8c.html#a4c869243e5fc9785d327c8a5a5688a30" title="run_server" alt="" coords="378,56,461,83"/>
+<area shape="rect" id="node7" href="$fdpassing_8c.html#ac9c5d281fe05dc38299065a5b999f952" title="client" alt="" coords="195,157,249,184"/>
+<area shape="rect" id="node10" href="$pipeconnect_8c.html#a7f85abcf02014cb64b3ade4b0be591f1" title="run_client" alt="" coords="183,216,261,243"/>
+<area shape="rect" id="node4" href="$ce-server_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="561,5,612,32"/>
+<area shape="rect" id="node6" href="$pipeconnect_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="561,140,612,167"/>
+<area shape="rect" id="node8" href="$fdpassing_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="394,107,445,133"/>
+<area shape="rect" id="node9" href="$classspoton__listener__udp__server.html#ac1911963656e284c6f727c92197953a2" title="spoton_listener_udp\l_server::slotClientDestroyed" alt="" coords="325,158,513,199"/>
+</map>

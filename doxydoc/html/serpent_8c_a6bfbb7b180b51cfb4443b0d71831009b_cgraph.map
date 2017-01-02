@@ -1,0 +1,29 @@
+<map id="serpent_test" name="serpent_test">
+<area shape="rect" id="node2" href="$serpent_8c.html#ac82ec69df962026e17e718946cf773e6" title="serpent_setkey_internal" alt="" coords="542,31,702,57"/>
+<area shape="rect" id="node7" href="$serpent_8c.html#ac4f89495affd37f77676b6ab1cd1d748" title="serpent_encrypt_internal" alt="" coords="540,360,704,387"/>
+<area shape="rect" id="node11" href="$serpent_8c.html#af2e216e061ee7c2d0ae3e331f06a7e04" title="serpent_decrypt_internal" alt="" coords="540,487,704,513"/>
+<area shape="rect" id="node12" href="$serpent_8c.html#a3fc0a7315ddb41e8ddcb26d6779be1ea" title="selftest_ctr_128" alt="" coords="151,233,266,260"/>
+<area shape="rect" id="node20" href="$serpent_8c.html#aff1fdd05a1eb4142e3dd7df6e837a9a5" title="selftest_cbc_128" alt="" coords="148,284,269,311"/>
+<area shape="rect" id="node24" href="$serpent_8c.html#a3be0fd783c4e0189416b28581ebaefcc" title="selftest_cfb_128" alt="" coords="149,183,268,209"/>
+<area shape="rect" id="node3" href="$serpent_8c.html#a0837f8dc3b258bd08dee90f30d35cae7" title="serpent_key_prepare" alt="" coords="770,183,913,209"/>
+<area shape="rect" id="node5" href="$serpent_8c.html#a1e493800278f31bca5a8921906bb7e07" title="serpent_subkeys_generate" alt="" coords="752,56,931,83"/>
+<area shape="rect" id="node6" href="$g10lib_8h.html#aea824f7fabf4b6f049106a272b63f36d" title="_gcry_get_hw_features" alt="" coords="763,5,920,32"/>
+<area shape="rect" id="node4" href="$bufhelp_8h.html#acfe6d932d414e9c5bad1ed5fc7aa1891" title="buf_get_le32" alt="" coords="981,373,1077,400"/>
+<area shape="rect" id="node8" href="$bufhelp_8h.html#a9136154a4fcf2f105d1305e60b33509f" title="buf_put_le32" alt="" coords="793,487,889,513"/>
+<area shape="rect" id="node9" href="$bufhelp_8h.html#a96e58718c5ac641e4b25827c65d9a94b" title="buf_get_be32" alt="" coords="979,512,1079,539"/>
+<area shape="rect" id="node10" href="$bufhelp_8h.html#a57b83780154ec5cf29a60da0e2b2d558" title="buf_put_be32" alt="" coords="979,461,1079,488"/>
+<area shape="rect" id="node13" href="$cipher-selftest_8c.html#a99864d1f391253e3bbb3a17219472c7b" title="_gcry_selftest_helper_ctr" alt="" coords="321,233,489,260"/>
+<area shape="rect" id="node15" href="$serpent_8c.html#adbc2fcd774edb959645966c9e8a790a1" title="serpent_setkey" alt="" coords="349,81,460,108"/>
+<area shape="rect" id="node17" href="$serpent_8c.html#acfdd3aab463feae8fe81b89a1885e30f" title="serpent_encrypt" alt="" coords="347,385,462,412"/>
+<area shape="rect" id="node18" href="$serpent_8c.html#abb7fc5f6c356e696e96a908b7a1b0349" title="_gcry_serpent_ctr_enc" alt="" coords="327,335,482,361"/>
+<area shape="rect" id="node14" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="599,233,645,260"/>
+<area shape="rect" id="node16" href="$common_8h.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="586,81,658,108"/>
+<area shape="rect" id="node19" href="$bufhelp_8h.html#a30056825097495177fbe6cb0e36391ec" title="buf_xor" alt="" coords="589,309,655,336"/>
+<area shape="rect" id="node21" href="$cipher-selftest_8c.html#a2846830beab215b91777e7806d73ae02" title="_gcry_selftest_helper_cbc" alt="" coords="317,284,492,311"/>
+<area shape="rect" id="node22" href="$serpent_8c.html#af952172d5f7d7237187f82b493b7827b" title="_gcry_serpent_cbc_dec" alt="" coords="325,487,485,513"/>
+<area shape="rect" id="node23" href="$bufhelp_8h.html#a5a6fd291daf175f1c1c625e6b5e3859c" title="buf_xor_n_copy_2" alt="" coords="777,385,905,412"/>
+<area shape="rect" id="node25" href="$cipher-selftest_8c.html#a9bcc85952de1d3fe15f02ac1b2bc0dd5" title="_gcry_selftest_helper_cfb" alt="" coords="319,132,490,159"/>
+<area shape="rect" id="node27" href="$serpent_8c.html#a363262a9cadebfe72330497b05612968" title="_gcry_serpent_cfb_dec" alt="" coords="326,183,483,209"/>
+<area shape="rect" id="node26" href="$bufhelp_8h.html#aea16329dc60d338b17bd1f9f129ee71f" title="buf_xor_2dst" alt="" coords="573,132,671,159"/>
+<area shape="rect" id="node28" href="$bufhelp_8h.html#a916800b20dd0d4c6d1a4738a1ba5c1c2" title="buf_xor_n_copy" alt="" coords="565,183,679,209"/>
+</map>

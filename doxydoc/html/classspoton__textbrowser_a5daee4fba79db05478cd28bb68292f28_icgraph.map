@@ -1,0 +1,24 @@
+<map id="spoton_textbrowser::removeSpecial" name="spoton_textbrowser::removeSpecial">
+<area shape="rect" id="node2" href="$classspoton__textbrowser.html#ac765b1be8ef23393ef8141605f881431" title="spoton_textbrowser\l::append" alt="" coords="189,246,325,287"/>
+<area shape="rect" id="node11" href="$classspoton__textbrowser.html#a9d7dd402df26630fe009bfc09cf3807e" title="spoton_textbrowser\l::setContent" alt="" coords="189,342,325,383"/>
+<area shape="rect" id="node16" href="$classspoton__textbrowser.html#a4139939a0c62a720c32e89c81bfe7d49" title="spoton_textbrowser\l::setHtml" alt="" coords="189,433,325,474"/>
+<area shape="rect" id="node3" href="$classspoton__rss.html#a0f6b34ad7a99623efae822bba4e3fff7" title="spoton_rss::slotRefreshTimeline" alt="" coords="373,196,584,223"/>
+<area shape="rect" id="node4" href="$classspoton__rss.html#a6caad21bd892ff578466a9c8b26b7b54" title="spoton_rss::spoton_rss" alt="" coords="1105,141,1264,168"/>
+<area shape="rect" id="node5" href="$classspoton__rss.html#a0cfedac82894bf4703a02d89a36a3aed" title="spoton_rss::hideUrl" alt="" coords="657,323,792,349"/>
+<area shape="rect" id="node6" href="$classspoton__rss.html#aa90223e2eae154443d7c39b5dadc82f1" title="spoton_rss::slotUrlClicked" alt="" coords="873,297,1049,324"/>
+<area shape="rect" id="node7" href="$classspoton__rss.html#ae09cf720ae4cd633521ec00c2119acd7" title="spoton_rss::slotPurge" alt="" coords="887,5,1036,32"/>
+<area shape="rect" id="node8" href="$classspoton__rss.html#ae284c847f556b215bd1987b3dfd532dc" title="spoton_rss::slotTimeOrderBy" alt="" coords="865,59,1057,85"/>
+<area shape="rect" id="node9" href="$classspoton__rss.html#a3f139c62820cb053d75e41994d695720" title="spoton_rss::slotTimeline\lShowOption" alt="" coords="643,105,807,146"/>
+<area shape="rect" id="node10" href="$classspoton__rss.html#ac4d3d9b37a5b227261171739242bd6cd" title="spoton_rss::slotToggleState" alt="" coords="632,171,817,197"/>
+<area shape="rect" id="node12" href="$classspoton__pageviewer.html#a82d18199ef9ceb0e2fc4c1f5a11e2696" title="spoton_pageviewer::\lsetPage" alt="" coords="653,374,796,415"/>
+<area shape="rect" id="node15" href="$classspoton__pageviewer.html#a04ecec96ab7f75ad0260c2923efaaf04" title="spoton_pageviewer::\lslotRevisionChanged" alt="" coords="405,374,552,415"/>
+<area shape="rect" id="node13" href="$classspoton.html#aed513d9a4a0745c4b6d815de97a4f7c6" title="spoton::slotUrlLinkClicked" alt="" coords="874,389,1049,416"/>
+<area shape="rect" id="node14" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="1131,440,1239,467"/>
+<area shape="rect" id="node17" href="$classspoton__pageviewer.html#a75c17702c0eddb6fb5ccf8526dbcf86b" title="spoton_pageviewer::\lslotPrint" alt="" coords="407,542,550,583"/>
+<area shape="rect" id="node20" href="$classspoton.html#a86b4af804661b7a9bcd224ec0cb4c439" title="spoton::showUrls" alt="" coords="417,491,541,517"/>
+<area shape="rect" id="node18" href="$classspoton__pageviewer.html#a4808877731059d20cbb0df6b2a8cb973" title="spoton_pageviewer::\lslotPagePrintPreview" alt="" coords="651,542,798,583"/>
+<area shape="rect" id="node19" href="$classspoton__pageviewer.html#a4b98263529de966972009459ffea29df" title="spoton_pageviewer::\lspoton_pageviewer" alt="" coords="890,542,1033,583"/>
+<area shape="rect" id="node21" href="$classspoton.html#ac3a39334925898649bf0b40bd3bd4e2f" title="spoton::discoverUrls" alt="" coords="653,491,796,517"/>
+<area shape="rect" id="node23" href="$classspoton.html#a0c443e8bf491225ebff4e8908d4deb30" title="spoton::slotPageClicked" alt="" coords="879,440,1043,467"/>
+<area shape="rect" id="node22" href="$classspoton.html#a9e02c63dd68fa31050137851e865cbf8" title="spoton::slotDiscover" alt="" coords="890,491,1033,517"/>
+</map>

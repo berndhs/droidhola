@@ -1,0 +1,7 @@
+<map id="spoton::slotActivateKernel" name="spoton::slotActivateKernel">
+<area shape="rect" id="node2" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="709,73,817,99"/>
+<area shape="rect" id="node3" href="$classspoton.html#a7fd5f71f1de76a7d14b119e25cfab0eb" title="spoton::slotSetPassphrase" alt="" coords="228,73,407,99"/>
+<area shape="rect" id="node5" href="$classspoton.html#a076aafec8a919d153580364478b0a3a5" title="spoton::slotValidatePassphrase" alt="" coords="455,131,661,158"/>
+<area shape="rect" id="node6" href="$classspoton.html#a4ff6547d30713687de44a302616d4ea1" title="spoton::slotKernelStatus" alt="" coords="235,179,400,206"/>
+<area shape="rect" id="node4" href="$classspoton.html#a68e6ce65025cb17837acb9ed17556fdf" title="spoton::slotPrepareAndShow\lInstallationWizard" alt="" coords="463,65,653,107"/>
+</map>

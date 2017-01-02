@@ -1,0 +1,30 @@
+<map id="spoton_crypt::digitalSignature" name="spoton_crypt::digitalSignature">
+<area shape="rect" id="node2" href="$classspoton__echo__key__share.html#a4408fb377c562b76017b426f1108f89c" title="spoton_echo_key_share\l::shareSelected" alt="" coords="281,9,443,51"/>
+<area shape="rect" id="node5" href="$classspoton__rosetta.html#a07a58553c3282a86d9482599f02e9a3d" title="spoton_rosetta::copyMyRosetta\lPublicKey" alt="" coords="258,137,466,179"/>
+<area shape="rect" id="node8" href="$classspoton__rosetta.html#a06c95ae01043be84f22060249b272d26" title="spoton_rosetta::slotConvert" alt="" coords="550,71,733,98"/>
+<area shape="rect" id="node9" href="$classspoton__fireshare.html#a361f9f92a0074255601c9007c1a32130" title="spoton_fireshare::slotTimeout" alt="" coords="265,218,459,245"/>
+<area shape="rect" id="node11" href="$classspoton__kernel.html#a46715dcf2e65670e15e91265f20540e0" title="spoton_kernel::slotMessage\lReceivedFromUI" alt="" coords="549,356,734,397"/>
+<area shape="rect" id="node16" href="$classspoton__kernel.html#a6bfaf47de56ae58fbcc63b053ed69a23" title="spoton_kernel::prepareStatus" alt="" coords="816,473,1008,499"/>
+<area shape="rect" id="node18" href="$classspoton__kernel.html#a62d81c13819de860823044d01da21856" title="spoton_kernel::slotRetrieveMail" alt="" coords="259,298,465,325"/>
+<area shape="rect" id="node22" href="$classspoton__kernel.html#a577b649c69eeb6fa600390dd6cc5f193" title="spoton_kernel::slotSendMail" alt="" coords="269,418,455,445"/>
+<area shape="rect" id="node23" href="$classspoton__kernel.html#aa28d1a53093b70fee2a2fd9638f099ee" title="spoton_kernel::slotCallParticipant" alt="" coords="253,691,471,718"/>
+<area shape="rect" id="node24" href="$classspoton__kernel.html#a03b3af389d9ba38010ffdbb8f024204e" title="spoton_kernel::slotCallParticipant\lUsingGemini" alt="" coords="1327,529,1544,571"/>
+<area shape="rect" id="node25" href="$classspoton__kernel.html#aa11832e947d49a438e4282d14a200b30" title="spoton_kernel::slotForward\lSecrecyInformationReceivedFromUI" alt="" coords="524,592,759,633"/>
+<area shape="rect" id="node27" href="$classspoton__kernel.html#aaf341f9c7581b31e4f74f78583b9a351" title="spoton_kernel::slotForward\lSecrecyResponseReceivedFromUI" alt="" coords="248,625,476,667"/>
+<area shape="rect" id="node28" href="$classspoton__urldistribution.html#a734fa7942216b9f0d888d54be81785b2" title="spoton_urldistribution\l::slotTimeout" alt="" coords="289,743,435,784"/>
+<area shape="rect" id="node3" href="$classspoton__echo__key__share.html#a8dcb310ff42942f879cc00ee9d28fd09" title="spoton_echo_key_share\l::slotMenuAction" alt="" coords="560,5,723,47"/>
+<area shape="rect" id="node4" href="$classspoton__echo__key__share.html#a17b54a12bd440b71da67eface1c57092" title="spoton_echo_key_share\l::spoton_echo_key_share" alt="" coords="827,5,997,47"/>
+<area shape="rect" id="node6" href="$classspoton__rosetta.html#ae2d333cdeec4cc786c1c631af21aaf2b" title="spoton_rosetta::slotCopy\lMyRosettaPublicKey" alt="" coords="557,123,725,164"/>
+<area shape="rect" id="node7" href="$classspoton__rosetta.html#ad9ebd8b06b6a282ba354ad634898ae5d" title="spoton_rosetta::spoton\l_rosetta" alt="" coords="835,87,989,128"/>
+<area shape="rect" id="node10" href="$classspoton__fireshare.html#a2f42dc33fcb992542985db2487db6216" title="spoton_fireshare::run" alt="" coords="569,189,713,215"/>
+<area shape="rect" id="node12" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="1592,415,1743,456"/>
+<area shape="rect" id="node13" href="$classspoton__kernel.html#aa9947ef6ff1cc446368a165607518ac0" title="spoton_kernel::slotNewNeighbor" alt="" coords="807,321,1017,347"/>
+<area shape="rect" id="node14" href="$classspoton__kernel.html#a7ea263d96ed3589d0709ae5183dca388" title="spoton_kernel::prepareListeners" alt="" coords="1069,321,1275,347"/>
+<area shape="rect" id="node15" href="$classspoton__kernel.html#a47b33a0b468dd5ff9d112a4be0a78c3b" title="spoton_kernel::slotPrepare\lObjects" alt="" coords="1347,305,1524,347"/>
+<area shape="rect" id="node17" href="$classspoton__kernel.html#af36dd936f356ad3a2c57a368a69b735f" title="spoton_kernel::slotStatus\lTimerExpired" alt="" coords="1087,473,1257,515"/>
+<area shape="rect" id="node19" href="$classspoton__kernel.html#a9223a77b13d95689d77ea3ba52b59e7d" title="spoton_kernel::connectSignals\lToNeighbor" alt="" coords="541,291,741,332"/>
+<area shape="rect" id="node20" href="$classspoton__kernel.html#acc4b038c20734b08617da1aad9193501" title="spoton_kernel::prepareNeighbors" alt="" coords="1065,270,1279,297"/>
+<area shape="rect" id="node21" href="$classspoton__kernel.html#a8326fb4c480d72dff4a2357b4f17bee3" title="spoton_kernel::slotUpdate\lSettings" alt="" coords="1348,229,1523,271"/>
+<area shape="rect" id="node26" href="$classspoton__kernel.html#a6638a67afa993edb0ae81370396974cd" title="spoton_kernel::saveUrls" alt="" coords="831,574,993,601"/>
+<area shape="rect" id="node29" href="$classspoton__urldistribution.html#a404cbafb51d47f5fa7ca4f2ae715be00" title="spoton_urldistribution::run" alt="" coords="556,750,727,777"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="es_opaque_ctrl" name="es_opaque_ctrl">
+<area shape="rect" id="node2" href="$estream_8c.html#a1c2a2f0d41ed2229b37d80dcfe6409b2" title="_gpgrt_opaque_set" alt="" coords="164,5,296,32"/>
+<area shape="rect" id="node4" href="$estream_8c.html#a3b1de5aa541e51939e51389e67723220" title="_gpgrt_opaque_get" alt="" coords="164,56,296,83"/>
+<area shape="rect" id="node3" href="$libgpg__error-1_824_2src_2visibility_8c.html#a56290137e96ac485602184bce09b10a0" title="gpgrt_opaque_set" alt="" coords="344,5,469,32"/>
+<area shape="rect" id="node5" href="$libgpg__error-1_824_2src_2visibility_8c.html#aaa568f3de03e49f14c8cef7d478e8307" title="gpgrt_opaque_get" alt="" coords="344,56,469,83"/>
+</map>

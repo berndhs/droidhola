@@ -1,0 +1,6 @@
+<map id="decoder_skip" name="decoder_skip">
+<area shape="rect" id="node2" href="$ber-decoder_8c.html#a2ae2615789a241bae28e744075bcca26" title="read_buffer" alt="" coords="154,5,241,32"/>
+<area shape="rect" id="node3" href="$ber-decoder_8c.html#a5dd19b4778cdb1eb7f137184e2fbc204" title="eof_or_error" alt="" coords="152,56,243,83"/>
+<area shape="rect" id="node4" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="308,31,347,57"/>
+<area shape="rect" id="node5" href="$ber-decoder_8c.html#a4c6c54b506d12b745351f253bfd32612" title="set_error" alt="" coords="291,81,364,108"/>
+</map>

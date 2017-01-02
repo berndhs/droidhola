@@ -1,0 +1,8 @@
+<map id="spoton_virtual_keyboard::spoton_virtual_keyboard" name="spoton_virtual_keyboard::spoton_virtual_keyboard">
+<area shape="rect" id="node2" href="$classUi__keyboard.html#a8a3c337f73525bc2cf27beace3d7d4cc" title="Ui_keyboard::setupUi" alt="" coords="231,5,379,32"/>
+<area shape="rect" id="node4" href="$classspoton__virtual__keyboard.html#aa22a55825f95191f57feec3db896a2ef" title="spoton_virtual_keyboard\l::slotBack" alt="" coords="224,57,387,98"/>
+<area shape="rect" id="node5" href="$classspoton__virtual__keyboard.html#a77203aae1d79b8c0bd55fc3a307558a8" title="spoton_virtual_keyboard\l::slotShift" alt="" coords="224,122,387,163"/>
+<area shape="rect" id="node6" href="$classspoton__virtual__keyboard.html#ae167174d20fa3cef34266743488269bb" title="spoton_virtual_keyboard\l::slotShow" alt="" coords="224,187,387,229"/>
+<area shape="rect" id="node7" href="$classspoton__virtual__keyboard.html#a127be8b97a4a6abbf7c106df02075fcd" title="spoton_virtual_keyboard\l::slotKeyPressed" alt="" coords="224,253,387,294"/>
+<area shape="rect" id="node3" href="$classUi__keyboard.html#a8f65409020f8100987be56cfecabe65d" title="Ui_keyboard::retranslateUi" alt="" coords="435,5,612,32"/>
+</map>

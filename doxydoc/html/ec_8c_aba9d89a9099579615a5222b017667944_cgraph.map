@@ -1,0 +1,4 @@
+<map id="ec_p_init" name="ec_p_init">
+<area shape="rect" id="node2" href="$mpi-mod_8c.html#a3e63b23592c0653fb20948a6c9a401ba" title="_gcry_mpi_barrett_init" alt="" coords="135,5,285,32"/>
+<area shape="rect" id="node3" href="$ec_8c.html#a89a653f3631aed03b9e973465a1fa1da" title="_gcry_mpi_ec_get_reset" alt="" coords="128,56,292,83"/>
+</map>

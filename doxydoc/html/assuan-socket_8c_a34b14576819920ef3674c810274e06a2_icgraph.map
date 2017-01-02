@@ -1,0 +1,6 @@
+<map id="use_socks" name="use_socks">
+<area shape="rect" id="node2" href="$assuan-socket_8c.html#a09c6fd4cacd7f6db79eed455865fd85b" title="_assuan_sock_connect" alt="" coords="139,31,297,57"/>
+<area shape="rect" id="node3" href="$assuan-socket-connect_8c.html#aaec6a578999f1d2536a3372741ca1356" title="assuan_socket_connect" alt="" coords="345,5,508,32"/>
+<area shape="rect" id="node4" href="$assuan-socket_8c.html#aa0a09d4876259b3908ae56cf796aed7f" title="assuan_sock_connect" alt="" coords="351,56,503,83"/>
+<area shape="rect" id="node5" href="$socks5_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="556,56,607,83"/>
+</map>

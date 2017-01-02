@@ -1,0 +1,13 @@
+<map id="_gcry_log_fatal" name="_gcry_log_fatal">
+<area shape="rect" id="node2" href="$stdmem_8h.html#a972712fe1fc2b86ee198a6d2a498da5a" title="_gcry_private_check_heap" alt="" coords="164,56,341,83"/>
+<area shape="rect" id="node3" href="$global_8c.html#afed7e407d3ef60299149d5f4e0557064" title="_gcry_check_heap" alt="" coords="389,5,520,32"/>
+<area shape="rect" id="node5" href="$stdmem_8h.html#a579f9a2c64b300e7c4ab6a83bc5db2b2" title="_gcry_private_realloc" alt="" coords="568,56,713,83"/>
+<area shape="rect" id="node10" href="$stdmem_8h.html#a0bd74be79b9173bedb52c6973aa8fea2" title="_gcry_private_free" alt="" coords="390,107,519,133"/>
+<area shape="rect" id="node4" href="$mpi_8h.html#a3a0657564578c69d1137cddfdfd2b6d0" title="_gcry_mpi_m_check" alt="" coords="569,5,712,32"/>
+<area shape="rect" id="node6" href="$global_8c.html#a31dbb52a966a438c02e5ff7548652d16" title="_gcry_realloc" alt="" coords="761,56,860,83"/>
+<area shape="rect" id="node7" href="$global_8c.html#adf9af44c81575543dd0b9853b1ba4716" title="_gcry_xrealloc" alt="" coords="908,31,1015,57"/>
+<area shape="rect" id="node9" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#af440c1f0a34d238104d2533eaf14744f" title="gcry_realloc" alt="" coords="915,81,1007,108"/>
+<area shape="rect" id="node8" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#af5cdc9bcd21942d7da753b3129301bc3" title="gcry_xrealloc" alt="" coords="1063,31,1161,57"/>
+<area shape="rect" id="node11" href="$global_8c.html#a2f930c97c22747e97f4fd4a6e56f22a1" title="_gcry_free" alt="" coords="599,107,682,133"/>
+<area shape="rect" id="node12" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a03dafeae883c568ece762d7f006c2575" title="gcry_free" alt="" coords="773,107,849,133"/>
+</map>

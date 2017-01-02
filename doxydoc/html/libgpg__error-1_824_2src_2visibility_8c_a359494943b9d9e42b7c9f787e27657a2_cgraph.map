@@ -1,0 +1,18 @@
+<map id="gpgrt_fname_set" name="gpgrt_fname_set">
+<area shape="rect" id="node2" href="$estream_8c.html#aa75b97ecc69f51bf5b4741e5302cb792" title="_gpgrt_fname_set" alt="" coords="172,107,299,133"/>
+<area shape="rect" id="node3" href="$estream_8c.html#acd9ff6d045750599e5fe365810cabe2a" title="lock_stream" alt="" coords="366,56,459,83"/>
+<area shape="rect" id="node7" href="$estream_8c.html#a82cd739ec7bac1cffe6a133926f209f6" title="fname_set_internal" alt="" coords="347,157,479,184"/>
+<area shape="rect" id="node15" href="$estream_8c.html#a83be3e59bf1cc7ecd456f0f590d0d603" title="unlock_stream" alt="" coords="359,107,466,133"/>
+<area shape="rect" id="node4" href="$gpgrt-int_8h.html#a0f00a284f65b08c64de0b534e3ea61d6" title="_gpgrt_lock_lock" alt="" coords="534,56,654,83"/>
+<area shape="rect" id="node5" href="$posix-lock_8c.html#a29941b915cdd80d606a9565926aa4c42" title="get_lock_object" alt="" coords="729,56,843,83"/>
+<area shape="rect" id="node6" href="$pthread_8h.html#aef3f55cad288fdbc9c39bff9d668de1e" title="pthread_mutex_lock" alt="" coords="717,5,855,32"/>
+<area shape="rect" id="node8" href="$estream_8c.html#a94fb007445d42ae75bf37fd4c5a7e6c7" title="mem_free" alt="" coords="554,208,634,235"/>
+<area shape="rect" id="node13" href="$estream_8c.html#a2247c69825d8455426f1c413c7042d4e" title="mem_alloc" alt="" coords="551,157,637,184"/>
+<area shape="rect" id="node9" href="$gpgrt-int_8h.html#af908d24934fa9497c0a2d82b6d160ab3" title="_gpgrt_free" alt="" coords="743,208,829,235"/>
+<area shape="rect" id="node10" href="$init_8c.html#ac26ffa337b3b674879999e0bb910de8e" title="_gpgrt_realloc" alt="" coords="911,183,1013,209"/>
+<area shape="rect" id="node11" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1069,157,1113,184"/>
+<area shape="rect" id="node12" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="1061,208,1121,235"/>
+<area shape="rect" id="node14" href="$gpgrt-int_8h.html#a2f9d1f603c692a672e43cf0c1999e142" title="_gpgrt_malloc" alt="" coords="735,157,837,184"/>
+<area shape="rect" id="node16" href="$gpgrt-int_8h.html#af316909a57a745e15858f6ccbc67bf9f" title="_gpgrt_lock_unlock" alt="" coords="527,107,661,133"/>
+<area shape="rect" id="node17" href="$pthread_8h.html#a2e24c7aa54ba10a032b7b6cd06c3caaa" title="pthread_mutex_unlock" alt="" coords="709,107,863,133"/>
+</map>

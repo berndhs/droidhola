@@ -1,0 +1,8 @@
+<map id="spoton::sendKeysToKernel" name="spoton::sendKeysToKernel">
+<area shape="rect" id="node2" href="$classspoton.html#a7fd5f71f1de76a7d14b119e25cfab0eb" title="spoton::slotSetPassphrase" alt="" coords="232,43,411,70"/>
+<area shape="rect" id="node5" href="$classspoton.html#a6ed7bd6d1fec41b2a32a141af985302f" title="spoton::slotKernelSocket\lState" alt="" coords="237,109,405,151"/>
+<area shape="rect" id="node7" href="$classspoton.html#a61dc531883b2842a14e648bb7ebccd85" title="spoton::slotRegenerateKey" alt="" coords="464,219,644,246"/>
+<area shape="rect" id="node3" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="697,102,805,129"/>
+<area shape="rect" id="node4" href="$classspoton.html#a68e6ce65025cb17837acb9ed17556fdf" title="spoton::slotPrepareAndShow\lInstallationWizard" alt="" coords="459,36,649,77"/>
+<area shape="rect" id="node6" href="$classspoton.html#acd8a3fc89e8f038f9022c06ad4860dae" title="spoton::slotGeneralTimer\lTimeout" alt="" coords="470,153,638,195"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="_gcry_camellia_ctr_enc" name="_gcry_camellia_ctr_enc">
+<area shape="rect" id="node2" href="$camellia_8c.html#a43344daa2feb7ee229acc400dfa2f989" title="Camellia_EncryptBlock" alt="" coords="212,31,371,57"/>
+<area shape="rect" id="node5" href="$bufhelp_8h.html#a30056825097495177fbe6cb0e36391ec" title="buf_xor" alt="" coords="259,81,324,108"/>
+<area shape="rect" id="node3" href="$camellia_8c.html#a44ecb8e2134daabe97d15964262c6272" title="camellia_encrypt128" alt="" coords="419,5,560,32"/>
+<area shape="rect" id="node4" href="$camellia_8c.html#a5d4fe93b89ba3f98962aabb0217db369" title="camellia_encrypt256" alt="" coords="419,56,560,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="spoton::slotSetWidgetStyleSheet" name="spoton::slotSetWidgetStyleSheet">
+<area shape="rect" id="node2" href="$classspoton.html#a59daaaa220cb937d594b74d358978079" title="spoton::slotCopyStyleSheet" alt="" coords="237,5,422,32"/>
+<area shape="rect" id="node3" href="$classspoton.html#ad63bea102ec05df8fa043408a698cb4d" title="spoton::slotResetStyleSheet" alt="" coords="235,56,424,83"/>
+<area shape="rect" id="node4" href="$classspoton.html#aa557fac60a875f0476ad07843b460d9e" title="spoton::slotSetStyleSheet" alt="" coords="242,107,417,133"/>
+<area shape="rect" id="node9" href="$classspoton.html#ade874332d971a4bb1e01639f1f4c5058" title="spoton::slotResetAllStyle\lSheets" alt="" coords="244,158,415,199"/>
+<area shape="rect" id="node5" href="$classspoton.html#ae8e9ea1e64eeb54076c8bafe57ecb0db" title="spoton::ui" alt="" coords="516,48,595,75"/>
+<area shape="rect" id="node6" href="$classUi__spoton__mainwindow.html#a8c12d4a83a910973537b36c4715a694d" title="Ui_spoton_mainwindow\l::setupUi" alt="" coords="475,99,635,141"/>
+<area shape="rect" id="node8" href="$classspoton.html#a1a875a0a375359ee01edc615c021470a" title="spoton::slotPreviewStyle\lSheet" alt="" coords="472,165,639,206"/>
+<area shape="rect" id="node7" href="$classUi__spoton__mainwindow.html#a0689885a5f29ddc35b7eda2bd39fdf22" title="Ui_spoton_mainwindow\l::retranslateUi" alt="" coords="687,99,847,141"/>
+</map>

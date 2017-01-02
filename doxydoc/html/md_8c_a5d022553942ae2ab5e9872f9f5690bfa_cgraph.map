@@ -1,0 +1,8 @@
+<map id="md_copy" name="md_copy">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="166,5,205,32"/>
+<area shape="rect" id="node3" href="$md_8c.html#a8827c862b9d6f7c06004e0ee13dfc9e2" title="md_write" alt="" coords="453,56,528,83"/>
+<area shape="rect" id="node4" href="$md_8c.html#a3eeac30f6762164046eb7e6662e1bef8" title="md_close" alt="" coords="146,107,225,133"/>
+<area shape="rect" id="node7" href="$md_8c.html#abb3646c7af770a7f5d446260ef0d1011" title="md_start_debug" alt="" coords="128,157,243,184"/>
+<area shape="rect" id="node5" href="$md_8c.html#ace4c9cedcc7338e6b8b6c82851c210ef" title="md_stop_debug" alt="" coords="291,107,405,133"/>
+<area shape="rect" id="node6" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="467,107,514,133"/>
+</map>

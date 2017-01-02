@@ -1,0 +1,10 @@
+<map id="spoton_kernel::messagingCacheContains" name="spoton_kernel::messagingCacheContains">
+<area shape="rect" id="node2" href="$classspoton__gui__server.html#a31712d729731aab25a783a303c8bdf38" title="spoton_gui_server::\lslotReceivedBuzzMessage" alt="" coords="237,5,418,47"/>
+<area shape="rect" id="node5" href="$classspoton__gui__server.html#ad264bc5ecd62105f7f3d094df26ab845" title="spoton_gui_server::\lslotReceivedChatMessage" alt="" coords="238,71,417,112"/>
+<area shape="rect" id="node6" href="$classspoton__neighbor.html#a7b2aaa9d5b210ff677a7889986a949e6" title="spoton_neighbor::processData" alt="" coords="228,137,427,163"/>
+<area shape="rect" id="node9" href="$classspoton__neighbor.html#a1abc72468b717a25d817f8b3dda15656" title="spoton_neighbor::slotNew\lDatagram" alt="" coords="241,188,414,229"/>
+<area shape="rect" id="node3" href="$classspoton__gui__server.html#a48eaccca70ab3057520c4ce98a77ed68" title="spoton_gui_server::\lslotTimeout" alt="" coords="507,5,643,47"/>
+<area shape="rect" id="node4" href="$classspoton__gui__server.html#adfc6a8f4813a0c4a0aa275611bb6118e" title="spoton_gui_server::\lspoton_gui_server" alt="" coords="755,5,891,47"/>
+<area shape="rect" id="node7" href="$classspoton__neighbor.html#a9250c88da1eb47de5919685e09657538" title="spoton_neighbor::slotSendMail" alt="" coords="475,137,675,163"/>
+<area shape="rect" id="node8" href="$classspoton__neighbor.html#aa6707b3133b337024de82dbd97d9e5ae" title="spoton_neighbor::receivedUuid" alt="" coords="723,137,924,163"/>
+</map>

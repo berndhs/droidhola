@@ -1,0 +1,10 @@
+<map id="spoton::slotPopulateParticipants" name="spoton::slotPopulateParticipants">
+<area shape="rect" id="node2" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="924,151,1032,177"/>
+<area shape="rect" id="node3" href="$classspoton.html#a9131e62d1f1350dfa80961345d3c5497" title="spoton::populateMail" alt="" coords="264,81,407,108"/>
+<area shape="rect" id="node4" href="$classspoton.html#a076aafec8a919d153580364478b0a3a5" title="spoton::slotValidatePassphrase" alt="" coords="455,49,661,76"/>
+<area shape="rect" id="node5" href="$classspoton.html#abef49f33ed23b27ff9d9474063c65886" title="spoton::slotReceivedKernel\lMessage" alt="" coords="467,101,649,142"/>
+<area shape="rect" id="node6" href="$classspoton.html#ae0198cea661115401fb4ab886d5e2098" title="spoton::slotRefreshMail" alt="" coords="478,201,638,228"/>
+<area shape="rect" id="node7" href="$classspoton.html#a842e07f149d074dd89a9fc01c01589f2" title="spoton::slotDeleteMail" alt="" coords="717,201,869,228"/>
+<area shape="rect" id="node8" href="$classspoton.html#a69f16b68fc37d930b49d4cb5fced6736" title="spoton::slotStatusButton\lClicked" alt="" coords="709,253,876,294"/>
+<area shape="rect" id="node9" href="$classspoton.html#a3ecc12e2516aebd085d6e430da893623" title="spoton::slotResendMail" alt="" coords="713,319,872,345"/>
+</map>

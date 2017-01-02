@@ -1,0 +1,7 @@
+<map id="at_socketpair_fork_cb" name="at_socketpair_fork_cb">
+<area shape="rect" id="node2" href="$assuan-pipe-connect_8c.html#a51837a1e24f42a576f9452449a339117" title="socketpair_connect" alt="" coords="204,31,339,57"/>
+<area shape="rect" id="node3" href="$assuan-pipe-connect_8c.html#abe824937877a7d0a9fe9fd462de4df7c" title="assuan_pipe_connect" alt="" coords="387,31,535,57"/>
+<area shape="rect" id="node4" href="$fdpassing_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="597,5,647,32"/>
+<area shape="rect" id="node5" href="$pipeconnect_8c.html#a7f85abcf02014cb64b3ade4b0be591f1" title="run_client" alt="" coords="583,56,661,83"/>
+<area shape="rect" id="node6" href="$pipeconnect_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="709,56,760,83"/>
+</map>

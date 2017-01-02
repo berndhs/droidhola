@@ -1,0 +1,8 @@
+<map id="assert_pipeimpl" name="assert_pipeimpl">
+<area shape="rect" id="node2" href="$gpgcedev_8c.html#a07581782754c4d5a1364cfebea81f918" title="access_opnctx" alt="" coords="167,31,277,57"/>
+<area shape="rect" id="node5" href="$gpgcedev_8c.html#a65eb0ea691413f0748577258483733bc" title="make_pipe" alt="" coords="179,81,265,108"/>
+<area shape="rect" id="node7" href="$gpgcedev_8c.html#a36285ccec2fd575dd6bd5b3a78c36029" title="assign_rvid" alt="" coords="178,132,266,159"/>
+<area shape="rect" id="node3" href="$gpgcedev_8c.html#a4d8651998a71352e811646e264acfcb6" title="GPG_Read" alt="" coords="338,5,427,32"/>
+<area shape="rect" id="node4" href="$gpgcedev_8c.html#a40774ad94b140d41045938a674b22c03" title="GPG_Write" alt="" coords="338,56,427,83"/>
+<area shape="rect" id="node6" href="$gpgcedev_8c.html#afbdfe389769a801a882024f37013830c" title="GPG_IOControl" alt="" coords="325,119,440,145"/>
+</map>

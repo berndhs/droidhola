@@ -1,0 +1,12 @@
+<map id="xmalloc" name="xmalloc">
+<area shape="rect" id="node2" href="$gen-help_8h.html#ad6142d091f00b2d4543ce7a43e5d0eba" title="xstrdup" alt="" coords="141,5,206,32"/>
+<area shape="rect" id="node9" href="$common_8h.html#aa8f02eff88e9d9cc7aa360a7595805d4" title="prepend_srcdir" alt="" coords="120,107,227,133"/>
+<area shape="rect" id="node11" href="$common_8h.html#a02ee839016518d9a3f116ec7ec4ce5c1" title="do_strconcat" alt="" coords="125,56,222,83"/>
+<area shape="rect" id="node3" href="$common_8h.html#a746fe05d741d8df3d5a359cfc10bef4f" title="xstrconcat" alt="" coords="275,31,357,57"/>
+<area shape="rect" id="node4" href="$ce-server_8c.html#ae9b2113e102b8081f4b3583afafae9ed" title="cmd_cd" alt="" coords="405,5,473,32"/>
+<area shape="rect" id="node8" href="$pipeconnect_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="414,56,465,83"/>
+<area shape="rect" id="node5" href="$ce-server_8c.html#a2c49eb687d21286f04c061a565a34585" title="register_commands" alt="" coords="521,5,657,32"/>
+<area shape="rect" id="node6" href="$ce-server_8c.html#ad18fdc3df8fad95296a014ea46567b4b" title="server" alt="" coords="705,5,764,32"/>
+<area shape="rect" id="node7" href="$ce-server_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="812,5,863,32"/>
+<area shape="rect" id="node10" href="$fdpassing_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="291,107,341,133"/>
+</map>

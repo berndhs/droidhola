@@ -1,0 +1,32 @@
+<map id="_gcry_mpi_point_log" name="_gcry_mpi_point_log">
+<area shape="rect" id="node2" href="$ec_8c.html#ae30ac571bfca723ac9c088915d3c79b5" title="_gcry_mpi_ec_get_affine" alt="" coords="195,141,361,168"/>
+<area shape="rect" id="node29" href="$mpiutil_8c.html#a8465e67bbb0fafb891f102467841a3eb" title="_gcry_mpi_release" alt="" coords="409,192,540,219"/>
+<area shape="rect" id="node3" href="$ec_8c.html#a9fdcf148793d787495d02f41831448ff" title="ec_invm" alt="" coords="439,40,510,67"/>
+<area shape="rect" id="node5" href="$ec_8c.html#aefe97b13585fd652b8a519a4f268f54b" title="ec_mulm" alt="" coords="437,91,512,117"/>
+<area shape="rect" id="node28" href="$common_8h.html#a3c9f2d4104ed4b54b508cfddf9399512" title="log_fatal" alt="" coords="439,141,510,168"/>
+<area shape="rect" id="node4" href="$common_8h.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="607,40,679,67"/>
+<area shape="rect" id="node6" href="$ec_8c.html#aa31c9dc1fc5130a2da518b1ce869b298" title="ec_mod" alt="" coords="609,91,677,117"/>
+<area shape="rect" id="node7" href="$ec-ed25519_8c.html#a2a22847114a5a503f5ef1602aecfd0fb" title="_gcry_mpi_ec_ed25519_mod" alt="" coords="953,5,1144,32"/>
+<area shape="rect" id="node9" href="$mpi-mod_8c.html#a59aa5ca5a46501a865a33cc3c7e501c6" title="_gcry_mpi_mod_barrett" alt="" coords="747,88,905,115"/>
+<area shape="rect" id="node10" href="$mpi-mod_8c.html#a8d14bc342d579eb7591321bc8f8fd4bb" title="_gcry_mpi_mod" alt="" coords="769,139,883,165"/>
+<area shape="rect" id="node8" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="2296,28,2343,55"/>
+<area shape="rect" id="node11" href="$mpi-div_8c.html#a2e75641cb59bf6a7363020db838ecae2" title="_gcry_mpi_fdiv_r" alt="" coords="988,151,1109,177"/>
+<area shape="rect" id="node12" href="$mpi-div_8c.html#ad2d6cc06cba44d64cffef0cbfffe41db" title="_gcry_mpi_tdiv_r" alt="" coords="1192,153,1313,180"/>
+<area shape="rect" id="node13" href="$mpi-div_8c.html#a9bf80ce156889299ac85c85472f33392" title="_gcry_mpi_tdiv_qr" alt="" coords="1361,155,1489,181"/>
+<area shape="rect" id="node14" href="$mpi-internal_8h.html#a0daec4705c3223e9daf25032b0f30f80" title="_gcry_mpih_divmod_1" alt="" coords="1537,53,1689,80"/>
+<area shape="rect" id="node15" href="$mpi-internal_8h.html#aeb821a7251dd59316a3d45c7d4954eff" title="_gcry_mpih_mod_1" alt="" coords="1546,104,1681,131"/>
+<area shape="rect" id="node16" href="$mpih-lshift_8c.html#af44c9546a5d1fddfeecf785dcad8063c" title="_gcry_mpih_lshift" alt="" coords="1551,155,1675,181"/>
+<area shape="rect" id="node17" href="$mpi-internal_8h.html#a9c4217c3c5a78323cc62c0ad86673041" title="_gcry_mpih_divrem" alt="" coords="1546,205,1681,232"/>
+<area shape="rect" id="node26" href="$mpih-rshift_8c.html#ab57fc8b2ee3e7a0d3210c55089548872" title="_gcry_mpih_rshift" alt="" coords="1551,256,1676,283"/>
+<area shape="rect" id="node27" href="$mpi-internal_8h.html#a57f1c9a6c9b85748e0dc46300207a5ae" title="_gcry_mpi_free_limb\l_space" alt="" coords="1542,307,1685,349"/>
+<area shape="rect" id="node18" href="$g10lib_8h.html#a2a37f9748119afc85b8f51958badc598" title="_gcry_divide_by_zero" alt="" coords="1739,104,1887,131"/>
+<area shape="rect" id="node22" href="$mpi-inline_8h.html#ab84329df3af64c23c7090cddd1e13d41" title="_gcry_mpih_cmp" alt="" coords="1753,155,1874,181"/>
+<area shape="rect" id="node23" href="$mpih-sub1_8c.html#a28297868e59813922c7ff32478bed79f" title="_gcry_mpih_sub_n" alt="" coords="1748,205,1879,232"/>
+<area shape="rect" id="node24" href="$mpih-mul3_8c.html#a5f64919e94328f66d6001df9f279f6d5" title="_gcry_mpih_submul_1" alt="" coords="1737,256,1889,283"/>
+<area shape="rect" id="node25" href="$mpih-add1_8c.html#aac0ab90b7d91251967531dfc180f337b" title="_gcry_mpih_add_n" alt="" coords="1748,307,1879,333"/>
+<area shape="rect" id="node19" href="$misc_8c.html#a185453f2a81618148bd479428ff89f2a" title="_gcry_fatal_error" alt="" coords="1937,104,2056,131"/>
+<area shape="rect" id="node20" href="$misc_8c.html#a669469157af59e0247e023f76dcff10e" title="write2stderr" alt="" coords="2131,53,2221,80"/>
+<area shape="rect" id="node21" href="$secmem_8c.html#addc419f3d8a86e49fc11af938c093a88" title="_gcry_secmem_term" alt="" coords="2104,104,2248,131"/>
+<area shape="rect" id="node30" href="$mpiutil_8c.html#a97bf589d77bdb67a65126279a0bb9800" title="_gcry_mpi_free" alt="" coords="588,196,699,223"/>
+<area shape="rect" id="node31" href="$mpiutil_8c.html#a57f1c9a6c9b85748e0dc46300207a5ae" title="_gcry_mpi_free_limb\l_space" alt="" coords="755,190,897,231"/>
+</map>

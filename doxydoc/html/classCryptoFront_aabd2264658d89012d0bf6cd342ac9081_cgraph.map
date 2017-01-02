@@ -1,0 +1,7 @@
+<map id="CryptoFront::connectQML" name="CryptoFront::connectQML">
+<area shape="rect" id="node2" href="$classCryptoFront.html#a622f677eee94241905ae2a2a764e6cac" title="CryptoFront::getPhrase" alt="" coords="227,78,385,105"/>
+<area shape="rect" id="node3" href="$classdeliberate_1_1TextBox.html#a46abdde8550cda8f062f51426eee5967" title="deliberate::TextBox\l::SetLabel" alt="" coords="433,5,568,47"/>
+<area shape="rect" id="node4" href="$classdeliberate_1_1TextBox.html#a0b6544afac1d9b36fac37094263a46bc" title="deliberate::TextBox\l::SetButtonText" alt="" coords="433,71,568,112"/>
+<area shape="rect" id="node5" href="$classdeliberate_1_1TextBox.html#af67b7c52e2d3d8f934df10dfab34225a" title="deliberate::TextBox\l::GetText" alt="" coords="433,136,568,177"/>
+<area shape="rect" id="node6" href="$classdeliberate_1_1TextBox.html#ad6a3d2ac32473f95231066edb373df9a" title="deliberate::TextBox\l::exec" alt="" coords="616,136,751,177"/>
+</map>

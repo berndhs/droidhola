@@ -1,0 +1,5 @@
+<map id="_gcry_cipher_ccm_get_tag" name="_gcry_cipher_ccm_get_tag">
+<area shape="rect" id="node2" href="$gcrypt-int_8h.html#abf2eaea11bdedddd8c287821d09c0655" title="_gcry_cipher_gettag" alt="" coords="232,31,371,57"/>
+<area shape="rect" id="node3" href="$mac-gmac_8c.html#a382988c79f634a9619eadfea8da621ad" title="gmac_read" alt="" coords="441,5,528,32"/>
+<area shape="rect" id="node4" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#af20dd5dec5ae94aa141ed103ca62ed09" title="gcry_cipher_gettag" alt="" coords="419,56,551,83"/>
+</map>

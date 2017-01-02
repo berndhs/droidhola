@@ -1,0 +1,6 @@
+<map id="get_ecc_curve_oid" name="get_ecc_curve_oid">
+<area shape="rect" id="node2" href="$convert_8h.html#ab1a109b5f9b5e2f49d6354cc6d6628be" title="_ksba_oid_from_buf" alt="" coords="184,31,323,57"/>
+<area shape="rect" id="node3" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="416,5,455,32"/>
+<area shape="rect" id="node4" href="$oid_8c.html#a47cb42b8d346c1e66ee58402685afb14" title="ksba_oid_from_str" alt="" coords="371,56,500,83"/>
+<area shape="rect" id="node5" href="$oid_8c.html#a48c5373285b2be1eda32c32e9c3ca286" title="make_flagged_int" alt="" coords="548,56,672,83"/>
+</map>

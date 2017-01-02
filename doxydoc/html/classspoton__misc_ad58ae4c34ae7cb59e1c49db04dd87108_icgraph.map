@@ -1,0 +1,10 @@
+<map id="spoton_misc::prepareUrlDistillersDatabase" name="spoton_misc::prepareUrlDistillersDatabase">
+<area shape="rect" id="node2" href="$classspoton.html#a9d3459ab1a0675343544f01082c6185f" title="spoton::initializeUrlDistillers" alt="" coords="268,107,452,134"/>
+<area shape="rect" id="node7" href="$classspoton.html#a130ecddb5a12474589646976d422bdd0" title="spoton::slotAfterFirstShow" alt="" coords="519,158,696,185"/>
+<area shape="rect" id="node8" href="$classspoton.html#ae19a9479da0bee8f266b1725b42d579b" title="spoton::slotPrepareUrlDatabases" alt="" coords="500,209,715,235"/>
+<area shape="rect" id="node9" href="$classspoton.html#ad0745f0bab17c19f25783eb821a60a69" title="spoton::slotAddDistiller" alt="" coords="281,259,439,286"/>
+<area shape="rect" id="node3" href="$classspoton.html#a7fd5f71f1de76a7d14b119e25cfab0eb" title="spoton::slotSetPassphrase" alt="" coords="518,49,697,75"/>
+<area shape="rect" id="node6" href="$classspoton.html#a076aafec8a919d153580364478b0a3a5" title="spoton::slotValidatePassphrase" alt="" coords="763,107,969,134"/>
+<area shape="rect" id="node4" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="1017,133,1125,159"/>
+<area shape="rect" id="node5" href="$classspoton.html#a68e6ce65025cb17837acb9ed17556fdf" title="spoton::slotPrepareAndShow\lInstallationWizard" alt="" coords="771,41,961,83"/>
+</map>

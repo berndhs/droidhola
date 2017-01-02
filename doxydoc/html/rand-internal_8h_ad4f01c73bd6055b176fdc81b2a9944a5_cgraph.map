@@ -1,0 +1,8 @@
+<map id="_gcry_rngfips_initialize" name="_gcry_rngfips_initialize">
+<area shape="rect" id="node2" href="$random-fips_8c.html#a2b402bba9313897a117254ec9d6b7b88" title="basic_initialization" alt="" coords="208,5,336,32"/>
+<area shape="rect" id="node4" href="$random-fips_8c.html#ac7847edad49675e29ac777f63e076b4b" title="lock_rng" alt="" coords="237,56,307,83"/>
+<area shape="rect" id="node5" href="$random-fips_8c.html#a32f70ee5c7fb4c574624f57905d9100d" title="setup_guards" alt="" coords="222,107,322,133"/>
+<area shape="rect" id="node6" href="$random-fips_8c.html#aac7b8783b0806d8bdf9df1f1937af11c" title="check_guards" alt="" coords="221,157,323,184"/>
+<area shape="rect" id="node7" href="$random-fips_8c.html#a0bd1d9808da80fb11cdf07235b83be0a" title="unlock_rng" alt="" coords="229,208,315,235"/>
+<area shape="rect" id="node3" href="$common_8h.html#a3c9f2d4104ed4b54b508cfddf9399512" title="log_fatal" alt="" coords="384,107,455,133"/>
+</map>

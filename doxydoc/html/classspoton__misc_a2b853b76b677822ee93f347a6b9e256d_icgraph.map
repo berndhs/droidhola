@@ -1,0 +1,5 @@
+<map id="spoton_misc::correctSettingsContainer" name="spoton_misc::correctSettingsContainer">
+<area shape="rect" id="node2" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="279,5,387,32"/>
+<area shape="rect" id="node3" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="468,78,619,119"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#a8326fb4c480d72dff4a2357b4f17bee3" title="spoton_kernel::slotUpdate\lSettings" alt="" coords="245,107,420,149"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ec_deinit" name="ec_deinit">
+<area shape="rect" id="node2" href="$mpi-mod_8c.html#a5878f380e0f89ce9a5389d1192508571" title="_gcry_mpi_barrett_free" alt="" coords="134,5,289,32"/>
+<area shape="rect" id="node3" href="$ec_8c.html#a9a939e277010b3c0dbe5511b20487cbc" title="_gcry_mpi_point_release" alt="" coords="128,56,295,83"/>
+<area shape="rect" id="node4" href="$ec_8c.html#afe9d827c87b5ca6a71591721e19b9f6b" title="_gcry_mpi_point_free\l_parts" alt="" coords="343,49,489,90"/>
+</map>

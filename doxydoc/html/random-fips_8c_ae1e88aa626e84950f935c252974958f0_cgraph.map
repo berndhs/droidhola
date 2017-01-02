@@ -1,0 +1,19 @@
+<map id="get_entropy" name="get_entropy">
+<area shape="rect" id="node2" href="$rand-internal_8h.html#a07cdf7b06a9d0e1cf202c2cede9092e1" title="_gcry_rndlinux_gather\l_random" alt="" coords="144,175,293,217"/>
+<area shape="rect" id="node8" href="$common_8h.html#a3c9f2d4104ed4b54b508cfddf9399512" title="log_fatal" alt="" coords="592,259,663,285"/>
+<area shape="rect" id="node11" href="$random-fips_8c.html#adb47d7b5d145d064ee81c5dde1d931f9" title="entropy_collect_cb" alt="" coords="153,52,284,79"/>
+<area shape="rect" id="node12" href="$rand-internal_8h.html#a7f0936c8375bb53b4686da686018ad09" title="_gcry_rndw32_gather\l_random" alt="" coords="145,382,292,423"/>
+<area shape="rect" id="node3" href="$rand-internal_8h.html#aa28dc273c71927d62599cf498d22b259" title="_gcry_rndhw_poll_slow" alt="" coords="341,56,499,83"/>
+<area shape="rect" id="node6" href="$rndlinux_8c.html#a72018af1ea25c5272e8b6ea78550cbc5" title="open_device" alt="" coords="373,157,467,184"/>
+<area shape="rect" id="node7" href="$rand-internal_8h.html#a2d935a6978a342665faafcf54a99e11b" title="_gcry_random_progress" alt="" coords="547,107,708,133"/>
+<area shape="rect" id="node10" href="$common_8h.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="591,208,663,235"/>
+<area shape="rect" id="node4" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="604,5,651,32"/>
+<area shape="rect" id="node5" href="$g10lib_8h.html#aea824f7fabf4b6f049106a272b63f36d" title="_gcry_get_hw_features" alt="" coords="549,56,706,83"/>
+<area shape="rect" id="node9" href="$rndlinux_8c.html#acc47b69f463711259be17288cd9b56d5" title="set_cloexec_flag" alt="" coords="567,157,687,184"/>
+<area shape="rect" id="node13" href="$rndw32_8c.html#a64dc9d4b2f9c4ce47a067a52365a60dd" title="init_system_rng" alt="" coords="363,360,477,387"/>
+<area shape="rect" id="node14" href="$rndw32_8c.html#af59278d1cf80e496efb1fb15c4dcf8f1" title="slow_gatherer" alt="" coords="369,461,471,488"/>
+<area shape="rect" id="node15" href="$rndw32_8c.html#a34e15afd5a6c1f970b083572d67acd3c" title="read_system_rng" alt="" coords="566,436,689,463"/>
+<area shape="rect" id="node16" href="$rndw32_8c.html#a0635cc71c8d3c1e26458383175ad0c0e" title="read_mbm_data" alt="" coords="570,487,685,513"/>
+<area shape="rect" id="node17" href="$common_8h.html#ade762acc676da9bb7e589a8a1ac43424" title="log_info" alt="" coords="756,461,823,488"/>
+<area shape="rect" id="node18" href="$rndw32_8c.html#a67a9a3018fa5e46edf9c0db1fbc8db8d" title="registry_poll" alt="" coords="581,385,673,412"/>
+</map>

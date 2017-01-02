@@ -1,0 +1,10 @@
+<map id="_gcry_rndlinux_gather_random" name="_gcry_rndlinux_gather_random">
+<area shape="rect" id="node2" href="$rand-internal_8h.html#aa28dc273c71927d62599cf498d22b259" title="_gcry_rndhw_poll_slow" alt="" coords="203,56,360,83"/>
+<area shape="rect" id="node5" href="$rndlinux_8c.html#a72018af1ea25c5272e8b6ea78550cbc5" title="open_device" alt="" coords="234,208,329,235"/>
+<area shape="rect" id="node6" href="$rand-internal_8h.html#a2d935a6978a342665faafcf54a99e11b" title="_gcry_random_progress" alt="" coords="408,107,569,133"/>
+<area shape="rect" id="node7" href="$common_8h.html#a3c9f2d4104ed4b54b508cfddf9399512" title="log_fatal" alt="" coords="453,157,524,184"/>
+<area shape="rect" id="node9" href="$common_8h.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="453,259,525,285"/>
+<area shape="rect" id="node3" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="465,5,512,32"/>
+<area shape="rect" id="node4" href="$g10lib_8h.html#aea824f7fabf4b6f049106a272b63f36d" title="_gcry_get_hw_features" alt="" coords="410,56,567,83"/>
+<area shape="rect" id="node8" href="$rndlinux_8c.html#acc47b69f463711259be17288cd9b56d5" title="set_cloexec_flag" alt="" coords="429,208,549,235"/>
+</map>

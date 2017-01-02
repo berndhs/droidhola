@@ -1,0 +1,8 @@
+<map id="spoton_sctp_socket::connected" name="spoton_sctp_socket::connected">
+<area shape="rect" id="node2" href="$classspoton__sctp__socket.html#ab0f45e5a9d341cd68563cdfe5721e365" title="spoton_sctp_socket\l::connectToHostImplementation" alt="" coords="192,35,400,76"/>
+<area shape="rect" id="node6" href="$classspoton__sctp__socket.html#ae855fa661dbd731543a5c077e2bb8671" title="spoton_sctp_socket\l::slotTimeout" alt="" coords="227,100,365,141"/>
+<area shape="rect" id="node3" href="$classspoton__sctp__socket.html#a75f97d3f70c47352428faa8fcd4677c9" title="spoton_sctp_socket\l::connectToHost" alt="" coords="643,5,781,47"/>
+<area shape="rect" id="node5" href="$classspoton__sctp__socket.html#ae4c32b723bd5b794e6547dd12d563017" title="spoton_sctp_socket\l::slotHostFound" alt="" coords="452,35,591,76"/>
+<area shape="rect" id="node4" href="$classspoton__neighbor.html#a294b3dec7cae2337a70b624f0b98b35f" title="spoton_neighbor::slotTimeout" alt="" coords="829,13,1023,39"/>
+<area shape="rect" id="node7" href="$classspoton__sctp__socket.html#af5bb96f9da17eb105cfd3c4414bfc81b" title="spoton_sctp_socket\l::spoton_sctp_socket" alt="" coords="448,100,595,141"/>
+</map>

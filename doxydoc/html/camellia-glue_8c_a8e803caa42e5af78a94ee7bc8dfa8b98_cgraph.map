@@ -1,0 +1,5 @@
+<map id="camellia_encrypt" name="camellia_encrypt">
+<area shape="rect" id="node2" href="$camellia_8c.html#a43344daa2feb7ee229acc400dfa2f989" title="Camellia_EncryptBlock" alt="" coords="173,31,332,57"/>
+<area shape="rect" id="node3" href="$camellia_8c.html#a44ecb8e2134daabe97d15964262c6272" title="camellia_encrypt128" alt="" coords="380,5,521,32"/>
+<area shape="rect" id="node4" href="$camellia_8c.html#a5d4fe93b89ba3f98962aabb0217db369" title="camellia_encrypt256" alt="" coords="380,56,521,83"/>
+</map>

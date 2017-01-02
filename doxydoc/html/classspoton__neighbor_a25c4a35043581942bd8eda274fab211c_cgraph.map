@@ -1,0 +1,8 @@
+<map id="spoton_neighbor::slotDiscoverExternalAddress" name="spoton_neighbor::slotDiscoverExternalAddress">
+<area shape="rect" id="node2" href="$classspoton__neighbor.html#add6c744d985c801038d6a38f096e7b4f" title="spoton_neighbor::state" alt="" coords="258,31,413,58"/>
+<area shape="rect" id="node4" href="$classspoton__external__address.html#ab7ad5453a23d8731cb2a610bfc675268" title="spoton_external_address\l::discover" alt="" coords="252,119,419,160"/>
+<area shape="rect" id="node3" href="$classspoton__sctp__socket.html#a05aa66636930f21e6d8494754366b3db" title="spoton_sctp_socket\l::state" alt="" coords="481,5,619,47"/>
+<area shape="rect" id="node5" href="$classspoton__external__address.html#a9ce87efb95b79c5e7f00f01c2ab2d186" title="spoton_external_address\l::slotError" alt="" coords="467,71,633,112"/>
+<area shape="rect" id="node6" href="$classspoton__external__address.html#a5f5983472fd5610c79ba10044c84310c" title="spoton_external_address\l::slotFinished" alt="" coords="467,136,633,177"/>
+<area shape="rect" id="node7" href="$classspoton__external__address.html#ad8773a01ba5cbddc8a7161b45588062c" title="spoton_external_address\l::slotSslErrors" alt="" coords="467,201,633,243"/>
+</map>

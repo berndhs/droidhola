@@ -1,0 +1,16 @@
+<map id="_ksba_assert_time_format" name="_ksba_assert_time_format">
+<area shape="rect" id="node2" href="$ksba_8h.html#acc7a17fe3e86ba30300cbb30d29a6f03" title="ksba_certreq_set_validity" alt="" coords="436,56,607,83"/>
+<area shape="rect" id="node3" href="$der-encoder_8h.html#ac7b9d4355bb8790f3133dc0490124075" title="_ksba_der_store_time" alt="" coords="229,5,380,32"/>
+<area shape="rect" id="node6" href="$time_8c.html#a872d1f4acb67502fa171fd5e79f3d433" title="_ksba_copy_time" alt="" coords="243,183,367,209"/>
+<area shape="rect" id="node4" href="$cms_8c.html#ac6d21ecc275aa56753638017f61d6c78" title="build_signed_data_attributes" alt="" coords="428,5,615,32"/>
+<area shape="rect" id="node5" href="$cms_8c.html#ac208f26b6c038303c7b160c722dee159" title="ct_build_signed_data" alt="" coords="664,5,808,32"/>
+<area shape="rect" id="node7" href="$ksba_8h.html#a03904d3ea0b1cf78a55753fb82ce0b16" title="ksba_cms_set_signing_time" alt="" coords="428,208,615,235"/>
+<area shape="rect" id="node8" href="$ksba_8h.html#a2eb41275c92057e932a786edeb437905" title="ksba_crl_get_update\l_times" alt="" coords="450,259,593,301"/>
+<area shape="rect" id="node9" href="$ksba_8h.html#a5c99572fa2ed8dbd7084c5433212376c" title="ksba_crl_get_item" alt="" coords="457,325,585,352"/>
+<area shape="rect" id="node10" href="$ocsp_8c.html#a4a60d01a1e7b09d0c5d064d9de2aa44b" title="parse_single_response" alt="" coords="444,376,599,403"/>
+<area shape="rect" id="node14" href="$ocsp_8c.html#ab1b5298c8f68a0a082634f74473a041d" title="ksba_ocsp_get_sig_val" alt="" coords="442,107,601,133"/>
+<area shape="rect" id="node15" href="$ocsp_8c.html#a805944724350ac6432b7bc2f134248c9" title="ksba_ocsp_get_status" alt="" coords="445,157,598,184"/>
+<area shape="rect" id="node11" href="$ocsp_8c.html#a856eb0bd5aca2c4723bd93e2d7f55013" title="parse_response_data" alt="" coords="663,376,809,403"/>
+<area shape="rect" id="node12" href="$ocsp_8c.html#a0b6a948f763285828a1cf2a72134804b" title="parse_response" alt="" coords="857,376,972,403"/>
+<area shape="rect" id="node13" href="$ocsp_8c.html#af9f953d2e2b62ec43eafaec144018804" title="ksba_ocsp_parse_response" alt="" coords="1020,376,1204,403"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="selftest" name="selftest">
+<area shape="rect" id="node2" href="$idea_8c.html#a3f08f4c3c3d5ab6f0d9fe3ed47e0244f" title="cipher" alt="" coords="287,28,344,54"/>
+<area shape="rect" id="node3" href="$idea_8c.html#ae18f8a8699e35b8877a0279e891b3e86" title="do_setkey" alt="" coords="129,129,211,156"/>
+<area shape="rect" id="node8" href="$idea_8c.html#a69513830c932623f767687dfb317013d" title="encrypt_block" alt="" coords="119,28,221,54"/>
+<area shape="rect" id="node9" href="$idea_8c.html#a42057e25bb0f6188deb88649546a7d6a" title="decrypt_block" alt="" coords="119,78,221,105"/>
+<area shape="rect" id="node4" href="$common_8h.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="279,129,351,156"/>
+<area shape="rect" id="node5" href="$idea_8c.html#a3b506a49339deb96cd538775c08f17c4" title="expand_key" alt="" coords="269,180,361,206"/>
+<area shape="rect" id="node6" href="$idea_8c.html#a28ed683d0a858bae1570b05757c01723" title="invert_key" alt="" coords="274,78,357,105"/>
+<area shape="rect" id="node7" href="$idea_8c.html#a979a4acbdaa9e9ded39ca3e2c0111b86" title="mul_inv" alt="" coords="409,78,476,105"/>
+</map>

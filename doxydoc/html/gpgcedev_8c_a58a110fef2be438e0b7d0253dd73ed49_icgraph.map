@@ -1,0 +1,8 @@
+<map id="pipeimpl_unref" name="pipeimpl_unref">
+<area shape="rect" id="node2" href="$gpgcedev_8c.html#abd1b97b5544f7eaae884d0f7f916262d" title="GPG_Close" alt="" coords="164,5,256,32"/>
+<area shape="rect" id="node3" href="$gpgcedev_8c.html#a4d8651998a71352e811646e264acfcb6" title="GPG_Read" alt="" coords="165,56,255,83"/>
+<area shape="rect" id="node4" href="$gpgcedev_8c.html#a40774ad94b140d41045938a674b22c03" title="GPG_Write" alt="" coords="165,107,255,133"/>
+<area shape="rect" id="node5" href="$gpgcedev_8c.html#a081308c174a8a5dede8cd92625899723" title="monitor_main" alt="" coords="160,157,260,184"/>
+<area shape="rect" id="node6" href="$gpgcedev_8c.html#a36285ccec2fd575dd6bd5b3a78c36029" title="assign_rvid" alt="" coords="308,157,396,184"/>
+<area shape="rect" id="node7" href="$gpgcedev_8c.html#afbdfe389769a801a882024f37013830c" title="GPG_IOControl" alt="" coords="444,157,559,184"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="_gcry_secmem_free" name="_gcry_secmem_free">
+<area shape="rect" id="node2" href="$secmem_8c.html#af03fd15b4e047aab484fbe43569c18a3" title="_gcry_secmem_free_internal" alt="" coords="193,31,383,57"/>
+<area shape="rect" id="node3" href="$secmem_8c.html#a62c3aedcbe5f6e59ec66b111dbbbf22c" title="stats_update" alt="" coords="431,5,528,32"/>
+<area shape="rect" id="node4" href="$secmem_8c.html#a4418f8797afb324a8709a69898712589" title="mb_merge" alt="" coords="438,56,521,83"/>
+<area shape="rect" id="node5" href="$secmem_8c.html#a312dfeb5f6e6474f03a8148188d0ec3f" title="mb_get_prev" alt="" coords="576,31,673,57"/>
+<area shape="rect" id="node6" href="$secmem_8c.html#a096c403ee49b716c145a429b1ad86e46" title="mb_get_next" alt="" coords="721,56,819,83"/>
+<area shape="rect" id="node7" href="$secmem_8c.html#abfb42716ecfabdb452044d583c878448" title="ptr_into_pool_p" alt="" coords="867,56,977,83"/>
+</map>

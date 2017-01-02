@@ -1,0 +1,7 @@
+<map id="spoton_misc::isPrivateNetwork" name="spoton_misc::isPrivateNetwork">
+<area shape="rect" id="node2" href="$classspoton__kernel.html#af651b017b7d91c04adad56fb964b8814" title="spoton_kernel::acceptRemote\lConnection" alt="" coords="259,5,455,47"/>
+<area shape="rect" id="node3" href="$classspoton__neighbor.html#ac83124d7ee7760e34994a599bb50fc6d" title="spoton_neighbor::process0030" alt="" coords="257,71,456,98"/>
+<area shape="rect" id="node4" href="$classspoton__neighbor.html#a7b2aaa9d5b210ff677a7889986a949e6" title="spoton_neighbor::processData" alt="" coords="504,71,703,98"/>
+<area shape="rect" id="node5" href="$classspoton__neighbor.html#a9250c88da1eb47de5919685e09657538" title="spoton_neighbor::slotSendMail" alt="" coords="751,71,951,98"/>
+<area shape="rect" id="node6" href="$classspoton__neighbor.html#aa6707b3133b337024de82dbd97d9e5ae" title="spoton_neighbor::receivedUuid" alt="" coords="999,71,1200,98"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="gcry_sexp_release" name="gcry_sexp_release">
+<area shape="rect" id="node2" href="$gcrypt-int_8h.html#ac1bcc177c6b7eda45f3df36411deec07" title="_gcry_sexp_release" alt="" coords="184,31,323,57"/>
+<area shape="rect" id="node3" href="$g10lib_8h.html#a097f30a540a9d8ac76ed54c1316a5376" title="_gcry_is_secure" alt="" coords="371,31,488,57"/>
+<area shape="rect" id="node4" href="$global_8c.html#a16e8af0a857ae959a2abb3c7e88e02f0" title="get_no_secure_memory" alt="" coords="537,5,698,32"/>
+<area shape="rect" id="node7" href="$secmem_8c.html#a1a820af6bf0149451e1de1933f5cc0fb" title="_gcry_private_is_secure" alt="" coords="536,56,699,83"/>
+<area shape="rect" id="node5" href="$fips_8c.html#a63eaab0cb53f75634165b2f2f0a4aa1c" title="_gcry_enforced_fips_mode" alt="" coords="747,5,925,32"/>
+<area shape="rect" id="node6" href="$fips_8c.html#a1236caccf2e256cb9e1b60c894a14639" title="_gcry_fips_mode" alt="" coords="973,5,1095,32"/>
+<area shape="rect" id="node8" href="$secmem_8c.html#abfb42716ecfabdb452044d583c878448" title="ptr_into_pool_p" alt="" coords="781,56,891,83"/>
+</map>

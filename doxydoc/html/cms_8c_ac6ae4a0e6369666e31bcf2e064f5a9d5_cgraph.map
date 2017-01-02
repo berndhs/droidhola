@@ -1,0 +1,37 @@
+<map id="build_enveloped_data_header" name="build_enveloped_data_header">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="495,250,534,277"/>
+<area shape="rect" id="node3" href="$ber-help_8c.html#a2949dc8151c2fd716aa2a55ea0794a01" title="_ksba_ber_write_tl" alt="" coords="449,192,580,218"/>
+<area shape="rect" id="node4" href="$asn1-func_8c.html#ab71a820388a50da3da15b6f90d08958d" title="_ksba_asn_expand_tree" alt="" coords="207,85,370,112"/>
+<area shape="rect" id="node7" href="$asn1-func_8c.html#a09b304df147f3e99936886483645203e" title="_ksba_asn_find_node" alt="" coords="859,110,1007,137"/>
+<area shape="rect" id="node14" href="$der-encoder_8c.html#a3db7d86e52b2bf224e929ce316f37024" title="_ksba_der_store_integer" alt="" coords="207,405,371,432"/>
+<area shape="rect" id="node16" href="$cms_8c.html#af14da05286f9b5a2e91e951d19b7c8f2" title="set_issuer_serial" alt="" coords="229,354,349,381"/>
+<area shape="rect" id="node24" href="$der-encoder_8c.html#ac1f344e32d325e65dec06c87b1fe01aa" title="_ksba_der_store_oid" alt="" coords="217,304,360,330"/>
+<area shape="rect" id="node25" href="$der-encoder_8c.html#a2cdfc7d21749be744bb5b8325b05139c" title="_ksba_der_store_null" alt="" coords="216,545,361,572"/>
+<area shape="rect" id="node26" href="$der-encoder_8c.html#aefaab84b67e643fac173eb909d762b93" title="_ksba_der_store_octet\l_string" alt="" coords="211,456,366,498"/>
+<area shape="rect" id="node27" href="$der-encoder_8c.html#a8f70b67e99ff87234f7cbb988c36b503" title="_ksba_der_encode_tree" alt="" coords="209,706,369,733"/>
+<area shape="rect" id="node34" href="$asn1-func_8h.html#af1eda1e5b33b110ebf814d5c36f721f9" title="_ksba_asn_release_nodes" alt="" coords="201,833,377,860"/>
+<area shape="rect" id="node36" href="$der-encoder_8c.html#a7f0bcafc0b31e91088e9ca3ab9011895" title="_ksba_der_write_algorithm\l_identifier" alt="" coords="200,187,377,228"/>
+<area shape="rect" id="node5" href="$asn1-func_8c.html#a70169494dc8baa8359cd990492387761" title="find_node" alt="" coords="475,85,554,112"/>
+<area shape="rect" id="node8" href="$asn1-func_8c.html#ac44017320de9c1e210b3b687368ed570" title="do_expand_tree" alt="" coords="457,137,572,164"/>
+<area shape="rect" id="node6" href="$asn1-func_8c.html#a45812535c3da5692ced4fefebad07ffb" title="resolve_identifier" alt="" coords="671,136,791,162"/>
+<area shape="rect" id="node9" href="$asn1-func_8c.html#a5d471a75b30604f8eaa33bdf1bd1c121" title="copy_node" alt="" coords="1055,352,1140,378"/>
+<area shape="rect" id="node13" href="$asn1-func_8c.html#ae59c8b7930843ab5d70c6a7384fb4cb0" title="_ksba_asn_set_name" alt="" coords="657,186,806,213"/>
+<area shape="rect" id="node10" href="$asn1-func_8c.html#aae9f4c3399deae4fb5ec48c46ea3aec3" title="add_node" alt="" coords="1193,326,1271,353"/>
+<area shape="rect" id="node11" href="$asn1-func_8c.html#ad4618de1959eee7677ea56c5d13c7966" title="copy_value" alt="" coords="1188,377,1276,404"/>
+<area shape="rect" id="node12" href="$asn1-func_8c.html#a6859442e15ff570d66f80245c3aff671" title="_ksba_asn_set_value" alt="" coords="1324,428,1472,454"/>
+<area shape="rect" id="node15" href="$der-encoder_8c.html#a0c51f7280f6d0519e2b78951f9d020d9" title="store_value" alt="" coords="687,428,776,454"/>
+<area shape="rect" id="node17" href="$der-encoder_8c.html#a8e99062baab9dcbe926b674448b779a0" title="_ksba_der_copy_tree" alt="" coords="441,504,588,530"/>
+<area shape="rect" id="node18" href="$asn1-func_8c.html#a88e868fbca2e366f747a639b58e5c66e" title="_ksba_asn_insert_copy" alt="" coords="652,478,811,505"/>
+<area shape="rect" id="node20" href="$asn1-func_8c.html#a934f0bc952a97eb62dd936fa064de4ee" title="_ksba_asn_is_primitive" alt="" coords="652,681,811,708"/>
+<area shape="rect" id="node21" href="$der-encoder_8c.html#aee5286f33b5ffa73731e1639b78dce12" title="clear_value" alt="" coords="687,529,775,556"/>
+<area shape="rect" id="node22" href="$asn1-func_8c.html#ae9a1455bfb37eb74adb75b5a4d6bbb97" title="_ksba_asn_walk_tree" alt="" coords="657,605,805,632"/>
+<area shape="rect" id="node19" href="$asn1-func_8c.html#a642f8cc78dffe940b3894a374d1db17d" title="copy_tree" alt="" coords="893,478,972,505"/>
+<area shape="rect" id="node23" href="$asn1-func_8c.html#a77a8f4cb360886f71c0cf49e96348d5c" title="find_up" alt="" coords="901,706,965,733"/>
+<area shape="rect" id="node28" href="$der-encoder_8c.html#a20e1a0ef0201d357b88f47fa996135f0" title="set_nhdr_and_len" alt="" coords="669,757,793,784"/>
+<area shape="rect" id="node29" href="$der-encoder_8c.html#a1de544382b72b0b897ca9e8ec527c7e1" title="sum_up_lengths" alt="" coords="456,757,573,784"/>
+<area shape="rect" id="node30" href="$asn1-func_8c.html#ac6d02b07b0dc39e0307eff8f7acf8cb6" title="_ksba_asn_node_dump_all" alt="" coords="425,858,604,885"/>
+<area shape="rect" id="node33" href="$der-encoder_8c.html#ade7c521f71e5b8c8c9f2b7a270142890" title="copy_nhdr_and_len" alt="" coords="447,706,582,733"/>
+<area shape="rect" id="node31" href="$asn1-func_8c.html#a569f317a20cd0a02f90e6e324a3f2461" title="_ksba_asn_node_dump" alt="" coords="652,858,811,885"/>
+<area shape="rect" id="node32" href="$asn1-func_8c.html#a18f4681076d366d423e0781626ffc530" title="print_value" alt="" coords="890,858,975,885"/>
+<area shape="rect" id="node35" href="$asn1-parse_8c.html#a92b4cf41da3897ccfb069ea436d45ade" title="release_all_nodes" alt="" coords="451,909,578,936"/>
+</map>

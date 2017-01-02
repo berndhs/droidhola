@@ -1,0 +1,7 @@
+<map id="assert_logimpl" name="assert_logimpl">
+<area shape="rect" id="node2" href="$gpgcedev_8c.html#a8718ac859ad1ebc9deeff94544660b35" title="log_debug" alt="" coords="167,5,248,32"/>
+<area shape="rect" id="node3" href="$gpgcedev_8c.html#ad311badf860bca3ff677ebcf3b606385" title="logimpl_new" alt="" coords="160,56,255,83"/>
+<area shape="rect" id="node4" href="$gpgcedev_8c.html#a0c2170d2086a00c5f103a727eabd0f8e" title="create_log_id" alt="" coords="303,5,401,32"/>
+<area shape="rect" id="node5" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="322,56,382,83"/>
+<area shape="rect" id="node6" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="330,107,374,133"/>
+</map>

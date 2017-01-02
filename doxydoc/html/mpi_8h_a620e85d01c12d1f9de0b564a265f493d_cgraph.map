@@ -1,0 +1,5 @@
+<map id="_gcry_mpi_ec_p_internal_new" name="_gcry_mpi_ec_p_internal_new">
+<area shape="rect" id="node2" href="$ec_8c.html#aba9d89a9099579615a5222b017667944" title="ec_p_init" alt="" coords="251,31,325,57"/>
+<area shape="rect" id="node3" href="$mpi-mod_8c.html#a3e63b23592c0653fb20948a6c9a401ba" title="_gcry_mpi_barrett_init" alt="" coords="380,5,531,32"/>
+<area shape="rect" id="node4" href="$ec_8c.html#a89a653f3631aed03b9e973465a1fa1da" title="_gcry_mpi_ec_get_reset" alt="" coords="373,56,537,83"/>
+</map>

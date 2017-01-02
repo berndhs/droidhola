@@ -1,0 +1,9 @@
+<map id="run_selftests" name="run_selftests">
+<area shape="rect" id="node2" href="$cipher-proto_8h.html#a9126778111a26f59facb751234e0fbe7" title="_gcry_hmac_selftest" alt="" coords="151,31,293,57"/>
+<area shape="rect" id="node3" href="$fips_8c.html#aaf632c5775351419fe7dcb840905e875" title="run_hmac_selftests" alt="" coords="341,31,477,57"/>
+<area shape="rect" id="node4" href="$g10lib_8h.html#a10a09a1883ee96a71fcccfef32771903" title="_gcry_fips_run_selftests" alt="" coords="525,31,689,57"/>
+<area shape="rect" id="node5" href="$g10lib_8h.html#ac9f86a44740c18904d8eedba9a9f523e" title="_gcry_fips_is_operational" alt="" coords="737,5,907,32"/>
+<area shape="rect" id="node7" href="$global_8c.html#a197de31474f305a294a7555b4ed6f26f" title="_gcry_vcontrol" alt="" coords="993,56,1099,83"/>
+<area shape="rect" id="node6" href="$global_8c.html#afb83fe45590e215b1a758b86076369a7" title="_gcry_global_is_operational" alt="" coords="955,5,1137,32"/>
+<area shape="rect" id="node8" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a1880c4ce4c093ba2ea4a775ecf26ca29" title="gcry_control" alt="" coords="1185,56,1279,83"/>
+</map>

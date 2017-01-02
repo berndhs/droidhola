@@ -1,0 +1,7 @@
+<map id="ksba_cms_get_digest_algo" name="ksba_cms_get_digest_algo">
+<area shape="rect" id="node2" href="$asn1-func_8c.html#a09b304df147f3e99936886483645203e" title="_ksba_asn_find_node" alt="" coords="237,56,385,83"/>
+<area shape="rect" id="node5" href="$convert_8h.html#a4758db72eff0a109e9726bb0c5cf13d6" title="_ksba_oid_node_to_str" alt="" coords="233,107,389,133"/>
+<area shape="rect" id="node3" href="$asn1-func_8c.html#a70169494dc8baa8359cd990492387761" title="find_node" alt="" coords="455,5,534,32"/>
+<area shape="rect" id="node4" href="$asn1-func_8c.html#a45812535c3da5692ced4fefebad07ffb" title="resolve_identifier" alt="" coords="600,31,720,57"/>
+<area shape="rect" id="node6" href="$oid_8c.html#a95b2e6a5207119b0e10917c141668b62" title="ksba_oid_to_str" alt="" coords="437,107,552,133"/>
+</map>

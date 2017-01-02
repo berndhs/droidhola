@@ -1,0 +1,9 @@
+<map id="spoton_echo_key_share::save" name="spoton_echo_key_share::save">
+<area shape="rect" id="node2" href="$classspoton__echo__key__share.html#a8dcb310ff42942f879cc00ee9d28fd09" title="spoton_echo_key_share\l::slotMenuAction" alt="" coords="231,5,393,47"/>
+<area shape="rect" id="node4" href="$classspoton__echo__key__share.html#ad17c46ee4a76c4b24ed7a7c2c80b15e1" title="spoton_echo_key_share\l::createDefaultUrlCommunity" alt="" coords="216,71,408,112"/>
+<area shape="rect" id="node3" href="$classspoton__echo__key__share.html#a17b54a12bd440b71da67eface1c57092" title="spoton_echo_key_share\l::spoton_echo_key_share" alt="" coords="460,5,631,47"/>
+<area shape="rect" id="node5" href="$classspoton.html#a7fd5f71f1de76a7d14b119e25cfab0eb" title="spoton::slotSetPassphrase" alt="" coords="456,74,635,101"/>
+<area shape="rect" id="node8" href="$classspoton.html#a076aafec8a919d153580364478b0a3a5" title="spoton::slotValidatePassphrase" alt="" coords="683,133,889,159"/>
+<area shape="rect" id="node6" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="937,74,1045,101"/>
+<area shape="rect" id="node7" href="$classspoton.html#a68e6ce65025cb17837acb9ed17556fdf" title="spoton::slotPrepareAndShow\lInstallationWizard" alt="" coords="691,67,881,108"/>
+</map>

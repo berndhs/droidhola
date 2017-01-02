@@ -1,0 +1,6 @@
+<map id="selftest" name="selftest">
+<area shape="rect" id="node2" href="$camellia-glue_8c.html#ab01fe86e37868e41482b850e150d99aa" title="camellia_setkey" alt="" coords="119,43,235,69"/>
+<area shape="rect" id="node3" href="$camellia-glue_8c.html#a3fc0a7315ddb41e8ddcb26d6779be1ea" title="selftest_ctr_128" alt="" coords="286,5,401,32"/>
+<area shape="rect" id="node4" href="$camellia-glue_8c.html#aff1fdd05a1eb4142e3dd7df6e837a9a5" title="selftest_cbc_128" alt="" coords="283,81,404,108"/>
+<area shape="rect" id="node5" href="$camellia-glue_8c.html#a3be0fd783c4e0189416b28581ebaefcc" title="selftest_cfb_128" alt="" coords="284,132,403,159"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="spoton_crypt::saltedPassphraseHash" name="spoton_crypt::saltedPassphraseHash">
+<area shape="rect" id="node2" href="$classspoton.html#a7fd5f71f1de76a7d14b119e25cfab0eb" title="spoton::slotSetPassphrase" alt="" coords="293,44,472,70"/>
+<area shape="rect" id="node5" href="$classspoton.html#a076aafec8a919d153580364478b0a3a5" title="spoton::slotValidatePassphrase" alt="" coords="520,102,727,129"/>
+<area shape="rect" id="node6" href="$classspoton.html#a6855a1550a55aa9d2eabf553b2bfd468" title="spoton::slotLock" alt="" coords="564,153,683,180"/>
+<area shape="rect" id="node7" href="$classspoton.html#aa839870136d17267e9fbf567a3233ab8" title="spoton::slotVerify" alt="" coords="321,204,445,230"/>
+<area shape="rect" id="node8" href="$classspoton__kernel.html#a3c16c90e1d63cd2abbe9d9b932ce108b" title="spoton_kernel::initialize\lSecurityContainers" alt="" coords="303,255,462,296"/>
+<area shape="rect" id="node3" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="775,102,883,129"/>
+<area shape="rect" id="node4" href="$classspoton.html#a68e6ce65025cb17837acb9ed17556fdf" title="spoton::slotPrepareAndShow\lInstallationWizard" alt="" coords="528,36,719,78"/>
+<area shape="rect" id="node9" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="548,255,699,296"/>
+</map>

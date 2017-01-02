@@ -1,0 +1,6 @@
+<map id="spoton_misc::enableLog" name="spoton_misc::enableLog">
+<area shape="rect" id="node2" href="$classspoton__logviewer.html#a9d8aff8c1a6f1ab393369d6efdd06e4d" title="spoton_logviewer::spoton\l_logviewer" alt="" coords="477,5,648,47"/>
+<area shape="rect" id="node3" href="$classspoton__logviewer.html#a2248b57cafc823e51e3e4a9240802970" title="spoton_logviewer::slotEnableLog" alt="" coords="216,30,429,57"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="487,92,638,133"/>
+<area shape="rect" id="node5" href="$classspoton__kernel.html#a8326fb4c480d72dff4a2357b4f17bee3" title="spoton_kernel::slotUpdate\lSettings" alt="" coords="235,132,410,173"/>
+</map>

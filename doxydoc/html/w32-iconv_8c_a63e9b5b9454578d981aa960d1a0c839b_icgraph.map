@@ -1,0 +1,6 @@
+<map id="mbtowc_flags" name="mbtowc_flags">
+<area shape="rect" id="node2" href="$w32-iconv_8c.html#a10f685e7a97e361904c4cef107eaee63" title="kernel_mbtowc" alt="" coords="156,5,267,32"/>
+<area shape="rect" id="node3" href="$w32-iconv_8c.html#a23cdcc9e8e9072385ee0e87502fc802a" title="make_csconv" alt="" coords="315,5,417,32"/>
+<area shape="rect" id="node4" href="$w32-iconv_8c.html#a1094b1c628e80149721f4f1c37fdb1ce" title="win_iconv_open" alt="" coords="465,5,580,32"/>
+<area shape="rect" id="node5" href="$gpg-error_8h.html#a2ebf44783347476121a554b911cf9d1b" title="gpgrt_w32_iconv_open" alt="" coords="628,5,783,32"/>
+</map>

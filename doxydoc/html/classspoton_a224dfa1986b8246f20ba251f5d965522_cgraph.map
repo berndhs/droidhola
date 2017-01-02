@@ -1,0 +1,5 @@
+<map id="spoton::sendKeysToKernel" name="spoton::sendKeysToKernel">
+<area shape="rect" id="node2" href="$classspoton.html#a070969c43351a5f9d607aadd47aee0f0" title="spoton::isKernelActive" alt="" coords="232,5,385,32"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="234,56,383,83"/>
+<area shape="rect" id="node4" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="433,56,596,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="do_format" name="do_format">
+<area shape="rect" id="node2" href="$estream-printf_8c.html#a5112986c0d780eb9d94bda92a338d079" title="pr_integer" alt="" coords="151,5,230,32"/>
+<area shape="rect" id="node4" href="$estream-printf_8c.html#a723a87bfa076fa915ccdbceee0ebd2aa" title="pr_float" alt="" coords="158,56,223,83"/>
+<area shape="rect" id="node5" href="$estream-printf_8c.html#a5d9227b6cb4ac9c4f680fd45af9a433a" title="pr_char" alt="" coords="158,107,223,133"/>
+<area shape="rect" id="node6" href="$estream-printf_8c.html#a9be0bbf7f87e7c506f291494ab96c926" title="pr_string" alt="" coords="155,157,227,184"/>
+<area shape="rect" id="node7" href="$estream-printf_8c.html#a90410e7fc266f92a1e188d5f0538b758" title="pr_pointer" alt="" coords="151,208,230,235"/>
+<area shape="rect" id="node8" href="$estream-printf_8c.html#a2fe3d868dc6e1fa1a5c7a87670fbf916" title="pr_bytes_so_far" alt="" coords="133,259,248,285"/>
+<area shape="rect" id="node3" href="$estream-printf_8c.html#ae67dd8d87aed5dafaa5e0535e4a53111" title="pad_out" alt="" coords="296,56,364,83"/>
+<area shape="rect" id="node9" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="307,259,353,285"/>
+</map>

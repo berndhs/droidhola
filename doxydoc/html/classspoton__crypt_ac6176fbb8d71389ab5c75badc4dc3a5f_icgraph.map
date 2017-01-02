@@ -1,0 +1,10 @@
+<map id="spoton_crypt::publicKeySizeMcEliece" name="spoton_crypt::publicKeySizeMcEliece">
+<area shape="rect" id="node2" href="$classspoton__crypt.html#a66cde7611d8543e418fe00d884555166" title="spoton_crypt::publicKeySize" alt="" coords="241,124,429,151"/>
+<area shape="rect" id="node3" href="$classspoton.html#a18a74b80cce0c1f6130d785cf51bed77" title="spoton::updatePublicKeys\lLabel" alt="" coords="477,117,652,158"/>
+<area shape="rect" id="node4" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="1181,95,1289,122"/>
+<area shape="rect" id="node5" href="$classspoton.html#a7fd5f71f1de76a7d14b119e25cfab0eb" title="spoton::slotSetPassphrase" alt="" coords="700,66,879,92"/>
+<area shape="rect" id="node7" href="$classspoton.html#a076aafec8a919d153580364478b0a3a5" title="spoton::slotValidatePassphrase" alt="" coords="927,124,1133,151"/>
+<area shape="rect" id="node8" href="$classspoton.html#a61dc531883b2842a14e648bb7ebccd85" title="spoton::slotRegenerateKey" alt="" coords="940,175,1120,202"/>
+<area shape="rect" id="node9" href="$classspoton.html#a0f9e7bdd1e9b13b67fa57c88b67898c9" title="spoton::slotDeleteKey" alt="" coords="714,226,865,252"/>
+<area shape="rect" id="node6" href="$classspoton.html#a68e6ce65025cb17837acb9ed17556fdf" title="spoton::slotPrepareAndShow\lInstallationWizard" alt="" coords="935,58,1125,100"/>
+</map>

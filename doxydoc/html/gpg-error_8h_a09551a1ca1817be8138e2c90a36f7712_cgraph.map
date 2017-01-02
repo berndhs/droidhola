@@ -1,0 +1,16 @@
+<map id="_gpg_w32_gettext_use_utf8" name="_gpg_w32_gettext_use_utf8">
+<area shape="rect" id="node2" href="$gpgcemgr_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="239,164,289,191"/>
+<area shape="rect" id="node3" href="$gpgcemgr_8c.html#a796d42a503435bce4176a1663bcd5c5d" title="install" alt="" coords="373,38,429,64"/>
+<area shape="rect" id="node4" href="$gpgcemgr_8c.html#a5258bffbe81de15244bebcf268b5b680" title="DWORD" alt="" coords="534,38,609,64"/>
+<area shape="rect" id="node5" href="$gpgcemgr_8c.html#a0f3802a2b99efa6c0a4ca6dca2e0719b" title="deinstall" alt="" coords="366,291,437,318"/>
+<area shape="rect" id="node6" href="$gpgcemgr_8c.html#aa570ffa7260e57551f48fa4bb0f7e646" title="HANDLE" alt="" coords="533,291,610,318"/>
+<area shape="rect" id="node7" href="$gpgcemgr_8c.html#acd7f448124fab5675e3f53dd93af76fa" title="gravity" alt="" coords="371,342,432,368"/>
+<area shape="rect" id="node9" href="$gpgcemgr_8c.html#a3c8a6070625e61f0e3e3a9ee8ee91c86" title="enable_debug" alt="" coords="350,88,453,115"/>
+<area shape="rect" id="node10" href="$gpgcemgr_8c.html#a7bdb9fa73cd589ce1d6b69823ec31db7" title="enable_log" alt="" coords="359,139,443,166"/>
+<area shape="rect" id="node11" href="$gpgcemgr_8c.html#a5dc4294d23766a6e2b75fcf67d61ccd6" title="set_show_registry" alt="" coords="337,190,465,216"/>
+<area shape="rect" id="node8" href="$gpgcemgr_8c.html#acd07c40da5e022213527128ffd5ca311" title="load_sensor_api" alt="" coords="513,342,629,368"/>
+<area shape="rect" id="node12" href="$gpgcemgr_8c.html#af65de3d582d694fdd257c52c6e1ca052" title="utf8_to_wchar" alt="" coords="519,139,623,166"/>
+<area shape="rect" id="node13" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="677,139,737,166"/>
+<area shape="rect" id="node14" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="549,240,593,267"/>
+<area shape="rect" id="node15" href="$gpgcemgr_8c.html#a004389a3e9a1c48eca8e0897eed85d45" title="wchar_to_utf8" alt="" coords="519,190,623,216"/>
+</map>

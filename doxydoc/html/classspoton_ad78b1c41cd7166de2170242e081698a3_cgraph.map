@@ -1,0 +1,6 @@
+<map id="spoton::slotDiscoverExternalAddress" name="spoton::slotDiscoverExternalAddress">
+<area shape="rect" id="node2" href="$classspoton__external__address.html#ab7ad5453a23d8731cb2a610bfc675268" title="spoton_external_address\l::discover" alt="" coords="244,71,411,112"/>
+<area shape="rect" id="node3" href="$classspoton__external__address.html#a9ce87efb95b79c5e7f00f01c2ab2d186" title="spoton_external_address\l::slotError" alt="" coords="459,5,625,47"/>
+<area shape="rect" id="node4" href="$classspoton__external__address.html#a5f5983472fd5610c79ba10044c84310c" title="spoton_external_address\l::slotFinished" alt="" coords="459,71,625,112"/>
+<area shape="rect" id="node5" href="$classspoton__external__address.html#ad8773a01ba5cbddc8a7161b45588062c" title="spoton_external_address\l::slotSslErrors" alt="" coords="459,136,625,177"/>
+</map>

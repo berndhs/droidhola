@@ -1,0 +1,10 @@
+<map id="spoton_misc::publicKeyFromSignaturePublicKeyHash" name="spoton_misc::publicKeyFromSignaturePublicKeyHash">
+<area shape="rect" id="node2" href="$classspoton__misc.html#acf978eef3f74484b58f09617fe2c96ff" title="spoton_misc::publicKeyFromHash" alt="" coords="244,74,467,101"/>
+<area shape="rect" id="node7" href="$classspoton__mailer.html#aaeb7064485e3a08400008ef70575a7fe" title="spoton_mailer::slotRetrieveMail" alt="" coords="526,130,731,157"/>
+<area shape="rect" id="node3" href="$classspoton__kernel.html#aa11832e947d49a438e4282d14a200b30" title="spoton_kernel::slotForward\lSecrecyInformationReceivedFromUI" alt="" coords="791,5,1025,47"/>
+<area shape="rect" id="node6" href="$classspoton__kernel.html#aaf341f9c7581b31e4f74f78583b9a351" title="spoton_kernel::slotForward\lSecrecyResponseReceivedFromUI" alt="" coords="515,64,743,105"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="1079,61,1230,103"/>
+<area shape="rect" id="node5" href="$classspoton__kernel.html#a6638a67afa993edb0ae81370396974cd" title="spoton_kernel::saveUrls" alt="" coords="1073,10,1236,37"/>
+<area shape="rect" id="node8" href="$classspoton__mailer.html#a6fcfc0e9bb79fb19143fad285367997e" title="spoton_mailer::slotTimeout" alt="" coords="819,133,997,159"/>
+<area shape="rect" id="node9" href="$classspoton__mailer.html#a353902dd1cbb64dc58b0c2018ce97a5e" title="spoton_mailer::spoton\l_mailer" alt="" coords="1079,127,1230,168"/>
+</map>

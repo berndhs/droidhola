@@ -1,0 +1,18 @@
+<map id="_gpgrt_estream_bsprintf" name="_gpgrt_estream_bsprintf">
+<area shape="rect" id="node2" href="$estream-printf_8c.html#add3e659fd104fab34c3eaa92efbc55c4" title="_gpgrt_estream_vasprintf" alt="" coords="216,107,385,133"/>
+<area shape="rect" id="node3" href="$estream-printf_8c.html#a9b7097f42abe6f85f9dda6e5b4cc7a11" title="_gpgrt_estream_format" alt="" coords="433,81,589,108"/>
+<area shape="rect" id="node17" href="$estream-printf_8c.html#a9fe091b7d50f5137384b1e721ec76ca2" title="dynamic_buffer_out" alt="" coords="443,132,579,159"/>
+<area shape="rect" id="node4" href="$estream-printf_8c.html#a015d54090c1f63c30e32f39595cd5e8a" title="parse_format" alt="" coords="637,56,736,83"/>
+<area shape="rect" id="node5" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="819,5,863,32"/>
+<area shape="rect" id="node7" href="$estream-printf_8c.html#a1abd14976cbbfc794eadb70872a7f580" title="read_values" alt="" coords="641,107,733,133"/>
+<area shape="rect" id="node8" href="$estream-printf_8c.html#aaa11f07b9d92ab75b20597fdde39b7be" title="do_format" alt="" coords="647,208,727,235"/>
+<area shape="rect" id="node6" href="$estream-printf_8c.html#a23f7eca532059086753f46129f6f7db7" title="compute_type" alt="" coords="789,56,893,83"/>
+<area shape="rect" id="node9" href="$estream-printf_8c.html#a5112986c0d780eb9d94bda92a338d079" title="pr_integer" alt="" coords="802,107,881,133"/>
+<area shape="rect" id="node11" href="$estream-printf_8c.html#a723a87bfa076fa915ccdbceee0ebd2aa" title="pr_float" alt="" coords="809,157,874,184"/>
+<area shape="rect" id="node12" href="$estream-printf_8c.html#a5d9227b6cb4ac9c4f680fd45af9a433a" title="pr_char" alt="" coords="809,208,874,235"/>
+<area shape="rect" id="node13" href="$estream-printf_8c.html#a9be0bbf7f87e7c506f291494ab96c926" title="pr_string" alt="" coords="805,259,877,285"/>
+<area shape="rect" id="node14" href="$estream-printf_8c.html#a90410e7fc266f92a1e188d5f0538b758" title="pr_pointer" alt="" coords="802,309,881,336"/>
+<area shape="rect" id="node15" href="$estream-printf_8c.html#a2fe3d868dc6e1fa1a5c7a87670fbf916" title="pr_bytes_so_far" alt="" coords="784,360,899,387"/>
+<area shape="rect" id="node10" href="$estream-printf_8c.html#ae67dd8d87aed5dafaa5e0535e4a53111" title="pad_out" alt="" coords="947,157,1015,184"/>
+<area shape="rect" id="node16" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="957,360,1004,387"/>
+</map>

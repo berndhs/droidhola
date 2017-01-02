@@ -1,0 +1,16 @@
+<map id="process_key_pair_file" name="process_key_pair_file">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="552,94,591,121"/>
+<area shape="rect" id="node3" href="$pkbench_8c.html#a96765fd3cb76d89bb338bcabe64d4633" title="read_file" alt="" coords="228,196,299,222"/>
+<area shape="rect" id="node5" href="$pkbench_8c.html#aa77cc587dc65b9282085c7403a84ae8e" title="die" alt="" coords="244,246,283,273"/>
+<area shape="rect" id="node6" href="$pkbench_8c.html#acb32619c9188d513c3ba15f081af3073" title="context_init" alt="" coords="219,56,308,82"/>
+<area shape="rect" id="node7" href="$pkbench_8c.html#abbfd106d2701fb2f26c6c781ecd671af" title="process_key_pair" alt="" coords="201,145,325,172"/>
+<area shape="rect" id="node15" href="$pkbench_8c.html#a4adb69c3d824fc82b7c9865f00bf7933" title="context_destroy" alt="" coords="206,297,321,324"/>
+<area shape="rect" id="node4" href="$pkbench_8c.html#a4dd0d318d4c89c0532458533ab35ead4" title="fail" alt="" coords="552,221,591,248"/>
+<area shape="rect" id="node8" href="$pkbench_8c.html#af2d47225d4803b9e5d303a5e17a52405" title="work_encrypt" alt="" coords="373,120,473,146"/>
+<area shape="rect" id="node10" href="$pkbench_8c.html#a168d44a5c8e0465672c157c8bac3fc9b" title="work_decrypt" alt="" coords="373,69,473,96"/>
+<area shape="rect" id="node11" href="$pkbench_8c.html#a2c451835880755fd34776a72c0cfd4b1" title="work_sign" alt="" coords="383,170,464,197"/>
+<area shape="rect" id="node12" href="$pkbench_8c.html#adc458e66a357f37cdeba7746bff12ba1" title="work_verify" alt="" coords="379,221,468,248"/>
+<area shape="rect" id="node14" href="$pkbench_8c.html#aec52666fa091ea15ce31120252ca6ce5" title="benchmark" alt="" coords="380,272,467,298"/>
+<area shape="rect" id="node9" href="$gpg-error_8h.html#ae9aa174cb4e6c638dcfa58942b79ed2d" title="gpg_err_code" alt="" coords="521,170,621,197"/>
+<area shape="rect" id="node13" href="$pkbench_8c.html#a5753711823ae182c7ac47927cae17e69" title="show_sexp" alt="" coords="527,272,615,298"/>
+</map>

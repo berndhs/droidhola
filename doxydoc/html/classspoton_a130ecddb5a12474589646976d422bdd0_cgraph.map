@@ -1,0 +1,7 @@
+<map id="spoton::slotAfterFirstShow" name="spoton::slotAfterFirstShow">
+<area shape="rect" id="node2" href="$classspoton__misc.html#a5ca5a47b16371fc3c28ebc1c04a8187e" title="spoton_misc::prepareDatabases" alt="" coords="233,5,443,32"/>
+<area shape="rect" id="node5" href="$classspoton__misc.html#ad58ae4c34ae7cb59e1c49db04dd87108" title="spoton_misc::prepareUrlDistillers\lDatabase" alt="" coords="231,57,445,98"/>
+<area shape="rect" id="node6" href="$classspoton__misc.html#ac607241c95f437caab5e06acbdb2c2d2" title="spoton_misc::prepareUrlKeys\lDatabase" alt="" coords="241,122,435,163"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#acbb66a506c79752732614d3883df9298" title="spoton_misc::database" alt="" coords="496,39,653,65"/>
+<area shape="rect" id="node4" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="493,89,656,116"/>
+</map>

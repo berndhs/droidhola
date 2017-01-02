@@ -1,0 +1,10 @@
+<map id="check_ed25519ecdsa_sample_key" name="check_ed25519ecdsa_sample_key">
+<area shape="rect" id="node2" href="$w32-gettext_8c.html#a8b687c67aa783d3af33d40f18c8361bb" title="hash_string" alt="" coords="220,5,309,32"/>
+<area shape="rect" id="node3" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="245,56,284,83"/>
+<area shape="rect" id="node4" href="$tests_2pubkey_8c.html#aa77cc587dc65b9282085c7403a84ae8e" title="die" alt="" coords="532,132,571,159"/>
+<area shape="rect" id="node5" href="$tests_2pubkey_8c.html#a67e55f76abc133f1b4df41e2075389bf" title="extract_cmp_data" alt="" coords="201,208,328,235"/>
+<area shape="rect" id="node6" href="$tests_2pubkey_8c.html#a697cf2d21385b2722bb16269028faf43" title="data_from_hex" alt="" coords="376,157,484,184"/>
+<area shape="rect" id="node7" href="$tests_2pubkey_8c.html#a4dd0d318d4c89c0532458533ab35ead4" title="fail" alt="" coords="411,208,449,235"/>
+<area shape="rect" id="node8" href="$tests_2pubkey_8c.html#af5ed80d5eae560f7bc2762e4445f156c" title="info" alt="" coords="409,259,451,285"/>
+<area shape="rect" id="node9" href="$tests_2pubkey_8c.html#a5753711823ae182c7ac47927cae17e69" title="show_sexp" alt="" coords="386,309,474,336"/>
+</map>

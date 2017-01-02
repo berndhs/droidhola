@@ -1,0 +1,21 @@
+<map id="_gcry_random_close_fds" name="_gcry_random_close_fds">
+<area shape="rect" id="node2" href="$rand-internal_8h.html#a05431ae41a95a03482ed0fbe1a91c02d" title="_gcry_rngfips_close_fds" alt="" coords="231,537,394,564"/>
+<area shape="rect" id="node14" href="$rand-internal_8h.html#a1b3494b3cc8f81b68cee8461b3ff9d05" title="_gcry_rngcsprng_close_fds" alt="" coords="222,385,403,412"/>
+<area shape="rect" id="node18" href="$rand-internal_8h.html#a09759e774b42275e3aa067e988fc0e66" title="_gcry_rngsystem_close_fds" alt="" coords="220,461,405,488"/>
+<area shape="rect" id="node3" href="$random-fips_8c.html#ac7847edad49675e29ac777f63e076b4b" title="lock_rng" alt="" coords="694,563,765,589"/>
+<area shape="rect" id="node5" href="$rand-internal_8h.html#a07cdf7b06a9d0e1cf202c2cede9092e1" title="_gcry_rndlinux_gather\l_random" alt="" coords="453,226,603,267"/>
+<area shape="rect" id="node13" href="$random-fips_8c.html#a0bd1d9808da80fb11cdf07235b83be0a" title="unlock_rng" alt="" coords="485,613,571,640"/>
+<area shape="rect" id="node4" href="$common_8h.html#a3c9f2d4104ed4b54b508cfddf9399512" title="log_fatal" alt="" coords="901,436,972,463"/>
+<area shape="rect" id="node6" href="$rand-internal_8h.html#aa28dc273c71927d62599cf498d22b259" title="_gcry_rndhw_poll_slow" alt="" coords="651,56,808,83"/>
+<area shape="rect" id="node9" href="$rndlinux_8c.html#a72018af1ea25c5272e8b6ea78550cbc5" title="open_device" alt="" coords="682,208,777,235"/>
+<area shape="rect" id="node10" href="$rand-internal_8h.html#a2d935a6978a342665faafcf54a99e11b" title="_gcry_random_progress" alt="" coords="856,107,1017,133"/>
+<area shape="rect" id="node12" href="$common_8h.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="901,157,973,184"/>
+<area shape="rect" id="node7" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="913,56,960,83"/>
+<area shape="rect" id="node8" href="$g10lib_8h.html#aea824f7fabf4b6f049106a272b63f36d" title="_gcry_get_hw_features" alt="" coords="858,5,1015,32"/>
+<area shape="rect" id="node11" href="$rndlinux_8c.html#acc47b69f463711259be17288cd9b56d5" title="set_cloexec_flag" alt="" coords="877,208,997,235"/>
+<area shape="rect" id="node15" href="$random-csprng_8c.html#a7b947b17cdbb30209459eb2f43795caf" title="lock_pool" alt="" coords="489,347,567,373"/>
+<area shape="rect" id="node17" href="$random-csprng_8c.html#aad9761a8fed53170181f865c84723003" title="unlock_pool" alt="" coords="483,397,573,424"/>
+<area shape="rect" id="node16" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="710,360,749,387"/>
+<area shape="rect" id="node19" href="$random-system_8c.html#ac7847edad49675e29ac777f63e076b4b" title="lock_rng" alt="" coords="694,461,765,488"/>
+<area shape="rect" id="node20" href="$random-system_8c.html#a0bd1d9808da80fb11cdf07235b83be0a" title="unlock_rng" alt="" coords="485,512,571,539"/>
+</map>

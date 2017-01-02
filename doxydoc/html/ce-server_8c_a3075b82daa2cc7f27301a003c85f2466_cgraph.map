@@ -1,0 +1,5 @@
+<map id="reset_notify" name="reset_notify">
+<area shape="rect" id="node2" href="$libassuan-2_84_83_2src_2context_8c.html#a394ded91dae2a2abd9f44e45729102b8" title="assuan_get_pointer" alt="" coords="145,5,280,32"/>
+<area shape="rect" id="node3" href="$assuan-socket_8c.html#a7cb7cd778519212090f4ba12ef5dcc24" title="assuan_sock_close" alt="" coords="144,56,281,83"/>
+<area shape="rect" id="node4" href="$assuan-defs_8h.html#a9a2ee339914002c6d4e8b434ea997227" title="_assuan_close" alt="" coords="329,56,439,83"/>
+</map>

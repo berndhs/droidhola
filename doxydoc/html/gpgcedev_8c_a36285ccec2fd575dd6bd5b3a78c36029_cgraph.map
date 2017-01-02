@@ -1,0 +1,10 @@
+<map id="assign_rvid" name="assign_rvid">
+<area shape="rect" id="node2" href="$gpgcedev_8c.html#a8718ac859ad1ebc9deeff94544660b35" title="log_debug" alt="" coords="468,42,549,69"/>
+<area shape="rect" id="node3" href="$gpgcedev_8c.html#a6085db8f1f0bec8dba34283d6481d6d9" title="assert_pipeimpl" alt="" coords="141,81,255,107"/>
+<area shape="rect" id="node7" href="$gpgcedev_8c.html#a1e1aab238d9cf37a7e39376df0d43495" title="allocate_monitor" alt="" coords="303,169,420,195"/>
+<area shape="rect" id="node8" href="$gpgcedev_8c.html#a081308c174a8a5dede8cd92625899723" title="monitor_main" alt="" coords="148,30,248,57"/>
+<area shape="rect" id="node4" href="$gpgcedev_8c.html#abc1ef04571ed6cbff59d593b34f9ac16" title="pipeimpl_new" alt="" coords="311,219,412,246"/>
+<area shape="rect" id="node5" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="479,219,539,246"/>
+<area shape="rect" id="node6" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="487,169,531,195"/>
+<area shape="rect" id="node9" href="$gpgcedev_8c.html#a58a110fef2be438e0b7d0253dd73ed49" title="pipeimpl_unref" alt="" coords="308,118,415,145"/>
+</map>

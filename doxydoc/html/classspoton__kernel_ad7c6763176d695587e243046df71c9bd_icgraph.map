@@ -1,0 +1,11 @@
+<map id="spoton_kernel::popPoptastic" name="spoton_kernel::popPoptastic">
+<area shape="rect" id="node2" href="$classspoton__kernel.html#a62d81c13819de860823044d01da21856" title="spoton_kernel::slotRetrieveMail" alt="" coords="240,93,445,120"/>
+<area shape="rect" id="node10" href="$classspoton__kernel.html#a4e5e24c5da55d9e406d864bf5e9b6c40" title="spoton_kernel::slotPoptasticPop" alt="" coords="493,173,704,200"/>
+<area shape="rect" id="node3" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="1497,97,1648,138"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#a9223a77b13d95689d77ea3ba52b59e7d" title="spoton_kernel::connectSignals\lToNeighbor" alt="" coords="499,86,699,127"/>
+<area shape="rect" id="node5" href="$classspoton__kernel.html#acc4b038c20734b08617da1aad9193501" title="spoton_kernel::prepareNeighbors" alt="" coords="1011,43,1224,69"/>
+<area shape="rect" id="node7" href="$classspoton__kernel.html#aa9947ef6ff1cc446368a165607518ac0" title="spoton_kernel::slotNewNeighbor" alt="" coords="752,93,963,120"/>
+<area shape="rect" id="node9" href="$classspoton__kernel.html#a8326fb4c480d72dff4a2357b4f17bee3" title="spoton_kernel::slotUpdate\lSettings" alt="" coords="1273,129,1448,170"/>
+<area shape="rect" id="node6" href="$classspoton__kernel.html#a47b33a0b468dd5ff9d112a4be0a78c3b" title="spoton_kernel::slotPrepare\lObjects" alt="" coords="1272,63,1449,105"/>
+<area shape="rect" id="node8" href="$classspoton__kernel.html#a7ea263d96ed3589d0709ae5183dca388" title="spoton_kernel::prepareListeners" alt="" coords="1014,93,1221,120"/>
+</map>

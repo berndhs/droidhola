@@ -1,0 +1,6 @@
+<map id="check_rng_type_switching" name="check_rng_type_switching">
+<area shape="rect" id="node2" href="$tests_2random_8c.html#a41b4d0b77d95a66ca4258694205cbbee" title="inf" alt="" coords="352,9,391,36"/>
+<area shape="rect" id="node3" href="$tests_2random_8c.html#a8ed6715ae392e3c477fb9ab9d4e487c1" title="rng_type" alt="" coords="231,72,303,98"/>
+<area shape="rect" id="node4" href="$tests_2random_8c.html#aa77cc587dc65b9282085c7403a84ae8e" title="die" alt="" coords="352,85,391,112"/>
+<area shape="rect" id="node5" href="$tests_2random_8c.html#a3cee7c529b14ce0d73fd6c644c039522" title="print_hex" alt="" coords="229,21,304,48"/>
+</map>

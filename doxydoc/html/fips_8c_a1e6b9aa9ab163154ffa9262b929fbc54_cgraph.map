@@ -1,0 +1,13 @@
+<map id="reporter" name="reporter">
+<area shape="rect" id="node2" href="$g10lib_8h.html#a901f7f50d75bf13e6a151fd4220567e2" title="_gcry_log_verbosity" alt="" coords="134,5,273,32"/>
+<area shape="rect" id="node3" href="$common_8h.html#ade762acc676da9bb7e589a8a1ac43424" title="log_info" alt="" coords="170,56,237,83"/>
+<area shape="rect" id="node4" href="$cipher_8c.html#a04e6a030a159fde93263d6cba6f0b98c" title="_gcry_cipher_algo_name" alt="" coords="120,107,287,133"/>
+<area shape="rect" id="node7" href="$md_8c.html#adb5d5e561ef70ebff32bd6ee1422fa0c" title="_gcry_md_algo_name" alt="" coords="129,157,278,184"/>
+<area shape="rect" id="node10" href="$cipher_2pubkey_8c.html#a201e4e7e2a641f2da051a37f18b7e083" title="_gcry_pk_algo_name" alt="" coords="131,208,276,235"/>
+<area shape="rect" id="node5" href="$cipher_8c.html#a187c972a01c7d57cf4ca3ff1ca59f9d5" title="spec_from_algo" alt="" coords="335,107,449,133"/>
+<area shape="rect" id="node6" href="$cipher_8c.html#aee3feb438248196cab8c2ae876ce7206" title="map_algo" alt="" coords="497,107,576,133"/>
+<area shape="rect" id="node8" href="$md_8c.html#a68697e28ed23b88df23fe6819134ab7e" title="spec_from_algo" alt="" coords="335,157,449,184"/>
+<area shape="rect" id="node9" href="$md_8c.html#aee3feb438248196cab8c2ae876ce7206" title="map_algo" alt="" coords="497,157,576,184"/>
+<area shape="rect" id="node11" href="$cipher_2pubkey_8c.html#a9e838575e9f3bd61a4059565187a97e8" title="spec_from_algo" alt="" coords="335,208,449,235"/>
+<area shape="rect" id="node12" href="$cipher_2pubkey_8c.html#aee3feb438248196cab8c2ae876ce7206" title="map_algo" alt="" coords="497,208,576,235"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="spoton_gui_server::slotReadyRead" name="spoton_gui_server::slotReadyRead">
+<area shape="rect" id="node2" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="896,13,1045,40"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#ad9dda9b48817afa80860d9af560b6051" title="spoton_kernel::addBuzzKey" alt="" coords="200,57,385,84"/>
+<area shape="rect" id="node5" href="$classspoton__kernel.html#a8446063eb3e80635f9d00b0b4679da70" title="spoton_kernel::setting" alt="" coords="217,108,368,134"/>
+<area shape="rect" id="node6" href="$classspoton__kernel.html#a7d724849de8af7b73512b69bab9bb230" title="spoton_kernel::removeBuzzKey" alt="" coords="189,158,396,185"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="1093,13,1256,40"/>
+<area shape="rect" id="node7" href="$classspoton__kernel.html#a309a800ebd512dc458c4eda679464477" title="spoton_kernel::findBuzzKey" alt="" coords="444,145,629,172"/>
+<area shape="rect" id="node8" href="$classspoton__crypt.html#a7382dbdb47b772128ea0f12cb975d959" title="spoton_crypt::keyedHash" alt="" coords="677,69,848,96"/>
+<area shape="rect" id="node10" href="$classspoton__crypt.html#a218293644d28fe63f56ba609d1661245" title="spoton_crypt::memcmp" alt="" coords="683,145,842,172"/>
+<area shape="rect" id="node9" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="951,69,990,96"/>
+</map>

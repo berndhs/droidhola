@@ -1,0 +1,11 @@
+<map id="spoton_encryptfile::spoton_encryptfile" name="spoton_encryptfile::spoton_encryptfile">
+<area shape="rect" id="node2" href="$classUi__spoton__encryptfile.html#ae68fe0538fa712bde6c34f463c69bd64" title="Ui_spoton_encryptfile\l::setupUi" alt="" coords="189,5,337,47"/>
+<area shape="rect" id="node4" href="$classspoton__encryptfile.html#acee8e31b0b9f28593a8f786ae4edc581" title="spoton_encryptfile\l::slotClose" alt="" coords="199,71,327,112"/>
+<area shape="rect" id="node5" href="$classspoton__encryptfile.html#ac816d034bfb3573aefee415fd18219bd" title="spoton_encryptfile\l::slotNewPage" alt="" coords="199,136,327,177"/>
+<area shape="rect" id="node6" href="$classspoton__encryptfile.html#a4b927ce04818281a9243987e56cb6bf0" title="spoton_encryptfile\l::slotCloseTab" alt="" coords="199,201,327,243"/>
+<area shape="rect" id="node10" href="$classspoton__encryptfile.html#a665cc8a89b575d1a814e9e6499ad6e28" title="spoton_encryptfile\l::slotSetIcons" alt="" coords="199,267,327,308"/>
+<area shape="rect" id="node3" href="$classUi__spoton__encryptfile.html#a4fb411e3c0639f1bbd64a39e10ceb6c4" title="Ui_spoton_encryptfile\l::retranslateUi" alt="" coords="385,5,533,47"/>
+<area shape="rect" id="node7" href="$classspoton__encryptfile__page.html#a2eabe7ad857441f402d529b464a45087" title="spoton_encryptfile\l_page::occupied" alt="" coords="395,169,523,211"/>
+<area shape="rect" id="node8" href="$classspoton__encryptfile__page.html#aa483b1463af630e29dc3ed58c610e0c9" title="spoton_encryptfile\l_page::abort" alt="" coords="395,235,523,276"/>
+<area shape="rect" id="node9" href="$classspoton__encryptfile__page.html#a3f5a7ea50ea323514e967040a8f7f8a9" title="spoton_encryptfile\l_page::slotCancel" alt="" coords="581,235,709,276"/>
+</map>

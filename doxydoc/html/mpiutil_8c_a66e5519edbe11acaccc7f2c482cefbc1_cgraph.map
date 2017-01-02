@@ -1,0 +1,8 @@
+<map id="_gcry_mpi_alloc_like" name="_gcry_mpi_alloc_like">
+<area shape="rect" id="node2" href="$g10lib_8h.html#a097f30a540a9d8ac76ed54c1316a5376" title="_gcry_is_secure" alt="" coords="196,31,313,57"/>
+<area shape="rect" id="node3" href="$global_8c.html#a16e8af0a857ae959a2abb3c7e88e02f0" title="get_no_secure_memory" alt="" coords="362,5,523,32"/>
+<area shape="rect" id="node6" href="$secmem_8c.html#a1a820af6bf0149451e1de1933f5cc0fb" title="_gcry_private_is_secure" alt="" coords="361,56,524,83"/>
+<area shape="rect" id="node4" href="$fips_8c.html#a63eaab0cb53f75634165b2f2f0a4aa1c" title="_gcry_enforced_fips_mode" alt="" coords="572,5,751,32"/>
+<area shape="rect" id="node5" href="$fips_8c.html#a1236caccf2e256cb9e1b60c894a14639" title="_gcry_fips_mode" alt="" coords="799,5,920,32"/>
+<area shape="rect" id="node7" href="$secmem_8c.html#abfb42716ecfabdb452044d583c878448" title="ptr_into_pool_p" alt="" coords="606,56,717,83"/>
+</map>

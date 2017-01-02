@@ -1,0 +1,9 @@
+<map id="octet_string_from_mpi" name="octet_string_from_mpi">
+<area shape="rect" id="node2" href="$mpicoder_8c.html#a2c231b5f3536a1db85c9da26514231b1" title="_gcry_mpi_to_octet\l_string" alt="" coords="204,49,340,90"/>
+<area shape="rect" id="node3" href="$mpicoder_8c.html#a0b97bd1f1cd53c60fc33425340da63df" title="_gcry_mpi_print" alt="" coords="388,56,503,83"/>
+<area shape="rect" id="node4" href="$mpi-cmp_8c.html#ad9d3ac5e929bbab32e3be17d36fd4af4" title="_gcry_mpi_cmp_ui" alt="" coords="559,5,689,32"/>
+<area shape="rect" id="node6" href="$mpicoder_8c.html#a6dd7fee0be0d62527e66e3a52d701716" title="_gcry_mpi_get_buffer" alt="" coords="551,56,697,83"/>
+<area shape="rect" id="node8" href="$mpicoder_8c.html#a7a4d7e21aa6dcf18e691a502bcce88ab" title="twocompl" alt="" coords="585,107,663,133"/>
+<area shape="rect" id="node5" href="$mpi-bit_8c.html#a6ddae94b7737d218e1e74a6aebd426b3" title="_gcry_mpi_normalize" alt="" coords="745,5,891,32"/>
+<area shape="rect" id="node7" href="$mpicoder_8c.html#a963422bac0adcaa52a39f7e07aadf82a" title="do_get_buffer" alt="" coords="767,56,869,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="revision_thread" name="revision_thread">
+<area shape="rect" id="node2" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="220,5,267,32"/>
+<area shape="rect" id="node3" href="$libgcrypt-1_86_86_2tests_2t-lock_8c.html#a54b10b66045a85bde1850d84a5378313" title="external_lock_test_lock" alt="" coords="164,56,323,83"/>
+<area shape="rect" id="node5" href="$libgcrypt-1_86_86_2tests_2t-lock_8c.html#a37efa28cb09eb11b6ec9e3c16ecf8d04" title="check_accounts" alt="" coords="185,173,302,200"/>
+<area shape="rect" id="node7" href="$libgcrypt-1_86_86_2tests_2t-lock_8c.html#a27a9ce6cec99495f23751762d2de0030" title="external_lock_test\l_unlock" alt="" coords="179,107,307,149"/>
+<area shape="rect" id="node4" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="371,85,409,112"/>
+<area shape="rect" id="node6" href="$libgcrypt-1_86_86_2cipher_2t-mpi-point_8c.html#aa77cc587dc65b9282085c7403a84ae8e" title="die" alt="" coords="371,173,409,200"/>
+</map>

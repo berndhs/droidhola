@@ -1,0 +1,12 @@
+<map id="spoton::slotLock" name="spoton::slotLock">
+<area shape="rect" id="node2" href="$classspoton.html#ae8e9ea1e64eeb54076c8bafe57ecb0db" title="spoton::ui" alt="" coords="253,5,331,32"/>
+<area shape="rect" id="node3" href="$classUi__unlock.html#a00d078be849cd0f35a5040ee1ed23a32" title="Ui_unlock::setupUi" alt="" coords="225,56,359,83"/>
+<area shape="rect" id="node5" href="$classspoton__crypt.html#ae6533f74fbbd15866a978ac077ca39cb" title="spoton_crypt::saltedPassphraseHash" alt="" coords="172,107,412,133"/>
+<area shape="rect" id="node8" href="$classspoton__crypt.html#a7382dbdb47b772128ea0f12cb975d959" title="spoton_crypt::keyedHash" alt="" coords="207,157,377,184"/>
+<area shape="rect" id="node10" href="$classspoton__crypt.html#a218293644d28fe63f56ba609d1661245" title="spoton_crypt::memcmp" alt="" coords="213,208,371,235"/>
+<area shape="rect" id="node11" href="$classspoton__buzzpage.html#a835c77bb68bbdfce81178fca8fbd3197" title="spoton_buzzpage::unite" alt="" coords="212,259,372,285"/>
+<area shape="rect" id="node4" href="$classUi__unlock.html#a32d97b36c5d3250b7a6eb9eba4c3f807" title="Ui_unlock::retranslateUi" alt="" coords="460,56,623,83"/>
+<area shape="rect" id="node6" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="467,107,616,133"/>
+<area shape="rect" id="node7" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="671,107,833,133"/>
+<area shape="rect" id="node9" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="522,157,561,184"/>
+</map>

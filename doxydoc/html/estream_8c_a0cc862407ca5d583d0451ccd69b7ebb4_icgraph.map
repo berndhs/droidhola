@@ -1,0 +1,7 @@
+<map id="es_set_buffering" name="es_set_buffering">
+<area shape="rect" id="node2" href="$gpgrt-int_8h.html#ad584d9eff9e554e55028f02d623db5f0" title="_gpgrt__get_std_stream" alt="" coords="172,5,335,32"/>
+<area shape="rect" id="node4" href="$estream_8c.html#a6b1941e833af62dea8c1a3f02c866b62" title="_gpgrt_setvbuf" alt="" coords="199,56,307,83"/>
+<area shape="rect" id="node3" href="$gpg-error_8h.html#aa1e2507c9c12db6d62aa447c0493238b" title="_gpgrt_get_std_stream" alt="" coords="383,5,537,32"/>
+<area shape="rect" id="node5" href="$libgpg__error-1_824_2src_2visibility_8c.html#ae046fdf0e9f8570c8e0510f544d6502d" title="gpgrt_setvbuf" alt="" coords="409,56,511,83"/>
+<area shape="rect" id="node6" href="$libgpg__error-1_824_2src_2visibility_8c.html#a1734cd8b5f49aded59c70048c62ca966" title="gpgrt_setbuf" alt="" coords="413,107,507,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="spoton::slotDeleteNova" name="spoton::slotDeleteNova">
+<area shape="rect" id="node2" href="$classspoton__misc.html#acbb66a506c79752732614d3883df9298" title="spoton_misc::database" alt="" coords="457,43,615,69"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="663,93,825,120"/>
+<area shape="rect" id="node4" href="$classspoton__crypt.html#a7382dbdb47b772128ea0f12cb975d959" title="spoton_crypt::keyedHash" alt="" coords="225,144,396,171"/>
+<area shape="rect" id="node7" href="$classspoton.html#a1ebe1fa3160f94c18e7702f77272e6d2" title="spoton::populateNovas" alt="" coords="233,93,389,120"/>
+<area shape="rect" id="node8" href="$classspoton.html#a3dbe2f60741a76d3a8678684ff90988b" title="spoton::askKernelToReadStar\lBeamKeys" alt="" coords="212,195,409,237"/>
+<area shape="rect" id="node5" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="517,144,555,171"/>
+<area shape="rect" id="node6" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="461,195,611,221"/>
+</map>

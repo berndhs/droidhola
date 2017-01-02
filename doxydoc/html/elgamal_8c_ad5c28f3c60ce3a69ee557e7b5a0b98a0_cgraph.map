@@ -1,0 +1,6 @@
+<map id="elg_check_secret_key" name="elg_check_secret_key">
+<area shape="rect" id="node2" href="$elgamal_8c.html#a36d2b7645da7981bbe83274fa269bc61" title="check_secret_key" alt="" coords="207,5,335,32"/>
+<area shape="rect" id="node3" href="$mpiutil_8c.html#a8465e67bbb0fafb891f102467841a3eb" title="_gcry_mpi_release" alt="" coords="205,56,336,83"/>
+<area shape="rect" id="node4" href="$mpiutil_8c.html#a97bf589d77bdb67a65126279a0bb9800" title="_gcry_mpi_free" alt="" coords="384,56,495,83"/>
+<area shape="rect" id="node5" href="$mpiutil_8c.html#a57f1c9a6c9b85748e0dc46300207a5ae" title="_gcry_mpi_free_limb\l_space" alt="" coords="543,49,685,90"/>
+</map>

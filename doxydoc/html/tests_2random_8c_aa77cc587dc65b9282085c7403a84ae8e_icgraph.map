@@ -1,0 +1,10 @@
+<map id="die" name="die">
+<area shape="rect" id="node2" href="$tests_2random_8c.html#a3298e02b32f442ceda235cc1a3b46837" title="check_forking" alt="" coords="322,5,425,32"/>
+<area shape="rect" id="node3" href="$tests_2random_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="509,165,560,192"/>
+<area shape="rect" id="node4" href="$tests_2random_8c.html#a6c3c80ef1840e23c6cba5b3da9afdb2b" title="check_nonce_forking" alt="" coords="301,111,446,137"/>
+<area shape="rect" id="node5" href="$tests_2random_8c.html#a96dd738da446ee1232716ad318fe49c7" title="check_close_random\l_device" alt="" coords="92,158,237,199"/>
+<area shape="rect" id="node6" href="$tests_2random_8c.html#a8ed6715ae392e3c477fb9ab9d4e487c1" title="rng_type" alt="" coords="129,275,201,301"/>
+<area shape="rect" id="node7" href="$tests_2random_8c.html#a26ddc7a3a8a8192075ac8f42b2c32a19" title="check_rng_type_switching" alt="" coords="285,220,461,247"/>
+<area shape="rect" id="node8" href="$tests_2random_8c.html#a3afd419cc2a3983b9ffb19521d8d81d5" title="check_early_rng_type\l_switching" alt="" coords="299,271,448,313"/>
+<area shape="rect" id="node9" href="$tests_2random_8c.html#a39e6db60536234239b3a37ad7ab39589" title="run_all_rng_tests" alt="" coords="104,376,225,403"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="gcry_mac_handle" name="gcry_mac_handle">
+<area shape="rect" id="node5" href="$structgcry__mac__spec__ops.html" title="gcry_mac_spec_ops" alt="" coords="1501,155,1644,181"/>
+<area shape="rect" id="node2" href="$structgcry__context.html" title="gcry_context" alt="" coords="717,123,815,149"/>
+<area shape="rect" id="node3" href="$unionPROPERLY__ALIGNED__TYPE.html" title="PROPERLY_ALIGNED_TYPE" alt="" coords="213,117,416,144"/>
+<area shape="rect" id="node9" href="$unioncipher__context__alignment__t.html" title="cipher_context_alignment_t" alt="" coords="512,67,693,93"/>
+<area shape="rect" id="node12" href="$structgcry__md__list.html" title="gcry_md_list" alt="" coords="555,207,651,233"/>
+<area shape="rect" id="node4" href="$structgcry__mac__spec.html" title="gcry_mac_spec" alt="" coords="1717,89,1832,116"/>
+<area shape="rect" id="node6" href="$structgcry__cipher__handle.html" title="gcry_cipher_handle" alt="" coords="839,64,973,91"/>
+<area shape="rect" id="node7" href="$structgcry__cipher__spec.html" title="gcry_cipher_spec" alt="" coords="541,7,665,33"/>
+<area shape="rect" id="node8" href="$structgcry__cipher__oid__spec.html" title="gcry_cipher_oid_spec" alt="" coords="241,7,389,33"/>
+<area shape="rect" id="node10" href="$structgcry__md__handle.html" title="gcry_md_handle" alt="" coords="1076,177,1193,204"/>
+<area shape="rect" id="node11" href="$structgcry__md__context.html" title="gcry_md_context" alt="" coords="845,184,967,211"/>
+<area shape="rect" id="node13" href="$structgcry__md__spec.html" title="gcry_md_spec" alt="" coords="261,208,368,235"/>
+<area shape="rect" id="node14" href="$structgcry__md__oid__spec.html" title="gcry_md_oid_spec" alt="" coords="5,208,136,235"/>
+</map>

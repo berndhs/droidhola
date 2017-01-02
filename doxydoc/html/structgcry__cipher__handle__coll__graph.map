@@ -1,0 +1,6 @@
+<map id="gcry_cipher_handle" name="gcry_cipher_handle">
+<area shape="rect" id="node2" href="$structgcry__cipher__spec.html" title="gcry_cipher_spec" alt="" coords="24,95,148,121"/>
+<area shape="rect" id="node3" href="$structgcry__cipher__oid__spec.html" title="gcry_cipher_oid_spec" alt="" coords="5,5,153,32"/>
+<area shape="rect" id="node4" href="$unioncipher__context__alignment__t.html" title="cipher_context_alignment_t" alt="" coords="183,95,365,121"/>
+<area shape="rect" id="node5" href="$unionPROPERLY__ALIGNED__TYPE.html" title="PROPERLY_ALIGNED_TYPE" alt="" coords="178,5,381,32"/>
+</map>

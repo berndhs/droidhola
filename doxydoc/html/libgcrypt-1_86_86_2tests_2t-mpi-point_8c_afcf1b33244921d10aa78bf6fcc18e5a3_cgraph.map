@@ -1,0 +1,12 @@
+<map id="twistededwards_math" name="twistededwards_math">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="509,56,547,83"/>
+<area shape="rect" id="node3" href="$libgcrypt-1_86_86_2tests_2t-mpi-point_8c.html#afcb60148a3aab49b3d728753d0d07025" title="show" alt="" coords="224,259,277,285"/>
+<area shape="rect" id="node4" href="$libgcrypt-1_86_86_2tests_2t-mpi-point_8c.html#aa77cc587dc65b9282085c7403a84ae8e" title="die" alt="" coords="509,157,547,184"/>
+<area shape="rect" id="node5" href="$libgcrypt-1_86_86_2tests_2t-mpi-point_8c.html#a1cc4f8e7b12c52864611cbed20c83c68" title="hex2mpi" alt="" coords="357,107,428,133"/>
+<area shape="rect" id="node6" href="$libgcrypt-1_86_86_2tests_2t-mpi-point_8c.html#a4dd0d318d4c89c0532458533ab35ead4" title="fail" alt="" coords="231,309,270,336"/>
+<area shape="rect" id="node7" href="$libgcrypt-1_86_86_2tests_2t-mpi-point_8c.html#ad1adb6fc83d723d1124864be9d6e5eff" title="cmp_mpihex" alt="" coords="203,208,299,235"/>
+<area shape="rect" id="node10" href="$libgcrypt-1_86_86_2tests_2t-mpi-point_8c.html#a1bc527c82dbb0f8dcbc9ee5eb5b2c46b" title="print_mpi" alt="" coords="213,5,288,32"/>
+<area shape="rect" id="node8" href="$libgcrypt-1_86_86_2tests_2t-mpi-point_8c.html#a0fcf9d05ba28abe461434d52d99a5d9c" title="hex2mpiopa" alt="" coords="347,208,439,235"/>
+<area shape="rect" id="node9" href="$libgcrypt-1_86_86_2tests_2t-mpi-point_8c.html#a647b05f06c2015b1e1e84e30acbbc5bc" title="hex2buffer" alt="" coords="487,208,569,235"/>
+<area shape="rect" id="node11" href="$libgcrypt-1_86_86_2tests_2t-mpi-point_8c.html#a1ec650ee82253a73f6f4703088642b7d" title="print_mpi_2" alt="" coords="348,5,437,32"/>
+</map>

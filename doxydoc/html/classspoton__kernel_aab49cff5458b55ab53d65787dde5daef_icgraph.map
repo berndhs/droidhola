@@ -1,0 +1,5 @@
+<map id="spoton_kernel::emailRequestCacheAdd" name="spoton_kernel::emailRequestCacheAdd">
+<area shape="rect" id="node2" href="$classspoton__mailer.html#aaeb7064485e3a08400008ef70575a7fe" title="spoton_mailer::slotRetrieveMail" alt="" coords="244,13,449,39"/>
+<area shape="rect" id="node3" href="$classspoton__mailer.html#a6fcfc0e9bb79fb19143fad285367997e" title="spoton_mailer::slotTimeout" alt="" coords="497,13,676,39"/>
+<area shape="rect" id="node4" href="$classspoton__mailer.html#a353902dd1cbb64dc58b0c2018ce97a5e" title="spoton_mailer::spoton\l_mailer" alt="" coords="724,5,875,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="spoton_neighbor::process0030" name="spoton_neighbor::process0030">
+<area shape="rect" id="node2" href="$classspoton__neighbor.html#a7b2aaa9d5b210ff677a7889986a949e6" title="spoton_neighbor::processData" alt="" coords="252,5,451,32"/>
+<area shape="rect" id="node3" href="$classspoton__neighbor.html#a9250c88da1eb47de5919685e09657538" title="spoton_neighbor::slotSendMail" alt="" coords="499,5,699,32"/>
+<area shape="rect" id="node4" href="$classspoton__neighbor.html#aa6707b3133b337024de82dbd97d9e5ae" title="spoton_neighbor::receivedUuid" alt="" coords="747,5,948,32"/>
+</map>

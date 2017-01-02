@@ -1,0 +1,5 @@
+<map id="spoton_neighbor::abort" name="spoton_neighbor::abort">
+<area shape="rect" id="node2" href="$classspoton__sctp__socket.html#a4c66f263d49d85f09d29a9fe17465844" title="spoton_sctp_socket\l::abort" alt="" coords="208,5,347,47"/>
+<area shape="rect" id="node3" href="$classspoton__sctp__socket.html#a8deb16a7772b11041d13a689c3471a62" title="spoton_sctp_socket\l::close" alt="" coords="395,5,533,47"/>
+<area shape="rect" id="node4" href="$classspoton__sctp__socket.html#a05aa66636930f21e6d8494754366b3db" title="spoton_sctp_socket\l::state" alt="" coords="581,5,720,47"/>
+</map>

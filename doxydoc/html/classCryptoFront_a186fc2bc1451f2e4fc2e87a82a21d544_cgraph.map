@@ -1,0 +1,6 @@
+<map id="CryptoFront::CryptoFront" name="CryptoFront::CryptoFront">
+<area shape="rect" id="node2" href="$classSpotKernel.html#aea40a50b8d63c32f624ccc2bfcd4988c" title="SpotKernel::setCrypto" alt="" coords="241,5,392,32"/>
+<area shape="rect" id="node3" href="$classCryptoFront.html#a645a60d7497b3ba6c322f983650a9e7a" title="CryptoFront::reportEncrypted" alt="" coords="221,56,412,83"/>
+<area shape="rect" id="node4" href="$classCryptoFront.html#a9617455616377f0f9c2a4c0e55413f24" title="CryptoFront::reportClear" alt="" coords="235,107,398,133"/>
+<area shape="rect" id="node5" href="$classCryptoFront.html#a5a757dd07e3bd2ef4152a9804501e0c5" title="CryptoFront::changeSource" alt="" coords="225,157,408,184"/>
+</map>

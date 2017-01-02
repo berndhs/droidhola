@@ -1,0 +1,32 @@
+<map id="libs/libSpotOn/Include.win32/sched.h" name="libs/libSpotOn/Include.win32/sched.h">
+<area shape="rect" id="node2" href="$pthread_8h.html" title="libs/libSpotOn/Include.win32\l/pthread.h" alt="" coords="1879,95,2066,136"/>
+<area shape="rect" id="node3" href="$libs_2libSpotOn_2libspoton_8h.html" title="libs/libSpotOn/libspoton.h" alt="" coords="1710,184,1881,211"/>
+<area shape="rect" id="node6" href="$src_2libSpotOn_2libspoton_8h.html" title="src/libSpotOn/libspoton.h" alt="" coords="2066,184,2234,211"/>
+<area shape="rect" id="node4" href="$libspoton_8c.html" title="libs/libSpotOn/libspoton.c" alt="" coords="1530,266,1701,293"/>
+<area shape="rect" id="node5" href="$test_8c.html" title="libs/libSpotOn/test.c" alt="" coords="1725,266,1865,293"/>
+<area shape="rect" id="node7" href="$spot-on_8h.html" title="src/gui/include/spot&#45;on.h" alt="" coords="1889,266,2053,293"/>
+<area shape="rect" id="node29" href="$spot-on-crypt_8cc.html" title="src/Common/spot&#45;on\l&#45;crypt.cc" alt="" coords="2078,259,2222,300"/>
+<area shape="rect" id="node30" href="$spot-on-kernel-a_8cc.html" title="src/Kernel/spot&#45;on\l&#45;kernel&#45;a.cc" alt="" coords="2246,259,2374,300"/>
+<area shape="rect" id="node31" href="$spot-on-neighbor-a_8cc.html" title="src/Kernel/spot&#45;on\l&#45;neighbor&#45;a.cc" alt="" coords="2398,259,2526,300"/>
+<area shape="rect" id="node8" href="$moc__spot-on_8cpp.html" title="moc/moc_spot&#45;on.cpp" alt="" coords="5,355,156,382"/>
+<area shape="rect" id="node9" href="$spot-on-a_8cc.html" title="src/gui/spot&#45;on&#45;a.cc" alt="" coords="180,355,317,382"/>
+<area shape="rect" id="node10" href="$spot-on-b_8cc.html" title="src/gui/spot&#45;on&#45;b.cc" alt="" coords="341,355,479,382"/>
+<area shape="rect" id="node11" href="$spot-on-buzzpage_8cc.html" title="src/gui/spot&#45;on&#45;buzzpage.cc" alt="" coords="503,355,690,382"/>
+<area shape="rect" id="node12" href="$spot-on-c_8cc.html" title="src/gui/spot&#45;on&#45;c.cc" alt="" coords="715,355,852,382"/>
+<area shape="rect" id="node13" href="$spot-on-chatwindow_8cc.html" title="src/gui/spot&#45;on&#45;chatwindow.cc" alt="" coords="876,355,1075,382"/>
+<area shape="rect" id="node14" href="$spot-on-d_8cc.html" title="src/gui/spot&#45;on&#45;d.cc" alt="" coords="1099,355,1236,382"/>
+<area shape="rect" id="node15" href="$spot-on-documentation_8cc.html" title="src/gui/spot&#45;on&#45;documentation.cc" alt="" coords="1260,355,1475,382"/>
+<area shape="rect" id="node16" href="$spot-on-e_8cc.html" title="src/gui/spot&#45;on&#45;e.cc" alt="" coords="1499,355,1636,382"/>
+<area shape="rect" id="node17" href="$spot-on-echo-key-share_8cc.html" title="src/gui/spot&#45;on&#45;echo\l&#45;key&#45;share.cc" alt="" coords="1660,348,1800,389"/>
+<area shape="rect" id="node18" href="$spot-on-f_8cc.html" title="src/gui/spot&#45;on&#45;f.cc" alt="" coords="1824,355,1959,382"/>
+<area shape="rect" id="node19" href="$spot-on-g_8cc.html" title="src/gui/spot&#45;on&#45;g.cc" alt="" coords="1983,355,2120,382"/>
+<area shape="rect" id="node20" href="$spot-on-neighborstatistics_8cc.html" title="src/gui/spot&#45;on&#45;neighborstatistics.cc" alt="" coords="2145,355,2377,382"/>
+<area shape="rect" id="node21" href="$spot-on-pageviewer_8cc.html" title="src/gui/spot&#45;on&#45;pageviewer.cc" alt="" coords="2401,355,2597,382"/>
+<area shape="rect" id="node22" href="$spot-on-rosetta_8cc.html" title="src/gui/spot&#45;on&#45;rosetta.cc" alt="" coords="2622,355,2793,382"/>
+<area shape="rect" id="node23" href="$spot-on-rss_8cc.html" title="src/gui/spot&#45;on&#45;rss.cc" alt="" coords="2817,355,2965,382"/>
+<area shape="rect" id="node24" href="$spot-on-starbeamanalyzer_8cc.html" title="src/gui/spot&#45;on&#45;starbeamanalyzer.cc" alt="" coords="2989,355,3223,382"/>
+<area shape="rect" id="node25" href="$spot-on-tabwidget_8cc.html" title="src/gui/spot&#45;on&#45;tabwidget.cc" alt="" coords="3247,355,3434,382"/>
+<area shape="rect" id="node26" href="$spot-on-urls-search_8cc.html" title="src/gui/spot&#45;on&#45;urls\l&#45;search.cc" alt="" coords="3458,348,3591,389"/>
+<area shape="rect" id="node27" href="$spot-on-urls_8cc.html" title="src/gui/spot&#45;on&#45;urls.cc" alt="" coords="3616,355,3767,382"/>
+<area shape="rect" id="node28" href="$ui__spot-on-controlcenter_8h.html" title="ui/ui_spot&#45;on&#45;controlcenter.h" alt="" coords="3791,355,3978,382"/>
+</map>

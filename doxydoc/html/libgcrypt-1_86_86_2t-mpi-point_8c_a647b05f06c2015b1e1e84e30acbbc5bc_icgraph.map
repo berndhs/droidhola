@@ -1,0 +1,10 @@
+<map id="hex2buffer" name="hex2buffer">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2t-mpi-point_8c.html#a0fcf9d05ba28abe461434d52d99a5d9c" title="hex2mpiopa" alt="" coords="136,28,228,55"/>
+<area shape="rect" id="node3" href="$libgcrypt-1_86_86_2t-mpi-point_8c.html#ad1adb6fc83d723d1124864be9d6e5eff" title="cmp_mpihex" alt="" coords="276,79,372,105"/>
+<area shape="rect" id="node5" href="$libgcrypt-1_86_86_2t-mpi-point_8c.html#a762d94a1f52d072ba43878fe0eb1dbe2" title="context_param" alt="" coords="623,53,731,80"/>
+<area shape="rect" id="node4" href="$libgcrypt-1_86_86_2t-mpi-point_8c.html#a6f2fe579deee2072b08f68f4aea0685b" title="get_and_cmp_mpi" alt="" coords="423,28,551,55"/>
+<area shape="rect" id="node7" href="$libgcrypt-1_86_86_2t-mpi-point_8c.html#a57b6c3c4bf539d9030de4eb0c9ead819" title="get_and_cmp_point" alt="" coords="420,79,555,105"/>
+<area shape="rect" id="node8" href="$libgcrypt-1_86_86_2t-mpi-point_8c.html#a22a83f06f43cfa4ddc26f2183f1e29ac" title="basic_ec_math" alt="" coords="622,129,733,156"/>
+<area shape="rect" id="node9" href="$libgcrypt-1_86_86_2t-mpi-point_8c.html#afcf1b33244921d10aa78bf6fcc18e5a3" title="twistededwards_math" alt="" coords="603,180,752,207"/>
+<area shape="rect" id="node6" href="$libgcrypt-1_86_86_2t-mpi-point_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="800,129,851,156"/>
+</map>

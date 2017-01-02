@@ -1,0 +1,5 @@
+<map id="ECC_public_key" name="ECC_public_key">
+<area shape="rect" id="node2" href="$structelliptic__curve__t.html" title="elliptic_curve_t" alt="" coords="5,245,115,272"/>
+<area shape="rect" id="node3" href="$structgcry__mpi__point.html" title="gcry_mpi_point" alt="" coords="97,140,207,167"/>
+<area shape="rect" id="node4" href="$structgcry__mpi.html" title="gcry_mpi" alt="" coords="56,5,131,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="writen" name="writen">
+<area shape="rect" id="node2" href="$gcryptrnd_8c.html#aa3952df9f941804dcc7970744824e2cc" title="send_error" alt="" coords="119,5,202,32"/>
+<area shape="rect" id="node7" href="$gcryptrnd_8c.html#a87c60527571fa51579664f0cb8401196" title="send_pong" alt="" coords="118,56,203,83"/>
+<area shape="rect" id="node8" href="$gcryptrnd_8c.html#a807fbe387aa237cb34a1ead81323773b" title="send_nonce" alt="" coords="115,107,207,133"/>
+<area shape="rect" id="node9" href="$gcryptrnd_8c.html#a6ea148ee3302df0f8c03ef232add96b5" title="send_random" alt="" coords="111,157,211,184"/>
+<area shape="rect" id="node3" href="$gcryptrnd_8c.html#ab9367128447b6f4ab62f890003a0881a" title="connection_loop" alt="" coords="259,81,375,108"/>
+<area shape="rect" id="node4" href="$gcryptrnd_8c.html#adae09afe92181a42dbafe537c5f15deb" title="connection_thread" alt="" coords="423,81,551,108"/>
+<area shape="rect" id="node5" href="$gcryptrnd_8c.html#a310f9aab67809ead7d822c15500edf19" title="serve" alt="" coords="599,81,653,108"/>
+<area shape="rect" id="node6" href="$gcryptrnd_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="701,81,752,108"/>
+</map>

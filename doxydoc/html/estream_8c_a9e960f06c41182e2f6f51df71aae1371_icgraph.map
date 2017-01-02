@@ -1,0 +1,6 @@
+<map id="func_mem_ioctl" name="func_mem_ioctl">
+<area shape="rect" id="node2" href="$gpgrt-int_8h.html#aa48c2ffe11ccbebfe2051f01f7e1dcd3" title="_gpgrt_fopenmem" alt="" coords="168,31,295,57"/>
+<area shape="rect" id="node3" href="$gpg-error_8h.html#abb60d41b7f24fb2613c7b051056b9f13" title="gpgrt_fopenmem" alt="" coords="359,5,477,32"/>
+<area shape="rect" id="node4" href="$gpgrt-int_8h.html#a26e92ca08d6399b90ebdae69d217bd9a" title="_gpgrt_fopenmem_init" alt="" coords="343,56,493,83"/>
+<area shape="rect" id="node5" href="$gpg-error_8h.html#a775df3a31c17eeaf591661efaf6ea609" title="gpgrt_fopenmem_init" alt="" coords="541,56,684,83"/>
+</map>

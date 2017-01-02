@@ -1,0 +1,12 @@
+<map id="spoton::slotDiscover" name="spoton::slotDiscover">
+<area shape="rect" id="node2" href="$classspoton.html#ac3a39334925898649bf0b40bd3bd4e2f" title="spoton::discoverUrls" alt="" coords="196,85,339,112"/>
+<area shape="rect" id="node3" href="$classspoton__crypt.html#a7382dbdb47b772128ea0f12cb975d959" title="spoton_crypt::keyedHash" alt="" coords="387,56,557,83"/>
+<area shape="rect" id="node7" href="$classspoton.html#a86b4af804661b7a9bcd224ec0cb4c439" title="spoton::showUrls" alt="" coords="410,115,534,141"/>
+<area shape="rect" id="node4" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="681,5,720,32"/>
+<area shape="rect" id="node5" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="626,56,775,83"/>
+<area shape="rect" id="node6" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="844,56,1007,83"/>
+<area shape="rect" id="node8" href="$classspoton__misc.html#a3593ba44de0407d217d2c9ec1e5d2fdc" title="spoton_misc::removeSpecial\lHtmlTags" alt="" coords="605,107,796,149"/>
+<area shape="rect" id="node9" href="$classspoton__misc.html#a72791c218d7f6330e2970d1e20d269b6" title="spoton_misc::urlToEncoded" alt="" coords="609,173,793,200"/>
+<area shape="rect" id="node10" href="$classspoton__textbrowser.html#a4139939a0c62a720c32e89c81bfe7d49" title="spoton_textbrowser\l::setHtml" alt="" coords="633,225,769,266"/>
+<area shape="rect" id="node11" href="$classspoton__textbrowser.html#a5daee4fba79db05478cd28bb68292f28" title="spoton_textbrowser\l::removeSpecial" alt="" coords="857,225,993,266"/>
+</map>

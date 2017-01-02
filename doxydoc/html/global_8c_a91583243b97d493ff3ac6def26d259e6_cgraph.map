@@ -1,0 +1,26 @@
+<map id="_gcry_malloc" name="_gcry_malloc">
+<area shape="rect" id="node2" href="$global_8c.html#acc407e838981c4be278417503f04970d" title="do_malloc" alt="" coords="152,257,233,283"/>
+<area shape="rect" id="node3" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="1227,202,1265,229"/>
+<area shape="rect" id="node4" href="$global_8c.html#a16e8af0a857ae959a2abb3c7e88e02f0" title="get_no_secure_memory" alt="" coords="281,227,443,254"/>
+<area shape="rect" id="node7" href="$stdmem_8c.html#ac463c20b83b6ea6efa607b44776fc606" title="_gcry_private_malloc\l_secure" alt="" coords="289,279,435,320"/>
+<area shape="rect" id="node25" href="$stdmem_8c.html#a9d29d4a97a885d5143a7c147a2da3e86" title="_gcry_private_malloc" alt="" coords="507,485,653,511"/>
+<area shape="rect" id="node5" href="$fips_8c.html#a63eaab0cb53f75634165b2f2f0a4aa1c" title="_gcry_enforced_fips_mode" alt="" coords="491,227,669,254"/>
+<area shape="rect" id="node6" href="$fips_8c.html#a1236caccf2e256cb9e1b60c894a14639" title="_gcry_fips_mode" alt="" coords="735,227,856,254"/>
+<area shape="rect" id="node8" href="$secmem_8c.html#abdbb59492dc322e1ff740e3ec8d321f4" title="_gcry_secmem_malloc" alt="" coords="502,286,658,313"/>
+<area shape="rect" id="node9" href="$secmem_8c.html#a3e20dbb030ed41bfb6e0514f6fea870f" title="_gcry_secmem_malloc\l_internal" alt="" coords="717,279,873,320"/>
+<area shape="rect" id="node10" href="$secmem_8c.html#a2f17aea03113e98d72c25b91f37b3eea" title="secmem_init" alt="" coords="922,379,1018,406"/>
+<area shape="rect" id="node14" href="$common_8h.html#ade762acc676da9bb7e589a8a1ac43424" title="log_info" alt="" coords="1213,278,1279,305"/>
+<area shape="rect" id="node18" href="$secmem_8c.html#a077a89c6e96e241fd8379c375c70395d" title="print_warn" alt="" coords="1067,278,1149,305"/>
+<area shape="rect" id="node19" href="$secmem_8c.html#a2732e63bcc1fcdeaf6c7af965de2a319" title="mb_get_new" alt="" coords="922,101,1018,127"/>
+<area shape="rect" id="node24" href="$secmem_8c.html#a62c3aedcbe5f6e59ec66b111dbbbf22c" title="stats_update" alt="" coords="921,329,1019,355"/>
+<area shape="rect" id="node11" href="$common_8h.html#a3c9f2d4104ed4b54b508cfddf9399512" title="log_fatal" alt="" coords="1211,379,1281,406"/>
+<area shape="rect" id="node12" href="$secmem_8c.html#a74aecb9c8273799e6dc970d10df15389" title="init_pool" alt="" coords="1073,430,1143,457"/>
+<area shape="rect" id="node13" href="$common_8h.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="1210,430,1282,457"/>
+<area shape="rect" id="node16" href="$secmem_8c.html#a92358f41264820618f14f1b067889234" title="lock_pool" alt="" coords="1069,329,1147,355"/>
+<area shape="rect" id="node15" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="1216,506,1276,533"/>
+<area shape="rect" id="node17" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="1223,329,1269,355"/>
+<area shape="rect" id="node20" href="$secmem_8c.html#abfb42716ecfabdb452044d583c878448" title="ptr_into_pool_p" alt="" coords="1488,89,1599,115"/>
+<area shape="rect" id="node21" href="$secmem_8c.html#a096c403ee49b716c145a429b1ad86e46" title="mb_get_next" alt="" coords="1343,50,1440,77"/>
+<area shape="rect" id="node22" href="$secmem_8c.html#a4418f8797afb324a8709a69898712589" title="mb_merge" alt="" coords="1067,75,1149,102"/>
+<area shape="rect" id="node23" href="$secmem_8c.html#a312dfeb5f6e6474f03a8148188d0ec3f" title="mb_get_prev" alt="" coords="1197,25,1295,51"/>
+</map>

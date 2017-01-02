@@ -1,0 +1,9 @@
+<map id="_gcry_rndw32_gather_random" name="_gcry_rndw32_gather_random">
+<area shape="rect" id="node2" href="$common_8h.html#a3c9f2d4104ed4b54b508cfddf9399512" title="log_fatal" alt="" coords="222,5,293,32"/>
+<area shape="rect" id="node3" href="$rndw32_8c.html#a64dc9d4b2f9c4ce47a067a52365a60dd" title="init_system_rng" alt="" coords="200,56,315,83"/>
+<area shape="rect" id="node4" href="$rndw32_8c.html#af59278d1cf80e496efb1fb15c4dcf8f1" title="slow_gatherer" alt="" coords="206,107,309,133"/>
+<area shape="rect" id="node5" href="$rndw32_8c.html#a34e15afd5a6c1f970b083572d67acd3c" title="read_system_rng" alt="" coords="363,31,485,57"/>
+<area shape="rect" id="node6" href="$rndw32_8c.html#a0635cc71c8d3c1e26458383175ad0c0e" title="read_mbm_data" alt="" coords="367,81,481,108"/>
+<area shape="rect" id="node7" href="$common_8h.html#ade762acc676da9bb7e589a8a1ac43424" title="log_info" alt="" coords="533,157,600,184"/>
+<area shape="rect" id="node8" href="$rndw32_8c.html#a67a9a3018fa5e46edf9c0db1fbc8db8d" title="registry_poll" alt="" coords="378,183,470,209"/>
+</map>

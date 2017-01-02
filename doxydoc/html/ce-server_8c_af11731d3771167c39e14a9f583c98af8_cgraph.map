@@ -1,0 +1,10 @@
+<map id="get_connection_fd" name="get_connection_fd">
+<area shape="rect" id="node2" href="$assuan-handler_8c.html#abc32fc5e0b1e87cb15b6468f7d4e564b" title="assuan_get_active_fds" alt="" coords="181,85,337,112"/>
+<area shape="rect" id="node9" href="$common_8h.html#a3c9f2d4104ed4b54b508cfddf9399512" title="log_fatal" alt="" coords="224,136,295,163"/>
+<area shape="rect" id="node3" href="$assuan-buffer_8c.html#a779405b25e51e9ab3046145e41c10391" title="_assuan_cookie_write_data" alt="" coords="385,85,568,112"/>
+<area shape="rect" id="node4" href="$assuan-defs_8h.html#a518a1a86f7a4a3de2ce86b5224c1b719" title="_assuan_log_control\l_channel" alt="" coords="616,49,757,90"/>
+<area shape="rect" id="node8" href="$assuan-buffer_8c.html#acc38c2a15fe91203296a760a733ff9ec" title="writen" alt="" coords="658,115,715,141"/>
+<area shape="rect" id="node5" href="$isascii_8c.html#ae084717e294e2e19fb1827a2f6c5f036" title="isascii" alt="" coords="806,5,865,32"/>
+<area shape="rect" id="node6" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="805,56,865,83"/>
+<area shape="rect" id="node7" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="813,107,857,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="out_of_core" name="out_of_core">
+<area shape="rect" id="node2" href="$util_8h.html#aed0810550d687ddfe5824e73b9937aa6" title="_ksba_xmalloc" alt="" coords="144,5,253,32"/>
+<area shape="rect" id="node3" href="$util_8h.html#aaaede2a97434deac054d090d67cfbfb3" title="_ksba_xcalloc" alt="" coords="146,56,251,83"/>
+<area shape="rect" id="node4" href="$util_8h.html#aec6b70dedf5602b8f48198390d64fbaa" title="_ksba_xrealloc" alt="" coords="144,107,253,133"/>
+<area shape="rect" id="node5" href="$util_8h.html#a6a3876ad35dabc75570f3e1cbc9eea97" title="_ksba_xstrdup" alt="" coords="145,157,252,184"/>
+</map>

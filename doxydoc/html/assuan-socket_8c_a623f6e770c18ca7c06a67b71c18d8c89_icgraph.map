@@ -1,0 +1,7 @@
+<map id="_assuan_sock_check_nonce" name="_assuan_sock_check_nonce">
+<area shape="rect" id="node2" href="$assuan-socket-server_8c.html#af7ecb86e84a6f1e9db7feeb9a3ad52a9" title="accept_connection" alt="" coords="227,13,358,39"/>
+<area shape="rect" id="node6" href="$assuan-socket_8c.html#ad6d9e688f1e7c6040b369a4485329634" title="assuan_sock_check_nonce" alt="" coords="201,63,384,90"/>
+<area shape="rect" id="node3" href="$assuan-socket-server_8c.html#a3ddd2ec1e14c59aede6a1e3f24302692" title="assuan_init_socket\l_server" alt="" coords="432,5,567,47"/>
+<area shape="rect" id="node4" href="$ce-server_8c.html#ad18fdc3df8fad95296a014ea46567b4b" title="server" alt="" coords="615,13,673,39"/>
+<area shape="rect" id="node5" href="$ce-server_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="721,13,772,39"/>
+</map>

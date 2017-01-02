@@ -1,0 +1,26 @@
+<map id="cipher_encrypt" name="cipher_encrypt">
+<area shape="rect" id="node2" href="$cipher_8c.html#a4f506416f1376bf71f4e14d61bd92067" title="do_ecb_encrypt" alt="" coords="192,27,307,53"/>
+<area shape="rect" id="node4" href="$cipher-cbc_8c.html#af5a9ff240a7ee99794e00fc6a9ee59fa" title="_gcry_cipher_cbc_encrypt" alt="" coords="387,157,561,184"/>
+<area shape="rect" id="node7" href="$cipher-cfb_8c.html#ae5323b6190e04044b4d26d7d6d7939ef" title="_gcry_cipher_cfb_encrypt" alt="" coords="164,99,335,125"/>
+<area shape="rect" id="node9" href="$cipher-internal_8h.html#afb10e48d827935fd8d14a692d99c09ae" title="_gcry_cipher_ofb_encrypt" alt="" coords="164,267,335,293"/>
+<area shape="rect" id="node10" href="$cipher-ctr_8c.html#ad631aad6c05f5b01e0d0f5e6e6beb28b" title="_gcry_cipher_ctr_encrypt" alt="" coords="390,368,558,395"/>
+<area shape="rect" id="node11" href="$cipher-aeswrap_8c.html#a5d1adb7893113d5068bce68b1687ad83" title="_gcry_cipher_aeswrap\l_encrypt" alt="" coords="173,201,325,242"/>
+<area shape="rect" id="node12" href="$cipher-ccm_8c.html#a8b1520703ad92fd6f3ef12e0332655a7" title="_gcry_cipher_ccm_encrypt" alt="" coords="160,317,339,344"/>
+<area shape="rect" id="node14" href="$cipher-gcm_8c.html#a332ae8b6e6f1f32168543158391b75b9" title="_gcry_cipher_gcm_encrypt" alt="" coords="160,419,339,445"/>
+<area shape="rect" id="node24" href="$g10lib_8h.html#a3ebff31c87e3192ea108328f1361dff8" title="_gcry_get_debug_flag" alt="" coords="175,469,324,496"/>
+<area shape="rect" id="node25" href="$common_8h.html#a3c9f2d4104ed4b54b508cfddf9399512" title="log_fatal" alt="" coords="214,520,285,547"/>
+<area shape="rect" id="node3" href="$cipher_8c.html#ac2a3a19023aa8ec43814fb45e6a93f8e" title="do_ecb_crypt" alt="" coords="424,5,524,32"/>
+<area shape="rect" id="node5" href="$bufhelp_8h.html#a30056825097495177fbe6cb0e36391ec" title="buf_xor" alt="" coords="658,204,723,231"/>
+<area shape="rect" id="node6" href="$bufhelp_8h.html#a11b1eae9014d477a7ad42a7bb4931d0f" title="buf_cpy" alt="" coords="1020,255,1088,281"/>
+<area shape="rect" id="node8" href="$bufhelp_8h.html#aea16329dc60d338b17bd1f9f129ee71f" title="buf_xor_2dst" alt="" coords="425,107,523,133"/>
+<area shape="rect" id="node13" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="451,317,497,344"/>
+<area shape="rect" id="node15" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="455,621,493,648"/>
+<area shape="rect" id="node16" href="$cipher-gcm_8c.html#a77e5a14a9c0df4a907ef9d08609f5838" title="_gcry_cipher_gcm_setiv" alt="" coords="393,419,555,445"/>
+<area shape="rect" id="node18" href="$cipher-gcm_8c.html#a157e728cb2158a31653070a22acebecf" title="gcm_bytecounter_add" alt="" coords="821,473,971,500"/>
+<area shape="rect" id="node20" href="$cipher-gcm_8c.html#a91b664c92503626e9468a222cfefff47" title="do_ghash_buf" alt="" coords="845,524,947,551"/>
+<area shape="rect" id="node23" href="$cipher-gcm_8c.html#a95f9526e110ef96193e6dda069b7e43c" title="gcm_check_datalen" alt="" coords="405,571,543,597"/>
+<area shape="rect" id="node17" href="$cipher-gcm_8c.html#acc95188e5fb8f1f4ab3cfa6ef7404a81" title="_gcry_cipher_gcm_initiv" alt="" coords="609,419,772,445"/>
+<area shape="rect" id="node19" href="$cipher-gcm_8c.html#ad2484ed9668fdbcbc3493265b17cbb87" title="gcm_check_aadlen_or\l_ivlen" alt="" coords="820,357,972,398"/>
+<area shape="rect" id="node22" href="$cipher-gcm_8c.html#a21ffd48e43f1c5ce44c48e60b1038c8d" title="gcm_add32_be128" alt="" coords="831,423,961,449"/>
+<area shape="rect" id="node21" href="$cipher-gcm_8c.html#a826bbcbaaf9332e21ddb1892f0a76b29" title="ghash" alt="" coords="1025,524,1083,551"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="spoton_misc::alterDatabasesAfterAuthentication" name="spoton_misc::alterDatabasesAfterAuthentication">
+<area shape="rect" id="node2" href="$classspoton.html#a076aafec8a919d153580364478b0a3a5" title="spoton::slotValidatePassphrase" alt="" coords="245,5,452,32"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#a3c16c90e1d63cd2abbe9d9b932ce108b" title="spoton_kernel::initialize\lSecurityContainers" alt="" coords="269,57,428,98"/>
+<area shape="rect" id="node3" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="521,5,629,32"/>
+<area shape="rect" id="node5" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="500,57,651,98"/>
+</map>

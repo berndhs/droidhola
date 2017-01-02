@@ -1,0 +1,7 @@
+<map id="get_lock_object" name="get_lock_object">
+<area shape="rect" id="node2" href="$posix-lock_8c.html#a4df8b593c065b52df9e392ac3bf88d5f" title="_gpgrt_lock_init" alt="" coords="179,5,293,32"/>
+<area shape="rect" id="node3" href="$posix-lock_8c.html#a0f00a284f65b08c64de0b534e3ea61d6" title="_gpgrt_lock_lock" alt="" coords="176,56,296,83"/>
+<area shape="rect" id="node4" href="$posix-lock_8c.html#a9bbac6fc5956c54dd548e86fded2ddad" title="_gpgrt_lock_trylock" alt="" coords="169,107,303,133"/>
+<area shape="rect" id="node5" href="$posix-lock_8c.html#af316909a57a745e15858f6ccbc67bf9f" title="_gpgrt_lock_unlock" alt="" coords="169,157,303,184"/>
+<area shape="rect" id="node6" href="$posix-lock_8c.html#a3daecb0e9c7ebdf088e1b321d26a2f32" title="_gpgrt_lock_destroy" alt="" coords="167,208,305,235"/>
+</map>

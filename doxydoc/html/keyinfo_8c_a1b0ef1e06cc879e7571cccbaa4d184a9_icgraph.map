@@ -1,0 +1,27 @@
+<map id="get_algorithm" name="get_algorithm">
+<area shape="rect" id="node2" href="$keyinfo_8h.html#ab0cbe1a8f75e2311151f2f2cfe604370" title="_ksba_parse_algorithm\l_identifier2" alt="" coords="155,203,311,244"/>
+<area shape="rect" id="node16" href="$keyinfo_8h.html#a429c0e6fee8b634ad981c0a10a291fbf" title="_ksba_keyinfo_to_sexp" alt="" coords="153,318,312,345"/>
+<area shape="rect" id="node20" href="$keyinfo_8c.html#a53bf85dc0136a1b898fb62d9d9c6b024" title="cryptval_to_sexp" alt="" coords="172,390,293,417"/>
+<area shape="rect" id="node3" href="$cms-parser_8c.html#a3766d7e99ced8dbd4267aa85e1434403" title="parse_encrypted_content_info" alt="" coords="360,183,556,210"/>
+<area shape="rect" id="node6" href="$crl_8c.html#a5a0205b79ec2595874371d2af97fc0b2" title="parse_to_next_update" alt="" coords="383,237,533,263"/>
+<area shape="rect" id="node8" href="$keyinfo_8h.html#ad33876c87b80b0a1ac0e7b2e61038136" title="_ksba_parse_algorithm\l_identifier" alt="" coords="380,113,536,155"/>
+<area shape="rect" id="node4" href="$cms_8h.html#ac6764bf8794049c245d766f90111f682" title="_ksba_cms_parse_enveloped\l_data_part_1" alt="" coords="604,173,799,215"/>
+<area shape="rect" id="node5" href="$cms_8c.html#aeff3eeb11efcb7befd5f4af71d7b0eba" title="ct_parse_enveloped_data" alt="" coords="847,181,1017,207"/>
+<area shape="rect" id="node7" href="$ksba_8h.html#a408d4cde4c8f703f4300cb623b679d54" title="ksba_crl_parse" alt="" coords="877,341,987,367"/>
+<area shape="rect" id="node9" href="$ksba_8h.html#a3248278f2307273c7b8da133d612bbeb" title="ksba_cert_get_digest_algo" alt="" coords="613,122,790,149"/>
+<area shape="rect" id="node10" href="$cms_8h.html#aa1b10dc676f405c2976449204c155f79" title="_ksba_cms_parse_signed\l_data_part_1" alt="" coords="615,5,788,47"/>
+<area shape="rect" id="node12" href="$ocsp_8c.html#a4a60d01a1e7b09d0c5d064d9de2aa44b" title="parse_single_response" alt="" coords="624,71,779,98"/>
+<area shape="rect" id="node11" href="$cms_8c.html#ab5ba975e6b511ad72a61b159ef72dd78" title="ct_parse_signed_data" alt="" coords="857,13,1007,39"/>
+<area shape="rect" id="node13" href="$ocsp_8c.html#a856eb0bd5aca2c4723bd93e2d7f55013" title="parse_response_data" alt="" coords="859,101,1005,127"/>
+<area shape="rect" id="node14" href="$ocsp_8c.html#a0b6a948f763285828a1cf2a72134804b" title="parse_response" alt="" coords="1065,297,1180,323"/>
+<area shape="rect" id="node15" href="$ocsp_8c.html#af9f953d2e2b62ec43eafaec144018804" title="ksba_ocsp_parse_response" alt="" coords="1228,297,1412,323"/>
+<area shape="rect" id="node17" href="$ksba_8h.html#af6443af393795be2576ed96518de9c81" title="ksba_cert_get_public_key" alt="" coords="371,339,545,366"/>
+<area shape="rect" id="node18" href="$cert-basic_8c.html#aeca39edd4d78b7fe77c80e1a7b2db586" title="one_file" alt="" coords="425,289,491,315"/>
+<area shape="rect" id="node19" href="$cert-basic_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="676,290,727,317"/>
+<area shape="rect" id="node21" href="$keyinfo_8h.html#a5e2d910fbf1a2234eafc82a166684202" title="_ksba_sigval_to_sexp" alt="" coords="383,442,533,469"/>
+<area shape="rect" id="node25" href="$keyinfo_8h.html#ac35bfbb197d9399af9cdd9261e04daf4" title="_ksba_encval_to_sexp" alt="" coords="381,390,535,417"/>
+<area shape="rect" id="node22" href="$ksba_8h.html#ae63b663c3150a1a7cd4b2221c0e641ff" title="ksba_cert_get_sig_val" alt="" coords="625,543,777,570"/>
+<area shape="rect" id="node23" href="$ksba_8h.html#af17f0fa4727da979c7e6e41b48861a9d" title="ksba_cms_get_sig_val" alt="" coords="624,391,779,418"/>
+<area shape="rect" id="node24" href="$crl_8c.html#aef373e4da143b5235f55c97815f99cf3" title="parse_signature" alt="" coords="644,442,759,469"/>
+<area shape="rect" id="node26" href="$ksba_8h.html#a0f0b2a30c3ddb7cff83a0cc0840e73a7" title="ksba_cms_get_enc_val" alt="" coords="622,341,781,367"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="GPG_IOControl" name="GPG_IOControl">
+<area shape="rect" id="node2" href="$gpgcedev_8c.html#a8718ac859ad1ebc9deeff94544660b35" title="log_debug" alt="" coords="692,107,773,133"/>
+<area shape="rect" id="node3" href="$gpgcedev_8c.html#a334b5843050815a4fffe945727013555" title="verify_opnctx" alt="" coords="193,183,293,209"/>
+<area shape="rect" id="node4" href="$gpgcedev_8c.html#ae40acd217b5fd2a7baa4bfd18b1023d5" title="create_rendezvous_id" alt="" coords="168,233,317,260"/>
+<area shape="rect" id="node5" href="$gpgcedev_8c.html#a65eb0ea691413f0748577258483733bc" title="make_pipe" alt="" coords="200,81,285,108"/>
+<area shape="rect" id="node10" href="$gpgcedev_8c.html#a372ba32ce6733e72adebbaa68b5fc25b" title="unblock_call" alt="" coords="195,284,290,311"/>
+<area shape="rect" id="node11" href="$gpgcedev_8c.html#a36285ccec2fd575dd6bd5b3a78c36029" title="assign_rvid" alt="" coords="199,132,287,159"/>
+<area shape="rect" id="node6" href="$gpgcedev_8c.html#a6085db8f1f0bec8dba34283d6481d6d9" title="assert_pipeimpl" alt="" coords="365,81,479,108"/>
+<area shape="rect" id="node7" href="$gpgcedev_8c.html#abc1ef04571ed6cbff59d593b34f9ac16" title="pipeimpl_new" alt="" coords="535,233,636,260"/>
+<area shape="rect" id="node8" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="703,233,763,260"/>
+<area shape="rect" id="node9" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="711,284,755,311"/>
+<area shape="rect" id="node12" href="$gpgcedev_8c.html#a1e1aab238d9cf37a7e39376df0d43495" title="allocate_monitor" alt="" coords="527,335,644,361"/>
+<area shape="rect" id="node13" href="$gpgcedev_8c.html#a081308c174a8a5dede8cd92625899723" title="monitor_main" alt="" coords="372,183,472,209"/>
+<area shape="rect" id="node14" href="$gpgcedev_8c.html#a58a110fef2be438e0b7d0253dd73ed49" title="pipeimpl_unref" alt="" coords="532,284,639,311"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="spoton::slotShowNotificationsWindow" name="spoton::slotShowNotificationsWindow">
+<area shape="rect" id="node2" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="900,17,1008,43"/>
+<area shape="rect" id="node3" href="$classspoton.html#a4f331bc119ec03e46f7e4ccceb2b99ba" title="spoton::notify" alt="" coords="249,38,351,65"/>
+<area shape="rect" id="node4" href="$classspoton.html#abef49f33ed23b27ff9d9474063c65886" title="spoton::slotReceivedKernel\lMessage" alt="" coords="669,39,852,80"/>
+<area shape="rect" id="node5" href="$classspoton.html#adc0ccb43881c11bf42266ac3659a8381" title="spoton::forwardSecrecyRequested" alt="" coords="399,89,621,115"/>
+</map>

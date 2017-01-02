@@ -1,0 +1,11 @@
+<map id="spoton_encryptfile_page::slotCancel" name="spoton_encryptfile_page::slotCancel">
+<area shape="rect" id="node2" href="$classspoton__encryptfile__page.html#af4da173469d5acb813999609420e90f9" title="spoton_encryptfile\l_page::spoton_encryptfile_page" alt="" coords="181,5,388,47"/>
+<area shape="rect" id="node3" href="$classspoton__encryptfile__page.html#aa483b1463af630e29dc3ed58c610e0c9" title="spoton_encryptfile\l_page::abort" alt="" coords="221,71,349,112"/>
+<area shape="rect" id="node4" href="$classspoton__encryptfile.html#a9c23f395a5836dcbf5f2c10f03d57177" title="spoton_encryptfile\l::abort" alt="" coords="436,37,564,79"/>
+<area shape="rect" id="node9" href="$classspoton__encryptfile.html#a4b927ce04818281a9243987e56cb6bf0" title="spoton_encryptfile\l::slotCloseTab" alt="" coords="436,103,564,144"/>
+<area shape="rect" id="node5" href="$classspoton.html#ab5df0a05e3cbaa08ce1ad82814309594" title="spoton::cleanup" alt="" coords="623,45,737,71"/>
+<area shape="rect" id="node6" href="$classspoton.html#ab1b3c35183f964bfb4edc128595a50b5" title="spoton::slotQuit" alt="" coords="796,45,911,71"/>
+<area shape="rect" id="node7" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="972,19,1080,46"/>
+<area shape="rect" id="node8" href="$classspoton.html#a87daa72e12c64a1015b4e1a5c11ae632" title="spoton::closeEvent" alt="" coords="959,70,1093,97"/>
+<area shape="rect" id="node10" href="$classspoton__encryptfile.html#aaa7243e3236251d15a526e8964a19d6b" title="spoton_encryptfile\l::spoton_encryptfile" alt="" coords="612,103,748,144"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="gcry_mpi_snatch" name="gcry_mpi_snatch">
+<area shape="rect" id="node2" href="$mpiutil_8c.html#a91e782f676861e12ba9c2c16e58e301b" title="_gcry_mpi_snatch" alt="" coords="175,42,303,69"/>
+<area shape="rect" id="node3" href="$mpiutil_8c.html#a501ebb9f4877f5ba80055454d1fd91c9" title="_gcry_mpi_assign_limb\l_space" alt="" coords="351,5,509,47"/>
+<area shape="rect" id="node5" href="$mpiutil_8c.html#a97bf589d77bdb67a65126279a0bb9800" title="_gcry_mpi_free" alt="" coords="375,71,485,98"/>
+<area shape="rect" id="node4" href="$mpiutil_8c.html#a57f1c9a6c9b85748e0dc46300207a5ae" title="_gcry_mpi_free_limb\l_space" alt="" coords="557,35,700,76"/>
+</map>

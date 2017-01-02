@@ -1,0 +1,7 @@
+<map id="run_dsa_verify" name="run_dsa_verify">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="363,5,401,32"/>
+<area shape="rect" id="node3" href="$fipsdrv_8c.html#aa77cc587dc65b9282085c7403a84ae8e" title="die" alt="" coords="363,107,401,133"/>
+<area shape="rect" id="node4" href="$fipsdrv_8c.html#a8c88451aea79ac0975389913ddfca267" title="read_sexp_from_file" alt="" coords="160,56,299,83"/>
+<area shape="rect" id="node6" href="$gpg-error_8h.html#ae9aa174cb4e6c638dcfa58942b79ed2d" title="gpg_err_code" alt="" coords="179,157,279,184"/>
+<area shape="rect" id="node5" href="$fipsdrv_8c.html#a52b26abc2e1760c8746dd58d67a251e2" title="read_file" alt="" coords="347,56,417,83"/>
+</map>

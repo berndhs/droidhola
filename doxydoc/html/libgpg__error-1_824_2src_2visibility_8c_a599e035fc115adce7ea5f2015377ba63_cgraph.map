@@ -1,0 +1,7 @@
+<map id="gpgrt_flockfile" name="gpgrt_flockfile">
+<area shape="rect" id="node2" href="$estream_8c.html#ab9dd38828d30d306ce6dd35d6ec86810" title="_gpgrt_flockfile" alt="" coords="156,31,267,57"/>
+<area shape="rect" id="node3" href="$estream_8c.html#acd9ff6d045750599e5fe365810cabe2a" title="lock_stream" alt="" coords="315,31,408,57"/>
+<area shape="rect" id="node4" href="$gpgrt-int_8h.html#a0f00a284f65b08c64de0b534e3ea61d6" title="_gpgrt_lock_lock" alt="" coords="456,31,576,57"/>
+<area shape="rect" id="node5" href="$posix-lock_8c.html#a29941b915cdd80d606a9565926aa4c42" title="get_lock_object" alt="" coords="637,5,750,32"/>
+<area shape="rect" id="node6" href="$pthread_8h.html#aef3f55cad288fdbc9c39bff9d668de1e" title="pthread_mutex_lock" alt="" coords="624,56,763,83"/>
+</map>

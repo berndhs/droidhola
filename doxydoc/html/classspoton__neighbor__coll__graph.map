@@ -1,0 +1,6 @@
+<map id="spoton_neighbor" name="spoton_neighbor">
+<area shape="rect" id="node3" href="$classspoton__neighbor__udp__socket.html" title="spoton_neighbor_udp\l_socket" alt="" coords="240,57,385,98"/>
+<area shape="rect" id="node5" href="$classspoton__neighbor__tcp__socket.html" title="spoton_neighbor_tcp\l_socket" alt="" coords="241,122,384,163"/>
+<area shape="rect" id="node7" href="$classspoton__external__address.html" title="spoton_external_address" alt="" coords="229,188,396,215"/>
+<area shape="rect" id="node9" href="$classspoton__sctp__socket.html" title="spoton_sctp_socket" alt="" coords="243,239,382,265"/>
+</map>

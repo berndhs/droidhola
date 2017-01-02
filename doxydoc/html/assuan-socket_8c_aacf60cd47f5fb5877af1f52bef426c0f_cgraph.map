@@ -1,0 +1,13 @@
+<map id="_assuan_sock_connect_byname" name="_assuan_sock_connect_byname">
+<area shape="rect" id="node2" href="$assuan-socket_8c.html#a11b2229f4f7a8b3f3e1557efa7209af1" title="_assuan_sock_new" alt="" coords="212,31,349,57"/>
+<area shape="rect" id="node4" href="$assuan-socket_8c.html#af314dc73a81f7da3afd05870fbf746d8" title="socks5_connect" alt="" coords="222,107,339,133"/>
+<area shape="rect" id="node11" href="$assuan-socket_8c.html#a7cb7cd778519212090f4ba12ef5dcc24" title="assuan_sock_close" alt="" coords="212,183,349,209"/>
+<area shape="rect" id="node3" href="$assuan-defs_8h.html#a5e48752c4bfe0b26775e6a43076cb729" title="_assuan_socket" alt="" coords="401,5,518,32"/>
+<area shape="rect" id="node5" href="$assuan-defs_8h.html#aa6a043c33b5ca4fe09258144033717d1" title="_assuan_connect" alt="" coords="397,56,521,83"/>
+<area shape="rect" id="node6" href="$assuan-socket_8c.html#aaf893c3699d6f3b55634e88c9b6e4863" title="do_writen" alt="" coords="420,107,499,133"/>
+<area shape="rect" id="node8" href="$assuan-socket_8c.html#a991b88657272abf37dda9ec95534e4c9" title="do_readn" alt="" coords="422,157,497,184"/>
+<area shape="rect" id="node7" href="$assuan-defs_8h.html#a53b73bdf3bec3f3d3fd18a7e33d30f4f" title="_assuan_write" alt="" coords="574,107,681,133"/>
+<area shape="rect" id="node9" href="$assuan-defs_8h.html#a894b3af80800b086e743f3e602979170" title="_assuan_read" alt="" coords="576,157,679,184"/>
+<area shape="rect" id="node10" href="$assuan-defs_8h.html#a8db7e3e3ab358d92878da49d2873aaa7" title="_assuan_usleep" alt="" coords="569,208,685,235"/>
+<area shape="rect" id="node12" href="$assuan-defs_8h.html#a9a2ee339914002c6d4e8b434ea997227" title="_assuan_close" alt="" coords="405,208,514,235"/>
+</map>

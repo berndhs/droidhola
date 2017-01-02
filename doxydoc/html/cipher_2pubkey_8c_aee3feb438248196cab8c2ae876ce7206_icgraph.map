@@ -1,0 +1,30 @@
+<map id="map_algo" name="map_algo">
+<area shape="rect" id="node2" href="$cipher_2pubkey_8c.html#a9e838575e9f3bd61a4059565187a97e8" title="spec_from_algo" alt="" coords="146,259,261,285"/>
+<area shape="rect" id="node27" href="$cipher-proto_8h.html#a0c05271e260baa0e2f6beb1f3d99a90b" title="_gcry_pk_selftest" alt="" coords="333,56,458,83"/>
+<area shape="rect" id="node28" href="$gcrypt-int_8h.html#a6763d48cd8975faf95eb55f25d4252a5" title="_gcry_pk_get_param" alt="" coords="132,411,275,437"/>
+<area shape="rect" id="node3" href="$cipher_2pubkey_8c.html#af2e03c08438113fe2e39b72d41970a7b" title="disable_pubkey_algo" alt="" coords="324,107,467,133"/>
+<area shape="rect" id="node6" href="$gcrypt-int_8h.html#a99b3913d16b1ada159d671567fe27cbb" title="_gcry_pk_algo_name" alt="" coords="323,157,468,184"/>
+<area shape="rect" id="node20" href="$cipher_2pubkey_8c.html#a168299539f7d57fee6857a06bcf3e95f" title="check_pubkey_algo" alt="" coords="327,259,464,285"/>
+<area shape="rect" id="node21" href="$gcrypt-int_8h.html#ab39b7a53dcc786dbe30f863799afdd2a" title="_gcry_pk_algo_info" alt="" coords="518,360,653,387"/>
+<area shape="rect" id="node23" href="$cipher_2pubkey_8c.html#a326c6fff3c89dd8c5ff3aab471b61e55" title="pubkey_get_npkey" alt="" coords="330,309,461,336"/>
+<area shape="rect" id="node24" href="$cipher_2pubkey_8c.html#afb318d5042dd7bc45f706ddf4a2a3446" title="pubkey_get_nskey" alt="" coords="330,360,461,387"/>
+<area shape="rect" id="node25" href="$cipher_2pubkey_8c.html#a210aea0544ef6ae993150cf81d6539c9" title="pubkey_get_nsig" alt="" coords="335,411,455,437"/>
+<area shape="rect" id="node26" href="$cipher_2pubkey_8c.html#a19d9af3a8cb1728c78537252171a054e" title="pubkey_get_nenc" alt="" coords="333,461,457,488"/>
+<area shape="rect" id="node4" href="$gcrypt-int_8h.html#af5c07ab315f563e8774186b6231a4ae2" title="_gcry_pk_ctl" alt="" coords="537,95,633,121"/>
+<area shape="rect" id="node5" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a38b50bf17d2bc7b7a1dce8331dc1aac8" title="gcry_pk_ctl" alt="" coords="734,56,823,83"/>
+<area shape="rect" id="node7" href="$fips_8c.html#a1e6b9aa9ab163154ffa9262b929fbc54" title="reporter" alt="" coords="552,157,619,184"/>
+<area shape="rect" id="node19" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a2045cb5d09884371da81fa49a9c21cfb" title="gcry_pk_algo_name" alt="" coords="516,208,655,235"/>
+<area shape="rect" id="node8" href="$fips_8c.html#afd14c47a4ac75c871a88454a2a1103f9" title="run_cipher_selftests" alt="" coords="709,309,848,336"/>
+<area shape="rect" id="node14" href="$fips_8c.html#a9208cb23479070795efc33b087298efc" title="run_digest_selftests" alt="" coords="709,107,848,133"/>
+<area shape="rect" id="node15" href="$fips_8c.html#aaf632c5775351419fe7dcb840905e875" title="run_hmac_selftests" alt="" coords="711,157,847,184"/>
+<area shape="rect" id="node16" href="$fips_8c.html#a4cc61f7f4abe429fbb6e2668b23ea1d2" title="run_pubkey_selftests" alt="" coords="705,5,852,32"/>
+<area shape="rect" id="node17" href="$fips_8c.html#a6d3efcbe0d8aa5c172873fb628897505" title="run_random_selftests" alt="" coords="705,208,852,235"/>
+<area shape="rect" id="node18" href="$fips_8c.html#a017200f9886b076967965736be0c562a" title="check_binary_integrity" alt="" coords="703,259,855,285"/>
+<area shape="rect" id="node9" href="$g10lib_8h.html#a10a09a1883ee96a71fcccfef32771903" title="_gcry_fips_run_selftests" alt="" coords="903,183,1067,209"/>
+<area shape="rect" id="node10" href="$g10lib_8h.html#ac9f86a44740c18904d8eedba9a9f523e" title="_gcry_fips_is_operational" alt="" coords="1115,157,1284,184"/>
+<area shape="rect" id="node12" href="$global_8c.html#a197de31474f305a294a7555b4ed6f26f" title="_gcry_vcontrol" alt="" coords="1370,208,1477,235"/>
+<area shape="rect" id="node11" href="$global_8c.html#afb83fe45590e215b1a758b86076369a7" title="_gcry_global_is_operational" alt="" coords="1332,157,1515,184"/>
+<area shape="rect" id="node13" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a1880c4ce4c093ba2ea4a775ecf26ca29" title="gcry_control" alt="" coords="1563,208,1656,235"/>
+<area shape="rect" id="node22" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#ad0dafc67920eac160a42d6d719a5ea5d" title="gcry_pk_algo_info" alt="" coords="715,360,842,387"/>
+<area shape="rect" id="node29" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a8c19de03e7d51f38f6bddcf21448eb0e" title="gcry_pk_get_param" alt="" coords="327,512,463,539"/>
+</map>

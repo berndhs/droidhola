@@ -1,0 +1,9 @@
+<map id="spoton::slotCopyAllMyPublicKeys" name="spoton::slotCopyAllMyPublicKeys">
+<area shape="rect" id="node2" href="$classspoton.html#ac62d0423298fa160d08075481e69543a" title="spoton::copyMyChatPublicKey" alt="" coords="287,5,489,32"/>
+<area shape="rect" id="node3" href="$classspoton.html#a1b396b1b186c7c056141b4b3ec23b2da" title="spoton::copyMyEmailPublicKey" alt="" coords="285,56,491,83"/>
+<area shape="rect" id="node4" href="$classspoton.html#a95e37024dd76d5e8224464a1ff914e6f" title="spoton::copyMyOpenLibrary\lPublicKey" alt="" coords="295,107,481,149"/>
+<area shape="rect" id="node5" href="$classspoton.html#a11ea432302c380f77ab6235f851d3ba8" title="spoton::copyMyPoptasticPublicKey" alt="" coords="273,173,503,200"/>
+<area shape="rect" id="node7" href="$classspoton.html#a8e1b56d5b7d49c35ef3fcfa7b46fe48e" title="spoton::copyMyRosettaPublicKey" alt="" coords="278,224,498,251"/>
+<area shape="rect" id="node8" href="$classspoton.html#a036d9c49eb561ce8a6a0452e6e0df6a5" title="spoton::copyMyUrlPublicKey" alt="" coords="293,275,483,301"/>
+<area shape="rect" id="node6" href="$classspoton.html#aa50d63c980cf5d99295a72e6e6707a7c" title="spoton::poptasticName" alt="" coords="551,173,708,200"/>
+</map>

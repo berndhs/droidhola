@@ -1,0 +1,18 @@
+<map id="_gcry_mpi_alloc" name="_gcry_mpi_alloc">
+<area shape="rect" id="node2" href="$gcrypt-int_8h.html#a95ece4e01c87e97e4897fa0f2435121f" title="_gcry_mpi_set" alt="" coords="178,5,285,32"/>
+<area shape="rect" id="node4" href="$gcrypt-int_8h.html#a25cfbefa2b607783f9bc626af134a830" title="_gcry_mpi_set_ui" alt="" coords="169,56,293,83"/>
+<area shape="rect" id="node6" href="$mpi_8h.html#aac380243effee2cef8e02d22bfaeb70c" title="_gcry_mpi_new" alt="" coords="175,107,288,133"/>
+<area shape="rect" id="node3" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a8b2491f7e713cbec8ccce150b3913a91" title="gcry_mpi_set" alt="" coords="363,5,463,32"/>
+<area shape="rect" id="node5" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a60dde941452e78152b118f357fb0a629" title="gcry_mpi_set_ui" alt="" coords="354,56,471,83"/>
+<area shape="rect" id="node7" href="$sexp_8c.html#af33374155307ca9e8d97c69e0a45ba85" title="_gcry_sexp_nth_mpi" alt="" coords="341,107,484,133"/>
+<area shape="rect" id="node17" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#ac9c183c0af0c51360383422c3231fd60" title="gcry_mpi_new" alt="" coords="359,157,466,184"/>
+<area shape="rect" id="node8" href="$gcrypt-int_8h.html#aaadbe18f6ec9f5e67cb7c415632c2945" title="_gcry_error_from_errno" alt="" coords="943,48,1099,75"/>
+<area shape="rect" id="node10" href="$sexp_8c.html#a40784f5fd33e2f2f2593c27da2bd223d" title="_gcry_sexp_vextract\l_param" alt="" coords="532,99,675,141"/>
+<area shape="rect" id="node16" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#af5abc45a9786bba70cad72c9ae24bdf1" title="gcry_sexp_nth_mpi" alt="" coords="536,165,671,192"/>
+<area shape="rect" id="node9" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#aa654f0427b89caf954e9e5bd456be6b3" title="gcry_error_from_errno" alt="" coords="1147,48,1296,75"/>
+<area shape="rect" id="node11" href="$sexp_8c.html#aba9614829d23156a9e84e22dafa8e513" title="_gcry_sexp_extract\l_param" alt="" coords="741,99,877,141"/>
+<area shape="rect" id="node15" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#afdcb5af0e9d29197e79642825382b44c" title="gcry_sexp_extract_param" alt="" coords="723,165,895,192"/>
+<area shape="rect" id="node12" href="$dsa_8c.html#a5f2fd648032b025633772d18e29136eb" title="dsa_check_secret_key" alt="" coords="943,99,1099,125"/>
+<area shape="rect" id="node13" href="$dsa_8c.html#a92df06c995f05b0bf50f364e4e82c78b" title="dsa_sign" alt="" coords="983,149,1058,176"/>
+<area shape="rect" id="node14" href="$dsa_8c.html#ac1046e3d109b3497bfcf16897e0b2a44" title="dsa_verify" alt="" coords="979,200,1062,227"/>
+</map>

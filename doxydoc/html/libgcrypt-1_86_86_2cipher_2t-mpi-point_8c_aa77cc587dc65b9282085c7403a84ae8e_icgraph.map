@@ -1,0 +1,23 @@
+<map id="die" name="die">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2cipher_2t-mpi-point_8c.html#a1cc4f8e7b12c52864611cbed20c83c68" title="hex2mpi" alt="" coords="115,428,186,455"/>
+<area shape="rect" id="node5" href="$libgcrypt-1_86_86_2cipher_2t-mpi-point_8c.html#a762d94a1f52d072ba43878fe0eb1dbe2" title="context_param" alt="" coords="633,302,741,328"/>
+<area shape="rect" id="node6" href="$libgcrypt-1_86_86_2cipher_2t-mpi-point_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="789,251,840,278"/>
+<area shape="rect" id="node8" href="$libgcrypt-1_86_86_2cipher_2t-mpi-point_8c.html#a22a83f06f43cfa4ddc26f2183f1e29ac" title="basic_ec_math" alt="" coords="455,454,566,480"/>
+<area shape="rect" id="node9" href="$libgcrypt-1_86_86_2cipher_2t-mpi-point_8c.html#afcf1b33244921d10aa78bf6fcc18e5a3" title="twistededwards_math" alt="" coords="436,251,585,278"/>
+<area shape="rect" id="node11" href="$libgcrypt-1_86_86_2cipher_2t-mpi-point_8c.html#a0fcf9d05ba28abe461434d52d99a5d9c" title="hex2mpiopa" alt="" coords="105,352,197,379"/>
+<area shape="rect" id="node12" href="$libgcrypt-1_86_86_2cipher_2t-mpi-point_8c.html#aed38a75594a884712baf7a153a748d50" title="context_alloc" alt="" coords="638,48,737,75"/>
+<area shape="rect" id="node13" href="$libgcrypt-1_86_86_2tests_2t-lock_8c.html#a5b3d866012363371cc610195ed9297a0" title="check_nonce_lock" alt="" coords="257,606,388,632"/>
+<area shape="rect" id="node15" href="$libgcrypt-1_86_86_2tests_2t-lock_8c.html#a37efa28cb09eb11b6ec9e3c16ecf8d04" title="check_accounts" alt="" coords="92,707,209,734"/>
+<area shape="rect" id="node17" href="$libgcrypt-1_86_86_2tests_2t-lock_8c.html#a570aa26ee8c42f9a1878387fa8189750" title="run_test" alt="" coords="476,656,545,683"/>
+<area shape="rect" id="node20" href="$t-poll_8c.html#a9bc55de489a2e2d1af03e664c89f0eb5" title="launch_thread" alt="" coords="99,758,202,784"/>
+<area shape="rect" id="node22" href="$t-poll_8c.html#acf7d64123f6d55b8b17b571cca140c38" title="create_pipe" alt="" coords="106,808,195,835"/>
+<area shape="rect" id="node3" href="$libgcrypt-1_86_86_2cipher_2t-mpi-point_8c.html#ad1adb6fc83d723d1124864be9d6e5eff" title="cmp_mpihex" alt="" coords="275,352,371,379"/>
+<area shape="rect" id="node10" href="$libgcrypt-1_86_86_2cipher_2t-mpi-point_8c.html#a75f04e2e25b4670b39b0a18054ffaa6f" title="make_point" alt="" coords="278,454,367,480"/>
+<area shape="rect" id="node4" href="$libgcrypt-1_86_86_2cipher_2t-mpi-point_8c.html#a6f2fe579deee2072b08f68f4aea0685b" title="get_and_cmp_mpi" alt="" coords="447,352,575,379"/>
+<area shape="rect" id="node7" href="$libgcrypt-1_86_86_2cipher_2t-mpi-point_8c.html#a57b6c3c4bf539d9030de4eb0c9ead819" title="get_and_cmp_point" alt="" coords="443,302,578,328"/>
+<area shape="rect" id="node14" href="$libgcrypt-1_86_86_2tests_2t-lock_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="662,656,713,683"/>
+<area shape="rect" id="node16" href="$libgcrypt-1_86_86_2tests_2t-lock_8c.html#a39bf156a60eb0778b04b1a194641b01e" title="revision_thread" alt="" coords="267,758,378,784"/>
+<area shape="rect" id="node18" href="$libgpg__error-1_824_2tests_2t-lock_8c.html#abaafa4065d52626b53574bfbcf25b935" title="print_accounts" alt="" coords="457,758,564,784"/>
+<area shape="rect" id="node19" href="$libgpg__error-1_824_2tests_2t-lock_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="662,758,713,784"/>
+<area shape="rect" id="node21" href="$t-poll_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="297,808,348,835"/>
+</map>

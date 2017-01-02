@@ -1,0 +1,7 @@
+<map id="_gcry_secmem_realloc" name="_gcry_secmem_realloc">
+<area shape="rect" id="node2" href="$stdmem_8h.html#a579f9a2c64b300e7c4ab6a83bc5db2b2" title="_gcry_private_realloc" alt="" coords="209,31,355,57"/>
+<area shape="rect" id="node3" href="$global_8c.html#a31dbb52a966a438c02e5ff7548652d16" title="_gcry_realloc" alt="" coords="403,31,501,57"/>
+<area shape="rect" id="node4" href="$global_8c.html#adf9af44c81575543dd0b9853b1ba4716" title="_gcry_xrealloc" alt="" coords="549,5,656,32"/>
+<area shape="rect" id="node6" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#af440c1f0a34d238104d2533eaf14744f" title="gcry_realloc" alt="" coords="557,56,649,83"/>
+<area shape="rect" id="node5" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#af5cdc9bcd21942d7da753b3129301bc3" title="gcry_xrealloc" alt="" coords="704,5,803,32"/>
+</map>

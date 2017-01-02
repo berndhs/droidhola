@@ -1,0 +1,10 @@
+<map id="spoton_buzzpage::channelType" name="spoton_buzzpage::channelType">
+<area shape="rect" id="node2" href="$classspoton.html#a950ef9a8cd9305ae86241ff8e0a2c486" title="spoton::sendBuzzKeysToKernel" alt="" coords="260,98,469,125"/>
+<area shape="rect" id="node9" href="$classspoton__buzzpage.html#a052e5f6c066acf4de10f953399291fcf" title="spoton_buzzpage::spoton\l_buzzpage" alt="" coords="279,150,450,191"/>
+<area shape="rect" id="node3" href="$classspoton.html#a7fd5f71f1de76a7d14b119e25cfab0eb" title="spoton::slotSetPassphrase" alt="" coords="517,44,696,70"/>
+<area shape="rect" id="node6" href="$classspoton.html#a076aafec8a919d153580364478b0a3a5" title="spoton::slotValidatePassphrase" alt="" coords="744,102,951,129"/>
+<area shape="rect" id="node7" href="$classspoton.html#a6ed7bd6d1fec41b2a32a141af985302f" title="spoton::slotKernelSocket\lState" alt="" coords="523,150,691,191"/>
+<area shape="rect" id="node4" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="999,102,1107,129"/>
+<area shape="rect" id="node5" href="$classspoton.html#a68e6ce65025cb17837acb9ed17556fdf" title="spoton::slotPrepareAndShow\lInstallationWizard" alt="" coords="752,36,943,78"/>
+<area shape="rect" id="node8" href="$classspoton.html#acd8a3fc89e8f038f9022c06ad4860dae" title="spoton::slotGeneralTimer\lTimeout" alt="" coords="763,204,931,246"/>
+</map>

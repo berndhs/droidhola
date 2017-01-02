@@ -1,0 +1,12 @@
+<map id="ksba_certreq_set_siginfo" name="ksba_certreq_set_siginfo">
+<area shape="rect" id="node2" href="$keyinfo_8c.html#a04f9f18aed5310af2b838a98458effa9" title="_ksba_algoinfo_from_sexp" alt="" coords="220,94,397,121"/>
+<area shape="rect" id="node3" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="860,6,899,33"/>
+<area shape="rect" id="node4" href="$keyinfo_8c.html#a41466cea4a639e75fec6dbf7a94e523b" title="oid_from_buffer" alt="" coords="457,44,569,70"/>
+<area shape="rect" id="node5" href="$keyinfo_8c.html#a5171bed6f165c0167d1bb442745e4437" title="get_ecc_curve_oid" alt="" coords="447,94,578,121"/>
+<area shape="rect" id="node9" href="$ber-help_8c.html#a8f521e2e332d3a526212fe5f7ea42e6b" title="_ksba_ber_count_tl" alt="" coords="445,145,580,172"/>
+<area shape="rect" id="node11" href="$ber-help_8c.html#a2949dc8151c2fd716aa2a55ea0794a01" title="_ksba_ber_write_tl" alt="" coords="447,196,578,222"/>
+<area shape="rect" id="node6" href="$convert_8h.html#ab1a109b5f9b5e2f49d6354cc6d6628be" title="_ksba_oid_from_buf" alt="" coords="628,69,767,96"/>
+<area shape="rect" id="node7" href="$oid_8c.html#a47cb42b8d346c1e66ee58402685afb14" title="ksba_oid_from_str" alt="" coords="815,69,944,96"/>
+<area shape="rect" id="node8" href="$oid_8c.html#a48c5373285b2be1eda32c32e9c3ca286" title="make_flagged_int" alt="" coords="992,69,1116,96"/>
+<area shape="rect" id="node10" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="674,145,721,172"/>
+</map>

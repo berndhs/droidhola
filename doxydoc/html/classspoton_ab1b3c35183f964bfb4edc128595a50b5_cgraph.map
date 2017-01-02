@@ -1,0 +1,15 @@
+<map id="spoton::slotQuit" name="spoton::slotQuit">
+<area shape="rect" id="node2" href="$classspoton.html#ad25863893fda36058fa535b66a0fe37e" title="spoton::promptBeforeExit" alt="" coords="168,73,339,99"/>
+<area shape="rect" id="node5" href="$classspoton.html#ab5df0a05e3cbaa08ce1ad82814309594" title="spoton::cleanup" alt="" coords="196,195,311,222"/>
+<area shape="rect" id="node3" href="$classspoton__encryptfile.html#a9411512eefaba57abd76bcbb5e2f3167" title="spoton_encryptfile\l::occupied" alt="" coords="423,28,551,69"/>
+<area shape="rect" id="node4" href="$classspoton__encryptfile__page.html#a2eabe7ad857441f402d529b464a45087" title="spoton_encryptfile\l_page::occupied" alt="" coords="668,5,796,47"/>
+<area shape="rect" id="node6" href="$classspoton__misc.html#ae34917038bcd4877f3efecace09e98f1" title="spoton_misc::removeOneTime\lStarBeamMagnets" alt="" coords="387,129,587,171"/>
+<area shape="rect" id="node10" href="$classspoton__encryptfile.html#a9c23f395a5836dcbf5f2c10f03d57177" title="spoton_encryptfile\l::abort" alt="" coords="423,224,551,265"/>
+<area shape="rect" id="node14" href="$classspoton.html#a7d8033540ce307f50901bd1ca545fcc6" title="spoton::saveSettings" alt="" coords="414,290,559,317"/>
+<area shape="rect" id="node7" href="$classspoton__misc.html#acbb66a506c79752732614d3883df9298" title="spoton_misc::database" alt="" coords="653,71,811,98"/>
+<area shape="rect" id="node8" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="651,122,813,149"/>
+<area shape="rect" id="node9" href="$classspoton__misc.html#a42be66ff303a09e9dd31c8de88e397ef" title="spoton_misc::forwardSecrecy\lMagnetFromList" alt="" coords="635,173,829,215"/>
+<area shape="rect" id="node11" href="$classspoton__encryptfile__page.html#aa483b1463af630e29dc3ed58c610e0c9" title="spoton_encryptfile\l_page::abort" alt="" coords="668,239,796,280"/>
+<area shape="rect" id="node13" href="$classspoton__encryptfile.html#a3eed21612f6d320ac1428e9b49cb4a77" title="spoton_encryptfile\l::show" alt="" coords="668,304,796,345"/>
+<area shape="rect" id="node12" href="$classspoton__encryptfile__page.html#a3f5a7ea50ea323514e967040a8f7f8a9" title="spoton_encryptfile\l_page::slotCancel" alt="" coords="877,239,1005,280"/>
+</map>

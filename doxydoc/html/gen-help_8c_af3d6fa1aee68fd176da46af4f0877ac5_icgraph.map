@@ -1,0 +1,6 @@
+<map id="out_of_core" name="out_of_core">
+<area shape="rect" id="node2" href="$gen-help_8c.html#a45d904cf0131976ce46045fd06edba81" title="xmalloc" alt="" coords="144,5,211,32"/>
+<area shape="rect" id="node3" href="$gen-help_8c.html#a2b3d9aef5c835a1cddfad775bdebfc30" title="xcalloc" alt="" coords="146,56,209,83"/>
+<area shape="rect" id="node4" href="$gen-help_8h.html#a61b7d95e5e359513efb89046677c1769" title="xrealloc" alt="" coords="144,107,211,133"/>
+<area shape="rect" id="node5" href="$gen-help_8c.html#ad6142d091f00b2d4543ce7a43e5d0eba" title="xstrdup" alt="" coords="145,157,210,184"/>
+</map>

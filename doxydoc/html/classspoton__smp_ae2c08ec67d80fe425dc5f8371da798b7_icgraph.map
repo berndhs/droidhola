@@ -1,0 +1,9 @@
+<map id="spoton_smp::step4" name="spoton_smp::step4">
+<area shape="rect" id="node2" href="$classspoton__smp.html#a913d47817d14bfeb472f814d3bbf52ed" title="spoton_smp::nextStep" alt="" coords="187,122,340,149"/>
+<area shape="rect" id="node3" href="$classspoton.html#abef49f33ed23b27ff9d9474063c65886" title="spoton::slotReceivedKernel\lMessage" alt="" coords="388,5,571,47"/>
+<area shape="rect" id="node5" href="$classspoton__smp.html#af6486dfe8b6c634312d64433a79e2a2b" title="spoton_smp::test1" alt="" coords="414,71,545,98"/>
+<area shape="rect" id="node6" href="$classspoton__smp.html#a809f863ee7cfce6e20dadb0c36bc6db0" title="spoton_smp::test2" alt="" coords="414,122,545,149"/>
+<area shape="rect" id="node7" href="$classspoton__smp.html#accc02ba6520c8c44c966c14d5cbcb045" title="spoton_smp::test3" alt="" coords="414,173,545,199"/>
+<area shape="rect" id="node8" href="$classspoton__smp.html#a462fdfc0f274fb4f647ca3a5f20873d0" title="spoton_smp::test4" alt="" coords="414,223,545,250"/>
+<area shape="rect" id="node4" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="619,97,727,123"/>
+</map>

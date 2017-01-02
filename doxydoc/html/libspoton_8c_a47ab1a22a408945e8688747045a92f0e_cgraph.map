@@ -1,0 +1,8 @@
+<map id="libspoton_registered_kernel_pid" name="libspoton_registered_kernel_pid">
+<area shape="rect" id="node2" href="$pthread_8h.html#aef3f55cad288fdbc9c39bff9d668de1e" title="pthread_mutex_lock" alt="" coords="199,5,338,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#a85d4203bb54c984c5325c2f5b3664985" title="sqlite3_prepare_v2" alt="" coords="203,56,334,83"/>
+<area shape="rect" id="node4" href="$pthread_8h.html#a2e24c7aa54ba10a032b7b6cd06c3caaa" title="pthread_mutex_unlock" alt="" coords="192,107,345,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8h.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="223,157,315,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8h.html#a39f0c222a27bd9c4cb73d07e9e48ffe6" title="sqlite3_column_int64" alt="" coords="197,208,341,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8h.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="215,259,323,285"/>
+</map>

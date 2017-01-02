@@ -1,0 +1,16 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$libgpg__error-1_824_2src_2mkheader_8c.html#a68f54d77fb89426ccc63cb7f472c29cf" title="canon_host_triplet" alt="" coords="104,347,232,373"/>
+<area shape="rect" id="node4" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="800,169,860,196"/>
+<area shape="rect" id="node5" href="$libgpg__error-1_824_2src_2mkheader_8c.html#acf87f94162cc38ef88e7f5fdd7019f4d" title="parse_config_h" alt="" coords="113,296,223,323"/>
+<area shape="rect" id="node6" href="$libgpg__error-1_824_2src_2mkheader_8c.html#ab74147af88fbc62f9076539683737f69" title="xfree" alt="" coords="336,296,387,323"/>
+<area shape="rect" id="node8" href="$libgpg__error-1_824_2src_2mkheader_8c.html#a16773c24fb166b25290211bd3e5e8c5f" title="write_special" alt="" coords="119,195,217,221"/>
+<area shape="rect" id="node3" href="$libgpg__error-1_824_2src_2mkheader_8c.html#a621739822f496af87448f3998cd35ca9" title="xstrdup" alt="" coords="329,347,394,373"/>
+<area shape="rect" id="node7" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="667,245,711,272"/>
+<area shape="rect" id="node9" href="$libgpg__error-1_824_2src_2mkheader_8c.html#aacc7e35ed2bbac028a95faa2f754bb6b" title="write_sources_or_codes" alt="" coords="280,43,443,69"/>
+<area shape="rect" id="node11" href="$libgpg__error-1_824_2src_2mkheader_8c.html#a0ccb979b4710f8b23099df77b5afeafb" title="include_file" alt="" coords="491,245,577,272"/>
+<area shape="rect" id="node13" href="$libgpg__error-1_824_2src_2mkheader_8c.html#a4406850fea714c4904ba89ad640132fb" title="write_errnos_in" alt="" coords="306,93,417,120"/>
+<area shape="rect" id="node14" href="$libgpg__error-1_824_2src_2mkheader_8c.html#aacfa73b463066a25ce7b0559c8d78213" title="write_line" alt="" coords="323,144,400,171"/>
+<area shape="rect" id="node15" href="$libgpg__error-1_824_2src_2mkheader_8c.html#a42ccf0f7f0cbd0913fe53d79f6174200" title="try_include_file" alt="" coords="307,195,416,221"/>
+<area shape="rect" id="node10" href="$libgpg__error-1_824_2src_2mkheader_8c.html#a9ddb32e019fd87b7a68850d3dc393173" title="write_str" alt="" coords="498,68,570,95"/>
+<area shape="rect" id="node12" href="$libgpg__error-1_824_2src_2mkheader_8c.html#a77083adba57fa525eaae61822dab13bb" title="mk_include_name" alt="" coords="625,169,752,196"/>
+</map>

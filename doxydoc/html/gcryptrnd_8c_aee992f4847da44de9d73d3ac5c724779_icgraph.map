@@ -1,0 +1,14 @@
+<map id="logit" name="logit">
+<area shape="rect" id="node2" href="$gcryptrnd_8c.html#adf30308614cd015482a8f61d6ab9d0e0" title="daemonize" alt="" coords="413,16,498,43"/>
+<area shape="rect" id="node3" href="$gcryptrnd_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="853,92,904,119"/>
+<area shape="rect" id="node4" href="$gcryptrnd_8c.html#a62b2dfeed11936f89e2da79d418401ad" title="disable_core_dumps" alt="" coords="561,118,703,144"/>
+<area shape="rect" id="node5" href="$gcryptrnd_8c.html#ad7e37101d407d11bf13c6e19f828281a" title="writen" alt="" coords="122,270,179,296"/>
+<area shape="rect" id="node7" href="$gcryptrnd_8c.html#ab9367128447b6f4ab62f890003a0881a" title="connection_loop" alt="" coords="397,295,513,322"/>
+<area shape="rect" id="node8" href="$gcryptrnd_8c.html#adae09afe92181a42dbafe537c5f15deb" title="connection_thread" alt="" coords="568,422,696,448"/>
+<area shape="rect" id="node9" href="$gcryptrnd_8c.html#a310f9aab67809ead7d822c15500edf19" title="serve" alt="" coords="751,447,805,474"/>
+<area shape="rect" id="node13" href="$gcryptrnd_8c.html#a4d758599664eca91b4eea2209158b475" title="handle_signal" alt="" coords="100,523,201,550"/>
+<area shape="rect" id="node6" href="$gcryptrnd_8c.html#aa3952df9f941804dcc7970744824e2cc" title="send_error" alt="" coords="258,168,341,195"/>
+<area shape="rect" id="node10" href="$gcryptrnd_8c.html#a87c60527571fa51579664f0cb8401196" title="send_pong" alt="" coords="257,219,342,246"/>
+<area shape="rect" id="node11" href="$gcryptrnd_8c.html#a807fbe387aa237cb34a1ead81323773b" title="send_nonce" alt="" coords="253,270,345,296"/>
+<area shape="rect" id="node12" href="$gcryptrnd_8c.html#a6ea148ee3302df0f8c03ef232add96b5" title="send_random" alt="" coords="249,320,349,347"/>
+</map>

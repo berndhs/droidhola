@@ -1,0 +1,7 @@
+<map id="verify_opnctx" name="verify_opnctx">
+<area shape="rect" id="node2" href="$gpgcedev_8c.html#a07581782754c4d5a1364cfebea81f918" title="access_opnctx" alt="" coords="155,31,266,57"/>
+<area shape="rect" id="node5" href="$gpgcedev_8c.html#abd1b97b5544f7eaae884d0f7f916262d" title="GPG_Close" alt="" coords="165,81,257,108"/>
+<area shape="rect" id="node6" href="$gpgcedev_8c.html#afbdfe389769a801a882024f37013830c" title="GPG_IOControl" alt="" coords="153,132,268,159"/>
+<area shape="rect" id="node3" href="$gpgcedev_8c.html#a4d8651998a71352e811646e264acfcb6" title="GPG_Read" alt="" coords="316,5,405,32"/>
+<area shape="rect" id="node4" href="$gpgcedev_8c.html#a40774ad94b140d41045938a674b22c03" title="GPG_Write" alt="" coords="316,56,405,83"/>
+</map>

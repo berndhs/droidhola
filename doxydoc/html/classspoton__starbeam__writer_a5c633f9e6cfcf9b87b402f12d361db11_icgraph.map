@@ -1,0 +1,9 @@
+<map id="spoton_starbeam_writer::start" name="spoton_starbeam_writer::start">
+<area shape="rect" id="node2" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="1201,43,1352,85"/>
+<area shape="rect" id="node3" href="$classspoton__kernel.html#a8326fb4c480d72dff4a2357b4f17bee3" title="spoton_kernel::slotUpdate\lSettings" alt="" coords="703,43,877,85"/>
+<area shape="rect" id="node4" href="$classspoton__starbeam__writer.html#ae39689d26e7f05fc71373b796e474fe3" title="spoton_starbeam_writer\l::append" alt="" coords="215,102,376,143"/>
+<area shape="rect" id="node5" href="$classspoton__kernel.html#a81fda0c810be99b9e80e4f63794c4ca0" title="spoton_kernel::processPotential\lStarBeamData" alt="" coords="424,102,632,143"/>
+<area shape="rect" id="node8" href="$classspoton__starbeam__writer.html#a06b8701e5d37ef2cf6b1a2c140c55a30" title="spoton_starbeam_writer\l::slotReadKeys" alt="" coords="447,167,609,209"/>
+<area shape="rect" id="node6" href="$classspoton__kernel.html#a7191ac444c913f3dd195336fa26bee31" title="spoton_kernel::writeMessage0060" alt="" coords="680,109,900,136"/>
+<area shape="rect" id="node7" href="$classspoton__kernel.html#a0df5b68ffc9ec6ec11ceb37c2dd48531" title="spoton_kernel::slotBuzzMagnet\lReceivedFromUI" alt="" coords="948,102,1153,143"/>
+</map>

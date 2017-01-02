@@ -1,0 +1,7 @@
+<map id="set_variable" name="set_variable">
+<area shape="rect" id="node2" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="156,5,200,32"/>
+<area shape="rect" id="node3" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a001679da12fbdf731382bdf1f2742ddc" title="xcalloc" alt="" coords="147,56,209,83"/>
+<area shape="rect" id="node5" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a621739822f496af87448f3998cd35ca9" title="xstrdup" alt="" coords="145,107,211,133"/>
+<area shape="rect" id="node4" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#aa77cc587dc65b9282085c7403a84ae8e" title="die" alt="" coords="269,56,308,83"/>
+<area shape="rect" id="node6" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="259,107,319,133"/>
+</map>

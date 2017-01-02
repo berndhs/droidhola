@@ -1,0 +1,7 @@
+<map id="spoton::importNeighbors" name="spoton::importNeighbors">
+<area shape="rect" id="node2" href="$classspoton.html#a7fd5f71f1de76a7d14b119e25cfab0eb" title="spoton::slotSetPassphrase" alt="" coords="221,39,400,66"/>
+<area shape="rect" id="node5" href="$classspoton.html#a076aafec8a919d153580364478b0a3a5" title="spoton::slotValidatePassphrase" alt="" coords="452,98,659,124"/>
+<area shape="rect" id="node6" href="$classspoton.html#ab399022481e4b3effd929fb73c0d7ce6" title="spoton::slotImportNeighbors" alt="" coords="217,148,404,175"/>
+<area shape="rect" id="node3" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="707,68,815,95"/>
+<area shape="rect" id="node4" href="$classspoton.html#a68e6ce65025cb17837acb9ed17556fdf" title="spoton::slotPrepareAndShow\lInstallationWizard" alt="" coords="460,32,651,73"/>
+</map>

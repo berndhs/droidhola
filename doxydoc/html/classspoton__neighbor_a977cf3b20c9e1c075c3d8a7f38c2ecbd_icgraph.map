@@ -1,0 +1,7 @@
+<map id="spoton_neighbor::receivedBuzzMessage" name="spoton_neighbor::receivedBuzzMessage">
+<area shape="rect" id="node2" href="$classspoton__neighbor.html#a6b8ec2383668bfa54feb3a385b91b0fd" title="spoton_neighbor::process0040a" alt="" coords="228,5,435,32"/>
+<area shape="rect" id="node6" href="$classspoton__neighbor.html#a1d65a975848c104ece12f2ec2616497a" title="spoton_neighbor::process0040b" alt="" coords="228,56,435,83"/>
+<area shape="rect" id="node3" href="$classspoton__neighbor.html#a7b2aaa9d5b210ff677a7889986a949e6" title="spoton_neighbor::processData" alt="" coords="483,31,681,57"/>
+<area shape="rect" id="node4" href="$classspoton__neighbor.html#a9250c88da1eb47de5919685e09657538" title="spoton_neighbor::slotSendMail" alt="" coords="729,31,929,57"/>
+<area shape="rect" id="node5" href="$classspoton__neighbor.html#aa6707b3133b337024de82dbd97d9e5ae" title="spoton_neighbor::receivedUuid" alt="" coords="977,31,1179,57"/>
+</map>

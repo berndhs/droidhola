@@ -1,0 +1,8 @@
+<map id="ksba_cert_s" name="ksba_cert_s">
+<area shape="rect" id="node2" href="$structcert__extn__info.html" title="cert_extn_info" alt="" coords="5,231,109,257"/>
+<area shape="rect" id="node3" href="$structksba__asn__tree__s.html" title="ksba_asn_tree_s" alt="" coords="209,231,330,257"/>
+<area shape="rect" id="node4" href="$structasn__node__struct.html" title="asn_node_struct" alt="" coords="137,111,255,137"/>
+<area shape="rect" id="node5" href="$unionasn__value__u.html" title="asn_value_u" alt="" coords="90,5,185,32"/>
+<area shape="rect" id="node6" href="$structnode__flag__s.html" title="node_flag_s" alt="" coords="209,5,301,32"/>
+<area shape="rect" id="node7" href="$structcert__user__data.html" title="cert_user_data" alt="" coords="354,231,462,257"/>
+</map>

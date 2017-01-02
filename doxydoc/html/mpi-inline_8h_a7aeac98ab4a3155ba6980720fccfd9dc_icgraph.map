@@ -1,0 +1,11 @@
+<map id="_gcry_mpih_sub_1" name="_gcry_mpih_sub_1">
+<area shape="rect" id="node2" href="$gcrypt-int_8h.html#ad68ab60a6fbd62134c18b6521b6a0c55" title="_gcry_mpi_add_ui" alt="" coords="184,5,311,32"/>
+<area shape="rect" id="node4" href="$gcrypt-int_8h.html#abc889645ea1c91eb0e5e33cd7609589a" title="_gcry_mpi_sub_ui" alt="" coords="184,56,311,83"/>
+<area shape="rect" id="node6" href="$mpi-internal_8h.html#a96aab41785e6ff241f9da1bde7e64329" title="_gcry_mpih_sub" alt="" coords="189,107,306,133"/>
+<area shape="rect" id="node3" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a45e2cff912294de0b10f24ba98ec0b6f" title="gcry_mpi_add_ui" alt="" coords="361,5,481,32"/>
+<area shape="rect" id="node5" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#aa667e8e89d880dc11992ced1186c57d2" title="gcry_mpi_sub_ui" alt="" coords="361,56,481,83"/>
+<area shape="rect" id="node7" href="$gcrypt-int_8h.html#a4e4d6a33ee589135da6ee9e6828df22b" title="_gcry_mpi_add" alt="" coords="365,107,476,133"/>
+<area shape="rect" id="node9" href="$gcrypt-int_8h.html#ae47e70eab7d91e740fe11fa35d159556" title="_gcry_mpi_powm" alt="" coords="359,157,483,184"/>
+<area shape="rect" id="node8" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#ac958af7b600b93dc7041ad3123389c77" title="gcry_mpi_add" alt="" coords="538,107,641,133"/>
+<area shape="rect" id="node10" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#acece3ff43d08e5fe18ff6d5bd94f6bbf" title="gcry_mpi_powm" alt="" coords="531,157,648,184"/>
+</map>

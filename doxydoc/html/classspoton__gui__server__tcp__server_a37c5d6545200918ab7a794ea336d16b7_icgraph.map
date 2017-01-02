@@ -1,0 +1,5 @@
+<map id="spoton_gui_server_tcp_server::incomingConnection" name="spoton_gui_server_tcp_server::incomingConnection">
+<area shape="rect" id="node2" href="$classspoton__gui__server__tcp__server.html#a3063294c937f567bde07aaa6a1c091c7" title="spoton_gui_server_tcp\l_server::nextPendingConnection" alt="" coords="244,5,455,47"/>
+<area shape="rect" id="node3" href="$classspoton__gui__server.html#a6042c0f9381a9165fc4b6395a5cacad5" title="spoton_gui_server::\lslotClientConnected" alt="" coords="503,5,643,47"/>
+<area shape="rect" id="node4" href="$classspoton__gui__server.html#adfc6a8f4813a0c4a0aa275611bb6118e" title="spoton_gui_server::\lspoton_gui_server" alt="" coords="691,5,827,47"/>
+</map>

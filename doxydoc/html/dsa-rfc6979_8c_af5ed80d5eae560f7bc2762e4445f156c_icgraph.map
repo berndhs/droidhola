@@ -1,0 +1,15 @@
+<map id="info" name="info">
+<area shape="rect" id="node2" href="$fips_8c.html#a017200f9886b076967965736be0c562a" title="check_binary_integrity" alt="" coords="96,31,248,57"/>
+<area shape="rect" id="node8" href="$dsa-rfc6979_8c.html#a67e55f76abc133f1b4df41e2075389bf" title="extract_cmp_data" alt="" coords="109,81,235,108"/>
+<area shape="rect" id="node9" href="$dsa-rfc6979_8c.html#a6e3f88741a33f65b8dc73b95abd6a4c1" title="check_dsa_rfc6979" alt="" coords="320,119,455,145"/>
+<area shape="rect" id="node11" href="$spot-on-a_8cc.html#a5cf1c2552cfe779f3611b7e5badf82ec" title="signal_handler" alt="" coords="119,183,225,209"/>
+<area shape="rect" id="node3" href="$g10lib_8h.html#a10a09a1883ee96a71fcccfef32771903" title="_gcry_fips_run_selftests" alt="" coords="305,31,469,57"/>
+<area shape="rect" id="node4" href="$g10lib_8h.html#ac9f86a44740c18904d8eedba9a9f523e" title="_gcry_fips_is_operational" alt="" coords="527,5,696,32"/>
+<area shape="rect" id="node6" href="$global_8c.html#a197de31474f305a294a7555b4ed6f26f" title="_gcry_vcontrol" alt="" coords="782,56,889,83"/>
+<area shape="rect" id="node5" href="$global_8c.html#afb83fe45590e215b1a758b86076369a7" title="_gcry_global_is_operational" alt="" coords="744,5,927,32"/>
+<area shape="rect" id="node7" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a1880c4ce4c093ba2ea4a775ecf26ca29" title="gcry_control" alt="" coords="975,56,1068,83"/>
+<area shape="rect" id="node10" href="$dsa-rfc6979_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="586,119,637,145"/>
+<area shape="rect" id="node12" href="$classspoton__misc.html#a417ec2d61418782596f4f09321a3044d" title="spoton_misc::prepareSignal\lHandler" alt="" coords="296,227,479,269"/>
+<area shape="rect" id="node13" href="$spot-on-a_8cc.html#abbf9d67ea26716c418cfdd5b963ce441" title="spotonguimain" alt="" coords="558,180,665,207"/>
+<area shape="rect" id="node14" href="$spot-on-kernel-a_8cc.html#a508a07b45b6a4c857e7bf7ff21774e44" title="spotkernelmain" alt="" coords="556,235,667,261"/>
+</map>

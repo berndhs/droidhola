@@ -1,0 +1,16 @@
+<map id="_gcry_ecc_eddsa_compute_h_d" name="_gcry_ecc_eddsa_compute_h_d">
+<area shape="rect" id="node2" href="$ecc-eddsa_8c.html#a1c4958faec3011c98a07badae210a16c" title="_gcry_ecc_eddsa_sign" alt="" coords="275,31,430,57"/>
+<area shape="rect" id="node4" href="$ecc-misc_8c.html#ad2d083864d6ce1c99fad88fb016a8a1b" title="_gcry_ecc_compute_public" alt="" coords="263,107,443,133"/>
+<area shape="rect" id="node3" href="$ecc_8c.html#ae11b517c533d922d85067aa6c4948907" title="ecc_sign" alt="" coords="535,5,609,32"/>
+<area shape="rect" id="node5" href="$ec-context_8h.html#aa34824964a680de44988831bd8dd7b7e" title="_gcry_ecc_get_mpi" alt="" coords="505,56,639,83"/>
+<area shape="rect" id="node8" href="$ec-context_8h.html#adfba9c52b5c7f4a961fe902cd228389a" title="_gcry_ecc_get_point" alt="" coords="501,107,643,133"/>
+<area shape="rect" id="node11" href="$ecc_8c.html#ac6eecf80a071fb284002f2a624f6b215" title="check_secret_key" alt="" coords="508,157,636,184"/>
+<area shape="rect" id="node13" href="$pubkey-internal_8h.html#ab296f2a5ff78f1d1675533367fc02fee" title="_gcry_pk_ecc_get_sexp" alt="" coords="491,208,653,235"/>
+<area shape="rect" id="node6" href="$mpi_8h.html#a32929cc32f79bb28e1da54cb8d7cf7ad" title="_gcry_mpi_ec_get_mpi" alt="" coords="705,56,861,83"/>
+<area shape="rect" id="node7" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#afedc31ad12ae2b82d90ec36c552c05e8" title="gcry_mpi_ec_get_mpi" alt="" coords="915,56,1065,83"/>
+<area shape="rect" id="node9" href="$mpi_8h.html#ab48968755332c4c3d12d5a8a3649f484" title="_gcry_mpi_ec_get_point" alt="" coords="701,107,864,133"/>
+<area shape="rect" id="node10" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#aa8bbc16c0fca22eae66b208915744632" title="gcry_mpi_ec_get_point" alt="" coords="912,107,1068,133"/>
+<area shape="rect" id="node12" href="$ecc_8c.html#af52f50415d9222c1ee17a83564c9839a" title="ecc_check_secret_key" alt="" coords="705,157,861,184"/>
+<area shape="rect" id="node14" href="$gcrypt-int_8h.html#a4eb047984a15e85f2b0cf82ae33f9ddf" title="_gcry_pubkey_get_sexp" alt="" coords="701,208,864,235"/>
+<area shape="rect" id="node15" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a46e2a604365b1c88a86ea8f2b809eef9" title="gcry_pubkey_get_sexp" alt="" coords="912,208,1068,235"/>
+</map>

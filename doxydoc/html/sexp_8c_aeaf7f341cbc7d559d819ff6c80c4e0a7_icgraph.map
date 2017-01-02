@@ -1,0 +1,12 @@
+<map id="do_sexp_sscan" name="do_sexp_sscan">
+<area shape="rect" id="node2" href="$sexp_8c.html#a75b21eb567f8d5bb246f318b0f2f2f60" title="_gcry_sexp_create" alt="" coords="180,81,312,108"/>
+<area shape="rect" id="node8" href="$sexp_8c.html#a05de249dd5ab31d30b35fb69ae8c44b1" title="_gcry_sexp_build_array" alt="" coords="167,183,325,209"/>
+<area shape="rect" id="node10" href="$sexp_8c.html#a7335d461e485e1d0d7056601e65c9a65" title="_gcry_sexp_sscan" alt="" coords="181,259,311,285"/>
+<area shape="rect" id="node3" href="$gcrypt-int_8h.html#aaadbe18f6ec9f5e67cb7c415632c2945" title="_gcry_error_from_errno" alt="" coords="573,107,729,133"/>
+<area shape="rect" id="node5" href="$sexp_8c.html#a5144f0c950dadfaf57a7a97f51a1b796" title="_gcry_sexp_new" alt="" coords="389,5,509,32"/>
+<area shape="rect" id="node7" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a3a364dedd27b6f066721ed97eb5284ec" title="gcry_sexp_create" alt="" coords="387,107,512,133"/>
+<area shape="rect" id="node4" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#aa654f0427b89caf954e9e5bd456be6b3" title="gcry_error_from_errno" alt="" coords="777,107,927,133"/>
+<area shape="rect" id="node6" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a962977f7a0054d6f1578b1fe00ac10de" title="gcry_sexp_new" alt="" coords="595,5,708,32"/>
+<area shape="rect" id="node9" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a1caa967f974aabfd15d0c9e115a77307" title="gcry_sexp_build_array" alt="" coords="373,208,525,235"/>
+<area shape="rect" id="node11" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a68728e19b6d3fce7fe104aec9e1babcd" title="gcry_sexp_sscan" alt="" coords="387,309,511,336"/>
+</map>

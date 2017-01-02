@@ -1,0 +1,7 @@
+<map id="process_request" name="process_request">
+<area shape="rect" id="node2" href="$assuan-handler_8c.html#aa14c54691807d675c115b4ddd1471f34" title="assuan_process" alt="" coords="172,31,289,57"/>
+<area shape="rect" id="node3" href="$fdpassing_8c.html#ad18fdc3df8fad95296a014ea46567b4b" title="server" alt="" coords="349,5,408,32"/>
+<area shape="rect" id="node5" href="$pipeconnect_8c.html#a4c869243e5fc9785d327c8a5a5688a30" title="run_server" alt="" coords="337,56,420,83"/>
+<area shape="rect" id="node4" href="$fdpassing_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="468,5,519,32"/>
+<area shape="rect" id="node6" href="$pipeconnect_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="468,56,519,83"/>
+</map>

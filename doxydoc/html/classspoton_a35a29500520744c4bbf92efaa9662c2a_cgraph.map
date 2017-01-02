@@ -1,0 +1,6 @@
+<map id="spoton::slotBuzzActionsActivated" name="spoton::slotBuzzActionsActivated">
+<area shape="rect" id="node2" href="$classspoton__crypt.html#ab3d640ac1977e62a11ee0af35e04004d" title="spoton_crypt::strongRandom\lBytes" alt="" coords="272,23,463,65"/>
+<area shape="rect" id="node3" href="$classspoton__crypt.html#a713d4c36a50621761fb8e61e6027a7be" title="spoton_crypt::randomBytes" alt="" coords="511,31,693,57"/>
+<area shape="rect" id="node4" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="741,5,801,32"/>
+<area shape="rect" id="node5" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="749,56,793,83"/>
+</map>

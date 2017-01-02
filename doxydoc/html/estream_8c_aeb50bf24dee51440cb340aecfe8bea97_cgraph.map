@@ -1,0 +1,5 @@
+<map id="destroy_stream_lock" name="destroy_stream_lock">
+<area shape="rect" id="node2" href="$gpgrt-int_8h.html#a3daecb0e9c7ebdf088e1b321d26a2f32" title="_gpgrt_lock_destroy" alt="" coords="196,31,335,57"/>
+<area shape="rect" id="node3" href="$posix-lock_8c.html#a29941b915cdd80d606a9565926aa4c42" title="get_lock_object" alt="" coords="405,5,519,32"/>
+<area shape="rect" id="node4" href="$pthread_8h.html#aa004edfa9d205948987fc16d1ed066c5" title="pthread_mutex_destroy" alt="" coords="383,56,541,83"/>
+</map>

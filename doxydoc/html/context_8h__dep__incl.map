@@ -1,0 +1,14 @@
+<map id="libgcrypt&#45;1.6.6/src/context.h" name="libgcrypt&#45;1.6.6/src/context.h">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2cipher_2ecc-curves_8c.html" title="libgcrypt&#45;1.6.6/cipher\l/ecc&#45;curves.c" alt="" coords="5,95,148,136"/>
+<area shape="rect" id="node3" href="$ecc-ecdsa_8c.html" title="libgcrypt&#45;1.6.6/cipher\l/ecc&#45;ecdsa.c" alt="" coords="172,95,315,136"/>
+<area shape="rect" id="node4" href="$ecc-eddsa_8c.html" title="libgcrypt&#45;1.6.6/cipher\l/ecc&#45;eddsa.c" alt="" coords="339,95,481,136"/>
+<area shape="rect" id="node5" href="$ecc-gost_8c.html" title="libgcrypt&#45;1.6.6/cipher\l/ecc&#45;gost.c" alt="" coords="505,95,648,136"/>
+<area shape="rect" id="node6" href="$ecc-misc_8c.html" title="libgcrypt&#45;1.6.6/cipher\l/ecc&#45;misc.c" alt="" coords="672,95,815,136"/>
+<area shape="rect" id="node7" href="$ecc_8c.html" title="libgcrypt&#45;1.6.6/cipher\l/ecc.c" alt="" coords="839,95,981,136"/>
+<area shape="rect" id="node8" href="$cipher_2pubkey_8c.html" title="libgcrypt&#45;1.6.6/cipher\l/pubkey.c" alt="" coords="1005,95,1148,136"/>
+<area shape="rect" id="node9" href="$ec-ed25519_8c.html" title="libgcrypt&#45;1.6.6/mpi\l/ec&#45;ed25519.c" alt="" coords="1172,95,1301,136"/>
+<area shape="rect" id="node10" href="$ec_8c.html" title="libgcrypt&#45;1.6.6/mpi/ec.c" alt="" coords="1325,102,1484,129"/>
+<area shape="rect" id="node11" href="$libgcrypt-1_86_86_2src_2context_8c.html" title="libgcrypt&#45;1.6.6/src\l/context.c" alt="" coords="1508,95,1635,136"/>
+<area shape="rect" id="node12" href="$libgcrypt-1_86_86_2src_2visibility_8c.html" title="libgcrypt&#45;1.6.6/src\l/visibility.c" alt="" coords="1659,95,1785,136"/>
+<area shape="rect" id="node13" href="$srpms_2ecc-curves_8c.html" title="srpms/ecc&#45;curves.c" alt="" coords="1809,102,1947,129"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="decoder_next" name="decoder_next">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="601,41,639,68"/>
+<area shape="rect" id="node3" href="$ber-help_8c.html#a31365dfd8e07cab0e08229042b734b13" title="_ksba_ber_read_tl" alt="" coords="161,67,289,93"/>
+<area shape="rect" id="node7" href="$gpg-error_8h.html#ae9aa174cb4e6c638dcfa58942b79ed2d" title="gpg_err_code" alt="" coords="175,117,275,144"/>
+<area shape="rect" id="node8" href="$ber-decoder_8c.html#a261586236aeca97094d576266a583240" title="dump_tlv" alt="" coords="386,168,461,195"/>
+<area shape="rect" id="node10" href="$ber-decoder_8c.html#a054955f71f7becf9b3c3112d057c7bcf" title="sum_a1_a2_ge_b" alt="" coords="163,219,287,245"/>
+<area shape="rect" id="node11" href="$ber-decoder_8c.html#a4c6c54b506d12b745351f253bfd32612" title="set_error" alt="" coords="188,269,261,296"/>
+<area shape="rect" id="node12" href="$ber-decoder_8c.html#afdfa59c1eea96dfd1568c935b75444c0" title="match_der" alt="" coords="183,320,266,347"/>
+<area shape="rect" id="node28" href="$ber-decoder_8c.html#aa80a06865ccaaa6eb22d7cdb095dfc1e" title="pop_decoder_state" alt="" coords="159,371,291,397"/>
+<area shape="rect" id="node29" href="$ber-decoder_8c.html#a41a33ce74c5560add4a1b4b9e2ba9f6a" title="push_decoder_state" alt="" coords="155,421,294,448"/>
+<area shape="rect" id="node30" href="$ber-decoder_8c.html#a3e996f2609c9cec85b0fb5dc17b1e37c" title="dump_decoder_state" alt="" coords="153,472,296,499"/>
+<area shape="rect" id="node4" href="$ber-help_8c.html#a5141f88194d7dc31b68e4ca87226e816" title="read_byte" alt="" coords="384,67,463,93"/>
+<area shape="rect" id="node5" href="$ber-help_8c.html#a978b00e0c8a250526d1280279de30302" title="eof_or_error" alt="" coords="378,117,469,144"/>
+<area shape="rect" id="node6" href="$ber-help_8c.html#aa91a866323f53a37fff159b22d959a26" title="premature_eof" alt="" coords="567,117,673,144"/>
+<area shape="rect" id="node9" href="$ber-decoder_8c.html#ab2939b66a84bfd8cedc5d4b3c7ba48da" title="universal_tag_name" alt="" coords="551,168,689,195"/>
+<area shape="rect" id="node13" href="$ber-decoder_8c.html#afe41d3a5d42faf5727f8c18c518a5661" title="find_anchor_node" alt="" coords="361,219,485,245"/>
+<area shape="rect" id="node14" href="$ber-decoder_8c.html#a74e2b2e9765310b489734776626009d0" title="cmp_tag" alt="" coords="584,269,656,296"/>
+<area shape="rect" id="node15" href="$asn1-func_8c.html#a934f0bc952a97eb62dd936fa064de4ee" title="_ksba_asn_is_primitive" alt="" coords="737,295,896,321"/>
+<area shape="rect" id="node16" href="$asn1-func_8c.html#a569f317a20cd0a02f90e6e324a3f2461" title="_ksba_asn_node_dump" alt="" coords="344,472,503,499"/>
+<area shape="rect" id="node18" href="$asn1-func_8c.html#a88e868fbca2e366f747a639b58e5c66e" title="_ksba_asn_insert_copy" alt="" coords="344,371,503,397"/>
+<area shape="rect" id="node24" href="$ber-decoder_8c.html#a74baec1b22de68ad1f34d0fe3490a63f" title="prepare_copied_tree" alt="" coords="354,421,493,448"/>
+<area shape="rect" id="node17" href="$asn1-func_8c.html#a18f4681076d366d423e0781626ffc530" title="print_value" alt="" coords="577,523,663,549"/>
+<area shape="rect" id="node19" href="$asn1-func_8c.html#a642f8cc78dffe940b3894a374d1db17d" title="copy_tree" alt="" coords="581,371,659,397"/>
+<area shape="rect" id="node20" href="$asn1-func_8c.html#a5d471a75b30604f8eaa33bdf1bd1c121" title="copy_node" alt="" coords="774,371,859,397"/>
+<area shape="rect" id="node21" href="$asn1-func_8c.html#aae9f4c3399deae4fb5ec48c46ea3aec3" title="add_node" alt="" coords="949,396,1027,423"/>
+<area shape="rect" id="node22" href="$asn1-func_8c.html#ad4618de1959eee7677ea56c5d13c7966" title="copy_value" alt="" coords="944,345,1032,372"/>
+<area shape="rect" id="node23" href="$asn1-func_8c.html#a6859442e15ff570d66f80245c3aff671" title="_ksba_asn_set_value" alt="" coords="1080,345,1228,372"/>
+<area shape="rect" id="node25" href="$ber-decoder_8c.html#ab48e252f97660ea8ad7ea33db00948f2" title="clear_help_flags" alt="" coords="562,472,678,499"/>
+<area shape="rect" id="node26" href="$asn1-func_8c.html#ae9a1455bfb37eb74adb75b5a4d6bbb97" title="_ksba_asn_walk_tree" alt="" coords="743,460,891,487"/>
+<area shape="rect" id="node27" href="$asn1-func_8c.html#a77a8f4cb360886f71c0cf49e96348d5c" title="find_up" alt="" coords="956,460,1020,487"/>
+</map>

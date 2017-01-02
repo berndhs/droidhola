@@ -1,0 +1,7 @@
+<map id="spoton::populatePoptasticWidgets" name="spoton::populatePoptasticWidgets">
+<area shape="rect" id="node2" href="$classspoton.html#a4635590b460e61a11dee2bd928c8bb2c" title="spoton::slotConfigurePoptastic" alt="" coords="468,33,669,60"/>
+<area shape="rect" id="node5" href="$classspoton.html#a600e2fb03f714e26a9ba882e8a3e5af3" title="spoton::slotPoptasticAccount\lChanged" alt="" coords="227,26,420,67"/>
+<area shape="rect" id="node6" href="$classspoton.html#a20626c15338cfc0a0c1a832e8d987a4f" title="spoton::slotDeletePoptastic\lAccount" alt="" coords="232,91,415,132"/>
+<area shape="rect" id="node3" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="909,33,1017,60"/>
+<area shape="rect" id="node4" href="$classspoton.html#a5ecd428270444817f2120b844b46afc5" title="spoton::slotSendMail" alt="" coords="717,58,861,85"/>
+</map>

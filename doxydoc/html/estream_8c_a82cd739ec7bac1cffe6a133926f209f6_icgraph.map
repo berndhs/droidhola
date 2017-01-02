@@ -1,0 +1,10 @@
+<map id="fname_set_internal" name="fname_set_internal">
+<area shape="rect" id="node2" href="$gpgrt-int_8h.html#a841033e8037bc49054d2cbd4634d3a5c" title="_gpgrt_fopen" alt="" coords="218,5,315,32"/>
+<area shape="rect" id="node4" href="$gpgrt-int_8h.html#ad584d9eff9e554e55028f02d623db5f0" title="_gpgrt__get_std_stream" alt="" coords="185,56,348,83"/>
+<area shape="rect" id="node6" href="$estream_8c.html#a8cea32cbeeb663d8fb07db6f2407b9bd" title="_gpgrt_freopen" alt="" coords="213,107,321,133"/>
+<area shape="rect" id="node8" href="$estream_8c.html#aa75b97ecc69f51bf5b4741e5302cb792" title="_gpgrt_fname_set" alt="" coords="203,157,330,184"/>
+<area shape="rect" id="node3" href="$gpg-error_8h.html#aef0101156ebfc9c6fec86dc8d77f574e" title="gpgrt_fopen" alt="" coords="428,5,519,32"/>
+<area shape="rect" id="node5" href="$gpg-error_8h.html#aa1e2507c9c12db6d62aa447c0493238b" title="_gpgrt_get_std_stream" alt="" coords="396,56,551,83"/>
+<area shape="rect" id="node7" href="$libgpg__error-1_824_2src_2visibility_8c.html#a5e21536af8187d9ed2aff66322599f24" title="gpgrt_freopen" alt="" coords="423,107,524,133"/>
+<area shape="rect" id="node9" href="$libgpg__error-1_824_2src_2visibility_8c.html#a359494943b9d9e42b7c9f787e27657a2" title="gpgrt_fname_set" alt="" coords="414,157,533,184"/>
+</map>

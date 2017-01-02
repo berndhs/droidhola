@@ -1,0 +1,8 @@
+<map id="assuan_write_status" name="assuan_write_status">
+<area shape="rect" id="node2" href="$ce-server_8c.html#ae9b2113e102b8081f4b3583afafae9ed" title="cmd_cd" alt="" coords="430,5,498,32"/>
+<area shape="rect" id="node6" href="$ce-server_8c.html#ae48877ae09338da597921b5dfa1502a8" title="cmd_newdataport_cont" alt="" coords="196,56,353,83"/>
+<area shape="rect" id="node3" href="$ce-server_8c.html#a2c49eb687d21286f04c061a565a34585" title="register_commands" alt="" coords="575,31,711,57"/>
+<area shape="rect" id="node4" href="$ce-server_8c.html#ad18fdc3df8fad95296a014ea46567b4b" title="server" alt="" coords="759,31,817,57"/>
+<area shape="rect" id="node5" href="$ce-server_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="865,31,916,57"/>
+<area shape="rect" id="node7" href="$ce-server_8c.html#a5889bfc3a260e383c0b989cb1529e8b9" title="cmd_newdataport" alt="" coords="401,56,527,83"/>
+</map>

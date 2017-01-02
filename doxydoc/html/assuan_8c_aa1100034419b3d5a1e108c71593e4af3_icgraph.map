@@ -1,0 +1,6 @@
+<map id="parse_version_number" name="parse_version_number">
+<area shape="rect" id="node2" href="$assuan_8c.html#a2ec1fc61a5e064017b695c9f96d2975a" title="parse_version_string" alt="" coords="207,5,349,32"/>
+<area shape="rect" id="node3" href="$assuan_8c.html#a153d609c6458bcdfc64e3595c5a5464b" title="compare_versions" alt="" coords="397,5,525,32"/>
+<area shape="rect" id="node4" href="$assuan_8c.html#ab002a7e180a4291621bc7dc9a5edafc6" title="assuan_check_version" alt="" coords="573,5,728,32"/>
+<area shape="rect" id="node5" href="$socks5_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="776,5,827,32"/>
+</map>

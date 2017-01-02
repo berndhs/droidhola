@@ -1,0 +1,7 @@
+<map id="insert_string" name="insert_string">
+<area shape="rect" id="node2" href="$asn1-gentables_8c.html#a6c3c4b564d9f8923108d9198864962ce" title="sort_string_table" alt="" coords="349,5,468,32"/>
+<area shape="rect" id="node4" href="$asn1-gentables_8c.html#a44472c166b022cc14457f9e7d0b66b05" title="write_string_table" alt="" coords="162,56,286,83"/>
+<area shape="rect" id="node5" href="$asn1-gentables_8c.html#a69b341e656d2754196bf7df88b52dbe5" title="create_static_structure" alt="" coords="147,107,301,133"/>
+<area shape="rect" id="node3" href="$asn1-gentables_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="516,56,567,83"/>
+<area shape="rect" id="node6" href="$asn1-gentables_8c.html#af14c3bd1461d12a7fc6ca5d123c01794" title="one_file" alt="" coords="375,107,442,133"/>
+</map>

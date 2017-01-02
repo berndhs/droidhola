@@ -1,0 +1,16 @@
+<map id="libgcrypt&#45;1.6.6/cipher/ecc&#45;eddsa.c" name="libgcrypt&#45;1.6.6/cipher/ecc&#45;eddsa.c">
+<area shape="rect" id="node7" href="$g10lib_8h.html" title="g10lib.h" alt="" coords="487,169,553,196"/>
+<area shape="rect" id="node21" href="$mpi_8h.html" title="mpi.h" alt="" coords="675,95,730,121"/>
+<area shape="rect" id="node23" href="$cipher_8h.html" title="cipher.h" alt="" coords="202,244,270,271"/>
+<area shape="rect" id="node26" href="$context_8h.html" title="context.h" alt="" coords="1142,95,1218,121"/>
+<area shape="rect" id="node27" href="$ec-context_8h.html" title="ec&#45;context.h" alt="" coords="1242,95,1337,121"/>
+<area shape="rect" id="node28" href="$ecc-common_8h.html" title="ecc&#45;common.h" alt="" coords="1361,95,1469,121"/>
+<area shape="rect" id="node9" href="$libgcrypt-1_86_86_2src_2visibility_8h.html" title="visibility.h" alt="" coords="295,244,375,271"/>
+<area shape="rect" id="node19" href="$types_8h.html" title="types.h" alt="" coords="430,393,495,420"/>
+<area shape="rect" id="node20" href="$libcompat_8h.html" title="../compat/libcompat.h" alt="" coords="450,244,598,271"/>
+<area shape="rect" id="node10" href="$gcrypt-int_8h.html" title="gcrypt&#45;int.h" alt="" coords="327,319,414,345"/>
+<area shape="rect" id="node11" href="$libgcrypt-1_86_86_2src_2gcrypt_8h.html" title="gcrypt.h" alt="" coords="336,393,405,420"/>
+<area shape="rect" id="node12" href="$gpg-error_8h.html" title="gpg&#45;error.h" alt="" coords="99,468,183,495"/>
+<area shape="rect" id="node24" href="$random_8h.html" title="../random/random.h" alt="" coords="169,319,303,345"/>
+<area shape="rect" id="node25" href="$cipher-proto_8h.html" title="cipher&#45;proto.h" alt="" coords="43,319,144,345"/>
+</map>

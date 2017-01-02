@@ -1,0 +1,14 @@
+<map id="func_fd_ioctl" name="func_fd_ioctl">
+<area shape="rect" id="node2" href="$estream_8c.html#aa5f085f10408118b1ea65399a7df7c08" title="do_fdopen" alt="" coords="149,81,232,108"/>
+<area shape="rect" id="node3" href="$gpgrt-int_8h.html#ad413f3e21e122d72d981deed62d43df5" title="_gpgrt_fdopen" alt="" coords="309,5,413,32"/>
+<area shape="rect" id="node5" href="$gpgrt-int_8h.html#a9535100ff602a161569608e7a0d112ab" title="_gpgrt_fdopen_nc" alt="" coords="299,56,424,83"/>
+<area shape="rect" id="node7" href="$estream_8c.html#a05445bc11c0057c380af86029e3650fd" title="do_sysopen" alt="" coords="315,107,407,133"/>
+<area shape="rect" id="node12" href="$gpgrt-int_8h.html#ad584d9eff9e554e55028f02d623db5f0" title="_gpgrt__get_std_stream" alt="" coords="280,183,443,209"/>
+<area shape="rect" id="node4" href="$gpg-error_8h.html#a7da1a675f24409603d523fe0f8f4f5f2" title="gpgrt_fdopen" alt="" coords="519,5,617,32"/>
+<area shape="rect" id="node6" href="$gpg-error_8h.html#ac26ed1778a38e354a9e524f7706e9f65" title="gpgrt_fdopen_nc" alt="" coords="509,56,627,83"/>
+<area shape="rect" id="node8" href="$estream_8c.html#adae88d44fe1d10780ef634613402a9b6" title="_gpgrt_sysopen" alt="" coords="511,107,625,133"/>
+<area shape="rect" id="node10" href="$estream_8c.html#a646caf7f9733d9080c816fac7aef1bd0" title="_gpgrt_sysopen_nc" alt="" coords="501,157,635,184"/>
+<area shape="rect" id="node9" href="$libgpg__error-1_824_2src_2visibility_8c.html#a328b599049f93b1becd107765e69945b" title="gpgrt_sysopen" alt="" coords="704,107,811,133"/>
+<area shape="rect" id="node11" href="$libgpg__error-1_824_2src_2visibility_8c.html#a491b09c6f087530b04dd19e76420599e" title="gpgrt_sysopen_nc" alt="" coords="693,157,821,184"/>
+<area shape="rect" id="node13" href="$gpg-error_8h.html#aa1e2507c9c12db6d62aa447c0493238b" title="_gpgrt_get_std_stream" alt="" coords="491,208,645,235"/>
+</map>

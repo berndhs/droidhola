@@ -1,0 +1,11 @@
+<map id="_assuan_server_finish" name="_assuan_server_finish">
+<area shape="rect" id="node2" href="$assuan-pipe-server_8c.html#a02d516e4d4fb1f073cc30c04ea730e57" title="assuan_init_pipe_server" alt="" coords="416,47,579,73"/>
+<area shape="rect" id="node7" href="$assuan-socket-server_8c.html#a3ddd2ec1e14c59aede6a1e3f24302692" title="assuan_init_socket\l_server" alt="" coords="430,109,565,150"/>
+<area shape="rect" id="node10" href="$server_8c.html#ab84f6717c5e886554716be69ca78230a" title="_assuan_server_release" alt="" coords="205,87,368,113"/>
+<area shape="rect" id="node3" href="$fdpassing_8c.html#ad18fdc3df8fad95296a014ea46567b4b" title="server" alt="" coords="639,5,697,32"/>
+<area shape="rect" id="node5" href="$pipeconnect_8c.html#a4c869243e5fc9785d327c8a5a5688a30" title="run_server" alt="" coords="627,56,709,83"/>
+<area shape="rect" id="node4" href="$fdpassing_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="757,5,808,32"/>
+<area shape="rect" id="node6" href="$pipeconnect_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="757,56,808,83"/>
+<area shape="rect" id="node8" href="$ce-server_8c.html#ad18fdc3df8fad95296a014ea46567b4b" title="server" alt="" coords="639,116,697,143"/>
+<area shape="rect" id="node9" href="$ce-server_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="757,116,808,143"/>
+</map>

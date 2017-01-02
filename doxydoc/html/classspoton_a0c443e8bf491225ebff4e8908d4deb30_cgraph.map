@@ -1,0 +1,9 @@
+<map id="spoton::slotPageClicked" name="spoton::slotPageClicked">
+<area shape="rect" id="node2" href="$classspoton.html#a86b4af804661b7a9bcd224ec0cb4c439" title="spoton::showUrls" alt="" coords="217,97,341,123"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#a3593ba44de0407d217d2c9ec1e5d2fdc" title="spoton_misc::removeSpecial\lHtmlTags" alt="" coords="389,5,580,47"/>
+<area shape="rect" id="node4" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="410,71,559,98"/>
+<area shape="rect" id="node6" href="$classspoton__misc.html#a72791c218d7f6330e2970d1e20d269b6" title="spoton_misc::urlToEncoded" alt="" coords="393,122,577,149"/>
+<area shape="rect" id="node7" href="$classspoton__textbrowser.html#a4139939a0c62a720c32e89c81bfe7d49" title="spoton_textbrowser\l::setHtml" alt="" coords="417,173,553,215"/>
+<area shape="rect" id="node5" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="628,71,791,98"/>
+<area shape="rect" id="node8" href="$classspoton__textbrowser.html#a5daee4fba79db05478cd28bb68292f28" title="spoton_textbrowser\l::removeSpecial" alt="" coords="641,173,777,215"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="spoton::slotTestPoptasticPop3Settings" name="spoton::slotTestPoptasticPop3Settings">
+<area shape="rect" id="node2" href="$dsa_8c.html#a7c4c65a32195584448e0c57c36a333ec" title="verify" alt="" coords="224,132,279,159"/>
+<area shape="rect" id="node3" href="$dsa-common_8c.html#a90d08d01786317a8766c07447c77eccc" title="_gcry_dsa_normalize_hash" alt="" coords="327,132,507,159"/>
+<area shape="rect" id="node4" href="$mpicoder_8c.html#a88839eb3c8e5d5262da7a6707064d8dc" title="_gcry_mpi_scan" alt="" coords="555,132,672,159"/>
+<area shape="rect" id="node5" href="$g10lib_8h.html#a097f30a540a9d8ac76ed54c1316a5376" title="_gcry_is_secure" alt="" coords="735,31,853,57"/>
+<area shape="rect" id="node11" href="$mpicoder_8c.html#a3f81a0df59f76b9270f67a75a1b3cb09" title="_gcry_mpi_set_buffer" alt="" coords="721,81,867,108"/>
+<area shape="rect" id="node12" href="$mpicoder_8c.html#a02a5680bd71311af65d71e624892607a" title="onecompl" alt="" coords="755,132,833,159"/>
+<area shape="rect" id="node13" href="$mpicoder_8c.html#a818551f69ff9bb89af2c1ff23233c5a9" title="mpi_read_from_buffer" alt="" coords="720,183,868,209"/>
+<area shape="rect" id="node14" href="$mpicoder_8c.html#a1628e7029f0d0bdbddf0f0adbb64363e" title="mpi_fromstr" alt="" coords="749,233,839,260"/>
+<area shape="rect" id="node6" href="$global_8c.html#a16e8af0a857ae959a2abb3c7e88e02f0" title="get_no_secure_memory" alt="" coords="917,5,1078,32"/>
+<area shape="rect" id="node9" href="$secmem_8c.html#a1a820af6bf0149451e1de1933f5cc0fb" title="_gcry_private_is_secure" alt="" coords="916,56,1079,83"/>
+<area shape="rect" id="node7" href="$fips_8c.html#a63eaab0cb53f75634165b2f2f0a4aa1c" title="_gcry_enforced_fips_mode" alt="" coords="1127,5,1305,32"/>
+<area shape="rect" id="node8" href="$fips_8c.html#a1236caccf2e256cb9e1b60c894a14639" title="_gcry_fips_mode" alt="" coords="1353,5,1475,32"/>
+<area shape="rect" id="node10" href="$secmem_8c.html#abfb42716ecfabdb452044d583c878448" title="ptr_into_pool_p" alt="" coords="1161,56,1271,83"/>
+</map>

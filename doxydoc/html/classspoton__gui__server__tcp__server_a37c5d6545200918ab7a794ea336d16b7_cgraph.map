@@ -1,0 +1,11 @@
+<map id="spoton_gui_server_tcp_server::incomingConnection" name="spoton_gui_server_tcp_server::incomingConnection">
+<area shape="rect" id="node2" href="$classspoton__crypt.html#a7b64db0419b1639040939c720459f4e1" title="spoton_crypt::generateSslKeys" alt="" coords="244,56,448,83"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="759,107,908,133"/>
+<area shape="rect" id="node7" href="$classspoton__kernel.html#a8446063eb3e80635f9d00b0b4679da70" title="spoton_kernel::setting" alt="" coords="271,183,421,209"/>
+<area shape="rect" id="node8" href="$classspoton__crypt.html#a7751d020388223ac4e2bae4dd1bc6bb5" title="spoton_crypt::setSslCiphers" alt="" coords="253,233,439,260"/>
+<area shape="rect" id="node5" href="$classspoton__crypt.html#a9774a625d031595453e8ab946a39ba11" title="spoton_crypt::generateCertificate" alt="" coords="496,31,711,57"/>
+<area shape="rect" id="node6" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="811,5,855,32"/>
+<area shape="rect" id="node4" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="956,107,1119,133"/>
+<area shape="rect" id="node9" href="$classspoton__crypt.html#a59bd58980c3171004a45f289c3fb5a45" title="spoton_crypt::defaultSsl\lCiphers" alt="" coords="522,205,685,246"/>
+<area shape="rect" id="node10" href="$idea_8c.html#a3f08f4c3c3d5ab6f0d9fe3ed47e0244f" title="cipher" alt="" coords="805,212,862,239"/>
+</map>

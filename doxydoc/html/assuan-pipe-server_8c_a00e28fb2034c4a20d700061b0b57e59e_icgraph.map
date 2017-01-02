@@ -1,0 +1,7 @@
+<map id="is_valid_socket" name="is_valid_socket">
+<area shape="rect" id="node2" href="$assuan-pipe-server_8c.html#a02d516e4d4fb1f073cc30c04ea730e57" title="assuan_init_pipe_server" alt="" coords="165,31,328,57"/>
+<area shape="rect" id="node3" href="$fdpassing_8c.html#ad18fdc3df8fad95296a014ea46567b4b" title="server" alt="" coords="388,5,447,32"/>
+<area shape="rect" id="node5" href="$pipeconnect_8c.html#a4c869243e5fc9785d327c8a5a5688a30" title="run_server" alt="" coords="376,56,459,83"/>
+<area shape="rect" id="node4" href="$fdpassing_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="507,5,557,32"/>
+<area shape="rect" id="node6" href="$pipeconnect_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="507,56,557,83"/>
+</map>

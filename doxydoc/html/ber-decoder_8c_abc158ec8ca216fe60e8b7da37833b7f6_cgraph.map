@@ -1,0 +1,16 @@
+<map id="decoder_init" name="decoder_init">
+<area shape="rect" id="node2" href="$ber-decoder_8c.html#a3bf609e75aa85e56659d32aa117101df" title="new_decoder_state" alt="" coords="159,43,294,69"/>
+<area shape="rect" id="node3" href="$asn1-func_8c.html#ab71a820388a50da3da15b6f90d08958d" title="_ksba_asn_expand_tree" alt="" coords="145,93,308,120"/>
+<area shape="rect" id="node13" href="$ber-decoder_8c.html#ab48e252f97660ea8ad7ea33db00948f2" title="clear_help_flags" alt="" coords="169,169,285,196"/>
+<area shape="rect" id="node4" href="$asn1-func_8c.html#a70169494dc8baa8359cd990492387761" title="find_node" alt="" coords="391,43,469,69"/>
+<area shape="rect" id="node7" href="$asn1-func_8c.html#ac44017320de9c1e210b3b687368ed570" title="do_expand_tree" alt="" coords="373,93,487,120"/>
+<area shape="rect" id="node5" href="$asn1-func_8c.html#a45812535c3da5692ced4fefebad07ffb" title="resolve_identifier" alt="" coords="567,43,687,69"/>
+<area shape="rect" id="node6" href="$asn1-func_8c.html#a09b304df147f3e99936886483645203e" title="_ksba_asn_find_node" alt="" coords="749,5,897,32"/>
+<area shape="rect" id="node8" href="$asn1-func_8c.html#a5d471a75b30604f8eaa33bdf1bd1c121" title="copy_node" alt="" coords="584,93,669,120"/>
+<area shape="rect" id="node12" href="$asn1-func_8c.html#ae59c8b7930843ab5d70c6a7384fb4cb0" title="_ksba_asn_set_name" alt="" coords="552,144,701,171"/>
+<area shape="rect" id="node9" href="$asn1-func_8c.html#aae9f4c3399deae4fb5ec48c46ea3aec3" title="add_node" alt="" coords="784,81,863,108"/>
+<area shape="rect" id="node10" href="$asn1-func_8c.html#ad4618de1959eee7677ea56c5d13c7966" title="copy_value" alt="" coords="779,132,867,159"/>
+<area shape="rect" id="node11" href="$asn1-func_8c.html#a6859442e15ff570d66f80245c3aff671" title="_ksba_asn_set_value" alt="" coords="945,132,1093,159"/>
+<area shape="rect" id="node14" href="$asn1-func_8c.html#ae9a1455bfb37eb74adb75b5a4d6bbb97" title="_ksba_asn_walk_tree" alt="" coords="356,181,504,208"/>
+<area shape="rect" id="node15" href="$asn1-func_8c.html#a77a8f4cb360886f71c0cf49e96348d5c" title="find_up" alt="" coords="595,195,659,221"/>
+</map>

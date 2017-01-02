@@ -1,0 +1,7 @@
+<map id="spec_from_oid" name="spec_from_oid">
+<area shape="rect" id="node2" href="$cipher_8c.html#af073c42f6019993009e8ec1f832d0340" title="search_oid" alt="" coords="160,31,245,57"/>
+<area shape="rect" id="node3" href="$gcrypt-int_8h.html#aeb0346bbe3d933c81f351055df4b5b17" title="_gcry_cipher_map_name" alt="" coords="306,5,473,32"/>
+<area shape="rect" id="node5" href="$gcrypt-int_8h.html#a612647765cd1fd5b8765633581bed4a4" title="_gcry_cipher_mode_from_oid" alt="" coords="293,56,485,83"/>
+<area shape="rect" id="node4" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#ace6ea32db3e5fca83c24563d87d1ff29" title="gcry_cipher_map_name" alt="" coords="546,5,706,32"/>
+<area shape="rect" id="node6" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#ad7543fb125e4f92ddc0f0037b31ed57a" title="gcry_cipher_mode_from_oid" alt="" coords="533,56,719,83"/>
+</map>

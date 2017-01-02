@@ -1,0 +1,9 @@
+<map id="spoton_kernel::duplicateGeminis" name="spoton_kernel::duplicateGeminis">
+<area shape="rect" id="node2" href="$classspoton__neighbor.html#a1d5b7fb6845c7d1e46c75e15dc713f21" title="spoton_neighbor::saveGemini" alt="" coords="216,56,411,83"/>
+<area shape="rect" id="node3" href="$classspoton__neighbor.html#a0cf652ccab9fab6bb6797359b310166c" title="spoton_neighbor::process0000a" alt="" coords="459,5,665,32"/>
+<area shape="rect" id="node7" href="$classspoton__neighbor.html#ad1ef5f5cd1a5901e037210351f66462b" title="spoton_neighbor::process0000b" alt="" coords="459,56,665,83"/>
+<area shape="rect" id="node8" href="$classspoton__neighbor.html#a4a5a8fcb0decf3d8a1751b54dda9418e" title="spoton_neighbor::process0000d" alt="" coords="459,107,665,133"/>
+<area shape="rect" id="node4" href="$classspoton__neighbor.html#a7b2aaa9d5b210ff677a7889986a949e6" title="spoton_neighbor::processData" alt="" coords="713,56,912,83"/>
+<area shape="rect" id="node5" href="$classspoton__neighbor.html#a9250c88da1eb47de5919685e09657538" title="spoton_neighbor::slotSendMail" alt="" coords="960,56,1160,83"/>
+<area shape="rect" id="node6" href="$classspoton__neighbor.html#aa6707b3133b337024de82dbd97d9e5ae" title="spoton_neighbor::receivedUuid" alt="" coords="1208,56,1409,83"/>
+</map>

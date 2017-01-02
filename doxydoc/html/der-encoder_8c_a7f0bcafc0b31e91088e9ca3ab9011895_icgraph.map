@@ -1,0 +1,12 @@
+<map id="_ksba_der_write_algorithm_identifier" name="_ksba_der_write_algorithm_identifier">
+<area shape="rect" id="node2" href="$certreq_8c.html#aa3c0a3e0705e4f93c034bbd9af1a81a1" title="sign_and_write" alt="" coords="269,5,378,32"/>
+<area shape="rect" id="node4" href="$cms_8c.html#a4b719e20e6faca6886903c64967fbb60" title="build_signed_data_header" alt="" coords="471,60,643,87"/>
+<area shape="rect" id="node6" href="$cms_8c.html#aee7fc0779cc8b3bf588052287ecde2fd" title="store_smime_capability\l_sequence" alt="" coords="244,107,403,149"/>
+<area shape="rect" id="node8" href="$cms_8c.html#ac6ae4a0e6369666e31bcf2e064f5a9d5" title="build_enveloped_data\l_header" alt="" coords="250,173,397,214"/>
+<area shape="rect" id="node10" href="$ocsp_8c.html#aec340ce93060bffedb0b4c7e5c8fde30" title="ksba_ocsp_prepare_request" alt="" coords="231,239,416,265"/>
+<area shape="rect" id="node3" href="$ksba_8h.html#a9be0990fb73fd160545dd5a233da34ce" title="ksba_certreq_build" alt="" coords="492,5,623,32"/>
+<area shape="rect" id="node5" href="$cms_8c.html#ac208f26b6c038303c7b160c722dee159" title="ct_build_signed_data" alt="" coords="699,87,843,113"/>
+<area shape="rect" id="node7" href="$cms_8c.html#ac6d21ecc275aa56753638017f61d6c78" title="build_signed_data_attributes" alt="" coords="464,113,651,140"/>
+<area shape="rect" id="node9" href="$cms_8c.html#a0a2fc23752e12fb825e59e6ae1290b9d" title="ct_build_enveloped_data" alt="" coords="475,180,640,207"/>
+<area shape="rect" id="node11" href="$ocsp_8c.html#a91ed3eb6d9ca3f6eebdb589cd88ce58e" title="ksba_ocsp_build_request" alt="" coords="473,239,642,265"/>
+</map>

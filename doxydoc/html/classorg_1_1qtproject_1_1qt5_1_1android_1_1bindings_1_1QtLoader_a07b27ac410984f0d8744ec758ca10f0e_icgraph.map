@@ -1,0 +1,9 @@
+<map id="org.qtproject.qt5.android.bindings.QtLoader.downloadUpgradeMinistro" name="org.qtproject.qt5.android.bindings.QtLoader.downloadUpgradeMinistro">
+<area shape="rect" id="node2" href="$classorg_1_1qtproject_1_1qt5_1_1android_1_1bindings_1_1QtLoader.html#ae6103f9d96f4f50e50521cb770de0bb9" title="org.qtproject.qt5.android.bindings.\lQtLoader.loadApplication" alt="" coords="283,41,501,83"/>
+<area shape="rect" id="node3" href="$classorg_1_1qtproject_1_1qt5_1_1android_1_1bindings_1_1QtLoader.html#a87dff5a9758807202874fff57e64f6d7" title="org.qtproject.qt5.android.bindings.\lQtLoader.startApp" alt="" coords="549,71,768,112"/>
+<area shape="rect" id="node4" href="$classorg_1_1qtproject_1_1qt5_1_1android_1_1bindings_1_1QtActivity.html#a4e9a7c6b28384e4d5f713462207ffc41" title="org.qtproject.qt5.android.bindings.\lQtActivity.onActivityResult" alt="" coords="816,5,1035,47"/>
+<area shape="rect" id="node5" href="$classorg_1_1qtproject_1_1qt5_1_1android_1_1bindings_1_1QtActivityLoader.html#ab1a13fd4c189a54872dda7a6a5f9564a" title="org.qtproject.qt5.android.bindings.\lQtActivityLoader.onCreate" alt="" coords="816,71,1035,112"/>
+<area shape="rect" id="node7" href="$classorg_1_1qtproject_1_1qt5_1_1android_1_1bindings_1_1QtServiceLoader.html#a5b1efb66d0fc1729101c7657e87ba095" title="org.qtproject.qt5.android.bindings.\lQtServiceLoader.onCreate" alt="" coords="816,136,1035,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1qtproject_1_1qt5_1_1android_1_1bindings_1_1QtActivity.html#aa826639406d6f0697e0f1afcf69c748c" title="org.qtproject.qt5.android.bindings.\lQtActivity.onCreate" alt="" coords="1083,71,1301,112"/>
+<area shape="rect" id="node8" href="$classorg_1_1qtproject_1_1qt5_1_1android_1_1bindings_1_1QtService.html#a5df68f99165405f05ae629635196d79f" title="org.qtproject.qt5.android.bindings.\lQtService.onCreate" alt="" coords="1083,136,1301,177"/>
+</map>

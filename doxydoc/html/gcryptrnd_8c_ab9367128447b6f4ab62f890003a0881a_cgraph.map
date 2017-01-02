@@ -1,0 +1,8 @@
+<map id="connection_loop" name="connection_loop">
+<area shape="rect" id="node2" href="$gcryptrnd_8c.html#aee992f4847da44de9d73d3ac5c724779" title="logit" alt="" coords="423,30,469,57"/>
+<area shape="rect" id="node3" href="$gcryptrnd_8c.html#a87c60527571fa51579664f0cb8401196" title="send_pong" alt="" coords="177,30,262,57"/>
+<area shape="rect" id="node5" href="$gcryptrnd_8c.html#a807fbe387aa237cb34a1ead81323773b" title="send_nonce" alt="" coords="173,81,265,108"/>
+<area shape="rect" id="node6" href="$gcryptrnd_8c.html#a6ea148ee3302df0f8c03ef232add96b5" title="send_random" alt="" coords="169,132,269,158"/>
+<area shape="rect" id="node7" href="$gcryptrnd_8c.html#aa3952df9f941804dcc7970744824e2cc" title="send_error" alt="" coords="178,182,261,209"/>
+<area shape="rect" id="node4" href="$gcryptrnd_8c.html#ad7e37101d407d11bf13c6e19f828281a" title="writen" alt="" coords="317,81,375,108"/>
+</map>

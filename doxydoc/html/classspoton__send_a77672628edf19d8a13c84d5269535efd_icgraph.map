@@ -1,0 +1,6 @@
+<map id="spoton_send::message0013" name="spoton_send::message0013">
+<area shape="rect" id="node2" href="$classspoton__kernel.html#a6bfaf47de56ae58fbcc63b053ed69a23" title="spoton_kernel::prepareStatus" alt="" coords="239,13,431,39"/>
+<area shape="rect" id="node5" href="$classspoton__neighbor.html#a95743d347fb9135e6f729fd42bcac8ae" title="spoton_neighbor::slotSend\lStatus" alt="" coords="247,64,423,105"/>
+<area shape="rect" id="node3" href="$classspoton__kernel.html#af36dd936f356ad3a2c57a368a69b735f" title="spoton_kernel::slotStatus\lTimerExpired" alt="" coords="479,5,649,47"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="697,5,848,47"/>
+</map>

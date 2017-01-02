@@ -1,0 +1,12 @@
+<map id="spoton_logviewer::spoton_logviewer" name="spoton_logviewer::spoton_logviewer">
+<area shape="rect" id="node2" href="$classUi__spoton__logviewer.html#aa103c0cf08e67e436cbe46711ddf4748" title="Ui_spoton_logviewer\l::setupUi" alt="" coords="259,5,402,47"/>
+<area shape="rect" id="node4" href="$classspoton__logviewer.html#a4464c44eae889367599d13df11d7fb2f" title="spoton_logviewer::slotClose" alt="" coords="237,71,424,98"/>
+<area shape="rect" id="node5" href="$classspoton__logviewer.html#a32401dd4ed3e90de67bc4607f58de91b" title="spoton_logviewer::slotClear" alt="" coords="239,122,422,149"/>
+<area shape="rect" id="node7" href="$classspoton__logviewer.html#a2248b57cafc823e51e3e4a9240802970" title="spoton_logviewer::slotEnableLog" alt="" coords="224,223,437,250"/>
+<area shape="rect" id="node8" href="$classspoton__misc.html#aa46516ce82488f11c0844c6a8554e402" title="spoton_misc::enableLog" alt="" coords="485,249,648,275"/>
+<area shape="rect" id="node9" href="$classspoton__logviewer.html#a34cab4f6105e0e3217c4c34c57bc835b" title="spoton_logviewer::slotTimeout" alt="" coords="231,173,430,199"/>
+<area shape="rect" id="node10" href="$classspoton__logviewer.html#aca789054476f0c520bd4f9af8cccc3e2" title="spoton_logviewer::slotSet\lIcons" alt="" coords="245,325,417,367"/>
+<area shape="rect" id="node3" href="$classUi__spoton__logviewer.html#a9588f35c5a526e80544b6382606cea8a" title="Ui_spoton_logviewer\l::retranslateUi" alt="" coords="495,5,638,47"/>
+<area shape="rect" id="node6" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="485,147,648,174"/>
+<area shape="rect" id="node11" href="$classspoton__logviewer.html#a19c6ccad4fcf25de888f04a83e068fdf" title="spoton_logviewer::show" alt="" coords="485,333,648,359"/>
+</map>

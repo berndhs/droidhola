@@ -1,0 +1,6 @@
+<map id="spoton::slotShowBuzzTabContextMenu" name="spoton::slotShowBuzzTabContextMenu">
+<area shape="rect" id="node2" href="$classspoton.html#a672bd83eca9e947558531157646fdca5" title="spoton::slotSeparateBuzzPage" alt="" coords="307,31,509,57"/>
+<area shape="rect" id="node5" href="$classspoton__tabwidget.html#a9a962922c0f10a6feea621ecce16bfd4" title="spoton_tabwidget::tabBar" alt="" coords="323,81,493,108"/>
+<area shape="rect" id="node3" href="$classspoton__buzzpage.html#ae59bbbc17ee7120d57391d564a77504d" title="spoton_buzzpage::channel" alt="" coords="566,5,743,32"/>
+<area shape="rect" id="node4" href="$classspoton__buzzpage.html#aa594abd13b58374aecfd5de6f0c8a821" title="spoton_buzzpage::showUnify" alt="" coords="557,56,752,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="logimpl_new" name="logimpl_new">
+<area shape="rect" id="node2" href="$gpgcedev_8c.html#a0bf5b7d76cca42ff2a491726bef500ee" title="assert_logimpl" alt="" coords="148,31,255,57"/>
+<area shape="rect" id="node3" href="$gpgcedev_8c.html#a07581782754c4d5a1364cfebea81f918" title="access_opnctx" alt="" coords="303,31,413,57"/>
+<area shape="rect" id="node4" href="$gpgcedev_8c.html#a4d8651998a71352e811646e264acfcb6" title="GPG_Read" alt="" coords="461,5,551,32"/>
+<area shape="rect" id="node5" href="$gpgcedev_8c.html#a40774ad94b140d41045938a674b22c03" title="GPG_Write" alt="" coords="461,56,551,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="spoton::populateNovas" name="spoton::populateNovas">
+<area shape="rect" id="node2" href="$classspoton.html#a7fd5f71f1de76a7d14b119e25cfab0eb" title="spoton::slotSetPassphrase" alt="" coords="209,44,388,70"/>
+<area shape="rect" id="node5" href="$classspoton.html#a076aafec8a919d153580364478b0a3a5" title="spoton::slotValidatePassphrase" alt="" coords="436,102,643,129"/>
+<area shape="rect" id="node6" href="$classspoton.html#a8ddb2684a36eaf0045e60a59df2f9228" title="spoton::slotAddReceiveNova" alt="" coords="443,153,635,180"/>
+<area shape="rect" id="node7" href="$classspoton.html#add1baeaee53eeec42df2d2c00cf80799" title="spoton::slotDeleteNova" alt="" coords="219,204,378,230"/>
+<area shape="rect" id="node3" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="691,102,799,129"/>
+<area shape="rect" id="node4" href="$classspoton.html#a68e6ce65025cb17837acb9ed17556fdf" title="spoton::slotPrepareAndShow\lInstallationWizard" alt="" coords="444,36,635,78"/>
+</map>

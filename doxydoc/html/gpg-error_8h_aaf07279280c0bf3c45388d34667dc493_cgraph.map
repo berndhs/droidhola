@@ -1,0 +1,5 @@
+<map id="gpg_strerror" name="gpg_strerror">
+<area shape="rect" id="node2" href="$gpgrt-int_8h.html#ad55b60d3ee934004a959e0f43a2b9a0b" title="_gpg_strerror" alt="" coords="144,31,243,57"/>
+<area shape="rect" id="node3" href="$gpg-error_8h.html#ae9aa174cb4e6c638dcfa58942b79ed2d" title="gpg_err_code" alt="" coords="303,5,403,32"/>
+<area shape="rect" id="node4" href="$strerror_8c.html#a8f278257e28e0a83399180a13a969984" title="system_strerror_r" alt="" coords="291,56,415,83"/>
+</map>

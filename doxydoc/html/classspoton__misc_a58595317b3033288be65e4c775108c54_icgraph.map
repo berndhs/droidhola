@@ -1,0 +1,5 @@
+<map id="spoton_misc::saveParticipantStatus" name="spoton_misc::saveParticipantStatus">
+<area shape="rect" id="node2" href="$classspoton__kernel.html#a11acff8df05edd78c3441343fa9d9b4a" title="spoton_kernel::slotPopped\lMessage" alt="" coords="267,5,443,47"/>
+<area shape="rect" id="node4" href="$classspoton__neighbor.html#a65575dfdcf639bf050c1ce32c760ee72" title="spoton_neighbor::saveParticipant\lStatus" alt="" coords="248,71,463,112"/>
+<area shape="rect" id="node3" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="511,5,661,47"/>
+</map>

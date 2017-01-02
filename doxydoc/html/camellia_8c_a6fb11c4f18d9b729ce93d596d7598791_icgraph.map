@@ -1,0 +1,9 @@
+<map id="camellia_setup256" name="camellia_setup256">
+<area shape="rect" id="node2" href="$camellia_8c.html#a720cfdaf4cb98f8dc07c396e132886ef" title="camellia_setup192" alt="" coords="184,43,315,69"/>
+<area shape="rect" id="node3" href="$camellia_8h.html#a9a7a513a1b4cde274748d263c1bb249c" title="Camellia_Ekeygen" alt="" coords="363,68,493,95"/>
+<area shape="rect" id="node4" href="$camellia-glue_8c.html#ab01fe86e37868e41482b850e150d99aa" title="camellia_setkey" alt="" coords="541,68,657,95"/>
+<area shape="rect" id="node5" href="$camellia-glue_8c.html#a3fc0a7315ddb41e8ddcb26d6779be1ea" title="selftest_ctr_128" alt="" coords="709,5,823,32"/>
+<area shape="rect" id="node6" href="$camellia-glue_8c.html#acc2071e18a8fb5ad7b0de8ca170aa7b5" title="selftest" alt="" coords="875,68,940,95"/>
+<area shape="rect" id="node7" href="$camellia-glue_8c.html#aff1fdd05a1eb4142e3dd7df6e837a9a5" title="selftest_cbc_128" alt="" coords="705,131,827,157"/>
+<area shape="rect" id="node8" href="$camellia-glue_8c.html#a3be0fd783c4e0189416b28581ebaefcc" title="selftest_cfb_128" alt="" coords="707,181,825,208"/>
+</map>

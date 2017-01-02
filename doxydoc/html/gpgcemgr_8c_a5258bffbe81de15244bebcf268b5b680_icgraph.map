@@ -1,0 +1,21 @@
+<map id="DWORD" name="DWORD">
+<area shape="rect" id="node2" href="$gpgcemgr_8c.html#a796d42a503435bce4176a1663bcd5c5d" title="install" alt="" coords="164,114,220,141"/>
+<area shape="rect" id="node3" href="$gpgcemgr_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="304,165,355,191"/>
+<area shape="rect" id="node18" href="$gpgcemgr_8c.html#a3c8a6070625e61f0e3e3a9ee8ee91c86" title="enable_debug" alt="" coords="141,165,243,191"/>
+<area shape="rect" id="node19" href="$gpgcemgr_8c.html#a7bdb9fa73cd589ce1d6b69823ec31db7" title="enable_log" alt="" coords="150,215,234,242"/>
+<area shape="rect" id="node20" href="$gpgcemgr_8c.html#a5dc4294d23766a6e2b75fcf67d61ccd6" title="set_show_registry" alt="" coords="128,266,256,293"/>
+<area shape="rect" id="node4" href="$twofish_8c.html#acc2071e18a8fb5ad7b0de8ca170aa7b5" title="selftest" alt="" coords="463,89,528,115"/>
+<area shape="rect" id="node10" href="$hmac256_8h.html#ae518b97f766a4400d6c4f2b619f78844" title="_gcry_hmac256_file" alt="" coords="426,165,565,191"/>
+<area shape="rect" id="node17" href="$gpg-error_8h.html#a09551a1ca1817be8138e2c90a36f7712" title="_gpg_w32_gettext_use_utf8" alt="" coords="403,215,588,242"/>
+<area shape="rect" id="node5" href="$twofish_8c.html#a8dd5a71a95679d3cd261c94fa135905d" title="do_twofish_setkey" alt="" coords="647,63,777,90"/>
+<area shape="rect" id="node6" href="$twofish_8c.html#aaf7290c0fa56ba9fcabb037465a8f7bc" title="twofish_setkey" alt="" coords="863,63,973,90"/>
+<area shape="rect" id="node7" href="$twofish_8c.html#a07072f143675aca1dced9bf4dbc5d35a" title="selftest_ctr" alt="" coords="1089,13,1176,39"/>
+<area shape="rect" id="node8" href="$twofish_8c.html#a225fadab2fdcba1aff24192aaef909a0" title="selftest_cbc" alt="" coords="1086,89,1179,115"/>
+<area shape="rect" id="node9" href="$twofish_8c.html#ae4eb93fb7b0b6a28c71183cda37e4ca1" title="selftest_cfb" alt="" coords="1087,139,1178,166"/>
+<area shape="rect" id="node11" href="$fips_8c.html#a017200f9886b076967965736be0c562a" title="check_binary_integrity" alt="" coords="636,215,788,242"/>
+<area shape="rect" id="node12" href="$g10lib_8h.html#a10a09a1883ee96a71fcccfef32771903" title="_gcry_fips_run_selftests" alt="" coords="836,215,1000,242"/>
+<area shape="rect" id="node13" href="$g10lib_8h.html#ac9f86a44740c18904d8eedba9a9f523e" title="_gcry_fips_is_operational" alt="" coords="1048,241,1217,267"/>
+<area shape="rect" id="node15" href="$global_8c.html#a197de31474f305a294a7555b4ed6f26f" title="_gcry_vcontrol" alt="" coords="1303,190,1410,217"/>
+<area shape="rect" id="node14" href="$global_8c.html#afb83fe45590e215b1a758b86076369a7" title="_gcry_global_is_operational" alt="" coords="1265,241,1448,267"/>
+<area shape="rect" id="node16" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a1880c4ce4c093ba2ea4a775ecf26ca29" title="gcry_control" alt="" coords="1496,190,1589,217"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="selftest_cbc" name="selftest_cbc">
+<area shape="rect" id="node2" href="$cipher-selftest_8c.html#a2846830beab215b91777e7806d73ae02" title="_gcry_selftest_helper_cbc" alt="" coords="743,765,917,792"/>
+<area shape="rect" id="node5" href="$twofish_8c.html#aaf7290c0fa56ba9fcabb037465a8f7bc" title="twofish_setkey" alt="" coords="147,613,257,640"/>
+<area shape="rect" id="node8" href="$twofish_8c.html#aad7b205cfe5e7d3fb1fa48d1c4610afc" title="twofish_encrypt" alt="" coords="987,588,1102,615"/>
+<area shape="rect" id="node36" href="$twofish_8c.html#a6506a5cd47b663dcad2a035eae17d397" title="_gcry_twofish_cbc_dec" alt="" coords="965,917,1124,944"/>
+<area shape="rect" id="node3" href="$bufhelp_8h.html#a30056825097495177fbe6cb0e36391ec" title="buf_xor" alt="" coords="1012,676,1077,703"/>
+<area shape="rect" id="node4" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="1021,816,1068,843"/>
+<area shape="rect" id="node6" href="$twofish_8c.html#a8dd5a71a95679d3cd261c94fa135905d" title="do_twofish_setkey" alt="" coords="305,588,436,615"/>
+<area shape="rect" id="node7" href="$twofish_8c.html#acc2071e18a8fb5ad7b0de8ca170aa7b5" title="selftest" alt="" coords="487,524,553,551"/>
+<area shape="rect" id="node35" href="$common_8h.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="484,588,556,615"/>
+<area shape="rect" id="node10" href="$twofish_8c.html#a8d912421740f826b522579eec8bc53e2" title="twofish_decrypt" alt="" coords="1182,613,1297,640"/>
+<area shape="rect" id="node12" href="$twofish_8c.html#a07072f143675aca1dced9bf4dbc5d35a" title="selftest_ctr" alt="" coords="606,639,693,665"/>
+<area shape="rect" id="node15" href="$twofish_8c.html#ae4eb93fb7b0b6a28c71183cda37e4ca1" title="selftest_cfb" alt="" coords="604,689,695,716"/>
+<area shape="rect" id="node21" href="$gpgcemgr_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="624,208,675,235"/>
+<area shape="rect" id="node9" href="$twofish_8c.html#ab8fc9490d2ad622b104c828cfb1b8b4f" title="do_twofish_encrypt" alt="" coords="1172,563,1307,589"/>
+<area shape="rect" id="node11" href="$twofish_8c.html#a2445e81b0a5b5183651f157769bc7832" title="do_twofish_decrypt" alt="" coords="1355,613,1489,640"/>
+<area shape="rect" id="node13" href="$cipher-selftest_8c.html#a99864d1f391253e3bbb3a17219472c7b" title="_gcry_selftest_helper_ctr" alt="" coords="746,816,914,843"/>
+<area shape="rect" id="node14" href="$twofish_8c.html#a76e2a9e1eb220211fcafdb0908eb24b2" title="_gcry_twofish_ctr_enc" alt="" coords="753,664,907,691"/>
+<area shape="rect" id="node16" href="$cipher-selftest_8c.html#a9bcc85952de1d3fe15f02ac1b2bc0dd5" title="_gcry_selftest_helper_cfb" alt="" coords="745,867,915,893"/>
+<area shape="rect" id="node18" href="$twofish_8c.html#a3063ba99060ba5f429d9ad58fd78f04e" title="_gcry_twofish_cfb_dec" alt="" coords="752,715,908,741"/>
+<area shape="rect" id="node17" href="$bufhelp_8h.html#aea16329dc60d338b17bd1f9f129ee71f" title="buf_xor_2dst" alt="" coords="996,867,1093,893"/>
+<area shape="rect" id="node19" href="$bufhelp_8h.html#a916800b20dd0d4c6d1a4738a1ba5c1c2" title="buf_xor_n_copy" alt="" coords="987,752,1102,779"/>
+<area shape="rect" id="node20" href="$bufhelp_8h.html#a5a6fd291daf175f1c1c625e6b5e3859c" title="buf_xor_n_copy_2" alt="" coords="1175,853,1303,880"/>
+<area shape="rect" id="node22" href="$gpgcemgr_8c.html#a796d42a503435bce4176a1663bcd5c5d" title="install" alt="" coords="802,208,858,235"/>
+<area shape="rect" id="node23" href="$gpgcemgr_8c.html#a5258bffbe81de15244bebcf268b5b680" title="DWORD" alt="" coords="1007,309,1082,336"/>
+<area shape="rect" id="node24" href="$gpgcemgr_8c.html#a0f3802a2b99efa6c0a4ca6dca2e0719b" title="deinstall" alt="" coords="795,5,865,32"/>
+<area shape="rect" id="node25" href="$gpgcemgr_8c.html#aa570ffa7260e57551f48fa4bb0f7e646" title="HANDLE" alt="" coords="1006,5,1083,32"/>
+<area shape="rect" id="node26" href="$gpgcemgr_8c.html#acd7f448124fab5675e3f53dd93af76fa" title="gravity" alt="" coords="799,107,861,133"/>
+<area shape="rect" id="node28" href="$gpgcemgr_8c.html#a3c8a6070625e61f0e3e3a9ee8ee91c86" title="enable_debug" alt="" coords="779,309,881,336"/>
+<area shape="rect" id="node29" href="$gpgcemgr_8c.html#a7bdb9fa73cd589ce1d6b69823ec31db7" title="enable_log" alt="" coords="788,360,872,387"/>
+<area shape="rect" id="node30" href="$gpgcemgr_8c.html#a5dc4294d23766a6e2b75fcf67d61ccd6" title="set_show_registry" alt="" coords="766,157,894,184"/>
+<area shape="rect" id="node27" href="$gpgcemgr_8c.html#acd07c40da5e022213527128ffd5ca311" title="load_sensor_api" alt="" coords="987,56,1103,83"/>
+<area shape="rect" id="node31" href="$gpgcemgr_8c.html#af65de3d582d694fdd257c52c6e1ca052" title="utf8_to_wchar" alt="" coords="993,107,1097,133"/>
+<area shape="rect" id="node32" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="1209,157,1269,184"/>
+<area shape="rect" id="node33" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1023,208,1067,235"/>
+<area shape="rect" id="node34" href="$gpgcemgr_8c.html#a004389a3e9a1c48eca8e0897eed85d45" title="wchar_to_utf8" alt="" coords="993,259,1097,285"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="spoton_misc::nameFromPublicKeyHash" name="spoton_misc::nameFromPublicKeyHash">
+<area shape="rect" id="node2" href="$classspoton.html#abef49f33ed23b27ff9d9474063c65886" title="spoton::slotReceivedKernel\lMessage" alt="" coords="558,6,741,47"/>
+<area shape="rect" id="node4" href="$classspoton.html#a4500a49d51e10e649bdc14395e4a387b" title="spoton::slotRespondToForward\lSecrecy" alt="" coords="547,71,751,113"/>
+<area shape="rect" id="node5" href="$classspoton.html#adc0ccb43881c11bf42266ac3659a8381" title="spoton::forwardSecrecyRequested" alt="" coords="259,28,481,55"/>
+<area shape="rect" id="node6" href="$classspoton__kernel.html#aaf341f9c7581b31e4f74f78583b9a351" title="spoton_kernel::slotForward\lSecrecyResponseReceivedFromUI" alt="" coords="256,130,484,171"/>
+<area shape="rect" id="node3" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="842,47,950,73"/>
+<area shape="rect" id="node7" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="821,130,971,171"/>
+<area shape="rect" id="node8" href="$classspoton__kernel.html#aa11832e947d49a438e4282d14a200b30" title="spoton_kernel::slotForward\lSecrecyInformationReceivedFromUI" alt="" coords="532,189,767,230"/>
+<area shape="rect" id="node9" href="$classspoton__kernel.html#a6638a67afa993edb0ae81370396974cd" title="spoton_kernel::saveUrls" alt="" coords="815,196,977,223"/>
+</map>

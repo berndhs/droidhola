@@ -1,0 +1,11 @@
+<map id="_gpgrt_write_hexstring" name="_gpgrt_write_hexstring">
+<area shape="rect" id="node2" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="261,5,307,32"/>
+<area shape="rect" id="node3" href="$estream_8c.html#acd9ff6d045750599e5fe365810cabe2a" title="lock_stream" alt="" coords="237,56,331,83"/>
+<area shape="rect" id="node7" href="$estream_8c.html#a631b78cee7b909a28dfbd962b25bffae" title="_gpgrt_ferror_unlocked" alt="" coords="207,107,361,133"/>
+<area shape="rect" id="node8" href="$estream_8c.html#a83be3e59bf1cc7ecd456f0f590d0d603" title="unlock_stream" alt="" coords="231,157,337,184"/>
+<area shape="rect" id="node4" href="$gpgrt-int_8h.html#a0f00a284f65b08c64de0b534e3ea61d6" title="_gpgrt_lock_lock" alt="" coords="417,56,537,83"/>
+<area shape="rect" id="node5" href="$posix-lock_8c.html#a29941b915cdd80d606a9565926aa4c42" title="get_lock_object" alt="" coords="612,107,725,133"/>
+<area shape="rect" id="node6" href="$pthread_8h.html#aef3f55cad288fdbc9c39bff9d668de1e" title="pthread_mutex_lock" alt="" coords="599,56,738,83"/>
+<area shape="rect" id="node9" href="$gpgrt-int_8h.html#af316909a57a745e15858f6ccbc67bf9f" title="_gpgrt_lock_unlock" alt="" coords="409,157,544,184"/>
+<area shape="rect" id="node10" href="$pthread_8h.html#a2e24c7aa54ba10a032b7b6cd06c3caaa" title="pthread_mutex_unlock" alt="" coords="592,157,745,184"/>
+</map>

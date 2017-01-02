@@ -1,0 +1,8 @@
+<map id="data_cb" name="data_cb">
+<area shape="rect" id="node2" href="$client_8c.html#ad33b332c08c83a1adb0ce335117631b9" title="assuan_transact" alt="" coords="121,68,240,95"/>
+<area shape="rect" id="node6" href="$pipeconnect_8c.html#a7f85abcf02014cb64b3ade4b0be591f1" title="run_client" alt="" coords="288,119,367,145"/>
+<area shape="rect" id="node3" href="$fdpassing_8c.html#ac9c5d281fe05dc38299065a5b999f952" title="client" alt="" coords="301,64,354,91"/>
+<area shape="rect" id="node4" href="$fdpassing_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="483,5,534,32"/>
+<area shape="rect" id="node5" href="$classspoton__listener__udp__server.html#ac1911963656e284c6f727c92197953a2" title="spoton_listener_udp\l_server::slotClientDestroyed" alt="" coords="415,57,603,98"/>
+<area shape="rect" id="node7" href="$pipeconnect_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="483,123,534,149"/>
+</map>

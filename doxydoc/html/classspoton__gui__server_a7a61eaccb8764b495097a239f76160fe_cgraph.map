@@ -1,0 +1,5 @@
+<map id="spoton_gui_server::slotClientDisconnected" name="spoton_gui_server::slotClientDisconnected">
+<area shape="rect" id="node2" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="221,5,370,32"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#a6e46f4fba7bc41d22c09dc18063486eb" title="spoton_kernel::clearBuzz\lKeysContainer" alt="" coords="211,57,380,98"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="428,5,591,32"/>
+</map>

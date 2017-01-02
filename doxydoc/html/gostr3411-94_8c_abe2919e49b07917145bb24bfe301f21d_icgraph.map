@@ -1,0 +1,31 @@
+<map id="do_a2" name="do_a2">
+<area shape="rect" id="node2" href="$gostr3411-94_8c.html#a7f8f7f694ed51c6b77ff1f82f409e47b" title="do_hash_step" alt="" coords="111,81,213,108"/>
+<area shape="rect" id="node3" href="$gostr3411-94_8c.html#a946d9ea2510582088b7102912c4e07ef" title="transform" alt="" coords="276,56,353,83"/>
+<area shape="rect" id="node30" href="$gostr3411-94_8c.html#a1422118e1edc4f5a537ebc81d251ce11" title="gost3411_final" alt="" coords="261,107,368,133"/>
+<area shape="rect" id="node4" href="$gostr3411-94_8c.html#a49c52f9ba961cf00de89d353f4a06269" title="gost3411_init" alt="" coords="450,5,549,32"/>
+<area shape="rect" id="node5" href="$classspoton__pacify.html#a62fc443181202854dcfc81dd55e185e7" title="spoton_pacify::distance" alt="" coords="419,56,579,83"/>
+<area shape="rect" id="node9" href="$classspoton.html#a1df0de2e97ead760991a241c59d3c5d3" title="spoton::prepareTabIcons" alt="" coords="416,107,583,133"/>
+<area shape="rect" id="node6" href="$classspoton__pacify.html#a5b3814feebd8041fe2ac81dd3ee5cc97" title="spoton_pacify::evaluate" alt="" coords="631,56,791,83"/>
+<area shape="rect" id="node7" href="$classspoton.html#acffd31ba3cdeb8eaa9b7fdbdca5448c0" title="spoton::slotPassphraseChanged" alt="" coords="1091,56,1301,83"/>
+<area shape="rect" id="node8" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="2609,452,2717,479"/>
+<area shape="rect" id="node10" href="$classspoton.html#a29f80d1ca3a2e484b974f01b9ebaeb00" title="spoton::slotChangeTabPosition" alt="" coords="839,107,1043,133"/>
+<area shape="rect" id="node11" href="$classspoton.html#acd78326e3bad227ea11d6cdebe083b59" title="spoton::slotSetIcons" alt="" coords="639,637,782,664"/>
+<area shape="rect" id="node12" href="$classspoton.html#a6feb2a72f5f5e9da43507d941e1418b9" title="spoton::slotJoinBuzzChannel" alt="" coords="845,528,1037,555"/>
+<area shape="rect" id="node22" href="$classspoton.html#af52fe5b02637d66c02fc33eff54e826b" title="spoton::slotParticipantDouble\lClicked" alt="" coords="1883,689,2076,730"/>
+<area shape="rect" id="node27" href="$classspoton.html#aabe74aa9d4262780a09c059be5851064" title="spoton::slotBuzzInvite" alt="" coords="2139,848,2291,875"/>
+<area shape="rect" id="node28" href="$classspoton.html#a8fef7f4b4bdc5d93b3cfa4d9a2654656" title="spoton::joinBuzzChannel" alt="" coords="857,637,1024,664"/>
+<area shape="rect" id="node13" href="$classspoton.html#aaae742eed1c2c0fc0cabf018cec30118" title="spoton::demagnetize" alt="" coords="1125,477,1267,504"/>
+<area shape="rect" id="node14" href="$classspoton.html#abc2327c8585aa207f08e283f2aadcc3c" title="spoton::slotBuzzTools" alt="" coords="1654,477,1806,504"/>
+<area shape="rect" id="node15" href="$classspoton.html#afdf14c36b504db444934476db531c7ad" title="spoton::slotCommonBuzzChannels\lActivated" alt="" coords="1349,411,1577,453"/>
+<area shape="rect" id="node16" href="$classspoton.html#afbd1d658bbcff76ddb75441e5a8cdb55" title="spoton::joinDefaultBuzzChannel" alt="" coords="1625,317,1835,344"/>
+<area shape="rect" id="node17" href="$classspoton.html#a47f1391123874935ad9e4950cf1b3e6f" title="spoton::slotActivateKernel" alt="" coords="1892,259,2067,285"/>
+<area shape="rect" id="node18" href="$classspoton.html#a7fd5f71f1de76a7d14b119e25cfab0eb" title="spoton::slotSetPassphrase" alt="" coords="2126,309,2305,336"/>
+<area shape="rect" id="node20" href="$classspoton.html#a076aafec8a919d153580364478b0a3a5" title="spoton::slotValidatePassphrase" alt="" coords="2355,157,2561,184"/>
+<area shape="rect" id="node21" href="$classspoton.html#a4ff6547d30713687de44a302616d4ea1" title="spoton::slotKernelStatus" alt="" coords="2375,208,2541,235"/>
+<area shape="rect" id="node19" href="$classspoton.html#a68e6ce65025cb17837acb9ed17556fdf" title="spoton::slotPrepareAndShow\lInstallationWizard" alt="" coords="2363,361,2553,402"/>
+<area shape="rect" id="node23" href="$classspoton.html#abef49f33ed23b27ff9d9474063c65886" title="spoton::slotReceivedKernel\lMessage" alt="" coords="2124,731,2307,773"/>
+<area shape="rect" id="node24" href="$classspoton.html#aafbf9e73d3f1bb5ed75805ebf551ab92" title="spoton::slotChatPopup" alt="" coords="2138,797,2293,824"/>
+<area shape="rect" id="node25" href="$classspoton.html#a77dc6737506922c05e3fb02fd6c8b626" title="spoton::slotShowContextMenu" alt="" coords="2357,789,2559,816"/>
+<area shape="rect" id="node26" href="$classspoton.html#ae492972714a400a14a99ba2c5fe8b2b0" title="spoton::prepareContextMenu\lMirrors" alt="" coords="2363,841,2553,882"/>
+<area shape="rect" id="node29" href="$classspoton.html#a7e88cbc4cf98ae65c410550335b3c143" title="spoton::slotMessagesAnchor\lClicked" alt="" coords="1635,630,1825,671"/>
+</map>

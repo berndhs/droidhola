@@ -1,0 +1,12 @@
+<map id="_gcry_logv" name="_gcry_logv">
+<area shape="rect" id="node2" href="$misc_8c.html#a83cf91040dda76d20c11a275a65cccb8" title="_gcry_log" alt="" coords="168,31,247,57"/>
+<area shape="rect" id="node5" href="$misc_8c.html#a7c99e61073db339ba2d65113ecfadb82" title="_gcry_log_info" alt="" coords="154,81,261,108"/>
+<area shape="rect" id="node6" href="$misc_8c.html#a281f7dd5a18eadfb5b97bcffe7a67e5c" title="_gcry_log_info_with\l_dummy_fp" alt="" coords="139,133,276,174"/>
+<area shape="rect" id="node7" href="$misc_8c.html#a80a573e5102d8fdc38a75cfdb63bc469" title="_gcry_log_error" alt="" coords="152,199,263,225"/>
+<area shape="rect" id="node8" href="$misc_8c.html#a1eace77971e97821fed1d03c93e11aaa" title="_gcry_log_fatal" alt="" coords="152,249,263,276"/>
+<area shape="rect" id="node9" href="$misc_8c.html#a507ebc68385bf75422abcb2c8258d979" title="_gcry_log_bug" alt="" coords="154,300,261,327"/>
+<area shape="rect" id="node10" href="$misc_8c.html#a9067b333d199c5b0d1385948672bc55d" title="_gcry_log_debug" alt="" coords="147,351,267,377"/>
+<area shape="rect" id="node11" href="$misc_8c.html#ab0868cdf4f6ea5c6931a64bb47a465c7" title="_gcry_log_printf" alt="" coords="150,401,265,428"/>
+<area shape="rect" id="node3" href="$misc_8c.html#a7fa808682f702fb8a821be5f6d3704cc" title="_gcry_bug" alt="" coords="350,5,433,32"/>
+<area shape="rect" id="node4" href="$misc_8c.html#a8c8b5e2aa662d7a9973e8af91b5f6f5a" title="_gcry_assert_failed" alt="" coords="324,56,459,83"/>
+</map>

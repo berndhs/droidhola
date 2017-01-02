@@ -1,0 +1,8 @@
+<map id="spoton_kernel" name="spoton_kernel">
+<area shape="rect" id="node8" href="$classspoton__mailer.html" title="spoton_mailer" alt="" coords="379,40,481,66"/>
+<area shape="rect" id="node3" href="$classspoton__gui__server.html" title="spoton_gui_server" alt="" coords="366,90,494,117"/>
+<area shape="rect" id="node4" href="$classspoton__gui__server__tcp__server.html" title="spoton_gui_server_tcp\l_server" alt="" coords="147,83,300,124"/>
+<area shape="rect" id="node6" href="$classspoton__starbeam__writer.html" title="spoton_starbeam_writer" alt="" coords="349,141,511,168"/>
+<area shape="rect" id="node9" href="$classspoton__urldistribution.html" title="spoton_urldistribution" alt="" coords="357,192,503,218"/>
+<area shape="rect" id="node10" href="$classspoton__fireshare.html" title="spoton_fireshare" alt="" coords="371,242,489,269"/>
+</map>

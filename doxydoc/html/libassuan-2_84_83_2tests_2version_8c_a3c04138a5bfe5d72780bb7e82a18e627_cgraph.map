@@ -1,0 +1,10 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$common_8h.html#a433835da14e6911b658157f23866ba97" title="log_set_prefix" alt="" coords="134,5,237,32"/>
+<area shape="rect" id="node3" href="$assuan-logging_8c.html#a88aae46e7b9672214174a888c23fc5e7" title="assuan_set_assuan_log\l_prefix" alt="" coords="104,57,267,98"/>
+<area shape="rect" id="node4" href="$assuan_8c.html#ab002a7e180a4291621bc7dc9a5edafc6" title="assuan_check_version" alt="" coords="108,123,263,149"/>
+<area shape="rect" id="node8" href="$common_8h.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="149,173,221,200"/>
+<area shape="rect" id="node9" href="$common_8h.html#ade762acc676da9bb7e589a8a1ac43424" title="log_info" alt="" coords="152,224,219,251"/>
+<area shape="rect" id="node5" href="$assuan_8c.html#a153d609c6458bcdfc64e3595c5a5464b" title="compare_versions" alt="" coords="315,123,443,149"/>
+<area shape="rect" id="node6" href="$assuan_8c.html#a2ec1fc61a5e064017b695c9f96d2975a" title="parse_version_string" alt="" coords="491,123,633,149"/>
+<area shape="rect" id="node7" href="$assuan_8c.html#aa1100034419b3d5a1e108c71593e4af3" title="parse_version_number" alt="" coords="681,123,835,149"/>
+</map>

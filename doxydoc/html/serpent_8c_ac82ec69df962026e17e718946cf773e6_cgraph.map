@@ -1,0 +1,6 @@
+<map id="serpent_setkey_internal" name="serpent_setkey_internal">
+<area shape="rect" id="node2" href="$serpent_8c.html#a0837f8dc3b258bd08dee90f30d35cae7" title="serpent_key_prepare" alt="" coords="231,5,374,32"/>
+<area shape="rect" id="node4" href="$serpent_8c.html#a1e493800278f31bca5a8921906bb7e07" title="serpent_subkeys_generate" alt="" coords="213,56,392,83"/>
+<area shape="rect" id="node5" href="$g10lib_8h.html#aea824f7fabf4b6f049106a272b63f36d" title="_gcry_get_hw_features" alt="" coords="224,107,381,133"/>
+<area shape="rect" id="node3" href="$bufhelp_8h.html#acfe6d932d414e9c5bad1ed5fc7aa1891" title="buf_get_le32" alt="" coords="440,5,536,32"/>
+</map>

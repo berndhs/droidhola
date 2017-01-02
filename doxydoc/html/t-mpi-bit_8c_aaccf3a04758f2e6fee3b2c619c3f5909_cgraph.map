@@ -1,0 +1,6 @@
+<map id="test_rshift" name="test_rshift">
+<area shape="rect" id="node2" href="$t-mpi-bit_8c.html#afcb60148a3aab49b3d728753d0d07025" title="show" alt="" coords="155,5,209,32"/>
+<area shape="rect" id="node3" href="$t-mpi-bit_8c.html#a862a1af4a36bb940d4a7aac91612a010" title="mpi2bitstr" alt="" coords="143,56,221,83"/>
+<area shape="rect" id="node4" href="$t-mpi-bit_8c.html#a78832433aa267576064b1ca31fb9806d" title="rshiftbitstring" alt="" coords="133,107,231,133"/>
+<area shape="rect" id="node5" href="$t-mpi-bit_8c.html#a4dd0d318d4c89c0532458533ab35ead4" title="fail" alt="" coords="163,157,201,184"/>
+</map>

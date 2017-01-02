@@ -1,0 +1,11 @@
+<map id="cleanup" name="cleanup">
+<area shape="rect" id="node2" href="$gcryptrnd_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="166,52,217,79"/>
+<area shape="rect" id="node3" href="$sexp_8c.html#a40784f5fd33e2f2f2593c27da2bd223d" title="_gcry_sexp_vextract\l_param" alt="" coords="120,103,263,145"/>
+<area shape="rect" id="node4" href="$sexp_8c.html#aba9614829d23156a9e84e22dafa8e513" title="_gcry_sexp_extract\l_param" alt="" coords="329,74,465,115"/>
+<area shape="rect" id="node10" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#afdcb5af0e9d29197e79642825382b44c" title="gcry_sexp_extract_param" alt="" coords="311,140,483,167"/>
+<area shape="rect" id="node5" href="$dsa_8c.html#a5f2fd648032b025633772d18e29136eb" title="dsa_check_secret_key" alt="" coords="531,5,687,32"/>
+<area shape="rect" id="node6" href="$dsa_8c.html#a92df06c995f05b0bf50f364e4e82c78b" title="dsa_sign" alt="" coords="571,56,646,83"/>
+<area shape="rect" id="node7" href="$dsa_8c.html#ac1046e3d109b3497bfcf16897e0b2a44" title="dsa_verify" alt="" coords="567,107,650,133"/>
+<area shape="rect" id="node8" href="$gcrypt-int_8h.html#aaadbe18f6ec9f5e67cb7c415632c2945" title="_gcry_error_from_errno" alt="" coords="531,157,687,184"/>
+<area shape="rect" id="node9" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#aa654f0427b89caf954e9e5bd456be6b3" title="gcry_error_from_errno" alt="" coords="735,157,884,184"/>
+</map>

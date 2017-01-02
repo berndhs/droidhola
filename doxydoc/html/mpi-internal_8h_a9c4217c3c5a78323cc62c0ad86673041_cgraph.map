@@ -1,0 +1,11 @@
+<map id="_gcry_mpih_divrem" name="_gcry_mpih_divrem">
+<area shape="rect" id="node2" href="$g10lib_8h.html#a2a37f9748119afc85b8f51958badc598" title="_gcry_divide_by_zero" alt="" coords="190,31,338,57"/>
+<area shape="rect" id="node7" href="$mpi-inline_8h.html#ab84329df3af64c23c7090cddd1e13d41" title="_gcry_mpih_cmp" alt="" coords="203,81,325,108"/>
+<area shape="rect" id="node8" href="$mpih-sub1_8c.html#a28297868e59813922c7ff32478bed79f" title="_gcry_mpih_sub_n" alt="" coords="199,132,329,159"/>
+<area shape="rect" id="node9" href="$mpih-mul3_8c.html#a5f64919e94328f66d6001df9f279f6d5" title="_gcry_mpih_submul_1" alt="" coords="188,183,340,209"/>
+<area shape="rect" id="node10" href="$mpih-add1_8c.html#aac0ab90b7d91251967531dfc180f337b" title="_gcry_mpih_add_n" alt="" coords="199,233,329,260"/>
+<area shape="rect" id="node3" href="$misc_8c.html#a185453f2a81618148bd479428ff89f2a" title="_gcry_fatal_error" alt="" coords="388,31,507,57"/>
+<area shape="rect" id="node4" href="$misc_8c.html#a669469157af59e0247e023f76dcff10e" title="write2stderr" alt="" coords="581,5,672,32"/>
+<area shape="rect" id="node6" href="$secmem_8c.html#addc419f3d8a86e49fc11af938c093a88" title="_gcry_secmem_term" alt="" coords="555,56,699,83"/>
+<area shape="rect" id="node5" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="747,5,793,32"/>
+</map>

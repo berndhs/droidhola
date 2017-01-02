@@ -1,0 +1,5 @@
+<map id="spoton_neighbor_udp_socket::initializeMulticast" name="spoton_neighbor_udp_socket::initializeMulticast">
+<area shape="rect" id="node2" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="455,13,604,39"/>
+<area shape="rect" id="node4" href="$classspoton__misc.html#a4e0c81fd05879cd13851bbb0d52c3a76" title="spoton_misc::joinMulticast\lGroup" alt="" coords="229,35,407,76"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="652,13,815,39"/>
+</map>

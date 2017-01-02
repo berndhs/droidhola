@@ -1,0 +1,10 @@
+<map id="spoton_rss::slotReplyError" name="spoton_rss::slotReplyError">
+<area shape="rect" id="node2" href="$classspoton__rss.html#af944cd42dfef798332ab191ba02a8c62" title="spoton_rss::slotContentReply\lFinished" alt="" coords="231,5,425,47"/>
+<area shape="rect" id="node3" href="$classspoton__rss.html#a56b8434e629cc4df5ed8823b67e0f55d" title="spoton_rss::slotDownload\lContent" alt="" coords="473,56,647,97"/>
+<area shape="rect" id="node5" href="$classspoton__rss.html#a9b7bd68ba9a2e3e102213147f5e7c953" title="spoton_rss::slotDownload\lFeedImage" alt="" coords="695,115,868,156"/>
+<area shape="rect" id="node6" href="$classspoton__rss.html#a693b2ce24027000c004717134dee24d2" title="spoton_rss::slotDownload\lTimeout" alt="" coords="473,199,647,240"/>
+<area shape="rect" id="node9" href="$classspoton__rss.html#ae8a3c2397ccbc1db90ddb93d8dcb4361" title="spoton_rss::slotFeedReply\lFinished" alt="" coords="239,224,417,265"/>
+<area shape="rect" id="node4" href="$classspoton__rss.html#a6caad21bd892ff578466a9c8b26b7b54" title="spoton_rss::spoton_rss" alt="" coords="1191,181,1349,207"/>
+<area shape="rect" id="node7" href="$classspoton__rss.html#a9f20d7973c472678313e4bef05c953b0" title="spoton_rss::slotSchedule\lFeedUpdate" alt="" coords="697,232,866,273"/>
+<area shape="rect" id="node8" href="$classspoton__rss.html#a87fb6bbe961dba5d102e9703905f7ac6" title="spoton_rss::slotShowContextMenu" alt="" coords="916,282,1143,309"/>
+</map>

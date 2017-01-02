@@ -45,7 +45,7 @@ BEGIN
             VALUE "PrivateBuild", "\0"
             VALUE "ProductName", "libgcrypt\0"
             VALUE "ProductVersion", "1.6.6\0"
-            VALUE "SpecialBuild", "2016-12-26T23:29+0000\0"
+            VALUE "SpecialBuild", "2016-12-27T00:26+0000\0"
         END
     END
 END

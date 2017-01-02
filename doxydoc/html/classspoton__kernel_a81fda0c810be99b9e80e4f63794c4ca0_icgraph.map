@@ -1,0 +1,5 @@
+<map id="spoton_kernel::processPotentialStarBeamData" name="spoton_kernel::processPotentialStarBeamData">
+<area shape="rect" id="node2" href="$classspoton__kernel.html#a7191ac444c913f3dd195336fa26bee31" title="spoton_kernel::writeMessage0060" alt="" coords="261,13,481,39"/>
+<area shape="rect" id="node3" href="$classspoton__kernel.html#a0df5b68ffc9ec6ec11ceb37c2dd48531" title="spoton_kernel::slotBuzzMagnet\lReceivedFromUI" alt="" coords="529,5,735,47"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="783,5,933,47"/>
+</map>

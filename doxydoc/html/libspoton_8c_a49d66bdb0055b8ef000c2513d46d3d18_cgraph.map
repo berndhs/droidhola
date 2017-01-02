@@ -1,0 +1,11 @@
+<map id="libspoton_register_kernel" name="libspoton_register_kernel">
+<area shape="rect" id="node2" href="$pthread_8h.html#aef3f55cad288fdbc9c39bff9d668de1e" title="pthread_mutex_lock" alt="" coords="371,5,510,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#a97487ec8150e0bcc8fa392ab8f0e24db" title="sqlite3_exec" alt="" coords="199,323,294,349"/>
+<area shape="rect" id="node4" href="$pthread_8h.html#a2e24c7aa54ba10a032b7b6cd06c3caaa" title="pthread_mutex_unlock" alt="" coords="364,57,517,84"/>
+<area shape="rect" id="node5" href="$libspoton_8c.html#a47ab1a22a408945e8688747045a92f0e" title="libspoton_registered\l_kernel_pid" alt="" coords="177,105,316,146"/>
+<area shape="rect" id="node6" href="$sqlite3_8h.html#a85d4203bb54c984c5325c2f5b3664985" title="sqlite3_prepare_v2" alt="" coords="375,167,506,193"/>
+<area shape="rect" id="node7" href="$sqlite3_8h.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="395,220,487,247"/>
+<area shape="rect" id="node9" href="$sqlite3_8h.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="387,271,495,297"/>
+<area shape="rect" id="node10" href="$sqlite3_8h.html#af77e2729923f2621852202e1c23788c6" title="sqlite3_bind_int64" alt="" coords="183,373,310,400"/>
+<area shape="rect" id="node8" href="$sqlite3_8h.html#a39f0c222a27bd9c4cb73d07e9e48ffe6" title="sqlite3_column_int64" alt="" coords="369,112,513,139"/>
+</map>

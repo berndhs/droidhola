@@ -1,0 +1,6 @@
+<map id="spoton_misc::isValidBuzzMagnetData" name="spoton_misc::isValidBuzzMagnetData">
+<area shape="rect" id="node2" href="$classspoton__neighbor.html#a59550c2ee33c5415cc2ca95f532c4a39" title="spoton_neighbor::process0065" alt="" coords="227,13,425,39"/>
+<area shape="rect" id="node3" href="$classspoton__neighbor.html#a7b2aaa9d5b210ff677a7889986a949e6" title="spoton_neighbor::processData" alt="" coords="473,13,672,39"/>
+<area shape="rect" id="node4" href="$classspoton__neighbor.html#a9250c88da1eb47de5919685e09657538" title="spoton_neighbor::slotSendMail" alt="" coords="720,13,920,39"/>
+<area shape="rect" id="node5" href="$classspoton__neighbor.html#aa6707b3133b337024de82dbd97d9e5ae" title="spoton_neighbor::receivedUuid" alt="" coords="968,13,1169,39"/>
+</map>

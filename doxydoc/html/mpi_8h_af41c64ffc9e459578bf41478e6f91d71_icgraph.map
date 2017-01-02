@@ -1,0 +1,10 @@
+<map id="_gcry_mpi_ec_curve_point" name="_gcry_mpi_ec_curve_point">
+<area shape="rect" id="node2" href="$ecc-eddsa_8c.html#a1c4958faec3011c98a07badae210a16c" title="_gcry_ecc_eddsa_sign" alt="" coords="204,5,359,32"/>
+<area shape="rect" id="node4" href="$ecc-eddsa_8c.html#a755ab9167a768e80bda9d6faf1bbf4ca" title="_gcry_ecc_eddsa_verify" alt="" coords="200,56,363,83"/>
+<area shape="rect" id="node6" href="$ecc_8c.html#ac6eecf80a071fb284002f2a624f6b215" title="check_secret_key" alt="" coords="217,107,345,133"/>
+<area shape="rect" id="node8" href="$ecc_8c.html#a3ecb571c9a3e14803ff801832e35c974" title="ecc_decrypt_raw" alt="" coords="221,157,342,184"/>
+<area shape="rect" id="node9" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a6a0c1d4a1901281714b77bff30b62b2a" title="gcry_mpi_ec_curve_point" alt="" coords="196,208,367,235"/>
+<area shape="rect" id="node3" href="$ecc_8c.html#ae11b517c533d922d85067aa6c4948907" title="ecc_sign" alt="" coords="455,5,530,32"/>
+<area shape="rect" id="node5" href="$ecc_8c.html#a5fa08239782ab59a8a86ea18a4162032" title="ecc_verify" alt="" coords="451,56,534,83"/>
+<area shape="rect" id="node7" href="$ecc_8c.html#af52f50415d9222c1ee17a83564c9839a" title="ecc_check_secret_key" alt="" coords="415,107,571,133"/>
+</map>

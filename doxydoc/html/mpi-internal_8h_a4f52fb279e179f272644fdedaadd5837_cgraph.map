@@ -1,0 +1,16 @@
+<map id="_gcry_mpih_mul_karatsuba_case" name="_gcry_mpih_mul_karatsuba_case">
+<area shape="rect" id="node2" href="$mpi-internal_8h.html#a57f1c9a6c9b85748e0dc46300207a5ae" title="_gcry_mpi_free_limb\l_space" alt="" coords="699,36,841,78"/>
+<area shape="rect" id="node3" href="$g10lib_8h.html#a097f30a540a9d8ac76ed54c1316a5376" title="_gcry_is_secure" alt="" coords="711,330,829,357"/>
+<area shape="rect" id="node9" href="$mpih-add1_8c.html#aac0ab90b7d91251967531dfc180f337b" title="_gcry_mpih_add_n" alt="" coords="705,254,835,281"/>
+<area shape="rect" id="node10" href="$mpi-inline_8h.html#a3793160c34f9a3e6ad2e8b20104de36b" title="_gcry_mpih_add_1" alt="" coords="705,381,835,408"/>
+<area shape="rect" id="node11" href="$mpih-mul_8c.html#aed5b2b6f1ad588310e22890827575182" title="_gcry_mpih_mul" alt="" coords="269,204,387,230"/>
+<area shape="rect" id="node4" href="$global_8c.html#a16e8af0a857ae959a2abb3c7e88e02f0" title="get_no_secure_memory" alt="" coords="890,305,1051,332"/>
+<area shape="rect" id="node7" href="$secmem_8c.html#a1a820af6bf0149451e1de1933f5cc0fb" title="_gcry_private_is_secure" alt="" coords="889,356,1052,382"/>
+<area shape="rect" id="node5" href="$fips_8c.html#a63eaab0cb53f75634165b2f2f0a4aa1c" title="_gcry_enforced_fips_mode" alt="" coords="1100,305,1279,332"/>
+<area shape="rect" id="node6" href="$fips_8c.html#a1236caccf2e256cb9e1b60c894a14639" title="_gcry_fips_mode" alt="" coords="1327,305,1448,332"/>
+<area shape="rect" id="node8" href="$secmem_8c.html#abfb42716ecfabdb452044d583c878448" title="ptr_into_pool_p" alt="" coords="1134,356,1245,382"/>
+<area shape="rect" id="node12" href="$mpih-mul1_8c.html#aa33b57cc3cb635f9bd726235ec8c44ba" title="_gcry_mpih_mul_1" alt="" coords="477,102,608,129"/>
+<area shape="rect" id="node13" href="$mpih-mul2_8c.html#a2c471f2eee15ccb03f886f33b5388d87" title="_gcry_mpih_addmul_1" alt="" coords="467,153,619,180"/>
+<area shape="rect" id="node14" href="$mpih-mul_8c.html#a4f52fb279e179f272644fdedaadd5837" title="_gcry_mpih_mul_karatsuba_case" alt="" coords="435,254,651,281"/>
+<area shape="rect" id="node15" href="$mpih-mul_8c.html#a4bb516189b25e8bc63c0016077ee8e27" title="_gcry_mpih_release\l_karatsuba_ctx" alt="" coords="473,36,612,78"/>
+</map>

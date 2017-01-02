@@ -1,0 +1,4 @@
+<map id="SHA512_CONTEXT" name="SHA512_CONTEXT">
+<area shape="rect" id="node2" href="$structgcry__md__block__ctx.html" title="gcry_md_block_ctx" alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node3" href="$structSHA512__STATE.html" title="SHA512_STATE" alt="" coords="164,5,285,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="func_mem_create" name="func_mem_create">
+<area shape="rect" id="node2" href="$estream_8c.html#ac78c8f785c8b25f8e8273a45587a234e" title="doreadline" alt="" coords="203,5,284,32"/>
+<area shape="rect" id="node5" href="$gpgrt-int_8h.html#ac845d83db09b8ff84fb64ad52fd0c400" title="_gpgrt_mopen" alt="" coords="191,56,295,83"/>
+<area shape="rect" id="node7" href="$gpgrt-int_8h.html#aa48c2ffe11ccbebfe2051f01f7e1dcd3" title="_gpgrt_fopenmem" alt="" coords="180,107,307,133"/>
+<area shape="rect" id="node3" href="$estream_8c.html#a1ed1bca7770d739c94682a3a0a9a8d89" title="_gpgrt_getline" alt="" coords="379,5,481,32"/>
+<area shape="rect" id="node4" href="$libgpg__error-1_824_2src_2visibility_8c.html#a18b6cab3ccdc1c243d4d5045e6374900" title="gpgrt_getline" alt="" coords="577,5,673,32"/>
+<area shape="rect" id="node6" href="$gpg-error_8h.html#aef1e7194048e1f8487dba23a87d8736c" title="gpgrt_mopen" alt="" coords="381,56,479,83"/>
+<area shape="rect" id="node8" href="$gpg-error_8h.html#abb60d41b7f24fb2613c7b051056b9f13" title="gpgrt_fopenmem" alt="" coords="371,107,489,133"/>
+<area shape="rect" id="node9" href="$gpgrt-int_8h.html#a26e92ca08d6399b90ebdae69d217bd9a" title="_gpgrt_fopenmem_init" alt="" coords="355,157,505,184"/>
+<area shape="rect" id="node10" href="$gpg-error_8h.html#a775df3a31c17eeaf591661efaf6ea609" title="gpgrt_fopenmem_init" alt="" coords="553,157,696,184"/>
+</map>

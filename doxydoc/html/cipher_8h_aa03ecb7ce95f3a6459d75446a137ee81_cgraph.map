@@ -1,0 +1,10 @@
+<map id="_gcry_sha1_hash_buffers" name="_gcry_sha1_hash_buffers">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2cipher_2sha1_8c.html#a9a79ce39cbf51046273880ee0450f7c2" title="sha1_init" alt="" coords="227,81,302,108"/>
+<area shape="rect" id="node7" href="$hash-common_8c.html#a64fe18539af7de7579ad3cc5e4fceba1" title="_gcry_md_block_write" alt="" coords="356,232,508,259"/>
+<area shape="rect" id="node8" href="$libgcrypt-1_86_86_2cipher_2sha1_8c.html#a6c9ce7b6c019a22d122f5f68cc868327" title="sha1_final" alt="" coords="224,157,305,184"/>
+<area shape="rect" id="node3" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="409,56,455,83"/>
+<area shape="rect" id="node4" href="$libgcrypt-1_86_86_2cipher_2sha1_8c.html#a946d9ea2510582088b7102912c4e07ef" title="transform" alt="" coords="393,107,471,133"/>
+<area shape="rect" id="node6" href="$g10lib_8h.html#aea824f7fabf4b6f049106a272b63f36d" title="_gcry_get_hw_features" alt="" coords="353,5,511,32"/>
+<area shape="rect" id="node5" href="$libgcrypt-1_86_86_2cipher_2sha1_8c.html#aeacda6ca6eb9600a4ca356b359826880" title="_transform" alt="" coords="559,107,643,133"/>
+<area shape="rect" id="node9" href="$bufhelp_8h.html#a57b83780154ec5cf29a60da0e2b2d558" title="buf_put_be32" alt="" coords="382,157,482,184"/>
+</map>

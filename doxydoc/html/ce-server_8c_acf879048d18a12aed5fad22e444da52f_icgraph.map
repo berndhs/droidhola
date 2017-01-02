@@ -1,0 +1,14 @@
+<map id="leave_cmd" name="leave_cmd">
+<area shape="rect" id="node2" href="$ce-server_8c.html#ae86b788540e99663261e763b010f368e" title="cmd_echo" alt="" coords="365,5,448,32"/>
+<area shape="rect" id="node6" href="$ce-server_8c.html#ae0b124f50ba7f537986c5e73b23d35c3" title="cmd_cat" alt="" coords="371,56,443,83"/>
+<area shape="rect" id="node7" href="$ce-server_8c.html#a331de1c8f338a79340a4b57cf4a4e8f3" title="cmd_pwd" alt="" coords="367,107,446,133"/>
+<area shape="rect" id="node8" href="$ce-server_8c.html#ae9b2113e102b8081f4b3583afafae9ed" title="cmd_cd" alt="" coords="373,157,441,184"/>
+<area shape="rect" id="node9" href="$ce-server_8c.html#ae48877ae09338da597921b5dfa1502a8" title="cmd_newdataport_cont" alt="" coords="139,208,296,235"/>
+<area shape="rect" id="node11" href="$ce-server_8c.html#a8201000eefef07dbf0827b5bb6ed20f4" title="cmd_dataport" alt="" coords="167,259,268,285"/>
+<area shape="rect" id="node12" href="$ce-server_8c.html#a2535f31f7672fd612edf1424e414a113" title="cmd_getinfo" alt="" coords="171,309,264,336"/>
+<area shape="rect" id="node13" href="$ce-server_8c.html#aff3e39ca029ea890caee1b092dfeee5c" title="cmd_shutdown" alt="" coords="162,360,273,387"/>
+<area shape="rect" id="node3" href="$ce-server_8c.html#a2c49eb687d21286f04c061a565a34585" title="register_commands" alt="" coords="517,183,653,209"/>
+<area shape="rect" id="node4" href="$ce-server_8c.html#ad18fdc3df8fad95296a014ea46567b4b" title="server" alt="" coords="701,183,760,209"/>
+<area shape="rect" id="node5" href="$ce-server_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="808,183,859,209"/>
+<area shape="rect" id="node10" href="$ce-server_8c.html#a5889bfc3a260e383c0b989cb1529e8b9" title="cmd_newdataport" alt="" coords="344,208,469,235"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="es_writen" name="es_writen">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="543,175,581,201"/>
+<area shape="rect" id="node3" href="$estream_8c.html#a026e877df3bb8984f6603902992bf294" title="es_seek" alt="" coords="285,99,355,125"/>
+<area shape="rect" id="node6" href="$estream_8c.html#a1dcad069da2a9b6cb4439bd8986a9a2b" title="es_write_nbf" alt="" coords="272,352,368,379"/>
+<area shape="rect" id="node7" href="$estream_8c.html#af31ce648b2d0faed41230facf03242dd" title="es_write_lbf" alt="" coords="132,225,224,252"/>
+<area shape="rect" id="node9" href="$estream_8c.html#ab9dccf157d8b9f810590137404f217d0" title="es_write_fbf" alt="" coords="273,149,367,176"/>
+<area shape="rect" id="node4" href="$estream_8c.html#a70a573144368a147e5cd9638c3d5dae6" title="es_flush" alt="" coords="420,200,491,227"/>
+<area shape="rect" id="node5" href="$estream_8c.html#accd56f8749d12832d2981c173d1c11ee" title="es_empty" alt="" coords="416,48,495,75"/>
+<area shape="rect" id="node8" href="$estream_8c.html#a7348712821d3152e26a8f1293bf37308" title="memrchr" alt="" coords="283,251,357,277"/>
+</map>

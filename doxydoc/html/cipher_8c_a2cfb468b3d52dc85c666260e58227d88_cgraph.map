@@ -1,0 +1,15 @@
+<map id="_gcry_cipher_gettag" name="_gcry_cipher_gettag">
+<area shape="rect" id="node2" href="$cipher-ccm_8c.html#a9586058ecbc2870f5bf9d075ca8c036f" title="_gcry_cipher_ccm_get_tag" alt="" coords="195,5,374,32"/>
+<area shape="rect" id="node4" href="$cipher-cmac_8c.html#a5f2a2fe97036ff97cf8cf5a7cf5d353c" title="_gcry_cipher_cmac_get_tag" alt="" coords="192,56,377,83"/>
+<area shape="rect" id="node9" href="$cipher-gcm_8c.html#ad3a14fb0e37ba46a4891a201b4c8555f" title="_gcry_cipher_gcm_get_tag" alt="" coords="195,107,374,133"/>
+<area shape="rect" id="node14" href="$common_8h.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="249,157,321,184"/>
+<area shape="rect" id="node3" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="479,5,525,32"/>
+<area shape="rect" id="node5" href="$cipher-cmac_8c.html#a172002cd6f9aebd8cd6ad203d51db123" title="cmac_tag" alt="" coords="463,56,541,83"/>
+<area shape="rect" id="node6" href="$cipher-cmac_8c.html#a1771fe04f3557abada55e987e748c595" title="cmac_final" alt="" coords="635,5,721,32"/>
+<area shape="rect" id="node8" href="$bufhelp_8h.html#ad0ff6925a801a6fba4be8dc65b7959ee" title="buf_eq_const" alt="" coords="628,56,728,83"/>
+<area shape="rect" id="node7" href="$bufhelp_8h.html#a30056825097495177fbe6cb0e36391ec" title="buf_xor" alt="" coords="779,44,844,71"/>
+<area shape="rect" id="node10" href="$cipher-gcm_8c.html#a2d9df0f323cf45821e1475175c40c05c" title="_gcry_cipher_gcm_tag" alt="" coords="425,107,579,133"/>
+<area shape="rect" id="node11" href="$cipher-gcm_8c.html#a91b664c92503626e9468a222cfefff47" title="do_ghash_buf" alt="" coords="627,157,729,184"/>
+<area shape="rect" id="node12" href="$bufhelp_8h.html#a11b1eae9014d477a7ad42a7bb4931d0f" title="buf_cpy" alt="" coords="777,132,845,159"/>
+<area shape="rect" id="node13" href="$cipher-gcm_8c.html#a826bbcbaaf9332e21ddb1892f0a76b29" title="ghash" alt="" coords="783,183,840,209"/>
+</map>

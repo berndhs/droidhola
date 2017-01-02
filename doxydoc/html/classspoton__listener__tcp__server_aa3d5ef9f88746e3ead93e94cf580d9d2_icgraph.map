@@ -1,0 +1,8 @@
+<map id="spoton_listener_tcp_server::newConnection" name="spoton_listener_tcp_server::newConnection">
+<area shape="rect" id="node2" href="$classspoton__listener__tcp__server.html#a1dd8234672ea13512aef0deabe3369dc" title="spoton_listener_tcp\l_server::incomingConnection" alt="" coords="216,5,407,47"/>
+<area shape="rect" id="node4" href="$classspoton__listener__udp__server.html#a7bc531d96fcaf2e3ace3db33197b4727" title="spoton_listener_udp\l_server::slotReadyRead" alt="" coords="491,96,654,137"/>
+<area shape="rect" id="node5" href="$classspoton__listener.html#a5e9b785b6c6ffd87d987b3738fba98e2" title="spoton_listener::spoton\l_listener" alt="" coords="233,123,390,164"/>
+<area shape="rect" id="node6" href="$classspoton__listener.html#a8975f09547756dc3b93a9db34eeb68c0" title="spoton_listener::listen" alt="" coords="237,189,386,215"/>
+<area shape="rect" id="node7" href="$classspoton__listener__udp__server.html#ac1911963656e284c6f727c92197953a2" title="spoton_listener_udp\l_server::slotClientDestroyed" alt="" coords="217,240,405,281"/>
+<area shape="rect" id="node3" href="$classspoton__listener__tcp__server.html#aa967827ec1929db71cfd5cc86f0f18cf" title="spoton_listener_tcp\l_server::setMaxPendingConnections" alt="" coords="455,5,691,47"/>
+</map>

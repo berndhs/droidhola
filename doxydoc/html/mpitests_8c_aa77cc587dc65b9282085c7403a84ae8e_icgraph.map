@@ -1,0 +1,8 @@
+<map id="die" name="die">
+<area shape="rect" id="node2" href="$mpitests_8c.html#a4dd0d318d4c89c0532458533ab35ead4" title="fail" alt="" coords="116,5,155,32"/>
+<area shape="rect" id="node3" href="$mpitests_8c.html#ab62be0147e9d9dc09d836bc4f7cd20cc" title="test_cmp" alt="" coords="278,56,354,83"/>
+<area shape="rect" id="node5" href="$mpitests_8c.html#a40f945c7467236dc3f989558f35bfbe3" title="test_const_and_immutable" alt="" coords="227,107,405,133"/>
+<area shape="rect" id="node6" href="$mpitests_8c.html#ace1c09c5318e5a6183162d8d7087e68b" title="test_opaque" alt="" coords="269,157,363,184"/>
+<area shape="rect" id="node7" href="$mpitests_8c.html#af9a67baa143ec2301310a2703f5eae71" title="test_powm" alt="" coords="92,208,179,235"/>
+<area shape="rect" id="node4" href="$mpitests_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="453,132,504,159"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="_gcry_rndegd_gather_random" name="_gcry_rndegd_gather_random">
+<area shape="rect" id="node2" href="$rndegd_8c.html#ab9570a83ad9b1a42518427cc3b355ddc" title="_gcry_rndegd_connect\l_socket" alt="" coords="196,53,349,94"/>
+<area shape="rect" id="node3" href="$common_8h.html#a3c9f2d4104ed4b54b508cfddf9399512" title="log_fatal" alt="" coords="429,5,500,32"/>
+<area shape="rect" id="node5" href="$rndegd_8c.html#a7fdb34f7c0b4c3c398a721f533168303" title="do_write" alt="" coords="237,119,308,145"/>
+<area shape="rect" id="node6" href="$rndegd_8c.html#a9a63da93006a1656ce2cdc0b5bc60699" title="do_read" alt="" coords="239,169,307,196"/>
+<area shape="rect" id="node7" href="$common_8h.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="237,220,309,247"/>
+<area shape="rect" id="node8" href="$common_8h.html#ade762acc676da9bb7e589a8a1ac43424" title="log_info" alt="" coords="239,271,306,297"/>
+<area shape="rect" id="node4" href="$rndegd_8c.html#a6e3beba211bee33688012164ab18350b" title="my_make_filename" alt="" coords="397,60,532,87"/>
+</map>

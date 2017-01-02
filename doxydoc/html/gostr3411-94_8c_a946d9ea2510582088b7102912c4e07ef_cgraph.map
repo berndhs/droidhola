@@ -1,0 +1,13 @@
+<map id="transform" name="transform">
+<area shape="rect" id="node2" href="$gostr3411-94_8c.html#a7f8f7f694ed51c6b77ff1f82f409e47b" title="do_hash_step" alt="" coords="131,132,233,159"/>
+<area shape="rect" id="node12" href="$gostr3411-94_8c.html#a057de9f9acdb09d144c6d34a39cf42fa" title="do_add" alt="" coords="150,183,214,209"/>
+<area shape="rect" id="node3" href="$gostr3411-94_8c.html#a4b4c61c8cbe66622eeb0f8cc423337a7" title="do_p" alt="" coords="327,5,378,32"/>
+<area shape="rect" id="node4" href="$gost_8h.html#a803fd2a2bbcfe5e7116812b6b18ede76" title="_gcry_gost_enc_one" alt="" coords="281,56,424,83"/>
+<area shape="rect" id="node8" href="$gostr3411-94_8c.html#ad84fca9be527f1e5278fbc351dfc191f" title="do_a" alt="" coords="327,107,378,133"/>
+<area shape="rect" id="node9" href="$gostr3411-94_8c.html#a24b2feb9d712cf8829ecf83fed835e42" title="do_apply_c2" alt="" coords="305,157,400,184"/>
+<area shape="rect" id="node10" href="$gostr3411-94_8c.html#abe2919e49b07917145bb24bfe301f21d" title="do_a2" alt="" coords="324,208,381,235"/>
+<area shape="rect" id="node11" href="$gostr3411-94_8c.html#a450bcee28c6c6dd9b6879ee2c5c85189" title="do_phi_submix" alt="" coords="298,259,407,285"/>
+<area shape="rect" id="node5" href="$gost28147_8c.html#ac3391bb3498bdf4cbc26c51ddf14c949" title="gost_setkey" alt="" coords="493,31,586,57"/>
+<area shape="rect" id="node6" href="$gost28147_8c.html#a0606d65877b2c24854c93ada24bda592" title="gost_encrypt_block" alt="" coords="472,81,607,108"/>
+<area shape="rect" id="node7" href="$gost28147_8c.html#a497ee51282a9dc93ab73b8fd9b227829" title="gost_val" alt="" coords="655,81,725,108"/>
+</map>

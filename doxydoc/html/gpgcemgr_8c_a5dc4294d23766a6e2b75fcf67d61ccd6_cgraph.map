@@ -1,0 +1,7 @@
+<map id="set_show_registry" name="set_show_registry">
+<area shape="rect" id="node2" href="$gpgcemgr_8c.html#a5258bffbe81de15244bebcf268b5b680" title="DWORD" alt="" coords="196,5,271,32"/>
+<area shape="rect" id="node3" href="$gpgcemgr_8c.html#af65de3d582d694fdd257c52c6e1ca052" title="utf8_to_wchar" alt="" coords="181,56,285,83"/>
+<area shape="rect" id="node4" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="333,107,393,133"/>
+<area shape="rect" id="node5" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="211,157,255,184"/>
+<area shape="rect" id="node6" href="$gpgcemgr_8c.html#a004389a3e9a1c48eca8e0897eed85d45" title="wchar_to_utf8" alt="" coords="181,208,285,235"/>
+</map>

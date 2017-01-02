@@ -1,0 +1,5 @@
+<map id="spoton_starbeam_reader::elementsFromMagnet" name="spoton_starbeam_reader::elementsFromMagnet">
+<area shape="rect" id="node2" href="$classspoton__starbeam__reader.html#af3c41e5dfee1ebec5e60f18eecbf309b" title="spoton_starbeam_reader\l::populateMagnets" alt="" coords="219,5,384,47"/>
+<area shape="rect" id="node4" href="$classspoton__starbeam__reader.html#a81c9e03e0e91bb0625eb35daff159c76" title="spoton_starbeam_reader\l::pulsate" alt="" coords="219,71,384,112"/>
+<area shape="rect" id="node3" href="$classspoton__starbeam__reader.html#ace32306ab75fb972351c783df1d7d7e6" title="spoton_starbeam_reader\l::slotTimeout" alt="" coords="432,39,597,80"/>
+</map>

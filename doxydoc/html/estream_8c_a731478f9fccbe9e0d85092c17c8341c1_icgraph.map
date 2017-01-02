@@ -1,0 +1,6 @@
+<map id="func_file_create" name="func_file_create">
+<area shape="rect" id="node2" href="$gpgrt-int_8h.html#a841033e8037bc49054d2cbd4634d3a5c" title="_gpgrt_fopen" alt="" coords="173,5,271,32"/>
+<area shape="rect" id="node4" href="$estream_8c.html#a8cea32cbeeb663d8fb07db6f2407b9bd" title="_gpgrt_freopen" alt="" coords="168,56,276,83"/>
+<area shape="rect" id="node3" href="$gpg-error_8h.html#aef0101156ebfc9c6fec86dc8d77f574e" title="gpgrt_fopen" alt="" coords="329,5,420,32"/>
+<area shape="rect" id="node5" href="$libgpg__error-1_824_2src_2visibility_8c.html#a5e21536af8187d9ed2aff66322599f24" title="gpgrt_freopen" alt="" coords="324,56,425,83"/>
+</map>

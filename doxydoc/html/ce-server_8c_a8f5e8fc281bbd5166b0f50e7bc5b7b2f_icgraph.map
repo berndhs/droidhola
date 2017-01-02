@@ -1,0 +1,8 @@
+<map id="gnu_getcwd" name="gnu_getcwd">
+<area shape="rect" id="node2" href="$ce-server_8c.html#abbd004ef17a27e50ddeffec21b74ae28" title="get_cwd" alt="" coords="145,31,216,57"/>
+<area shape="rect" id="node3" href="$ce-server_8c.html#a331de1c8f338a79340a4b57cf4a4e8f3" title="cmd_pwd" alt="" coords="264,5,343,32"/>
+<area shape="rect" id="node7" href="$ce-server_8c.html#ae9b2113e102b8081f4b3583afafae9ed" title="cmd_cd" alt="" coords="269,56,337,83"/>
+<area shape="rect" id="node4" href="$ce-server_8c.html#a2c49eb687d21286f04c061a565a34585" title="register_commands" alt="" coords="391,31,527,57"/>
+<area shape="rect" id="node5" href="$ce-server_8c.html#ad18fdc3df8fad95296a014ea46567b4b" title="server" alt="" coords="575,31,633,57"/>
+<area shape="rect" id="node6" href="$ce-server_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="681,31,732,57"/>
+</map>

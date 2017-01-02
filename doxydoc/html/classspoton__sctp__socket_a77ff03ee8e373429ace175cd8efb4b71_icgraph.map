@@ -1,0 +1,9 @@
+<map id="spoton_sctp_socket::setSocketBlockingOrNon" name="spoton_sctp_socket::setSocketBlockingOrNon">
+<area shape="rect" id="node2" href="$classspoton__sctp__socket.html#a00417b66057f5031af59e7cbdb4d6442" title="spoton_sctp_socket\l::setSocketDescriptor" alt="" coords="260,5,409,47"/>
+<area shape="rect" id="node5" href="$classspoton__sctp__socket.html#ab0f45e5a9d341cd68563cdfe5721e365" title="spoton_sctp_socket\l::connectToHostImplementation" alt="" coords="231,71,439,112"/>
+<area shape="rect" id="node3" href="$classspoton__listener.html#a234ee0a988e50d702e4770f2e2893d26" title="spoton_listener::slotNew\lConnection" alt="" coords="487,5,653,47"/>
+<area shape="rect" id="node4" href="$classspoton__listener.html#ab021f79b886130bb030aa8bef8dbd1ef" title="spoton_listener::orientation" alt="" coords="701,13,880,39"/>
+<area shape="rect" id="node6" href="$classspoton__sctp__socket.html#a75f97d3f70c47352428faa8fcd4677c9" title="spoton_sctp_socket\l::connectToHost" alt="" coords="721,93,860,135"/>
+<area shape="rect" id="node8" href="$classspoton__sctp__socket.html#ae4c32b723bd5b794e6547dd12d563017" title="spoton_sctp_socket\l::slotHostFound" alt="" coords="501,123,639,164"/>
+<area shape="rect" id="node7" href="$classspoton__neighbor.html#a294b3dec7cae2337a70b624f0b98b35f" title="spoton_neighbor::slotTimeout" alt="" coords="928,101,1121,127"/>
+</map>

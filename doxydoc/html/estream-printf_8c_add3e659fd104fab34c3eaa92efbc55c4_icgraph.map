@@ -1,0 +1,8 @@
+<map id="_gpgrt_estream_vasprintf" name="_gpgrt_estream_vasprintf">
+<area shape="rect" id="node2" href="$libgpg__error-1_824_2src_2visibility_8c.html#aab9637de180d0a04696032200c89c59b" title="gpgrt_asprintf" alt="" coords="253,5,355,32"/>
+<area shape="rect" id="node3" href="$libgpg__error-1_824_2src_2visibility_8c.html#acbb947b09c6f5c480561880f51a07e9d" title="gpgrt_vasprintf" alt="" coords="250,56,358,83"/>
+<area shape="rect" id="node4" href="$libgpg__error-1_824_2src_2visibility_8c.html#ad2afc4b8de021bd4cdef2d79efa16ff7" title="gpgrt_bsprintf" alt="" coords="253,107,355,133"/>
+<area shape="rect" id="node5" href="$libgpg__error-1_824_2src_2visibility_8c.html#aeefcb6a979c1067e4970e71189b36e6b" title="gpgrt_vbsprintf" alt="" coords="250,157,358,184"/>
+<area shape="rect" id="node6" href="$estream-printf_8c.html#adc2651ff4731a1cb6b10bbb5b87048f9" title="_gpgrt_estream_asprintf" alt="" coords="223,208,385,235"/>
+<area shape="rect" id="node7" href="$estream-printf_8c.html#afc7a6eb9a9025da22c48707b602c5bc2" title="_gpgrt_estream_bsprintf" alt="" coords="223,259,385,285"/>
+</map>

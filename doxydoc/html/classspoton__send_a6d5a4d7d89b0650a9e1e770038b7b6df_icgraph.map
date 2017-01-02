@@ -1,0 +1,5 @@
+<map id="spoton_send::message0060" name="spoton_send::message0060">
+<area shape="rect" id="node2" href="$classspoton__send.html#a322d38a55cdd7c46ac652e6eddd8bb64" title="spoton_send::message0052" alt="" coords="263,13,449,39"/>
+<area shape="rect" id="node4" href="$classspoton__neighbor.html#a3e22229fc3fdfa26f2c872f797469251" title="spoton_neighbor::writeMessage0060" alt="" coords="239,63,473,90"/>
+<area shape="rect" id="node3" href="$classspoton__neighbor.html#a31d1f57e6ca80b474e28ad5c4895692b" title="spoton_neighbor::slotSend\lAuthenticationRequest" alt="" coords="521,5,697,47"/>
+</map>

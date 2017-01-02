@@ -1,0 +1,5 @@
+<map id="deliberate::TextBox::TextBox" name="deliberate::TextBox::TextBox">
+<area shape="rect" id="node2" href="$classUi__getStringDialog.html#ac555f63b53b822a4fe848da7ada6af53" title="Ui_getStringDialog\l::setupUi" alt="" coords="190,5,321,47"/>
+<area shape="rect" id="node4" href="$classdeliberate_1_1TextBox.html#a128e56e77c4058eb0d2cc06411e8b72f" title="deliberate::TextBox\l::grabPass" alt="" coords="188,71,323,112"/>
+<area shape="rect" id="node3" href="$classUi__getStringDialog.html#ab6f84cfe1927a9508c3d52a67edc6274" title="Ui_getStringDialog\l::retranslateUi" alt="" coords="371,5,501,47"/>
+</map>

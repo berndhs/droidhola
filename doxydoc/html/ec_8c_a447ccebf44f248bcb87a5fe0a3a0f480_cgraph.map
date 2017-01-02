@@ -1,0 +1,12 @@
+<map id="_gcry_mpi_ec_p_new" name="_gcry_mpi_ec_p_new">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2src_2context_8c.html#a6655a12b844dc452065281e68aec194c" title="_gcry_ctx_alloc" alt="" coords="220,5,333,32"/>
+<area shape="rect" id="node3" href="$ec_8c.html#a10caa3cf99667e9df2d4abb978afd73c" title="ec_deinit" alt="" coords="239,56,314,83"/>
+<area shape="rect" id="node7" href="$libgcrypt-1_86_86_2src_2context_8c.html#a9bbd42e4b30317b274a37d7d2a54d2ba" title="_gcry_ctx_get_pointer" alt="" coords="201,107,352,133"/>
+<area shape="rect" id="node9" href="$ec_8c.html#aba9d89a9099579615a5222b017667944" title="ec_p_init" alt="" coords="239,157,314,184"/>
+<area shape="rect" id="node4" href="$mpi-mod_8c.html#a5878f380e0f89ce9a5389d1192508571" title="_gcry_mpi_barrett_free" alt="" coords="406,5,561,32"/>
+<area shape="rect" id="node5" href="$ec_8c.html#a9a939e277010b3c0dbe5511b20487cbc" title="_gcry_mpi_point_release" alt="" coords="400,56,567,83"/>
+<area shape="rect" id="node6" href="$ec_8c.html#afe9d827c87b5ca6a71591721e19b9f6b" title="_gcry_mpi_point_free\l_parts" alt="" coords="615,49,761,90"/>
+<area shape="rect" id="node8" href="$common_8h.html#a3c9f2d4104ed4b54b508cfddf9399512" title="log_fatal" alt="" coords="448,107,519,133"/>
+<area shape="rect" id="node10" href="$mpi-mod_8c.html#a3e63b23592c0653fb20948a6c9a401ba" title="_gcry_mpi_barrett_init" alt="" coords="408,157,559,184"/>
+<area shape="rect" id="node11" href="$ec_8c.html#a89a653f3631aed03b9e973465a1fa1da" title="_gcry_mpi_ec_get_reset" alt="" coords="401,208,565,235"/>
+</map>

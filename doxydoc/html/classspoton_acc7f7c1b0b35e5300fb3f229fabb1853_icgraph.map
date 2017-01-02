@@ -1,0 +1,5 @@
+<map id="spoton::prepareListenerIPCombo" name="spoton::prepareListenerIPCombo">
+<area shape="rect" id="node2" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="512,34,620,61"/>
+<area shape="rect" id="node3" href="$classspoton.html#a7a65f46805ff05e033b96ec3684b7045" title="spoton::slotProtocolRadio\lToggled" alt="" coords="279,27,451,68"/>
+<area shape="rect" id="node4" href="$classspoton.html#ad903ae300a0dc879119dfe4d27e19e63" title="spoton::slotTransportChanged" alt="" coords="267,93,464,120"/>
+</map>

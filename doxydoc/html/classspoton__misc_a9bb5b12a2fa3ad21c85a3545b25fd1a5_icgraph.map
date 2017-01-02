@@ -1,0 +1,5 @@
+<map id="spoton_misc::saveReceivedStarBeamHash" name="spoton_misc::saveReceivedStarBeamHash">
+<area shape="rect" id="node2" href="$classspoton.html#a41d7c59d2db5a66fbd3e5d661546cb6a" title="spoton::computeFileDigest" alt="" coords="240,13,419,39"/>
+<area shape="rect" id="node3" href="$classspoton.html#a4d2a99831136633ef98db07313ab5c2e" title="spoton::slotPopulateStars" alt="" coords="467,13,639,39"/>
+<area shape="rect" id="node4" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="687,13,795,39"/>
+</map>

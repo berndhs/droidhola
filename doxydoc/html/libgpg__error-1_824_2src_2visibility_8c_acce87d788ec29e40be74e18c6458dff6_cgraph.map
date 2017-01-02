@@ -1,0 +1,33 @@
+<map id="gpgrt_fdopen" name="gpgrt_fdopen">
+<area shape="rect" id="node2" href="$estream_8c.html#a1d3c2847723286aec4fb7d40391dc3ec" title="_gpgrt_fdopen" alt="" coords="151,563,255,589"/>
+<area shape="rect" id="node3" href="$estream_8c.html#aa5f085f10408118b1ea65399a7df7c08" title="do_fdopen" alt="" coords="303,563,385,589"/>
+<area shape="rect" id="node4" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="1015,461,1053,488"/>
+<area shape="rect" id="node5" href="$estream_8c.html#aa692888f7dda1aac0fb6903d08cc277d" title="parse_mode" alt="" coords="435,613,528,640"/>
+<area shape="rect" id="node6" href="$estream_8c.html#a78b518fa63356dffc8962164f56a24f4" title="func_fd_create" alt="" coords="595,512,703,539"/>
+<area shape="rect" id="node12" href="$estream_8c.html#a01e93641092e9cc00877b75d8a858bca" title="es_create" alt="" coords="442,259,521,285"/>
+<area shape="rect" id="node32" href="$estream_8c.html#a2fe80917fb84d00f85cab271b7ecbf99" title="func_fd_ioctl" alt="" coords="433,664,529,691"/>
+<area shape="rect" id="node7" href="$estream_8c.html#a2247c69825d8455426f1c413c7042d4e" title="mem_alloc" alt="" coords="795,259,880,285"/>
+<area shape="rect" id="node8" href="$gpgrt-int_8h.html#a2f9d1f603c692a672e43cf0c1999e142" title="_gpgrt_malloc" alt="" coords="983,309,1085,336"/>
+<area shape="rect" id="node9" href="$init_8c.html#ac26ffa337b3b674879999e0bb910de8e" title="_gpgrt_realloc" alt="" coords="1187,335,1289,361"/>
+<area shape="rect" id="node10" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1371,309,1415,336"/>
+<area shape="rect" id="node11" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="1363,360,1423,387"/>
+<area shape="rect" id="node13" href="$estream_8c.html#a354cf257b612e593c590f390a50ba7de" title="init_stream_obj" alt="" coords="593,107,704,133"/>
+<area shape="rect" id="node14" href="$estream_8c.html#a380e3aca864f55918f5f3b0aab89fbf0" title="init_stream_lock" alt="" coords="590,157,707,184"/>
+<area shape="rect" id="node18" href="$estream_8c.html#aec67421b78b3e5406758275b0cbec4dd" title="do_list_add" alt="" coords="605,56,693,83"/>
+<area shape="rect" id="node25" href="$estream_8c.html#ad26c636a0b728bf9f8aea9627c637ab8" title="es_deinitialize" alt="" coords="597,360,701,387"/>
+<area shape="rect" id="node27" href="$estream_8c.html#a94fb007445d42ae75bf37fd4c5a7e6c7" title="mem_free" alt="" coords="797,309,877,336"/>
+<area shape="rect" id="node29" href="$estream_8c.html#aeb50bf24dee51440cb340aecfe8bea97" title="destroy_stream_lock" alt="" coords="577,208,720,235"/>
+<area shape="rect" id="node15" href="$gpgrt-int_8h.html#a4df8b593c065b52df9e392ac3bf88d5f" title="_gpgrt_lock_init" alt="" coords="781,157,894,184"/>
+<area shape="rect" id="node16" href="$posix-lock_8c.html#a29941b915cdd80d606a9565926aa4c42" title="get_lock_object" alt="" coords="1181,107,1295,133"/>
+<area shape="rect" id="node17" href="$pthread_8h.html#a67e427da2ca618b8ea8cc238704365f6" title="pthread_mutex_init" alt="" coords="968,157,1100,184"/>
+<area shape="rect" id="node19" href="$estream_8c.html#a66c1d7860068de9a5f3bdd1432729f2f" title="lock_list" alt="" coords="802,56,873,83"/>
+<area shape="rect" id="node22" href="$estream_8c.html#af86a232f81eaf4108bd6769a3bfae4be" title="unlock_list" alt="" coords="795,5,879,32"/>
+<area shape="rect" id="node20" href="$gpgrt-int_8h.html#a0f00a284f65b08c64de0b534e3ea61d6" title="_gpgrt_lock_lock" alt="" coords="974,56,1094,83"/>
+<area shape="rect" id="node21" href="$pthread_8h.html#aef3f55cad288fdbc9c39bff9d668de1e" title="pthread_mutex_lock" alt="" coords="1169,56,1307,83"/>
+<area shape="rect" id="node23" href="$gpgrt-int_8h.html#af316909a57a745e15858f6ccbc67bf9f" title="_gpgrt_lock_unlock" alt="" coords="967,5,1101,32"/>
+<area shape="rect" id="node24" href="$pthread_8h.html#a2e24c7aa54ba10a032b7b6cd06c3caaa" title="pthread_mutex_unlock" alt="" coords="1161,5,1315,32"/>
+<area shape="rect" id="node26" href="$estream_8c.html#a70a573144368a147e5cd9638c3d5dae6" title="es_flush" alt="" coords="802,360,873,387"/>
+<area shape="rect" id="node28" href="$gpgrt-int_8h.html#af908d24934fa9497c0a2d82b6d160ab3" title="_gpgrt_free" alt="" coords="991,360,1077,387"/>
+<area shape="rect" id="node30" href="$gpgrt-int_8h.html#a3daecb0e9c7ebdf088e1b321d26a2f32" title="_gpgrt_lock_destroy" alt="" coords="768,208,907,235"/>
+<area shape="rect" id="node31" href="$pthread_8h.html#aa004edfa9d205948987fc16d1ed066c5" title="pthread_mutex_destroy" alt="" coords="955,259,1113,285"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$pkbench_8c.html#a9acbe3c377f67e90254fa7c33af5d6f5" title="generate_key" alt="" coords="128,59,228,85"/>
+<area shape="rect" id="node6" href="$pkbench_8c.html#ae32b6f0c264c24a7fc4534b1a05ca583" title="process_key_pair_file" alt="" coords="104,185,252,212"/>
+<area shape="rect" id="node3" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="651,236,689,263"/>
+<area shape="rect" id="node4" href="$pkbench_8c.html#aa77cc587dc65b9282085c7403a84ae8e" title="die" alt="" coords="343,84,381,111"/>
+<area shape="rect" id="node5" href="$pkbench_8c.html#a5753711823ae182c7ac47927cae17e69" title="show_sexp" alt="" coords="626,84,714,111"/>
+<area shape="rect" id="node7" href="$pkbench_8c.html#a96765fd3cb76d89bb338bcabe64d4633" title="read_file" alt="" coords="327,425,397,452"/>
+<area shape="rect" id="node9" href="$pkbench_8c.html#acb32619c9188d513c3ba15f081af3073" title="context_init" alt="" coords="317,185,407,212"/>
+<area shape="rect" id="node10" href="$pkbench_8c.html#abbfd106d2701fb2f26c6c781ecd671af" title="process_key_pair" alt="" coords="300,312,424,339"/>
+<area shape="rect" id="node17" href="$pkbench_8c.html#a4adb69c3d824fc82b7c9865f00bf7933" title="context_destroy" alt="" coords="305,236,419,263"/>
+<area shape="rect" id="node8" href="$pkbench_8c.html#a4dd0d318d4c89c0532458533ab35ead4" title="fail" alt="" coords="651,439,689,465"/>
+<area shape="rect" id="node11" href="$pkbench_8c.html#af2d47225d4803b9e5d303a5e17a52405" title="work_encrypt" alt="" coords="472,337,572,364"/>
+<area shape="rect" id="node13" href="$pkbench_8c.html#a168d44a5c8e0465672c157c8bac3fc9b" title="work_decrypt" alt="" coords="472,236,572,263"/>
+<area shape="rect" id="node14" href="$pkbench_8c.html#a2c451835880755fd34776a72c0cfd4b1" title="work_sign" alt="" coords="481,439,563,465"/>
+<area shape="rect" id="node15" href="$pkbench_8c.html#adc458e66a357f37cdeba7746bff12ba1" title="work_verify" alt="" coords="477,287,567,313"/>
+<area shape="rect" id="node16" href="$pkbench_8c.html#aec52666fa091ea15ce31120252ca6ce5" title="benchmark" alt="" coords="479,388,565,415"/>
+<area shape="rect" id="node12" href="$gpg-error_8h.html#ae9aa174cb4e6c638dcfa58942b79ed2d" title="gpg_err_code" alt="" coords="620,363,720,389"/>
+</map>

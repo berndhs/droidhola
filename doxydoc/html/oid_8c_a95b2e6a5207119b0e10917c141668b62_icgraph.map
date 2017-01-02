@@ -1,0 +1,21 @@
+<map id="ksba_oid_to_str" name="ksba_oid_to_str">
+<area shape="rect" id="node2" href="$oid_8c.html#a4758db72eff0a109e9726bb0c5cf13d6" title="_ksba_oid_node_to_str" alt="" coords="168,307,324,333"/>
+<area shape="rect" id="node3" href="$cert_8c.html#a2438b3bb25cdf7fcd7f05a704c8721d5" title="read_extensions" alt="" coords="404,256,521,283"/>
+<area shape="rect" id="node19" href="$ksba_8h.html#aa710311b78707e21d8797f88e83de261" title="ksba_cms_get_digest_algo" alt="" coords="373,307,553,333"/>
+<area shape="rect" id="node20" href="$ksba_8h.html#aa83091d89d724fb12ff7b234405debb2" title="ksba_cms_get_sigattr_oids" alt="" coords="372,357,553,384"/>
+<area shape="rect" id="node4" href="$ksba_8h.html#aa67d1f0503acce6435354030376d1ca8" title="ksba_cert_get_extension" alt="" coords="601,256,768,283"/>
+<area shape="rect" id="node5" href="$cert_8c.html#ae3f1db4cbaab342a8f79c8119620cc3f" title="get_name" alt="" coords="869,31,948,57"/>
+<area shape="rect" id="node8" href="$ksba_8h.html#a84ced66ea7ead7b30a11838c18379584" title="ksba_cert_is_ca" alt="" coords="850,81,967,108"/>
+<area shape="rect" id="node9" href="$ksba_8h.html#af3b9d1e4b7e617bf3afa6e6b9fb5f044" title="ksba_cert_get_key_usage" alt="" coords="821,132,996,159"/>
+<area shape="rect" id="node10" href="$ksba_8h.html#ac340e3ddd29050ac11e5d74fd94ec1e6" title="ksba_cert_get_cert\l_policies" alt="" coords="842,183,975,225"/>
+<area shape="rect" id="node11" href="$ksba_8h.html#a778c38ef9da7ce551813f894bfa2d711" title="ksba_cert_get_ext_key\l_usages" alt="" coords="830,249,987,290"/>
+<area shape="rect" id="node12" href="$ksba_8h.html#a37a4bf0570f091c0f8aa74e9a96e51dc" title="ksba_cert_get_crl_dist\l_point" alt="" coords="832,314,985,355"/>
+<area shape="rect" id="node13" href="$ksba_8h.html#adc7c669f741d13826fa3d68c2eaa23b9" title="ksba_cert_get_auth\l_key_id" alt="" coords="841,379,977,421"/>
+<area shape="rect" id="node14" href="$cert_8c.html#ac26e981366d0f87861f895ed3c413120" title="get_simple_octet_string_ext" alt="" coords="816,445,1001,472"/>
+<area shape="rect" id="node16" href="$cert_8c.html#a5b976a59bc700b2bbb6165ac4312ce35" title="get_info_access" alt="" coords="850,503,967,529"/>
+<area shape="rect" id="node6" href="$ksba_8h.html#ae9788c98f27302ae4729ad5538f8d905" title="ksba_cert_get_issuer" alt="" coords="1057,5,1203,32"/>
+<area shape="rect" id="node7" href="$ksba_8h.html#af3264433029868a7accba68ff41f96d5" title="ksba_cert_get_subject" alt="" coords="1053,56,1207,83"/>
+<area shape="rect" id="node15" href="$ksba_8h.html#ab39458372da949261391b829895c6ca6" title="ksba_cert_get_subj\l_key_id" alt="" coords="1063,430,1197,471"/>
+<area shape="rect" id="node17" href="$ksba_8h.html#a771a7deed1c5f716bb77d5322c1a9820" title="ksba_cert_get_authority\l_info_access" alt="" coords="1049,495,1211,537"/>
+<area shape="rect" id="node18" href="$ksba_8h.html#a9b6b2acf43789ecd61e35064629fdd0e" title="ksba_cert_get_subject\l_info_access" alt="" coords="1053,561,1207,602"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="_gcry_mpi_barrett_free" name="_gcry_mpi_barrett_free">
+<area shape="rect" id="node2" href="$ec_8c.html#a10caa3cf99667e9df2d4abb978afd73c" title="ec_deinit" alt="" coords="208,221,283,248"/>
+<area shape="rect" id="node3" href="$mpi_8h.html#a447ccebf44f248bcb87a5fe0a3a0f480" title="_gcry_mpi_ec_p_new" alt="" coords="331,132,479,159"/>
+<area shape="rect" id="node6" href="$mpi_8h.html#a155ee83731a94b2c2e56bc0a01345cf8" title="_gcry_mpi_ec_free" alt="" coords="339,309,471,336"/>
+<area shape="rect" id="node4" href="$mpi_8h.html#a2fd4cd740bf9fb3d94f89a5038ac1a8c" title="_gcry_mpi_ec_new" alt="" coords="552,5,687,32"/>
+<area shape="rect" id="node5" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#ac9d9db73c60119ab2446fa086906767d" title="gcry_mpi_ec_new" alt="" coords="760,5,887,32"/>
+<area shape="rect" id="node7" href="$libgcrypt-1_86_86_2cipher_2ecc-curves_8c.html#a0277221973f7126d6c8b5ab4da7f4213" title="_gcry_ecc_get_param_sexp" alt="" coords="527,107,712,133"/>
+<area shape="rect" id="node8" href="$ecc-ecdsa_8c.html#a92ecc1c83f033fcdd7871828aed52c3a" title="_gcry_ecc_ecdsa_sign" alt="" coords="542,309,697,336"/>
+<area shape="rect" id="node11" href="$ecc_8c.html#afb500d86a0c20d38b6e95eac941221ca" title="ecc_generate" alt="" coords="1111,208,1211,235"/>
+<area shape="rect" id="node13" href="$ecc-ecdsa_8c.html#a7bb300cf90effc6eb63b54cb77a39ee6" title="_gcry_ecc_ecdsa_verify" alt="" coords="538,360,701,387"/>
+<area shape="rect" id="node14" href="$ecc_8c.html#a5fa08239782ab59a8a86ea18a4162032" title="ecc_verify" alt="" coords="782,436,865,463"/>
+<area shape="rect" id="node15" href="$ecc-eddsa_8c.html#a1c4958faec3011c98a07badae210a16c" title="_gcry_ecc_eddsa_sign" alt="" coords="542,259,697,285"/>
+<area shape="rect" id="node16" href="$ecc-eddsa_8c.html#a755ab9167a768e80bda9d6faf1bbf4ca" title="_gcry_ecc_eddsa_verify" alt="" coords="538,512,701,539"/>
+<area shape="rect" id="node17" href="$ecc-gost_8c.html#a2448c570319e5709ee90e88fdcf15130" title="_gcry_ecc_gost_sign" alt="" coords="547,208,692,235"/>
+<area shape="rect" id="node18" href="$ecc-gost_8c.html#aea37393dfdef6f779c83e0a185dfda87" title="_gcry_ecc_gost_verify" alt="" coords="543,411,696,437"/>
+<area shape="rect" id="node19" href="$ecc_8c.html#af52f50415d9222c1ee17a83564c9839a" title="ecc_check_secret_key" alt="" coords="541,563,697,589"/>
+<area shape="rect" id="node20" href="$ecc_8c.html#aa393065ec89267b73e1da57388ee5732" title="ecc_encrypt_raw" alt="" coords="559,613,680,640"/>
+<area shape="rect" id="node21" href="$ecc_8c.html#a3ecb571c9a3e14803ff801832e35c974" title="ecc_decrypt_raw" alt="" coords="559,56,680,83"/>
+<area shape="rect" id="node9" href="$ecc_8c.html#ab824af94d5e7a2c6a1ad4559ee2ea9a1" title="test_keys" alt="" coords="784,309,863,336"/>
+<area shape="rect" id="node12" href="$ecc_8c.html#ae11b517c533d922d85067aa6c4948907" title="ecc_sign" alt="" coords="786,259,861,285"/>
+<area shape="rect" id="node10" href="$ecc_8c.html#a727c0b4e54d26594ca00e4550ec7fb06" title="nist_generate_key" alt="" coords="935,259,1063,285"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="GPG_Init" name="GPG_Init">
+<area shape="rect" id="node2" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="158,5,205,32"/>
+<area shape="rect" id="node3" href="$gpgcedev_8c.html#a004389a3e9a1c48eca8e0897eed85d45" title="wchar_to_utf8" alt="" coords="129,56,233,83"/>
+<area shape="rect" id="node5" href="$gpgcedev_8c.html#a8718ac859ad1ebc9deeff94544660b35" title="log_debug" alt="" coords="141,107,222,133"/>
+<area shape="rect" id="node6" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="159,157,203,184"/>
+<area shape="rect" id="node4" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="281,56,341,83"/>
+</map>

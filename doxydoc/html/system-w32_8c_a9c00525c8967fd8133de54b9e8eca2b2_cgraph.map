@@ -1,0 +1,6 @@
+<map id="__assuan_spawn" name="__assuan_spawn">
+<area shape="rect" id="node2" href="$system-w32_8c.html#a7d5c0b7f01e217a9704741f4f5a07d2a" title="build_w32_commandline" alt="" coords="179,5,343,32"/>
+<area shape="rect" id="node4" href="$posix-fd-t_8inc_8h.html#a53e2bc65462811ed2409b2d232825daa" title="assuan_fd_from_posix_fd" alt="" coords="176,56,347,83"/>
+<area shape="rect" id="node5" href="$assuan-defs_8h.html#a5519eee6ef1f87d3628812e0388b2f8d" title="_assuan_free" alt="" coords="211,107,311,133"/>
+<area shape="rect" id="node3" href="$assuan-defs_8h.html#a598f9f6be557fcc216c29e773e68a128" title="_assuan_malloc" alt="" coords="395,5,511,32"/>
+</map>

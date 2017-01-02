@@ -1,0 +1,31 @@
+<map id="spoton_kernel::discoverAdaptiveEchoPair" name="spoton_kernel::discoverAdaptiveEchoPair">
+<area shape="rect" id="node2" href="$classspoton__crypt.html#a12f4ac308fe55d72e6da84e825009382" title="spoton_crypt::decryptedAfter\lAuthenticated" alt="" coords="267,361,457,402"/>
+<area shape="rect" id="node5" href="$classspoton__crypt.html#a7382dbdb47b772128ea0f12cb975d959" title="spoton_crypt::keyedHash" alt="" coords="1005,309,1176,336"/>
+<area shape="rect" id="node7" href="$classspoton__crypt.html#a218293644d28fe63f56ba609d1661245" title="spoton_crypt::memcmp" alt="" coords="528,528,687,555"/>
+<area shape="rect" id="node28" href="$classspoton__crypt.html#a3f156369f3e0551f928817b3b9d3744e" title="spoton_crypt::cipherKeyLength" alt="" coords="755,5,957,32"/>
+<area shape="rect" id="node29" href="$classspoton__kernel.html#aaeec3cc0a4cc36364953899148aa0a44" title="spoton_kernel::acceptRemote\lBluetoothConnection" alt="" coords="264,630,460,671"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="1496,284,1645,311"/>
+<area shape="rect" id="node8" href="$classspoton__crypt.html#ae5a4b0d1d425603ea1cbca9b3dfd6488" title="spoton_crypt::decrypted" alt="" coords="1009,571,1172,597"/>
+<area shape="rect" id="node18" href="$classspoton__crypt.html#ab0b90db83948abc5c1ca6b395a88658f" title="spoton_crypt::reencodePrivate\lPublicKeys" alt="" coords="508,222,707,263"/>
+<area shape="rect" id="node4" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="1753,107,1915,133"/>
+<area shape="rect" id="node6" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="1551,487,1590,513"/>
+<area shape="rect" id="node9" href="$classspoton__threefish.html#a1eef1a8f7028d45c87e4595ed0f96c81" title="spoton_threefish::decrypted" alt="" coords="1229,731,1411,757"/>
+<area shape="rect" id="node16" href="$classspoton__crypt.html#a68f145c1e953075712bf61089fe716c5" title="spoton_crypt::setInitialization\lVector" alt="" coords="1224,563,1416,605"/>
+<area shape="rect" id="node10" href="$Common_2spot-on-threefish_8cc.html#a1335568fae272a0c8757f40789a4bc19" title="threefish_decrypt" alt="" coords="1509,781,1632,808"/>
+<area shape="rect" id="node15" href="$classspoton__misc.html#adf4be731cf37f969ca3e8417aabf33b9" title="spoton_misc::xor_arrays" alt="" coords="1488,731,1653,757"/>
+<area shape="rect" id="node11" href="$Common_2spot-on-threefish_8cc.html#ab9c67a2d026f017aec9239af124bd6ff" title="threefish_decrypt_implementation" alt="" coords="1725,775,1943,801"/>
+<area shape="rect" id="node12" href="$Common_2spot-on-threefish_8cc.html#af4e98a94fcceb8a18bb05deaaa75d9fc" title="bytesToWords" alt="" coords="1991,717,2097,744"/>
+<area shape="rect" id="node13" href="$Common_2spot-on-threefish_8cc.html#aad891b90fb5eeb40bddc4da78ce274ea" title="mix_inverse" alt="" coords="1998,819,2090,845"/>
+<area shape="rect" id="node14" href="$Common_2spot-on-threefish_8cc.html#a3b72a8021b758ff471d0700ebf7fd5f4" title="wordsToBytes" alt="" coords="1991,768,2097,795"/>
+<area shape="rect" id="node17" href="$classspoton__crypt.html#a9e52c870aa3d859b11052da831090f44" title="spoton_crypt::ivLength" alt="" coords="1493,563,1648,589"/>
+<area shape="rect" id="node19" href="$classspoton__misc.html#acbb66a506c79752732614d3883df9298" title="spoton_misc::database" alt="" coords="1012,157,1169,184"/>
+<area shape="rect" id="node20" href="$classspoton__crypt.html#a51837f51f52920c24788eea6b7dfbf47" title="spoton_crypt::publicKey" alt="" coords="775,107,937,133"/>
+<area shape="rect" id="node21" href="$classspoton__crypt.html#a09a98a5b4f7dcf0f596648c98a024ea3" title="spoton_crypt::encryptedThen\lHashed" alt="" coords="761,361,951,402"/>
+<area shape="rect" id="node22" href="$classspoton__crypt.html#a762f0c091d69d6744bcfa28440716df6" title="spoton_crypt::encrypted" alt="" coords="1009,461,1172,488"/>
+<area shape="rect" id="node23" href="$classspoton__threefish.html#ae7e9851ce8879099e71ae77773a23e02" title="spoton_threefish::encrypted" alt="" coords="1229,680,1411,707"/>
+<area shape="rect" id="node24" href="$classspoton__threefish.html#a1c153134ac798336e85fd62e80cdad50" title="spoton_threefish::setInitialization\lVector" alt="" coords="1464,614,1677,655"/>
+<area shape="rect" id="node25" href="$Common_2spot-on-threefish_8cc.html#a1747dee2e824c8c403f4fbc2f748144a" title="threefish_encrypt" alt="" coords="1509,680,1632,707"/>
+<area shape="rect" id="node26" href="$Common_2spot-on-threefish_8cc.html#a77e7993e087bbe87cd22bcb78d36d39f" title="threefish_encrypt_implementation" alt="" coords="1725,705,1943,732"/>
+<area shape="rect" id="node27" href="$Common_2spot-on-threefish_8cc.html#ab981012ef172a803efab3c267758553b" title="mix" alt="" coords="2023,667,2065,693"/>
+<area shape="rect" id="node30" href="$classspoton__kernel.html#a8446063eb3e80635f9d00b0b4679da70" title="spoton_kernel::setting" alt="" coords="532,637,683,664"/>
+</map>

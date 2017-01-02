@@ -1,0 +1,16 @@
+<map id="GPG_Write" name="GPG_Write">
+<area shape="rect" id="node2" href="$gpgcedev_8c.html#a8718ac859ad1ebc9deeff94544660b35" title="log_debug" alt="" coords="473,157,554,184"/>
+<area shape="rect" id="node3" href="$gpgcedev_8c.html#a07581782754c4d5a1364cfebea81f918" title="access_opnctx" alt="" coords="143,81,253,108"/>
+<area shape="rect" id="node12" href="$gpgcedev_8c.html#ae54eaff1f0c50a7892d8730427d6ab24" title="logimpl_flush" alt="" coords="149,208,247,235"/>
+<area shape="rect" id="node13" href="$gpgcedev_8c.html#a58a110fef2be438e0b7d0253dd73ed49" title="pipeimpl_unref" alt="" coords="305,259,411,285"/>
+<area shape="rect" id="node14" href="$gpgcedev_8c.html#a1886f25c21a206b9f2d6b18fefd721a9" title="logimpl_unref" alt="" coords="149,309,247,336"/>
+<area shape="rect" id="node4" href="$gpgcedev_8c.html#a334b5843050815a4fffe945727013555" title="verify_opnctx" alt="" coords="308,56,408,83"/>
+<area shape="rect" id="node5" href="$gpgcedev_8c.html#a0bf5b7d76cca42ff2a491726bef500ee" title="assert_logimpl" alt="" coords="305,5,411,32"/>
+<area shape="rect" id="node10" href="$gpgcedev_8c.html#a6085db8f1f0bec8dba34283d6481d6d9" title="assert_pipeimpl" alt="" coords="301,107,415,133"/>
+<area shape="rect" id="node6" href="$gpgcedev_8c.html#ad311badf860bca3ff677ebcf3b606385" title="logimpl_new" alt="" coords="466,31,561,57"/>
+<area shape="rect" id="node7" href="$gpgcedev_8c.html#a0c2170d2086a00c5f103a727eabd0f8e" title="create_log_id" alt="" coords="612,31,711,57"/>
+<area shape="rect" id="node8" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="631,81,691,108"/>
+<area shape="rect" id="node9" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="639,132,683,159"/>
+<area shape="rect" id="node11" href="$gpgcedev_8c.html#abc1ef04571ed6cbff59d593b34f9ac16" title="pipeimpl_new" alt="" coords="463,107,564,133"/>
+<area shape="rect" id="node15" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="335,309,381,336"/>
+</map>

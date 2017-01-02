@@ -1,0 +1,11 @@
+<map id="_assuan_client_release" name="_assuan_client_release">
+<area shape="rect" id="node2" href="$assuan-pipe-connect_8c.html#a13c374ea053d2c8062f669dd8af61a75" title="pipe_connect" alt="" coords="249,17,347,44"/>
+<area shape="rect" id="node7" href="$assuan-pipe-connect_8c.html#a51837a1e24f42a576f9452449a339117" title="socketpair_connect" alt="" coords="231,68,365,95"/>
+<area shape="rect" id="node8" href="$assuan-socket-connect_8c.html#a914fac7c046c776cd557298a94def964" title="_assuan_connect_finalize" alt="" coords="212,119,384,145"/>
+<area shape="rect" id="node3" href="$assuan-pipe-connect_8c.html#abe824937877a7d0a9fe9fd462de4df7c" title="assuan_pipe_connect" alt="" coords="449,31,597,57"/>
+<area shape="rect" id="node4" href="$fdpassing_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="675,5,726,32"/>
+<area shape="rect" id="node5" href="$pipeconnect_8c.html#a7f85abcf02014cb64b3ade4b0be591f1" title="run_client" alt="" coords="661,56,740,83"/>
+<area shape="rect" id="node6" href="$pipeconnect_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="788,56,839,83"/>
+<area shape="rect" id="node9" href="$assuan-socket-connect_8c.html#af09bf1ed2adc14d5d2035d71a5562e83" title="assuan_socket_connect_fd" alt="" coords="432,93,613,120"/>
+<area shape="rect" id="node10" href="$assuan-socket-connect_8c.html#aaec6a578999f1d2536a3372741ca1356" title="assuan_socket_connect" alt="" coords="441,144,604,171"/>
+</map>

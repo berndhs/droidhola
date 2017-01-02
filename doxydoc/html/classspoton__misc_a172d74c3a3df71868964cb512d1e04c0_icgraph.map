@@ -1,0 +1,6 @@
+<map id="spoton_misc::isIpBlocked" name="spoton_misc::isIpBlocked">
+<area shape="rect" id="node2" href="$classspoton__listener__tcp__server.html#a1dd8234672ea13512aef0deabe3369dc" title="spoton_listener_tcp\l_server::incomingConnection" alt="" coords="225,5,416,47"/>
+<area shape="rect" id="node4" href="$classspoton__listener__udp__server.html#a7bc531d96fcaf2e3ace3db33197b4727" title="spoton_listener_udp\l_server::slotReadyRead" alt="" coords="239,71,402,112"/>
+<area shape="rect" id="node5" href="$classspoton__listener.html#ab021f79b886130bb030aa8bef8dbd1ef" title="spoton_listener::orientation" alt="" coords="231,137,410,163"/>
+<area shape="rect" id="node3" href="$classspoton__listener__tcp__server.html#aa967827ec1929db71cfd5cc86f0f18cf" title="spoton_listener_tcp\l_server::setMaxPendingConnections" alt="" coords="464,5,700,47"/>
+</map>

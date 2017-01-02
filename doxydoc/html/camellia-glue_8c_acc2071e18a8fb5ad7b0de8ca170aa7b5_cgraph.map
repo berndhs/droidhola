@@ -1,0 +1,31 @@
+<map id="selftest" name="selftest">
+<area shape="rect" id="node2" href="$camellia-glue_8c.html#ab01fe86e37868e41482b850e150d99aa" title="camellia_setkey" alt="" coords="317,461,433,488"/>
+<area shape="rect" id="node15" href="$camellia-glue_8c.html#a8e803caa42e5af78a94ee7bc8dfa8b98" title="camellia_encrypt" alt="" coords="533,157,653,184"/>
+<area shape="rect" id="node16" href="$camellia-glue_8c.html#a2083c3b8dc9fe3f8599bbac937036a8b" title="camellia_decrypt" alt="" coords="533,715,653,741"/>
+<area shape="rect" id="node17" href="$camellia-glue_8c.html#a3fc0a7315ddb41e8ddcb26d6779be1ea" title="selftest_ctr_128" alt="" coords="122,348,237,375"/>
+<area shape="rect" id="node22" href="$camellia-glue_8c.html#aff1fdd05a1eb4142e3dd7df6e837a9a5" title="selftest_cbc_128" alt="" coords="119,399,240,425"/>
+<area shape="rect" id="node26" href="$camellia-glue_8c.html#a3be0fd783c4e0189416b28581ebaefcc" title="selftest_cfb_128" alt="" coords="120,259,239,285"/>
+<area shape="rect" id="node3" href="$g10lib_8h.html#aea824f7fabf4b6f049106a272b63f36d" title="_gcry_get_hw_features" alt="" coords="515,512,672,539"/>
+<area shape="rect" id="node4" href="$common_8h.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="557,461,629,488"/>
+<area shape="rect" id="node5" href="$camellia_8c.html#a9a7a513a1b4cde274748d263c1bb249c" title="Camellia_Ekeygen" alt="" coords="528,563,659,589"/>
+<area shape="rect" id="node9" href="$camellia_8c.html#a43344daa2feb7ee229acc400dfa2f989" title="Camellia_EncryptBlock" alt="" coords="724,259,883,285"/>
+<area shape="rect" id="node12" href="$camellia_8c.html#a2e0b4eabe9c6cdceab512d651e702fed" title="Camellia_DecryptBlock" alt="" coords="724,664,883,691"/>
+<area shape="rect" id="node6" href="$camellia_8c.html#aee37d98605e109b8293b458df6a44aa9" title="camellia_setup128" alt="" coords="738,563,869,589"/>
+<area shape="rect" id="node7" href="$camellia_8c.html#a720cfdaf4cb98f8dc07c396e132886ef" title="camellia_setup192" alt="" coords="738,613,869,640"/>
+<area shape="rect" id="node8" href="$camellia_8c.html#a6fb11c4f18d9b729ce93d596d7598791" title="camellia_setup256" alt="" coords="936,537,1067,564"/>
+<area shape="rect" id="node10" href="$camellia_8c.html#a44ecb8e2134daabe97d15964262c6272" title="camellia_encrypt128" alt="" coords="931,233,1072,260"/>
+<area shape="rect" id="node11" href="$camellia_8c.html#a5d4fe93b89ba3f98962aabb0217db369" title="camellia_encrypt256" alt="" coords="931,284,1072,311"/>
+<area shape="rect" id="node13" href="$camellia_8c.html#a7c301309a40eb2d7e410a7ddc02e057e" title="camellia_decrypt128" alt="" coords="931,639,1072,665"/>
+<area shape="rect" id="node14" href="$camellia_8c.html#a92cee3c372d28e9cb34096d21e210dfa" title="camellia_decrypt256" alt="" coords="931,689,1072,716"/>
+<area shape="rect" id="node18" href="$cipher-selftest_8c.html#a99864d1f391253e3bbb3a17219472c7b" title="_gcry_selftest_helper_ctr" alt="" coords="291,309,459,336"/>
+<area shape="rect" id="node20" href="$camellia-glue_8c.html#aaf7631419c92ccf9b76db51f3f9afc1f" title="_gcry_camellia_ctr_enc" alt="" coords="296,411,455,437"/>
+<area shape="rect" id="node19" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="570,259,617,285"/>
+<area shape="rect" id="node21" href="$bufhelp_8h.html#a30056825097495177fbe6cb0e36391ec" title="buf_xor" alt="" coords="561,309,626,336"/>
+<area shape="rect" id="node23" href="$cipher-selftest_8c.html#a2846830beab215b91777e7806d73ae02" title="_gcry_selftest_helper_cbc" alt="" coords="288,360,463,387"/>
+<area shape="rect" id="node24" href="$camellia-glue_8c.html#aa23ad20fe65412d4d801e122f8e0f071" title="_gcry_camellia_cbc_dec" alt="" coords="511,613,676,640"/>
+<area shape="rect" id="node25" href="$bufhelp_8h.html#a5a6fd291daf175f1c1c625e6b5e3859c" title="buf_xor_n_copy_2" alt="" coords="739,335,867,361"/>
+<area shape="rect" id="node27" href="$cipher-selftest_8c.html#a9bcc85952de1d3fe15f02ac1b2bc0dd5" title="_gcry_selftest_helper_cfb" alt="" coords="290,259,461,285"/>
+<area shape="rect" id="node29" href="$camellia-glue_8c.html#aeaf3d9d0f0cf1d7a821b716fcea2a03e" title="_gcry_camellia_cfb_dec" alt="" coords="294,5,457,32"/>
+<area shape="rect" id="node28" href="$bufhelp_8h.html#aea16329dc60d338b17bd1f9f129ee71f" title="buf_xor_2dst" alt="" coords="545,208,642,235"/>
+<area shape="rect" id="node30" href="$bufhelp_8h.html#a916800b20dd0d4c6d1a4738a1ba5c1c2" title="buf_xor_n_copy" alt="" coords="536,81,651,108"/>
+</map>

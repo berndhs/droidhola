@@ -1,0 +1,18 @@
+<map id="spoton_kernel::postPoptasticMessage" name="spoton_kernel::postPoptasticMessage">
+<area shape="rect" id="node2" href="$classspoton__kernel.html#a46715dcf2e65670e15e91265f20540e0" title="spoton_kernel::slotMessage\lReceivedFromUI" alt="" coords="517,66,702,107"/>
+<area shape="rect" id="node7" href="$classspoton__kernel.html#a6bfaf47de56ae58fbcc63b053ed69a23" title="spoton_kernel::prepareStatus" alt="" coords="513,304,705,331"/>
+<area shape="rect" id="node9" href="$classspoton__kernel.html#a577b649c69eeb6fa600390dd6cc5f193" title="spoton_kernel::slotSendMail" alt="" coords="259,241,446,268"/>
+<area shape="rect" id="node13" href="$classspoton__kernel.html#aa28d1a53093b70fee2a2fd9638f099ee" title="spoton_kernel::slotCallParticipant" alt="" coords="244,460,461,487"/>
+<area shape="rect" id="node14" href="$classspoton__kernel.html#a03b3af389d9ba38010ffdbb8f024204e" title="spoton_kernel::slotCallParticipant\lUsingGemini" alt="" coords="1281,343,1499,385"/>
+<area shape="rect" id="node15" href="$classspoton__kernel.html#a7b7ba9040c81ab2276987f93b6c14d3d" title="spoton_kernel::postPoptastic\lMessage" alt="" coords="257,511,448,553"/>
+<area shape="rect" id="node16" href="$classspoton__kernel.html#afed7caf5a38e5105c01ab17ba48dec5c" title="spoton_kernel::slotCallParticipant\lUsingForwardSecrecy" alt="" coords="1016,410,1233,451"/>
+<area shape="rect" id="node3" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="1547,259,1697,301"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#aa9947ef6ff1cc446368a165607518ac0" title="spoton_kernel::slotNewNeighbor" alt="" coords="757,73,968,100"/>
+<area shape="rect" id="node5" href="$classspoton__kernel.html#a7ea263d96ed3589d0709ae5183dca388" title="spoton_kernel::prepareListeners" alt="" coords="1021,73,1228,100"/>
+<area shape="rect" id="node6" href="$classspoton__kernel.html#a47b33a0b468dd5ff9d112a4be0a78c3b" title="spoton_kernel::slotPrepare\lObjects" alt="" coords="1301,117,1479,158"/>
+<area shape="rect" id="node8" href="$classspoton__kernel.html#af36dd936f356ad3a2c57a368a69b735f" title="spoton_kernel::slotStatus\lTimerExpired" alt="" coords="777,293,948,334"/>
+<area shape="rect" id="node10" href="$classspoton__kernel.html#a9223a77b13d95689d77ea3ba52b59e7d" title="spoton_kernel::connectSignals\lToNeighbor" alt="" coords="509,153,709,194"/>
+<area shape="rect" id="node11" href="$classspoton__kernel.html#acc4b038c20734b08617da1aad9193501" title="spoton_kernel::prepareNeighbors" alt="" coords="1018,124,1231,151"/>
+<area shape="rect" id="node12" href="$classspoton__kernel.html#a8326fb4c480d72dff4a2357b4f17bee3" title="spoton_kernel::slotUpdate\lSettings" alt="" coords="775,175,950,217"/>
+<area shape="rect" id="node17" href="$classspoton__kernel.html#ae3977c7332f8b2b67307a3a3c3e3241b" title="spoton_kernel::slotPurge\lEphemeralKeyPair" alt="" coords="1307,461,1473,502"/>
+</map>

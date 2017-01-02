@@ -1,0 +1,5 @@
+<map id="libspoton_close" name="libspoton_close">
+<area shape="rect" id="node2" href="$pthread_8h.html#aef3f55cad288fdbc9c39bff9d668de1e" title="pthread_mutex_lock" alt="" coords="173,5,311,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#ac43c9032fc6ef3b2a231dc3a9fa44b2d" title="sqlite3_close" alt="" coords="193,56,291,83"/>
+<area shape="rect" id="node4" href="$pthread_8h.html#a2e24c7aa54ba10a032b7b6cd06c3caaa" title="pthread_mutex_unlock" alt="" coords="165,107,319,133"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="elapsed_time" name="elapsed_time">
+<area shape="rect" id="node2" href="$benchmark_8c.html#a8d0e380836ec5410fd8ceffd46c242fc" title="random_bench" alt="" coords="299,5,405,32"/>
+<area shape="rect" id="node4" href="$benchmark_8c.html#aa66f508234350e1aa5f923442e6d7fc4" title="md_bench" alt="" coords="311,63,393,89"/>
+<area shape="rect" id="node5" href="$benchmark_8c.html#a4573a0a6e93c5d45394b03e4b29c7f58" title="mac_bench" alt="" coords="157,100,246,127"/>
+<area shape="rect" id="node7" href="$benchmark_8c.html#a348d073a32e0c061959b7a8979ec1f3e" title="cipher_bench" alt="" coords="152,151,251,177"/>
+<area shape="rect" id="node8" href="$benchmark_8c.html#a185ff3b01091fa8df07410b0cdfbdc60" title="rsa_bench" alt="" coords="311,201,393,228"/>
+<area shape="rect" id="node9" href="$benchmark_8c.html#a2dd3a1a09b504766d064ce9a147cf544" title="dsa_bench" alt="" coords="309,252,395,279"/>
+<area shape="rect" id="node10" href="$benchmark_8c.html#a7fcea451cca9ee7777a34eebbc31e4de" title="ecc_bench" alt="" coords="159,303,244,329"/>
+<area shape="rect" id="node11" href="$benchmark_8c.html#a83eb81f8582627247f660de40b33d9f6" title="do_powm" alt="" coords="162,353,241,380"/>
+<area shape="rect" id="node13" href="$hashtest_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="176,404,227,431"/>
+<area shape="rect" id="node3" href="$benchmark_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="453,227,504,253"/>
+<area shape="rect" id="node6" href="$bench-slope_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="327,125,377,152"/>
+<area shape="rect" id="node12" href="$benchmark_8c.html#a5fdc12f250a0bcf913c8c81a4fe4b980" title="mpi_bench" alt="" coords="309,353,395,380"/>
+</map>

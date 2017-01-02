@@ -1,0 +1,10 @@
+<map id="_assuan_sysutils_blurb" name="_assuan_sysutils_blurb">
+<area shape="rect" id="node2" href="$assuan-logging_8c.html#af0835d8a967540c216ca3a444fc36658" title="_assuan_init_log_envvars" alt="" coords="212,111,384,137"/>
+<area shape="rect" id="node3" href="$assuan-logging_8c.html#aee409f88ce18d3f45557871257dd695e" title="assuan_set_assuan_log\l_stream" alt="" coords="432,74,595,115"/>
+<area shape="rect" id="node9" href="$assuan_8c.html#a03dbcf3ede731f27e874aa21655c0598" title="assuan_set_log_cb" alt="" coords="446,140,581,167"/>
+<area shape="rect" id="node4" href="$assuan-logging_8c.html#a8f26afe4f70c48eafbc8b6c101deaad6" title="assuan_set_log_stream" alt="" coords="643,56,803,83"/>
+<area shape="rect" id="node6" href="$ce-server_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="981,81,1032,108"/>
+<area shape="rect" id="node5" href="$ce-server_8c.html#ad18fdc3df8fad95296a014ea46567b4b" title="server" alt="" coords="863,56,921,83"/>
+<area shape="rect" id="node7" href="$pipeconnect_8c.html#a4c869243e5fc9785d327c8a5a5688a30" title="run_server" alt="" coords="851,5,933,32"/>
+<area shape="rect" id="node8" href="$pipeconnect_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="981,5,1032,32"/>
+</map>

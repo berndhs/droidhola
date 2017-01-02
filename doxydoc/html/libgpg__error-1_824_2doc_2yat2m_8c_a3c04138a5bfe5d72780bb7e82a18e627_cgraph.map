@@ -1,0 +1,32 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a4fb8965c3fb4fb28677e3595508dc637" title="add_predefined_macro" alt="" coords="255,973,408,999"/>
+<area shape="rect" id="node4" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a30d6dbd8980d3d70fd7c518aa152d66b" title="die" alt="" coords="1007,745,1046,771"/>
+<area shape="rect" id="node5" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a7845d2b411c80cb37e86c0cf1f3156cd" title="top_parse_file" alt="" coords="104,353,207,379"/>
+<area shape="rect" id="node3" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a22f15655cb3f452f59f5473d1df76a07" title="xcalloc" alt="" coords="821,821,884,847"/>
+<area shape="rect" id="node6" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="831,415,875,442"/>
+<area shape="rect" id="node7" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a655d40e8d8948c2d7d344661e81c1e33" title="set_macro" alt="" coords="461,415,544,442"/>
+<area shape="rect" id="node8" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a621739822f496af87448f3998cd35ca9" title="xstrdup" alt="" coords="820,643,885,670"/>
+<area shape="rect" id="node10" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a9f1398d5885ed1c9dc6af46c9208884a" title="parse_file" alt="" coords="292,593,371,619"/>
+<area shape="rect" id="node19" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a5dce130d0e1a11c7cc737c33f323b6e5" title="finish_page" alt="" coords="459,238,547,265"/>
+<area shape="rect" id="node9" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="997,618,1057,645"/>
+<area shape="rect" id="node11" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a2075a473a88caf0379b1d4c076b67449" title="xmalloc" alt="" coords="819,593,886,619"/>
+<area shape="rect" id="node12" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a9f75d2e592dd6e6e426df167c7b09445" title="err" alt="" coords="1287,586,1325,613"/>
+<area shape="rect" id="node13" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a1554c7d8af1cb8480d047fd90710499c" title="xrealloc" alt="" coords="819,897,886,923"/>
+<area shape="rect" id="node14" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a7a31f21645c6170377cf61556bdfd97b" title="push_condition" alt="" coords="612,1125,721,1151"/>
+<area shape="rect" id="node17" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a3aa545a71ec8e409605f426096ea211f" title="pop_condition" alt="" coords="615,1074,718,1101"/>
+<area shape="rect" id="node18" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#ab376c681b8f5c41f5afffbbeb88fcc6f" title="set_variable" alt="" coords="621,669,713,695"/>
+<area shape="rect" id="node22" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a483fa71130516e261d5763aab8507ff7" title="ascii_strupr" alt="" coords="808,314,897,341"/>
+<area shape="rect" id="node29" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#aee6f632f2d6fd70df8bcf11afe8ac894" title="start_page" alt="" coords="625,61,708,87"/>
+<area shape="rect" id="node30" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a0b4b41b97c277414c955c6c966044fab" title="add_content" alt="" coords="456,821,549,847"/>
+<area shape="rect" id="node15" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a361dd8a31d0f3fcb890f30654eca1d13" title="evaluate_conditions" alt="" coords="784,1049,921,1075"/>
+<area shape="rect" id="node16" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a0c0934e2dcfa2075a0c8f535c821e707" title="macro_set_p" alt="" coords="978,1049,1075,1075"/>
+<area shape="rect" id="node20" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#ae7ff372e9396bdbb02be7db585cbe15b" title="inf" alt="" coords="1287,61,1325,87"/>
+<area shape="rect" id="node21" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a3e2e23acd5d8925b0c1aba3b341fd9e6" title="write_th" alt="" coords="633,263,701,290"/>
+<area shape="rect" id="node24" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#abbcd4cd1bcc3e21b59940319d251a3b5" title="write_content" alt="" coords="617,111,717,138"/>
+<area shape="rect" id="node28" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#aa773a6e89d85652ac62103b65accd5f0" title="is_standard_section" alt="" coords="597,162,736,189"/>
+<area shape="rect" id="node23" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a5a8e5501339d3a8d8b12ce8ace93ee1a" title="isodatestring" alt="" coords="805,263,901,290"/>
+<area shape="rect" id="node25" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#aa0f4f2dea703fe97ae8c616efc6bc686" title="parse_texi_line" alt="" coords="798,111,907,138"/>
+<area shape="rect" id="node26" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a2c40fb919583bc9b12ae7124c5fde4cf" title="proc_texi_buffer" alt="" coords="969,111,1084,138"/>
+<area shape="rect" id="node27" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a69fe5e1e51dd87aff755f15a0c8ee156" title="proc_texi_cmd" alt="" coords="1132,111,1239,138"/>
+<area shape="rect" id="node31" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a2a2dd297d632f841ba5522dfaf335361" title="get_section_buffer" alt="" coords="602,821,731,847"/>
+</map>

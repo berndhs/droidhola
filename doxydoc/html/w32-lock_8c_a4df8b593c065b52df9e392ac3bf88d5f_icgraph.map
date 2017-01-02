@@ -1,0 +1,37 @@
+<map id="_gpgrt_lock_init" name="_gpgrt_lock_init">
+<area shape="rect" id="node2" href="$gpg-error_8h.html#a0a0653cf3dd62eed63458a869e32d600" title="gpgrt_lock_init" alt="" coords="172,208,279,235"/>
+<area shape="rect" id="node3" href="$estream_8c.html#a380e3aca864f55918f5f3b0aab89fbf0" title="init_stream_lock" alt="" coords="167,259,284,285"/>
+<area shape="rect" id="node4" href="$estream_8c.html#a01e93641092e9cc00877b75d8a858bca" title="es_create" alt="" coords="332,259,411,285"/>
+<area shape="rect" id="node5" href="$estream_8c.html#ac78c8f785c8b25f8e8273a45587a234e" title="doreadline" alt="" coords="485,12,567,39"/>
+<area shape="rect" id="node8" href="$gpgrt-int_8h.html#a841033e8037bc49054d2cbd4634d3a5c" title="_gpgrt_fopen" alt="" coords="477,69,575,96"/>
+<area shape="rect" id="node10" href="$gpgrt-int_8h.html#ac845d83db09b8ff84fb64ad52fd0c400" title="_gpgrt_mopen" alt="" coords="474,132,578,159"/>
+<area shape="rect" id="node12" href="$gpgrt-int_8h.html#aa48c2ffe11ccbebfe2051f01f7e1dcd3" title="_gpgrt_fopenmem" alt="" coords="463,208,589,235"/>
+<area shape="rect" id="node16" href="$gpgrt-int_8h.html#ab4a5ae2f04ff35a204e9e93774983817" title="_gpgrt_fopencookie" alt="" coords="459,259,593,285"/>
+<area shape="rect" id="node18" href="$estream_8c.html#aa5f085f10408118b1ea65399a7df7c08" title="do_fdopen" alt="" coords="485,360,567,387"/>
+<area shape="rect" id="node30" href="$estream_8c.html#ad3a3281378e4b95113124ebdccd0b65d" title="do_fpopen" alt="" coords="485,468,567,495"/>
+<area shape="rect" id="node33" href="$gpgrt-int_8h.html#af0bb20d862998ec7c012f10840f408ab" title="_gpgrt_fpopen_nc" alt="" coords="660,563,785,589"/>
+<area shape="rect" id="node35" href="$gpgrt-int_8h.html#a30f0a5fe13595815349dd6957f7a644c" title="_gpgrt_tmpfile" alt="" coords="474,607,578,633"/>
+<area shape="rect" id="node6" href="$estream_8c.html#a1ed1bca7770d739c94682a3a0a9a8d89" title="_gpgrt_getline" alt="" coords="671,5,774,32"/>
+<area shape="rect" id="node7" href="$libgpg__error-1_824_2src_2visibility_8c.html#a18b6cab3ccdc1c243d4d5045e6374900" title="gpgrt_getline" alt="" coords="881,5,977,32"/>
+<area shape="rect" id="node9" href="$gpg-error_8h.html#aef0101156ebfc9c6fec86dc8d77f574e" title="gpgrt_fopen" alt="" coords="677,56,768,83"/>
+<area shape="rect" id="node11" href="$gpg-error_8h.html#aef1e7194048e1f8487dba23a87d8736c" title="gpgrt_mopen" alt="" coords="674,107,771,133"/>
+<area shape="rect" id="node13" href="$gpg-error_8h.html#abb60d41b7f24fb2613c7b051056b9f13" title="gpgrt_fopenmem" alt="" coords="663,157,782,184"/>
+<area shape="rect" id="node14" href="$gpgrt-int_8h.html#a26e92ca08d6399b90ebdae69d217bd9a" title="_gpgrt_fopenmem_init" alt="" coords="647,208,798,235"/>
+<area shape="rect" id="node15" href="$gpg-error_8h.html#a775df3a31c17eeaf591661efaf6ea609" title="gpgrt_fopenmem_init" alt="" coords="858,208,1001,235"/>
+<area shape="rect" id="node17" href="$gpg-error_8h.html#aba60e94f030d8ce8f62d824c6b25a34e" title="gpgrt_fopencookie" alt="" coords="659,259,787,285"/>
+<area shape="rect" id="node19" href="$gpgrt-int_8h.html#ad413f3e21e122d72d981deed62d43df5" title="_gpgrt_fdopen" alt="" coords="671,309,775,336"/>
+<area shape="rect" id="node21" href="$gpgrt-int_8h.html#a9535100ff602a161569608e7a0d112ab" title="_gpgrt_fdopen_nc" alt="" coords="660,360,785,387"/>
+<area shape="rect" id="node23" href="$estream_8c.html#a05445bc11c0057c380af86029e3650fd" title="do_sysopen" alt="" coords="677,411,769,437"/>
+<area shape="rect" id="node28" href="$gpgrt-int_8h.html#ad584d9eff9e554e55028f02d623db5f0" title="_gpgrt__get_std_stream" alt="" coords="641,461,804,488"/>
+<area shape="rect" id="node20" href="$gpg-error_8h.html#a7da1a675f24409603d523fe0f8f4f5f2" title="gpgrt_fdopen" alt="" coords="881,259,978,285"/>
+<area shape="rect" id="node22" href="$gpg-error_8h.html#ac26ed1778a38e354a9e524f7706e9f65" title="gpgrt_fdopen_nc" alt="" coords="870,309,989,336"/>
+<area shape="rect" id="node24" href="$estream_8c.html#adae88d44fe1d10780ef634613402a9b6" title="_gpgrt_sysopen" alt="" coords="872,360,987,387"/>
+<area shape="rect" id="node26" href="$estream_8c.html#a646caf7f9733d9080c816fac7aef1bd0" title="_gpgrt_sysopen_nc" alt="" coords="862,411,997,437"/>
+<area shape="rect" id="node25" href="$libgpg__error-1_824_2src_2visibility_8c.html#a328b599049f93b1becd107765e69945b" title="gpgrt_sysopen" alt="" coords="1065,360,1172,387"/>
+<area shape="rect" id="node27" href="$libgpg__error-1_824_2src_2visibility_8c.html#a491b09c6f087530b04dd19e76420599e" title="gpgrt_sysopen_nc" alt="" coords="1055,411,1183,437"/>
+<area shape="rect" id="node29" href="$gpg-error_8h.html#aa1e2507c9c12db6d62aa447c0493238b" title="_gpgrt_get_std_stream" alt="" coords="852,461,1007,488"/>
+<area shape="rect" id="node31" href="$gpgrt-int_8h.html#a1233837b3ea249680fc17009c4931e25" title="_gpgrt_fpopen" alt="" coords="671,512,775,539"/>
+<area shape="rect" id="node32" href="$gpg-error_8h.html#a0eb0357d44380f6aa0f6e7088dd0b037" title="gpgrt_fpopen" alt="" coords="881,512,978,539"/>
+<area shape="rect" id="node34" href="$gpg-error_8h.html#a88db45b1e4a6c6cbed5a92c48b576d82" title="gpgrt_fpopen_nc" alt="" coords="870,563,989,589"/>
+<area shape="rect" id="node36" href="$gpg-error_8h.html#abfd520cb2846ac32b9a5359181c82028" title="gpgrt_tmpfile" alt="" coords="674,613,771,640"/>
+</map>

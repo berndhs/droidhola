@@ -1,0 +1,5 @@
+<map id="salsa20_core" name="salsa20_core">
+<area shape="rect" id="node2" href="$salsa20_8c.html#a41bef0129808c22945700417832535fd" title="salsa20_do_setkey" alt="" coords="152,31,287,57"/>
+<area shape="rect" id="node3" href="$salsa20_8c.html#a3565b183759923e881a40c215b4e9a32" title="salsa20_setkey" alt="" coords="335,5,448,32"/>
+<area shape="rect" id="node4" href="$salsa20_8c.html#acc2071e18a8fb5ad7b0de8ca170aa7b5" title="selftest" alt="" coords="496,31,561,57"/>
+</map>

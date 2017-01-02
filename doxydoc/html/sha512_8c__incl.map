@@ -1,0 +1,15 @@
+<map id="libgcrypt&#45;1.6.6/cipher/sha512.c" name="libgcrypt&#45;1.6.6/cipher/sha512.c">
+<area shape="rect" id="node4" href="$g10lib_8h.html" title="g10lib.h" alt="" coords="745,95,812,121"/>
+<area shape="rect" id="node20" href="$bithelp_8h.html" title="bithelp.h" alt="" coords="402,169,473,196"/>
+<area shape="rect" id="node21" href="$bufhelp_8h.html" title="bufhelp.h" alt="" coords="361,95,436,121"/>
+<area shape="rect" id="node22" href="$cipher_8h.html" title="cipher.h" alt="" coords="218,169,286,196"/>
+<area shape="rect" id="node25" href="$hash-common_8h.html" title="hash&#45;common.h" alt="" coords="79,95,193,121"/>
+<area shape="rect" id="node7" href="$libgcrypt-1_86_86_2src_2visibility_8h.html" title="visibility.h" alt="" coords="700,169,780,196"/>
+<area shape="rect" id="node18" href="$types_8h.html" title="types.h" alt="" coords="263,319,329,345"/>
+<area shape="rect" id="node19" href="$libcompat_8h.html" title="../compat/libcompat.h" alt="" coords="906,169,1054,196"/>
+<area shape="rect" id="node8" href="$gcrypt-int_8h.html" title="gcrypt&#45;int.h" alt="" coords="538,244,625,271"/>
+<area shape="rect" id="node9" href="$libgcrypt-1_86_86_2src_2gcrypt_8h.html" title="gcrypt.h" alt="" coords="432,319,501,345"/>
+<area shape="rect" id="node11" href="$gpg-error_8h.html" title="gpg&#45;error.h" alt="" coords="345,393,429,420"/>
+<area shape="rect" id="node23" href="$random_8h.html" title="../random/random.h" alt="" coords="151,244,286,271"/>
+<area shape="rect" id="node24" href="$cipher-proto_8h.html" title="cipher&#45;proto.h" alt="" coords="311,244,412,271"/>
+</map>

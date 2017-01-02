@@ -1,0 +1,10 @@
+<map id="do_gettext" name="do_gettext">
+<area shape="rect" id="node2" href="$w32-gettext_8c.html#a0e6af551230fd933f48172fa9b3cd86c" title="load_domain" alt="" coords="136,5,231,32"/>
+<area shape="rect" id="node3" href="$w32-gettext_8c.html#ad1f5228fef83a6f665e0667e56ff67cf" title="free_domain" alt="" coords="137,56,230,83"/>
+<area shape="rect" id="node4" href="$w32-gettext_8c.html#a8b687c67aa783d3af33d40f18c8361bb" title="hash_string" alt="" coords="139,107,228,133"/>
+<area shape="rect" id="node5" href="$w32-gettext_8c.html#a2b2f9ce5862c34c7b803278d1f6eb386" title="get_string" alt="" coords="144,157,223,184"/>
+<area shape="rect" id="node6" href="$w32-gettext_8c.html#aa44cf0d88df8cc5d33bddeb82f7acc2c" title="utf8_to_native" alt="" coords="279,132,383,159"/>
+<area shape="rect" id="node9" href="$w32-gettext_8c.html#a28f64cb9e3539545015c712722d3fa8c" title="get_plural" alt="" coords="291,183,370,209"/>
+<area shape="rect" id="node7" href="$w32-gettext_8c.html#ab08d1e7d808e05777503e0df7a135545" title="utf8_to_wchar" alt="" coords="437,107,541,133"/>
+<area shape="rect" id="node8" href="$w32-gettext_8c.html#a2d9c90ecc3f074dd9959ae77f6e2960b" title="wchar_to_native" alt="" coords="431,157,548,184"/>
+</map>

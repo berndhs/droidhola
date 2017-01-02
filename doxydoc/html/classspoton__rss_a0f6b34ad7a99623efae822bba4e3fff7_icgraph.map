@@ -1,0 +1,9 @@
+<map id="spoton_rss::slotRefreshTimeline" name="spoton_rss::slotRefreshTimeline">
+<area shape="rect" id="node2" href="$classspoton__rss.html#a6caad21bd892ff578466a9c8b26b7b54" title="spoton_rss::spoton_rss" alt="" coords="737,159,896,186"/>
+<area shape="rect" id="node3" href="$classspoton__rss.html#a0cfedac82894bf4703a02d89a36a3aed" title="spoton_rss::hideUrl" alt="" coords="289,32,424,59"/>
+<area shape="rect" id="node4" href="$classspoton__rss.html#aa90223e2eae154443d7c39b5dadc82f1" title="spoton_rss::slotUrlClicked" alt="" coords="505,83,681,110"/>
+<area shape="rect" id="node5" href="$classspoton__rss.html#ae09cf720ae4cd633521ec00c2119acd7" title="spoton_rss::slotPurge" alt="" coords="519,134,668,160"/>
+<area shape="rect" id="node6" href="$classspoton__rss.html#ae284c847f556b215bd1987b3dfd532dc" title="spoton_rss::slotTimeOrderBy" alt="" coords="497,184,689,211"/>
+<area shape="rect" id="node7" href="$classspoton__rss.html#a3f139c62820cb053d75e41994d695720" title="spoton_rss::slotTimeline\lShowOption" alt="" coords="275,236,439,277"/>
+<area shape="rect" id="node8" href="$classspoton__rss.html#ac4d3d9b37a5b227261171739242bd6cd" title="spoton_rss::slotToggleState" alt="" coords="264,302,449,328"/>
+</map>

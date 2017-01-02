@@ -1,0 +1,12 @@
+<map id="_ksba_copy_time" name="_ksba_copy_time">
+<area shape="rect" id="node2" href="$ksba_8h.html#acc7a17fe3e86ba30300cbb30d29a6f03" title="ksba_certreq_set_validity" alt="" coords="185,5,356,32"/>
+<area shape="rect" id="node3" href="$ksba_8h.html#a03904d3ea0b1cf78a55753fb82ce0b16" title="ksba_cms_set_signing_time" alt="" coords="177,56,364,83"/>
+<area shape="rect" id="node4" href="$ksba_8h.html#a2eb41275c92057e932a786edeb437905" title="ksba_crl_get_update\l_times" alt="" coords="199,107,342,149"/>
+<area shape="rect" id="node5" href="$ksba_8h.html#a5c99572fa2ed8dbd7084c5433212376c" title="ksba_crl_get_item" alt="" coords="207,173,335,200"/>
+<area shape="rect" id="node6" href="$ocsp_8c.html#a4a60d01a1e7b09d0c5d064d9de2aa44b" title="parse_single_response" alt="" coords="193,224,348,251"/>
+<area shape="rect" id="node10" href="$ocsp_8c.html#ab1b5298c8f68a0a082634f74473a041d" title="ksba_ocsp_get_sig_val" alt="" coords="191,275,350,301"/>
+<area shape="rect" id="node11" href="$ocsp_8c.html#a805944724350ac6432b7bc2f134248c9" title="ksba_ocsp_get_status" alt="" coords="194,325,347,352"/>
+<area shape="rect" id="node7" href="$ocsp_8c.html#a856eb0bd5aca2c4723bd93e2d7f55013" title="parse_response_data" alt="" coords="412,224,559,251"/>
+<area shape="rect" id="node8" href="$ocsp_8c.html#a0b6a948f763285828a1cf2a72134804b" title="parse_response" alt="" coords="607,224,721,251"/>
+<area shape="rect" id="node9" href="$ocsp_8c.html#af9f953d2e2b62ec43eafaec144018804" title="ksba_ocsp_parse_response" alt="" coords="769,224,953,251"/>
+</map>

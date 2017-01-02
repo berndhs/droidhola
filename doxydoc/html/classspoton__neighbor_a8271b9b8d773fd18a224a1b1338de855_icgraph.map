@@ -1,0 +1,6 @@
+<map id="spoton_neighbor::saveUrlsToShared" name="spoton_neighbor::saveUrlsToShared">
+<area shape="rect" id="node2" href="$classspoton__neighbor.html#a1e3f7fbda61365a6402fad80928e49e7" title="spoton_neighbor::process0080" alt="" coords="231,13,429,39"/>
+<area shape="rect" id="node3" href="$classspoton__neighbor.html#a7b2aaa9d5b210ff677a7889986a949e6" title="spoton_neighbor::processData" alt="" coords="477,13,676,39"/>
+<area shape="rect" id="node4" href="$classspoton__neighbor.html#a9250c88da1eb47de5919685e09657538" title="spoton_neighbor::slotSendMail" alt="" coords="724,13,924,39"/>
+<area shape="rect" id="node5" href="$classspoton__neighbor.html#aa6707b3133b337024de82dbd97d9e5ae" title="spoton_neighbor::receivedUuid" alt="" coords="972,13,1173,39"/>
+</map>

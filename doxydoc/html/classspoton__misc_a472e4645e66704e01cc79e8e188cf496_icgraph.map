@@ -1,0 +1,11 @@
+<map id="spoton_misc::saveFriendshipBundle" name="spoton_misc::saveFriendshipBundle">
+<area shape="rect" id="node2" href="$classspoton__rosetta.html#a333dbe00f43492d0b747f085c4320964" title="spoton_rosetta::slotAddContact" alt="" coords="248,27,455,54"/>
+<area shape="rect" id="node4" href="$classspoton__neighbor.html#aae357f090a2d78219b367b40b35a8b18" title="spoton_neighbor::savePublicKey" alt="" coords="245,107,457,134"/>
+<area shape="rect" id="node3" href="$classspoton__rosetta.html#ad9ebd8b06b6a282ba354ad634898ae5d" title="spoton_rosetta::spoton\l_rosetta" alt="" coords="527,5,682,47"/>
+<area shape="rect" id="node5" href="$classspoton__neighbor.html#a4bbc082f03aaa130f91670e298bc9643" title="spoton_neighbor::process0011" alt="" coords="505,71,704,98"/>
+<area shape="rect" id="node9" href="$classspoton__neighbor.html#a236514fe436ea9513446f8eb1cc56045" title="spoton_neighbor::process0012" alt="" coords="505,122,704,149"/>
+<area shape="rect" id="node10" href="$classspoton__neighbor.html#a6ed89dcb31165652b0c153290627c184" title="spoton_neighbor::process0090" alt="" coords="505,173,704,199"/>
+<area shape="rect" id="node6" href="$classspoton__neighbor.html#a7b2aaa9d5b210ff677a7889986a949e6" title="spoton_neighbor::processData" alt="" coords="752,122,951,149"/>
+<area shape="rect" id="node7" href="$classspoton__neighbor.html#a9250c88da1eb47de5919685e09657538" title="spoton_neighbor::slotSendMail" alt="" coords="999,122,1199,149"/>
+<area shape="rect" id="node8" href="$classspoton__neighbor.html#aa6707b3133b337024de82dbd97d9e5ae" title="spoton_neighbor::receivedUuid" alt="" coords="1247,122,1448,149"/>
+</map>

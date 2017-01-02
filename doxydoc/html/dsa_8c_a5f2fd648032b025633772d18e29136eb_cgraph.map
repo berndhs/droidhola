@@ -1,0 +1,31 @@
+<map id="dsa_check_secret_key" name="dsa_check_secret_key">
+<area shape="rect" id="node2" href="$gcrypt-int_8h.html#a945509be7601a2d3a51badddd6c84ef0" title="_gcry_sexp_extract\l_param" alt="" coords="209,302,345,343"/>
+<area shape="rect" id="node27" href="$mpiutil_8c.html#a8465e67bbb0fafb891f102467841a3eb" title="_gcry_mpi_release" alt="" coords="597,415,727,441"/>
+<area shape="rect" id="node30" href="$dsa_8c.html#a12013e87dce0f067aca9bcaa17e0ede8" title="check_secret_key" alt="" coords="213,455,341,481"/>
+<area shape="rect" id="node3" href="$sexp_8c.html#a40784f5fd33e2f2f2593c27da2bd223d" title="_gcry_sexp_vextract\l_param" alt="" coords="393,281,536,322"/>
+<area shape="rect" id="node4" href="$sexp_8c.html#a663af840651c7357444e040a71675ce8" title="whitespacep" alt="" coords="615,161,709,188"/>
+<area shape="rect" id="node5" href="$gcryptrnd_8c.html#a5c6551bf9ea9cf51ae7f2076c4cbe8ef" title="cleanup" alt="" coords="629,212,695,239"/>
+<area shape="rect" id="node6" href="$sexp_8c.html#a12461011a81264f7262e456242e4e51c" title="_gcry_sexp_find_token" alt="" coords="584,313,740,340"/>
+<area shape="rect" id="node8" href="$sexp_8c.html#a539aa5785040002efc7fe1d46c93022d" title="_gcry_sexp_nth_data" alt="" coords="589,364,735,391"/>
+<area shape="rect" id="node10" href="$sexp_8c.html#a6125029c507186f2941937f68d71146f" title="_gcry_sexp_nth_buffer" alt="" coords="788,263,943,289"/>
+<area shape="rect" id="node11" href="$sexp_8c.html#af33374155307ca9e8d97c69e0a45ba85" title="_gcry_sexp_nth_mpi" alt="" coords="591,111,733,137"/>
+<area shape="rect" id="node7" href="$sexp_8c.html#a9bd6cc284fb6fd52040e1772f8bac607" title="normalize" alt="" coords="826,313,905,340"/>
+<area shape="rect" id="node9" href="$sexp_8c.html#a437a1b73b727b4d18f0fa36417f4ec69" title="do_sexp_nth_data" alt="" coords="1008,360,1136,387"/>
+<area shape="rect" id="node12" href="$g10lib_8h.html#a097f30a540a9d8ac76ed54c1316a5376" title="_gcry_is_secure" alt="" coords="1013,107,1131,133"/>
+<area shape="rect" id="node18" href="$mpiutil_8c.html#a419051c94a2073990cbdd9ea748c4ae8" title="_gcry_mpi_snew" alt="" coords="805,7,925,33"/>
+<area shape="rect" id="node20" href="$mpiutil_8c.html#aac380243effee2cef8e02d22bfaeb70c" title="_gcry_mpi_new" alt="" coords="809,59,922,85"/>
+<area shape="rect" id="node22" href="$mpicoder_8c.html#a88839eb3c8e5d5262da7a6707064d8dc" title="_gcry_mpi_scan" alt="" coords="807,161,924,188"/>
+<area shape="rect" id="node13" href="$global_8c.html#a16e8af0a857ae959a2abb3c7e88e02f0" title="get_no_secure_memory" alt="" coords="1202,81,1363,108"/>
+<area shape="rect" id="node16" href="$secmem_8c.html#a1a820af6bf0149451e1de1933f5cc0fb" title="_gcry_private_is_secure" alt="" coords="1201,132,1364,159"/>
+<area shape="rect" id="node14" href="$fips_8c.html#a63eaab0cb53f75634165b2f2f0a4aa1c" title="_gcry_enforced_fips_mode" alt="" coords="1412,81,1591,108"/>
+<area shape="rect" id="node15" href="$fips_8c.html#a1236caccf2e256cb9e1b60c894a14639" title="_gcry_fips_mode" alt="" coords="1639,81,1760,108"/>
+<area shape="rect" id="node17" href="$secmem_8c.html#abfb42716ecfabdb452044d583c878448" title="ptr_into_pool_p" alt="" coords="1446,132,1557,159"/>
+<area shape="rect" id="node19" href="$mpiutil_8c.html#aeacf751e3500fc59847b02b7d461cd07" title="_gcry_mpi_alloc_secure" alt="" coords="991,5,1153,32"/>
+<area shape="rect" id="node21" href="$mpiutil_8c.html#ae70f7d8cd705bc4f2256a37a7c4caaca" title="_gcry_mpi_alloc" alt="" coords="1014,56,1130,83"/>
+<area shape="rect" id="node23" href="$mpicoder_8c.html#a3f81a0df59f76b9270f67a75a1b3cb09" title="_gcry_mpi_set_buffer" alt="" coords="999,208,1145,235"/>
+<area shape="rect" id="node24" href="$mpicoder_8c.html#a02a5680bd71311af65d71e624892607a" title="onecompl" alt="" coords="1033,259,1111,285"/>
+<area shape="rect" id="node25" href="$mpicoder_8c.html#a818551f69ff9bb89af2c1ff23233c5a9" title="mpi_read_from_buffer" alt="" coords="998,309,1146,336"/>
+<area shape="rect" id="node26" href="$mpicoder_8c.html#a1628e7029f0d0bdbddf0f0adbb64363e" title="mpi_fromstr" alt="" coords="1027,157,1117,184"/>
+<area shape="rect" id="node28" href="$mpiutil_8c.html#a97bf589d77bdb67a65126279a0bb9800" title="_gcry_mpi_free" alt="" coords="810,419,921,445"/>
+<area shape="rect" id="node29" href="$mpiutil_8c.html#a57f1c9a6c9b85748e0dc46300207a5ae" title="_gcry_mpi_free_limb\l_space" alt="" coords="1001,411,1143,453"/>
+</map>

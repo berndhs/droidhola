@@ -1,0 +1,9 @@
+<map id="ecc_bench" name="ecc_bench">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="169,5,207,32"/>
+<area shape="rect" id="node3" href="$benchmark_8c.html#aa77cc587dc65b9282085c7403a84ae8e" title="die" alt="" coords="296,81,335,108"/>
+<area shape="rect" id="node4" href="$stopwatch_8h.html#a02a9485d8c9ef5eece43e33c41e832a5" title="start_timer" alt="" coords="146,107,230,133"/>
+<area shape="rect" id="node5" href="$benchmark_8c.html#a5753711823ae182c7ac47927cae17e69" title="show_sexp" alt="" coords="144,157,232,184"/>
+<area shape="rect" id="node7" href="$stopwatch_8h.html#a153eea17e21df47651e681015514e96f" title="stop_timer" alt="" coords="147,208,229,235"/>
+<area shape="rect" id="node8" href="$stopwatch_8h.html#a1ccc5dfdffac6ac81b4cb937840a032e" title="elapsed_time" alt="" coords="139,259,237,285"/>
+<area shape="rect" id="node6" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="285,157,345,184"/>
+</map>

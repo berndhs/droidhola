@@ -1,0 +1,7 @@
+<map id="org.qtproject.qt5.android.bindings.QtLoader.extractBundledPluginsAndImports" name="org.qtproject.qt5.android.bindings.QtLoader.extractBundledPluginsAndImports">
+<area shape="rect" id="node2" href="$classorg_1_1qtproject_1_1qt5_1_1android_1_1bindings_1_1QtLoader.html#ac1dc5591c10354bebbdb77b3c92a92e6" title="org.qtproject.qt5.android.bindings.\lQtLoader.cleanCacheIfNecessary" alt="" coords="329,5,548,47"/>
+<area shape="rect" id="node4" href="$classorg_1_1qtproject_1_1qt5_1_1android_1_1bindings_1_1QtLoader.html#a0902f9affaa5f967fdfcd55f2ae483ff" title="org.qtproject.qt5.android.bindings.\lQtLoader.createBundledBinary" alt="" coords="329,71,548,112"/>
+<area shape="rect" id="node6" href="$classorg_1_1qtproject_1_1qt5_1_1android_1_1bindings_1_1QtLoader.html#ae9503d740b78c7a9193629256486bd7d" title="org.qtproject.qt5.android.bindings.\lQtLoader.copyAsset" alt="" coords="329,136,548,177"/>
+<area shape="rect" id="node3" href="$classorg_1_1qtproject_1_1qt5_1_1android_1_1bindings_1_1QtLoader.html#ac6ef179c849a5820d03616d9afe4f25b" title="org.qtproject.qt5.android.bindings.\lQtLoader.deleteRecursively" alt="" coords="596,5,815,47"/>
+<area shape="rect" id="node5" href="$classorg_1_1qtproject_1_1qt5_1_1android_1_1bindings_1_1QtLoader.html#a48a275201a9a05fd828120c8192c2b3b" title="org.qtproject.qt5.android.bindings.\lQtLoader.copyFile" alt="" coords="596,103,815,144"/>
+</map>

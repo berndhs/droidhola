@@ -1,0 +1,9 @@
+<map id="Ui::spoton_mainwindow" name="Ui::spoton_mainwindow">
+<area shape="rect" id="node2" href="$classUi__spoton__mainwindow.html" title="Ui_spoton_mainwindow" alt="" coords="191,361,351,388"/>
+<area shape="rect" id="node3" href="$classspoton__textedit.html" title="spoton_textedit" alt="" coords="5,184,116,211"/>
+<area shape="rect" id="node5" href="$classspoton__tabwidget.html" title="spoton_tabwidget" alt="" coords="140,184,264,211"/>
+<area shape="rect" id="node7" href="$classspoton__lineedit.html" title="spoton_lineedit" alt="" coords="289,184,398,211"/>
+<area shape="rect" id="node9" href="$classspoton__virtual__keyboard.html" title="spoton_virtual_keyboard" alt="" coords="355,95,518,121"/>
+<area shape="rect" id="node11" href="$classUi__keyboard.html" title="Ui_keyboard" alt="" coords="443,5,537,32"/>
+<area shape="rect" id="node12" href="$classspoton__textbrowser.html" title="spoton_textbrowser" alt="" coords="502,184,638,211"/>
+</map>

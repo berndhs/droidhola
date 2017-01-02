@@ -1,0 +1,19 @@
+<map id="new_state" name="new_state">
+<area shape="rect" id="node2" href="$ce-server_8c.html#ad18fdc3df8fad95296a014ea46567b4b" title="server" alt="" coords="162,19,221,45"/>
+<area shape="rect" id="node4" href="$fips_8c.html#aec7e93c6c92fdb0028fe10375a24327f" title="fips_new_state" alt="" coords="136,95,247,121"/>
+<area shape="rect" id="node3" href="$ce-server_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="357,5,407,32"/>
+<area shape="rect" id="node5" href="$g10lib_8h.html#a155f02a8625f63fbc1788f66ee133115" title="_gcry_initialize_fips_mode" alt="" coords="295,107,469,133"/>
+<area shape="rect" id="node16" href="$g10lib_8h.html#a10a09a1883ee96a71fcccfef32771903" title="_gcry_fips_run_selftests" alt="" coords="300,56,464,83"/>
+<area shape="rect" id="node18" href="$g10lib_8h.html#a5e0d9543fd86a3ebc0a9cd64c6b1a18c" title="_gcry_fips_signal_error" alt="" coords="304,157,460,184"/>
+<area shape="rect" id="node6" href="$global_8c.html#abc912bbad17564e6105de8226f2204c7" title="global_init" alt="" coords="562,111,642,137"/>
+<area shape="rect" id="node7" href="$global_8c.html#afb83fe45590e215b1a758b86076369a7" title="_gcry_global_is_operational" alt="" coords="735,56,917,83"/>
+<area shape="rect" id="node8" href="$global_8c.html#a4d126f2a2bb71a4cff7aeba780b531cb" title="_gcry_check_version" alt="" coords="753,173,899,200"/>
+<area shape="rect" id="node10" href="$global_8c.html#a197de31474f305a294a7555b4ed6f26f" title="_gcry_vcontrol" alt="" coords="773,5,879,32"/>
+<area shape="rect" id="node12" href="$global_8c.html#a139e5fdd98d0b477ad0594c2ab696c83" title="_gcry_set_allocation\l_handler" alt="" coords="755,225,897,266"/>
+<area shape="rect" id="node14" href="$global_8c.html#a0179cbbd67c8017e68f9165222c6cb66" title="_gcry_set_outofcore\l_handler" alt="" coords="756,107,896,149"/>
+<area shape="rect" id="node9" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a2fe932ac3e9686ccbe58b029b37c6b87" title="gcry_check_version" alt="" coords="965,173,1104,200"/>
+<area shape="rect" id="node11" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a1880c4ce4c093ba2ea4a775ecf26ca29" title="gcry_control" alt="" coords="988,5,1081,32"/>
+<area shape="rect" id="node13" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a3a5404792a9ffa5638df003eb78f5da8" title="gcry_set_allocation\l_handler" alt="" coords="967,225,1102,266"/>
+<area shape="rect" id="node15" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a062072fed5c7ceea9c8667b037092325" title="gcry_set_outofcore\l_handler" alt="" coords="968,107,1101,149"/>
+<area shape="rect" id="node17" href="$g10lib_8h.html#ac9f86a44740c18904d8eedba9a9f523e" title="_gcry_fips_is_operational" alt="" coords="517,56,687,83"/>
+</map>

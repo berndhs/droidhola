@@ -1,0 +1,8 @@
+<map id="_gcry_random_selftest" name="_gcry_random_selftest">
+<area shape="rect" id="node2" href="$fips_8c.html#a6d3efcbe0d8aa5c172873fb628897505" title="run_random_selftests" alt="" coords="208,31,355,57"/>
+<area shape="rect" id="node3" href="$g10lib_8h.html#a10a09a1883ee96a71fcccfef32771903" title="_gcry_fips_run_selftests" alt="" coords="403,31,567,57"/>
+<area shape="rect" id="node4" href="$g10lib_8h.html#ac9f86a44740c18904d8eedba9a9f523e" title="_gcry_fips_is_operational" alt="" coords="615,5,784,32"/>
+<area shape="rect" id="node6" href="$global_8c.html#a197de31474f305a294a7555b4ed6f26f" title="_gcry_vcontrol" alt="" coords="870,56,977,83"/>
+<area shape="rect" id="node5" href="$global_8c.html#afb83fe45590e215b1a758b86076369a7" title="_gcry_global_is_operational" alt="" coords="832,5,1015,32"/>
+<area shape="rect" id="node7" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a1880c4ce4c093ba2ea4a775ecf26ca29" title="gcry_control" alt="" coords="1063,56,1156,83"/>
+</map>

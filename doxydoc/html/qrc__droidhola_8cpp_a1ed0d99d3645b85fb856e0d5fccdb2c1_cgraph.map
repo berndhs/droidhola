@@ -1,0 +1,5 @@
+<map id="qInitResources_droidhola" name="qInitResources_droidhola">
+<area shape="rect" id="node2" href="$qrc__droidhola_8cpp.html#a2ce5a6cde5b318dc75442940471e05f7" title="qRegisterResourceData" alt="" coords="241,5,403,32"/>
+<area shape="rect" id="node3" href="$qrc__droidhola_8cpp.html#ae1cace86e4e8a3594eca615eca295461" title="qCleanupResources_droidhola" alt="" coords="223,56,421,83"/>
+<area shape="rect" id="node4" href="$qrc__droidhola_8cpp.html#a54b96c9f44d004fc0ea13bb581f97a71" title="qUnregisterResourceData" alt="" coords="469,56,643,83"/>
+</map>

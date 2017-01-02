@@ -1,0 +1,31 @@
+<map id="_gcry_mpi_ec_add_points" name="_gcry_mpi_ec_add_points">
+<area shape="rect" id="node2" href="$ecc-ecdsa_8c.html#a7bb300cf90effc6eb63b54cb77a39ee6" title="_gcry_ecc_ecdsa_verify" alt="" coords="450,107,613,133"/>
+<area shape="rect" id="node7" href="$ecc-eddsa_8c.html#a755ab9167a768e80bda9d6faf1bbf4ca" title="_gcry_ecc_eddsa_verify" alt="" coords="450,56,613,83"/>
+<area shape="rect" id="node8" href="$ecc-gost_8c.html#aea37393dfdef6f779c83e0a185dfda87" title="_gcry_ecc_gost_verify" alt="" coords="455,5,608,32"/>
+<area shape="rect" id="node9" href="$mpi_8h.html#a4884db372fc38f5a7b2e56de299c4f48" title="_gcry_mpi_ec_mul_point" alt="" coords="227,259,393,285"/>
+<area shape="rect" id="node30" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#abcb813e967e8db36dacfb1e3ebfa933b" title="gcry_mpi_ec_add" alt="" coords="248,309,372,336"/>
+<area shape="rect" id="node3" href="$ecc_8c.html#ab824af94d5e7a2c6a1ad4559ee2ea9a1" title="test_keys" alt="" coords="711,157,790,184"/>
+<area shape="rect" id="node6" href="$ecc_8c.html#a5fa08239782ab59a8a86ea18a4162032" title="ecc_verify" alt="" coords="709,56,792,83"/>
+<area shape="rect" id="node4" href="$ecc_8c.html#a727c0b4e54d26594ca00e4550ec7fb06" title="nist_generate_key" alt="" coords="903,309,1031,336"/>
+<area shape="rect" id="node5" href="$ecc_8c.html#afb500d86a0c20d38b6e95eac941221ca" title="ecc_generate" alt="" coords="1129,360,1229,387"/>
+<area shape="rect" id="node10" href="$ecc-ecdsa_8c.html#a92ecc1c83f033fcdd7871828aed52c3a" title="_gcry_ecc_ecdsa_sign" alt="" coords="454,157,609,184"/>
+<area shape="rect" id="node12" href="$ecc-eddsa_8c.html#aec23e026bad016262d08a4df168602aa" title="_gcry_ecc_eddsa_genkey" alt="" coords="880,411,1053,437"/>
+<area shape="rect" id="node13" href="$ecc-eddsa_8c.html#a1c4958faec3011c98a07badae210a16c" title="_gcry_ecc_eddsa_sign" alt="" coords="454,208,609,235"/>
+<area shape="rect" id="node14" href="$ecc-gost_8c.html#a2448c570319e5709ee90e88fdcf15130" title="_gcry_ecc_gost_sign" alt="" coords="459,259,604,285"/>
+<area shape="rect" id="node15" href="$ecc-misc_8c.html#ad2d083864d6ce1c99fad88fb016a8a1b" title="_gcry_ecc_compute_public" alt="" coords="441,461,621,488"/>
+<area shape="rect" id="node22" href="$ecc_8c.html#ac6eecf80a071fb284002f2a624f6b215" title="check_secret_key" alt="" coords="687,360,815,387"/>
+<area shape="rect" id="node27" href="$ecc_8c.html#aa393065ec89267b73e1da57388ee5732" title="ecc_encrypt_raw" alt="" coords="471,512,592,539"/>
+<area shape="rect" id="node28" href="$ecc_8c.html#a3ecb571c9a3e14803ff801832e35c974" title="ecc_decrypt_raw" alt="" coords="471,563,592,589"/>
+<area shape="rect" id="node29" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a85ab748c19c7e21beb326848a0528c77" title="gcry_mpi_ec_mul" alt="" coords="469,613,593,640"/>
+<area shape="rect" id="node11" href="$ecc_8c.html#ae11b517c533d922d85067aa6c4948907" title="ecc_sign" alt="" coords="713,208,788,235"/>
+<area shape="rect" id="node16" href="$ec-context_8h.html#aa34824964a680de44988831bd8dd7b7e" title="_gcry_ecc_get_mpi" alt="" coords="683,512,818,539"/>
+<area shape="rect" id="node19" href="$ec-context_8h.html#adfba9c52b5c7f4a961fe902cd228389a" title="_gcry_ecc_get_point" alt="" coords="679,563,822,589"/>
+<area shape="rect" id="node24" href="$pubkey-internal_8h.html#ab296f2a5ff78f1d1675533367fc02fee" title="_gcry_pk_ecc_get_sexp" alt="" coords="669,461,832,488"/>
+<area shape="rect" id="node17" href="$mpi_8h.html#a32929cc32f79bb28e1da54cb8d7cf7ad" title="_gcry_mpi_ec_get_mpi" alt="" coords="889,512,1045,539"/>
+<area shape="rect" id="node18" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#afedc31ad12ae2b82d90ec36c552c05e8" title="gcry_mpi_ec_get_mpi" alt="" coords="1105,512,1254,539"/>
+<area shape="rect" id="node20" href="$mpi_8h.html#ab48968755332c4c3d12d5a8a3649f484" title="_gcry_mpi_ec_get_point" alt="" coords="885,563,1048,589"/>
+<area shape="rect" id="node21" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#aa8bbc16c0fca22eae66b208915744632" title="gcry_mpi_ec_get_point" alt="" coords="1101,563,1257,589"/>
+<area shape="rect" id="node23" href="$ecc_8c.html#af52f50415d9222c1ee17a83564c9839a" title="ecc_check_secret_key" alt="" coords="889,360,1045,387"/>
+<area shape="rect" id="node25" href="$gcrypt-int_8h.html#a4eb047984a15e85f2b0cf82ae33f9ddf" title="_gcry_pubkey_get_sexp" alt="" coords="885,461,1048,488"/>
+<area shape="rect" id="node26" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a46e2a604365b1c88a86ea8f2b809eef9" title="gcry_pubkey_get_sexp" alt="" coords="1101,461,1257,488"/>
+</map>

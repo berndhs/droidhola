@@ -1,0 +1,9 @@
+<map id="GPG_Close" name="GPG_Close">
+<area shape="rect" id="node2" href="$gpgcedev_8c.html#a8718ac859ad1ebc9deeff94544660b35" title="log_debug" alt="" coords="300,82,381,108"/>
+<area shape="rect" id="node3" href="$gpgcedev_8c.html#a334b5843050815a4fffe945727013555" title="verify_opnctx" alt="" coords="149,31,249,58"/>
+<area shape="rect" id="node4" href="$gpgcedev_8c.html#a58a110fef2be438e0b7d0253dd73ed49" title="pipeimpl_unref" alt="" coords="145,132,252,159"/>
+<area shape="rect" id="node5" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="319,158,363,184"/>
+<area shape="rect" id="node6" href="$gpgcedev_8c.html#ae54eaff1f0c50a7892d8730427d6ab24" title="logimpl_flush" alt="" coords="149,82,248,108"/>
+<area shape="rect" id="node7" href="$gpgcedev_8c.html#a1886f25c21a206b9f2d6b18fefd721a9" title="logimpl_unref" alt="" coords="149,234,248,260"/>
+<area shape="rect" id="node8" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="317,234,364,260"/>
+</map>

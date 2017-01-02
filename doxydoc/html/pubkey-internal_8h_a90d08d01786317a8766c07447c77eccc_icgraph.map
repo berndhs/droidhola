@@ -1,0 +1,34 @@
+<map id="_gcry_dsa_normalize_hash" name="_gcry_dsa_normalize_hash">
+<area shape="rect" id="node2" href="$dsa_8c.html#a231324bcad8da3ba6cdfb16a9935e5f5" title="sign" alt="" coords="291,56,338,83"/>
+<area shape="rect" id="node8" href="$dsa_8c.html#a7c4c65a32195584448e0c57c36a333ec" title="verify" alt="" coords="287,231,342,257"/>
+<area shape="rect" id="node27" href="$ecc-ecdsa_8c.html#a92ecc1c83f033fcdd7871828aed52c3a" title="_gcry_ecc_ecdsa_sign" alt="" coords="237,391,392,417"/>
+<area shape="rect" id="node32" href="$ecc-ecdsa_8c.html#a7bb300cf90effc6eb63b54cb77a39ee6" title="_gcry_ecc_ecdsa_verify" alt="" coords="233,441,396,468"/>
+<area shape="rect" id="node3" href="$dsa_8c.html#a313de49e2a7c8c5bd9f252ec25967b87" title="test_keys" alt="" coords="498,56,577,83"/>
+<area shape="rect" id="node7" href="$dsa_8c.html#a92df06c995f05b0bf50f364e4e82c78b" title="dsa_sign" alt="" coords="500,5,575,32"/>
+<area shape="rect" id="node4" href="$dsa_8c.html#a1d6920548443c034f763699cb326932b" title="generate" alt="" coords="745,9,817,36"/>
+<area shape="rect" id="node6" href="$dsa_8c.html#aadf9cfd4724eed44e05a1695dcc5bd37" title="generate_fips186" alt="" coords="721,60,842,87"/>
+<area shape="rect" id="node5" href="$dsa_8c.html#ae90d85c7509d37fa1c8600b12e831f75" title="dsa_generate" alt="" coords="982,16,1082,43"/>
+<area shape="rect" id="node9" href="$dsa_8c.html#ac1046e3d109b3497bfcf16897e0b2a44" title="dsa_verify" alt="" coords="496,107,579,133"/>
+<area shape="rect" id="node10" href="$classspoton.html#abd4257c0320ce8eeef81d5859ee4957e" title="spoton::slotTestPoptastic\lPop3Settings" alt="" coords="452,158,623,199"/>
+<area shape="rect" id="node14" href="$classspoton.html#a600e8c4fd767aae666aeb10bb3339d75" title="spoton::slotTestPoptastic\lSmtpSettings" alt="" coords="452,223,623,265"/>
+<area shape="rect" id="node15" href="$classspoton__kernel.html#ad7c6763176d695587e243046df71c9bd" title="spoton_kernel::popPoptastic" alt="" coords="444,289,631,316"/>
+<area shape="rect" id="node25" href="$classspoton__kernel.html#a0c02131f8a119ec017029e52fce05d61" title="spoton_kernel::postPoptastic" alt="" coords="1190,423,1381,449"/>
+<area shape="rect" id="node11" href="$classspoton.html#a4635590b460e61a11dee2bd928c8bb2c" title="spoton::slotConfigurePoptastic" alt="" coords="681,140,882,167"/>
+<area shape="rect" id="node12" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="1231,93,1339,120"/>
+<area shape="rect" id="node13" href="$classspoton.html#a5ecd428270444817f2120b844b46afc5" title="spoton::slotSendMail" alt="" coords="960,119,1104,145"/>
+<area shape="rect" id="node16" href="$classspoton__kernel.html#a62d81c13819de860823044d01da21856" title="spoton_kernel::slotRetrieveMail" alt="" coords="679,231,884,257"/>
+<area shape="rect" id="node24" href="$classspoton__kernel.html#a4e5e24c5da55d9e406d864bf5e9b6c40" title="spoton_kernel::slotPoptasticPop" alt="" coords="1180,372,1391,399"/>
+<area shape="rect" id="node17" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="1927,306,2077,347"/>
+<area shape="rect" id="node18" href="$classspoton__kernel.html#a9223a77b13d95689d77ea3ba52b59e7d" title="spoton_kernel::connectSignals\lToNeighbor" alt="" coords="932,223,1132,265"/>
+<area shape="rect" id="node19" href="$classspoton__kernel.html#acc4b038c20734b08617da1aad9193501" title="spoton_kernel::prepareNeighbors" alt="" coords="1439,220,1653,247"/>
+<area shape="rect" id="node21" href="$classspoton__kernel.html#aa9947ef6ff1cc446368a165607518ac0" title="spoton_kernel::slotNewNeighbor" alt="" coords="1180,271,1391,297"/>
+<area shape="rect" id="node23" href="$classspoton__kernel.html#a8326fb4c480d72dff4a2357b4f17bee3" title="spoton_kernel::slotUpdate\lSettings" alt="" coords="1703,306,1877,347"/>
+<area shape="rect" id="node20" href="$classspoton__kernel.html#a47b33a0b468dd5ff9d112a4be0a78c3b" title="spoton_kernel::slotPrepare\lObjects" alt="" coords="1701,241,1879,282"/>
+<area shape="rect" id="node22" href="$classspoton__kernel.html#a7ea263d96ed3589d0709ae5183dca388" title="spoton_kernel::prepareListeners" alt="" coords="1443,271,1649,297"/>
+<area shape="rect" id="node26" href="$classspoton__kernel.html#af7d1db502ae56a455bf25ed6c458f006" title="spoton_kernel::slotPoptasticPost" alt="" coords="1439,423,1653,449"/>
+<area shape="rect" id="node28" href="$ecc_8c.html#ab824af94d5e7a2c6a1ad4559ee2ea9a1" title="test_keys" alt="" coords="498,441,577,468"/>
+<area shape="rect" id="node31" href="$ecc_8c.html#ae11b517c533d922d85067aa6c4948907" title="ecc_sign" alt="" coords="500,391,575,417"/>
+<area shape="rect" id="node29" href="$ecc_8c.html#a727c0b4e54d26594ca00e4550ec7fb06" title="nist_generate_key" alt="" coords="717,441,845,468"/>
+<area shape="rect" id="node30" href="$ecc_8c.html#afb500d86a0c20d38b6e95eac941221ca" title="ecc_generate" alt="" coords="982,441,1082,468"/>
+<area shape="rect" id="node33" href="$ecc_8c.html#a5fa08239782ab59a8a86ea18a4162032" title="ecc_verify" alt="" coords="496,492,579,519"/>
+</map>

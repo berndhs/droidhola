@@ -1,0 +1,6 @@
+<map id="slow_poll" name="slow_poll">
+<area shape="rect" id="node2" href="$rndunix_8c.html#a6e6de272a510f6ae2fa5c9ba6f6c4271" title="my_popen" alt="" coords="169,5,251,32"/>
+<area shape="rect" id="node4" href="$rand-internal_8h.html#a2d935a6978a342665faafcf54a99e11b" title="_gcry_random_progress" alt="" coords="129,56,291,83"/>
+<area shape="rect" id="node5" href="$rndunix_8c.html#a9561b728cddd2e3aa8ff865524d388e3" title="my_pclose" alt="" coords="167,107,253,133"/>
+<area shape="rect" id="node3" href="$rndunix_8c.html#a116f037c42b7ea97421440dce4fb0302" title="waitpid" alt="" coords="339,56,401,83"/>
+</map>

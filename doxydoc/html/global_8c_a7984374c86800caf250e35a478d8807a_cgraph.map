@@ -1,0 +1,8 @@
+<map id="print_config" name="print_config">
+<area shape="rect" id="node2" href="$mpiutil_8c.html#abe1287aaec63b2296ce1160d907d1365" title="_gcry_mpi_get_hw_config" alt="" coords="145,5,319,32"/>
+<area shape="rect" id="node3" href="$g10lib_8h.html#aea824f7fabf4b6f049106a272b63f36d" title="_gcry_get_hw_features" alt="" coords="153,56,311,83"/>
+<area shape="rect" id="node4" href="$g10lib_8h.html#ab2cf647cda7fc892d3078cdde599191b" title="_gcry_enum_hw_features" alt="" coords="147,107,317,133"/>
+<area shape="rect" id="node5" href="$fips_8c.html#a63eaab0cb53f75634165b2f2f0a4aa1c" title="_gcry_enforced_fips_mode" alt="" coords="143,157,321,184"/>
+<area shape="rect" id="node7" href="$random_2random_8c.html#a48625a58e14a62a6ce02049678f1d060" title="_gcry_get_rng_type" alt="" coords="164,208,300,235"/>
+<area shape="rect" id="node6" href="$fips_8c.html#a1236caccf2e256cb9e1b60c894a14639" title="_gcry_fips_mode" alt="" coords="369,157,491,184"/>
+</map>

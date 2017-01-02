@@ -1,0 +1,6 @@
+<map id="gcry_mac_algo_info" name="gcry_mac_algo_info">
+<area shape="rect" id="node2" href="$mac_8c.html#a1307c088ae89fc4e99e5e18e0e21512e" title="_gcry_mac_algo_info" alt="" coords="192,42,337,69"/>
+<area shape="rect" id="node3" href="$mac_8c.html#afd9f9ac7922a2343156c43f75f70048b" title="_gcry_mac_get_algo\l_keylen" alt="" coords="385,5,528,47"/>
+<area shape="rect" id="node5" href="$mac_8c.html#af140b26badd55efaabc4e95e9e4057b0" title="check_mac_algo" alt="" coords="397,71,517,98"/>
+<area shape="rect" id="node4" href="$mac_8c.html#a393fc8a2a8c490f898d538069f23a92f" title="spec_from_algo" alt="" coords="576,42,691,69"/>
+</map>

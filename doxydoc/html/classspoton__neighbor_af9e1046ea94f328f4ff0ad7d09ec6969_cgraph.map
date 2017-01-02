@@ -1,0 +1,5 @@
+<map id="spoton_neighbor::readyToWrite" name="spoton_neighbor::readyToWrite">
+<area shape="rect" id="node2" href="$classspoton__neighbor.html#add6c744d985c801038d6a38f096e7b4f" title="spoton_neighbor::state" alt="" coords="245,13,400,39"/>
+<area shape="rect" id="node4" href="$classspoton__neighbor.html#a48bd653b091605a68c533d23733229b0" title="spoton_neighbor::isEncrypted" alt="" coords="225,63,420,90"/>
+<area shape="rect" id="node3" href="$classspoton__sctp__socket.html#a05aa66636930f21e6d8494754366b3db" title="spoton_sctp_socket\l::state" alt="" coords="468,5,607,47"/>
+</map>

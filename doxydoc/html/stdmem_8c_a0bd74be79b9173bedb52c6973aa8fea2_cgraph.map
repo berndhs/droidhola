@@ -1,0 +1,13 @@
+<map id="_gcry_private_free" name="_gcry_private_free">
+<area shape="rect" id="node2" href="$stdmem_8c.html#a972712fe1fc2b86ee198a6d2a498da5a" title="_gcry_private_check_heap" alt="" coords="183,5,360,32"/>
+<area shape="rect" id="node4" href="$secmem_8c.html#a1a820af6bf0149451e1de1933f5cc0fb" title="_gcry_private_is_secure" alt="" coords="791,56,953,83"/>
+<area shape="rect" id="node6" href="$secmem_8c.html#a2c05f3269414eb8f05eed741820fc946" title="_gcry_secmem_free" alt="" coords="201,107,341,133"/>
+<area shape="rect" id="node12" href="$asn1-parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="249,157,293,184"/>
+<area shape="rect" id="node3" href="$g10lib_8h.html#a97b58e0b3e03a7b69d705c1ab0e03037" title="_gcry_log_fatal" alt="" coords="447,5,558,32"/>
+<area shape="rect" id="node5" href="$secmem_8c.html#abfb42716ecfabdb452044d583c878448" title="ptr_into_pool_p" alt="" coords="1147,81,1257,108"/>
+<area shape="rect" id="node7" href="$secmem_8c.html#af03fd15b4e047aab484fbe43569c18a3" title="_gcry_secmem_free_internal" alt="" coords="408,107,597,133"/>
+<area shape="rect" id="node8" href="$secmem_8c.html#a62c3aedcbe5f6e59ec66b111dbbbf22c" title="stats_update" alt="" coords="645,107,743,133"/>
+<area shape="rect" id="node9" href="$secmem_8c.html#a4418f8797afb324a8709a69898712589" title="mb_merge" alt="" coords="653,157,735,184"/>
+<area shape="rect" id="node10" href="$secmem_8c.html#a312dfeb5f6e6474f03a8148188d0ec3f" title="mb_get_prev" alt="" coords="823,107,921,133"/>
+<area shape="rect" id="node11" href="$secmem_8c.html#a096c403ee49b716c145a429b1ad86e46" title="mb_get_next" alt="" coords="1001,107,1099,133"/>
+</map>

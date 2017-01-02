@@ -1,0 +1,17 @@
+<map id="_gcry_mpi_ec_free" name="_gcry_mpi_ec_free">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2cipher_2ecc-curves_8c.html#a0277221973f7126d6c8b5ab4da7f4213" title="_gcry_ecc_get_param_sexp" alt="" coords="185,5,371,32"/>
+<area shape="rect" id="node3" href="$ecc-ecdsa_8c.html#a92ecc1c83f033fcdd7871828aed52c3a" title="_gcry_ecc_ecdsa_sign" alt="" coords="201,208,355,235"/>
+<area shape="rect" id="node6" href="$ecc_8c.html#afb500d86a0c20d38b6e95eac941221ca" title="ecc_generate" alt="" coords="725,107,825,133"/>
+<area shape="rect" id="node8" href="$ecc-ecdsa_8c.html#a7bb300cf90effc6eb63b54cb77a39ee6" title="_gcry_ecc_ecdsa_verify" alt="" coords="197,259,359,285"/>
+<area shape="rect" id="node9" href="$ecc_8c.html#a5fa08239782ab59a8a86ea18a4162032" title="ecc_verify" alt="" coords="419,335,501,361"/>
+<area shape="rect" id="node10" href="$ecc-eddsa_8c.html#a1c4958faec3011c98a07badae210a16c" title="_gcry_ecc_eddsa_sign" alt="" coords="201,107,355,133"/>
+<area shape="rect" id="node11" href="$ecc-eddsa_8c.html#a755ab9167a768e80bda9d6faf1bbf4ca" title="_gcry_ecc_eddsa_verify" alt="" coords="197,360,359,387"/>
+<area shape="rect" id="node12" href="$ecc-gost_8c.html#a2448c570319e5709ee90e88fdcf15130" title="_gcry_ecc_gost_sign" alt="" coords="205,157,351,184"/>
+<area shape="rect" id="node13" href="$ecc-gost_8c.html#aea37393dfdef6f779c83e0a185dfda87" title="_gcry_ecc_gost_verify" alt="" coords="201,411,355,437"/>
+<area shape="rect" id="node14" href="$ecc_8c.html#af52f50415d9222c1ee17a83564c9839a" title="ecc_check_secret_key" alt="" coords="200,461,356,488"/>
+<area shape="rect" id="node15" href="$ecc_8c.html#aa393065ec89267b73e1da57388ee5732" title="ecc_encrypt_raw" alt="" coords="217,512,339,539"/>
+<area shape="rect" id="node16" href="$ecc_8c.html#a3ecb571c9a3e14803ff801832e35c974" title="ecc_decrypt_raw" alt="" coords="217,563,339,589"/>
+<area shape="rect" id="node4" href="$ecc_8c.html#ab824af94d5e7a2c6a1ad4559ee2ea9a1" title="test_keys" alt="" coords="421,208,499,235"/>
+<area shape="rect" id="node7" href="$ecc_8c.html#ae11b517c533d922d85067aa6c4948907" title="ecc_sign" alt="" coords="423,157,497,184"/>
+<area shape="rect" id="node5" href="$ecc_8c.html#a727c0b4e54d26594ca00e4550ec7fb06" title="nist_generate_key" alt="" coords="549,157,677,184"/>
+</map>

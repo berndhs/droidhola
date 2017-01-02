@@ -1,0 +1,6 @@
+<map id="die" name="die">
+<area shape="rect" id="node2" href="$dsa-rfc6979_8c.html#a697cf2d21385b2722bb16269028faf43" title="data_from_hex" alt="" coords="92,5,200,32"/>
+<area shape="rect" id="node4" href="$dsa-rfc6979_8c.html#a6e3f88741a33f65b8dc73b95abd6a4c1" title="check_dsa_rfc6979" alt="" coords="423,56,557,83"/>
+<area shape="rect" id="node5" href="$dsa-rfc6979_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="605,81,656,108"/>
+<area shape="rect" id="node3" href="$dsa-rfc6979_8c.html#a67e55f76abc133f1b4df41e2075389bf" title="extract_cmp_data" alt="" coords="248,5,375,32"/>
+</map>

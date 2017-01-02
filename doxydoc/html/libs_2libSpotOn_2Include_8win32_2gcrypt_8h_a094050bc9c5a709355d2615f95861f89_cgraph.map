@@ -1,0 +1,5 @@
+<map id="gcry_err_make_from_errno" name="gcry_err_make_from_errno">
+<area shape="rect" id="node2" href="$gcrypt-int_8h.html#a8039a51938a7a5cca486f37cabaa9a0d" title="_gcry_err_make_from\l_errno" alt="" coords="195,5,343,47"/>
+<area shape="rect" id="node3" href="$gpg-error_8h.html#a09a0d878e1271207c2d4740df3c97d03" title="gpg_err_make_from_errno" alt="" coords="391,13,564,39"/>
+<area shape="rect" id="node4" href="$gpg-error_8h.html#ac192984443800121aafe8ff437e05dc3" title="gpg_err_make" alt="" coords="612,13,716,39"/>
+</map>

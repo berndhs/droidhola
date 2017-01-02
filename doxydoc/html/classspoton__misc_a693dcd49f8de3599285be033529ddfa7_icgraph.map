@@ -1,0 +1,5 @@
+<map id="spoton_misc::isMulticastAddress" name="spoton_misc::isMulticastAddress">
+<area shape="rect" id="node2" href="$classspoton.html#af51264f1bb6f7dc8ee5761fd8caefb45" title="spoton::slotAddListener" alt="" coords="234,5,393,32"/>
+<area shape="rect" id="node4" href="$classspoton__listener.html#a11d276ee4e8e4f7d9eec46317de4efed" title="spoton_listener::slotTimeout" alt="" coords="220,56,407,83"/>
+<area shape="rect" id="node3" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="455,5,563,32"/>
+</map>

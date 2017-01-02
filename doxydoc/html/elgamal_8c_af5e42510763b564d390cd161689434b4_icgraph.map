@@ -1,0 +1,6 @@
+<map id="elg_get_nbits" name="elg_get_nbits">
+<area shape="rect" id="node2" href="$elgamal_8c.html#a8635b5cf1e9b3dd12c2daecda94495ac" title="elg_encrypt" alt="" coords="152,5,241,32"/>
+<area shape="rect" id="node3" href="$elgamal_8c.html#a469193ec3a9bff767f9595d08260ea4f" title="elg_decrypt" alt="" coords="152,56,241,83"/>
+<area shape="rect" id="node4" href="$elgamal_8c.html#a8e9022183dc70a1900751f206dbf64b8" title="elg_sign" alt="" coords="161,107,232,133"/>
+<area shape="rect" id="node5" href="$elgamal_8c.html#a1bafbe2e804b1a272296d246688caf30" title="elg_verify" alt="" coords="157,157,236,184"/>
+</map>

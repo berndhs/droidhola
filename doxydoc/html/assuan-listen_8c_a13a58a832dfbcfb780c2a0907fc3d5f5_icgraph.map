@@ -1,0 +1,11 @@
+<map id="assuan_get_input_fd" name="assuan_get_input_fd">
+<area shape="rect" id="node2" href="$ce-server_8c.html#ac86f221c81d9901393bf0cf41bd20954" title="input_notify" alt="" coords="350,5,439,32"/>
+<area shape="rect" id="node5" href="$ce-server_8c.html#ae0b124f50ba7f537986c5e73b23d35c3" title="cmd_cat" alt="" coords="201,56,273,83"/>
+<area shape="rect" id="node7" href="$fdpassing_8c.html#ae86b788540e99663261e763b010f368e" title="cmd_echo" alt="" coords="196,107,279,133"/>
+<area shape="rect" id="node3" href="$ce-server_8c.html#ad18fdc3df8fad95296a014ea46567b4b" title="server" alt="" coords="511,31,569,57"/>
+<area shape="rect" id="node4" href="$ce-server_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="617,31,668,57"/>
+<area shape="rect" id="node6" href="$ce-server_8c.html#a2c49eb687d21286f04c061a565a34585" title="register_commands" alt="" coords="327,56,463,83"/>
+<area shape="rect" id="node8" href="$fdpassing_8c.html#a2c49eb687d21286f04c061a565a34585" title="register_commands" alt="" coords="327,107,463,133"/>
+<area shape="rect" id="node9" href="$fdpassing_8c.html#ad18fdc3df8fad95296a014ea46567b4b" title="server" alt="" coords="511,107,569,133"/>
+<area shape="rect" id="node10" href="$fdpassing_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="617,107,668,133"/>
+</map>

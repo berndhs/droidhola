@@ -1,0 +1,5 @@
+<map id="ksba_check_version" name="ksba_check_version">
+<area shape="rect" id="node2" href="$libksba-1_83_85_2src_2version_8c.html#a153d609c6458bcdfc64e3595c5a5464b" title="compare_versions" alt="" coords="195,5,323,32"/>
+<area shape="rect" id="node3" href="$libksba-1_83_85_2src_2version_8c.html#a2ec1fc61a5e064017b695c9f96d2975a" title="parse_version_string" alt="" coords="371,5,513,32"/>
+<area shape="rect" id="node4" href="$libksba-1_83_85_2src_2version_8c.html#aa1100034419b3d5a1e108c71593e4af3" title="parse_version_number" alt="" coords="561,5,715,32"/>
+</map>

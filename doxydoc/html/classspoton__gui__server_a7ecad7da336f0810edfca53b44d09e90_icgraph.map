@@ -1,0 +1,5 @@
+<map id="spoton_gui_server::callParticipantUsingForwardSecrecy" name="spoton_gui_server::callParticipantUsingForwardSecrecy">
+<area shape="rect" id="node2" href="$classspoton__gui__server.html#ad97b45caaebc9b0b5c318025fbc744de" title="spoton_gui_server::\lslotReadyRead" alt="" coords="239,13,375,54"/>
+<area shape="rect" id="node3" href="$classspoton__gui__server.html#a6042c0f9381a9165fc4b6395a5cacad5" title="spoton_gui_server::\lslotClientConnected" alt="" coords="423,13,563,54"/>
+<area shape="rect" id="node4" href="$classspoton__gui__server.html#adfc6a8f4813a0c4a0aa275611bb6118e" title="spoton_gui_server::\lspoton_gui_server" alt="" coords="611,13,747,54"/>
+</map>

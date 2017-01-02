@@ -1,0 +1,15 @@
+<map id="spoton_misc::forwardSecrecyMagnetFromList" name="spoton_misc::forwardSecrecyMagnetFromList">
+<area shape="rect" id="node2" href="$classspoton__misc.html#ae34917038bcd4877f3efecace09e98f1" title="spoton_misc::removeOneTime\lStarBeamMagnets" alt="" coords="248,23,448,65"/>
+<area shape="rect" id="node7" href="$classspoton__kernel.html#a11acff8df05edd78c3441343fa9d9b4a" title="spoton_kernel::slotPopped\lMessage" alt="" coords="260,89,436,130"/>
+<area shape="rect" id="node9" href="$classspoton__neighbor.html#a22a1c325330098c4ca31be700e4a129d" title="spoton_neighbor::storeLetter" alt="" coords="255,155,441,181"/>
+<area shape="rect" id="node3" href="$classspoton.html#ab5df0a05e3cbaa08ce1ad82814309594" title="spoton::cleanup" alt="" coords="542,31,657,57"/>
+<area shape="rect" id="node4" href="$classspoton.html#ab1b3c35183f964bfb4edc128595a50b5" title="spoton::slotQuit" alt="" coords="793,31,907,57"/>
+<area shape="rect" id="node5" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="1043,5,1151,32"/>
+<area shape="rect" id="node6" href="$classspoton.html#a87daa72e12c64a1015b4e1a5c11ae632" title="spoton::closeEvent" alt="" coords="1030,56,1165,83"/>
+<area shape="rect" id="node8" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="524,89,675,130"/>
+<area shape="rect" id="node10" href="$classspoton__neighbor.html#ab056ef8633c6384243336ae9160400aa" title="spoton_neighbor::process0001a" alt="" coords="496,155,703,181"/>
+<area shape="rect" id="node14" href="$classspoton__neighbor.html#a4a9766329d720cee97275cefde8b0f0f" title="spoton_neighbor::process0001b" alt="" coords="496,205,703,232"/>
+<area shape="rect" id="node11" href="$classspoton__neighbor.html#a7b2aaa9d5b210ff677a7889986a949e6" title="spoton_neighbor::processData" alt="" coords="751,180,949,207"/>
+<area shape="rect" id="node12" href="$classspoton__neighbor.html#a9250c88da1eb47de5919685e09657538" title="spoton_neighbor::slotSendMail" alt="" coords="997,180,1197,207"/>
+<area shape="rect" id="node13" href="$classspoton__neighbor.html#aa6707b3133b337024de82dbd97d9e5ae" title="spoton_neighbor::receivedUuid" alt="" coords="1245,180,1447,207"/>
+</map>

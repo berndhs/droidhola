@@ -1,0 +1,12 @@
+<map id="cipher_get_blocksize" name="cipher_get_blocksize">
+<area shape="rect" id="node2" href="$gcrypt-int_8h.html#aef7916f029930927b715c3ec6acf95a1" title="_gcry_cipher_algo_info" alt="" coords="197,199,352,225"/>
+<area shape="rect" id="node3" href="$gcrypt-int_8h.html#a8358ede607c7ff5c2b518d027a413941" title="_gcry_cipher_get_algo\l_keylen" alt="" coords="400,78,552,119"/>
+<area shape="rect" id="node7" href="$gcrypt-int_8h.html#ac23163c7494521acc04d8dd767e9b6cf" title="_gcry_cipher_get_algo\l_blklen" alt="" coords="400,191,552,233"/>
+<area shape="rect" id="node11" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a10e3da88801ae41c8e25b4283fdd315f" title="gcry_cipher_algo_info" alt="" coords="402,257,550,284"/>
+<area shape="rect" id="node4" href="$mac-cmac_8c.html#afed2c1df0e9b6500e3b69ca767b029c4" title="cmac_get_keylen" alt="" coords="611,5,735,32"/>
+<area shape="rect" id="node5" href="$mac-gmac_8c.html#aa7dfc34d9bc7c3ddc7b3d5549f25c4d7" title="gmac_get_keylen" alt="" coords="611,56,735,83"/>
+<area shape="rect" id="node6" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#aea26f916a90a2d3715e89d72561cba47" title="gcry_cipher_get_algo\l_keylen" alt="" coords="600,107,745,149"/>
+<area shape="rect" id="node8" href="$mac-cmac_8c.html#a6bbfeab9204ddfd09eb2596b2ad8976c" title="cmac_open" alt="" coords="628,173,717,200"/>
+<area shape="rect" id="node9" href="$mac-cmac_8c.html#a8efaca49e159c8bd946089a8380e5a0e" title="cmac_get_maclen" alt="" coords="609,224,737,251"/>
+<area shape="rect" id="node10" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a70cc787b109d3d3ac16c47ff4e4983f7" title="gcry_cipher_get_algo\l_blklen" alt="" coords="600,275,745,317"/>
+</map>

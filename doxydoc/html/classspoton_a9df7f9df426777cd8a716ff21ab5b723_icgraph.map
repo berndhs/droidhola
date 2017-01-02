@@ -1,0 +1,6 @@
+<map id="spoton::populateAccounts" name="spoton::populateAccounts">
+<area shape="rect" id="node2" href="$classspoton.html#af6b11ba52d2261fe203d12827da91095" title="spoton::slotAddAccount" alt="" coords="239,5,401,32"/>
+<area shape="rect" id="node4" href="$classspoton.html#a39ec877cb3d3f641a0b18e0a4bdc7b43" title="spoton::slotDeleteAccount" alt="" coords="232,56,408,83"/>
+<area shape="rect" id="node5" href="$classspoton.html#ab6bc4cd4b4a220be5cccbbee7b68fdee" title="spoton::slotListenerSelected" alt="" coords="227,107,413,133"/>
+<area shape="rect" id="node3" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="461,56,569,83"/>
+</map>

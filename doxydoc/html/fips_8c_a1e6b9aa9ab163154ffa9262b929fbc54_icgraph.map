@@ -1,0 +1,13 @@
+<map id="reporter" name="reporter">
+<area shape="rect" id="node2" href="$fips_8c.html#afd14c47a4ac75c871a88454a2a1103f9" title="run_cipher_selftests" alt="" coords="127,5,265,32"/>
+<area shape="rect" id="node8" href="$fips_8c.html#a9208cb23479070795efc33b087298efc" title="run_digest_selftests" alt="" coords="127,56,265,83"/>
+<area shape="rect" id="node9" href="$fips_8c.html#aaf632c5775351419fe7dcb840905e875" title="run_hmac_selftests" alt="" coords="128,107,264,133"/>
+<area shape="rect" id="node10" href="$fips_8c.html#a4cc61f7f4abe429fbb6e2668b23ea1d2" title="run_pubkey_selftests" alt="" coords="123,157,269,184"/>
+<area shape="rect" id="node11" href="$fips_8c.html#a6d3efcbe0d8aa5c172873fb628897505" title="run_random_selftests" alt="" coords="123,208,269,235"/>
+<area shape="rect" id="node12" href="$fips_8c.html#a017200f9886b076967965736be0c562a" title="check_binary_integrity" alt="" coords="120,259,272,285"/>
+<area shape="rect" id="node3" href="$g10lib_8h.html#a10a09a1883ee96a71fcccfef32771903" title="_gcry_fips_run_selftests" alt="" coords="320,132,484,159"/>
+<area shape="rect" id="node4" href="$g10lib_8h.html#ac9f86a44740c18904d8eedba9a9f523e" title="_gcry_fips_is_operational" alt="" coords="532,107,701,133"/>
+<area shape="rect" id="node6" href="$global_8c.html#a197de31474f305a294a7555b4ed6f26f" title="_gcry_vcontrol" alt="" coords="787,157,894,184"/>
+<area shape="rect" id="node5" href="$global_8c.html#afb83fe45590e215b1a758b86076369a7" title="_gcry_global_is_operational" alt="" coords="749,107,932,133"/>
+<area shape="rect" id="node7" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a1880c4ce4c093ba2ea4a775ecf26ca29" title="gcry_control" alt="" coords="980,157,1073,184"/>
+</map>

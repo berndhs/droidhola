@@ -1,0 +1,6 @@
+<map id="spoton::slotVerify" name="spoton::slotVerify">
+<area shape="rect" id="node2" href="$classspoton__crypt.html#ae6533f74fbbd15866a978ac077ca39cb" title="spoton_crypt::saltedPassphraseHash" alt="" coords="177,5,417,32"/>
+<area shape="rect" id="node5" href="$classspoton__crypt.html#a218293644d28fe63f56ba609d1661245" title="spoton_crypt::memcmp" alt="" coords="218,56,377,83"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="465,5,615,32"/>
+<area shape="rect" id="node4" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="663,5,825,32"/>
+</map>

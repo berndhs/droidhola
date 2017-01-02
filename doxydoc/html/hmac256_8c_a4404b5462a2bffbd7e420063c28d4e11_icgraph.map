@@ -1,0 +1,15 @@
+<map id="_gcry_hmac256_new" name="_gcry_hmac256_new">
+<area shape="rect" id="node2" href="$hmac-tests_8c.html#a322ba38b2adb641e136000c97517cb80" title="selftests_sha256" alt="" coords="611,28,733,55"/>
+<area shape="rect" id="node11" href="$hmac256_8h.html#a4404b5462a2bffbd7e420063c28d4e11" title="_gcry_hmac256_new" alt="" coords="199,102,344,128"/>
+<area shape="rect" id="node12" href="$hmac256_8h.html#abf203c6e0955594a88cab4b8f1dffb07" title="_gcry_hmac256_finalize" alt="" coords="392,27,555,54"/>
+<area shape="rect" id="node13" href="$hmac256_8h.html#ae518b97f766a4400d6c4f2b619f78844" title="_gcry_hmac256_file" alt="" coords="603,128,741,155"/>
+<area shape="rect" id="node3" href="$hmac-tests_8c.html#a8fde1754e5a3b0d7e1479a83f80c4a33" title="run_selftests" alt="" coords="789,54,887,80"/>
+<area shape="rect" id="node4" href="$cipher-proto_8h.html#a9126778111a26f59facb751234e0fbe7" title="_gcry_hmac_selftest" alt="" coords="939,60,1082,87"/>
+<area shape="rect" id="node5" href="$fips_8c.html#aaf632c5775351419fe7dcb840905e875" title="run_hmac_selftests" alt="" coords="1135,63,1271,90"/>
+<area shape="rect" id="node6" href="$g10lib_8h.html#a10a09a1883ee96a71fcccfef32771903" title="_gcry_fips_run_selftests" alt="" coords="1319,90,1483,116"/>
+<area shape="rect" id="node7" href="$g10lib_8h.html#ac9f86a44740c18904d8eedba9a9f523e" title="_gcry_fips_is_operational" alt="" coords="1531,64,1700,91"/>
+<area shape="rect" id="node9" href="$global_8c.html#a197de31474f305a294a7555b4ed6f26f" title="_gcry_vcontrol" alt="" coords="1786,115,1893,142"/>
+<area shape="rect" id="node8" href="$global_8c.html#afb83fe45590e215b1a758b86076369a7" title="_gcry_global_is_operational" alt="" coords="1748,64,1931,91"/>
+<area shape="rect" id="node10" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a1880c4ce4c093ba2ea4a775ecf26ca29" title="gcry_control" alt="" coords="1979,115,2072,142"/>
+<area shape="rect" id="node14" href="$fips_8c.html#a017200f9886b076967965736be0c562a" title="check_binary_integrity" alt="" coords="935,116,1087,143"/>
+</map>

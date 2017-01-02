@@ -1,0 +1,5 @@
+<map id="spoton_kernel::clearBuzzKeysContainer" name="spoton_kernel::clearBuzzKeysContainer">
+<area shape="rect" id="node2" href="$classspoton__gui__server.html#a7a61eaccb8764b495097a239f76160fe" title="spoton_gui_server::\lslotClientDisconnected" alt="" coords="223,5,380,47"/>
+<area shape="rect" id="node3" href="$classspoton__gui__server.html#a6042c0f9381a9165fc4b6395a5cacad5" title="spoton_gui_server::\lslotClientConnected" alt="" coords="428,5,568,47"/>
+<area shape="rect" id="node4" href="$classspoton__gui__server.html#adfc6a8f4813a0c4a0aa275611bb6118e" title="spoton_gui_server::\lspoton_gui_server" alt="" coords="616,5,752,47"/>
+</map>

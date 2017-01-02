@@ -1,0 +1,12 @@
+<map id="ksba_ocsp_s" name="ksba_ocsp_s">
+<area shape="rect" id="node2" href="$structocsp__extension__s.html" title="ocsp_extension_s" alt="" coords="5,320,132,347"/>
+<area shape="rect" id="node3" href="$structocsp__reqitem__s.html" title="ocsp_reqitem_s" alt="" coords="210,424,325,451"/>
+<area shape="rect" id="node4" href="$structksba__cert__s.html" title="ksba_cert_s" alt="" coords="293,320,386,347"/>
+<area shape="rect" id="node11" href="$structocsp__certlist__s.html" title="ocsp_certlist_s" alt="" coords="403,424,513,451"/>
+<area shape="rect" id="node5" href="$structcert__extn__info.html" title="cert_extn_info" alt="" coords="150,231,254,257"/>
+<area shape="rect" id="node6" href="$structksba__asn__tree__s.html" title="ksba_asn_tree_s" alt="" coords="353,231,475,257"/>
+<area shape="rect" id="node7" href="$structasn__node__struct.html" title="asn_node_struct" alt="" coords="281,111,400,137"/>
+<area shape="rect" id="node8" href="$unionasn__value__u.html" title="asn_value_u" alt="" coords="235,5,329,32"/>
+<area shape="rect" id="node9" href="$structnode__flag__s.html" title="node_flag_s" alt="" coords="353,5,445,32"/>
+<area shape="rect" id="node10" href="$structcert__user__data.html" title="cert_user_data" alt="" coords="499,231,607,257"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="decoder_state_s" name="decoder_state_s">
+<area shape="rect" id="node2" href="$structdecoder__state__item__s.html" title="decoder_state_item_s" alt="" coords="36,216,187,243"/>
+<area shape="rect" id="node3" href="$structasn__node__struct.html" title="asn_node_struct" alt="" coords="52,111,171,137"/>
+<area shape="rect" id="node4" href="$unionasn__value__u.html" title="asn_value_u" alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node5" href="$structnode__flag__s.html" title="node_flag_s" alt="" coords="124,5,216,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="load_domain" name="load_domain">
+<area shape="rect" id="node2" href="$w32-gettext_8c.html#ae8f1637c44a251d311179c17932d3001" title="do_gettext" alt="" coords="148,56,231,83"/>
+<area shape="rect" id="node3" href="$gpg-error_8h.html#ad314cdcb9c7098c82a6eccea7332a97e" title="_gpg_w32_gettext" alt="" coords="286,5,414,32"/>
+<area shape="rect" id="node4" href="$gpg-error_8h.html#a1c551888f4a049ff3996a0adfdf5a649" title="_gpg_w32_dgettext" alt="" coords="283,56,417,83"/>
+<area shape="rect" id="node5" href="$gpg-error_8h.html#a20651358edbe7373b764f11daa944db5" title="_gpg_w32_dngettext" alt="" coords="279,107,421,133"/>
+</map>

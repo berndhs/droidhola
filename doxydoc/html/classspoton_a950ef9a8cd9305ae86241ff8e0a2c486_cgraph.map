@@ -1,0 +1,8 @@
+<map id="spoton::sendBuzzKeysToKernel" name="spoton::sendBuzzKeysToKernel">
+<area shape="rect" id="node2" href="$classspoton__buzzpage.html#a4e894e12d14216f2ed35be5537297da8" title="spoton_buzzpage::key" alt="" coords="289,5,443,32"/>
+<area shape="rect" id="node3" href="$classspoton__buzzpage.html#ac117680703a8a2858673c52044e3cab4" title="spoton_buzzpage::channelType" alt="" coords="263,56,469,83"/>
+<area shape="rect" id="node4" href="$classspoton__buzzpage.html#ae2d2c51519a34b1382d1943b1cc443ce" title="spoton_buzzpage::hashKey" alt="" coords="275,107,457,133"/>
+<area shape="rect" id="node5" href="$classspoton__buzzpage.html#ad24b719a2d003e5ad636b2faf014ae2a" title="spoton_buzzpage::hashType" alt="" coords="271,157,461,184"/>
+<area shape="rect" id="node6" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="291,208,441,235"/>
+<area shape="rect" id="node7" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="517,208,680,235"/>
+</map>

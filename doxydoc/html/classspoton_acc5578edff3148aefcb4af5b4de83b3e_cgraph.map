@@ -1,0 +1,5 @@
+<map id="spoton::slotGenerateNova" name="spoton::slotGenerateNova">
+<area shape="rect" id="node2" href="$classspoton__crypt.html#a3f156369f3e0551f928817b3b9d3744e" title="spoton_crypt::cipherKeyLength" alt="" coords="228,5,431,32"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="479,5,628,32"/>
+<area shape="rect" id="node4" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="676,5,839,32"/>
+</map>

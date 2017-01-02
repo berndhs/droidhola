@@ -1,0 +1,8 @@
+<map id="point_copy" name="point_copy">
+<area shape="rect" id="node2" href="$ec-context_8h.html#adfba9c52b5c7f4a961fe902cd228389a" title="_gcry_ecc_get_point" alt="" coords="139,5,281,32"/>
+<area shape="rect" id="node5" href="$ec-context_8h.html#a2666e2f10263ff4b6dee6537e1960b8a" title="_gcry_ecc_set_point" alt="" coords="139,56,281,83"/>
+<area shape="rect" id="node3" href="$mpi_8h.html#ab48968755332c4c3d12d5a8a3649f484" title="_gcry_mpi_ec_get_point" alt="" coords="329,5,492,32"/>
+<area shape="rect" id="node4" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#aa8bbc16c0fca22eae66b208915744632" title="gcry_mpi_ec_get_point" alt="" coords="540,5,696,32"/>
+<area shape="rect" id="node6" href="$mpi_8h.html#a424d0a15591312859301b5fa3bfabaf5" title="_gcry_mpi_ec_set_point" alt="" coords="329,56,492,83"/>
+<area shape="rect" id="node7" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a04bd6c4ffa33e71b9d633042c3df52b0" title="gcry_mpi_ec_set_point" alt="" coords="540,56,696,83"/>
+</map>

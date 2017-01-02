@@ -1,0 +1,6 @@
+<map id="gcry_log_debugmpi" name="gcry_log_debugmpi">
+<area shape="rect" id="node2" href="$g10lib_8h.html#a444589037e67170e337e4aaae86767fb" title="_gcry_log_printmpi" alt="" coords="188,31,319,57"/>
+<area shape="rect" id="node3" href="$misc_8c.html#a2ccef4c0372062795217703a447fca76" title="do_printhex" alt="" coords="395,5,485,32"/>
+<area shape="rect" id="node4" href="$mpicoder_8c.html#a6dd7fee0be0d62527e66e3a52d701716" title="_gcry_mpi_get_buffer" alt="" coords="367,56,513,83"/>
+<area shape="rect" id="node5" href="$mpicoder_8c.html#a963422bac0adcaa52a39f7e07aadf82a" title="do_get_buffer" alt="" coords="561,56,663,83"/>
+</map>

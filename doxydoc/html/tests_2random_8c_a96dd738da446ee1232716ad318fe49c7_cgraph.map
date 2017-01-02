@@ -1,0 +1,6 @@
+<map id="check_close_random_device" name="check_close_random_device">
+<area shape="rect" id="node2" href="$tests_2random_8c.html#a41b4d0b77d95a66ca4258694205cbbee" title="inf" alt="" coords="321,5,360,32"/>
+<area shape="rect" id="node3" href="$tests_2random_8c.html#a3cee7c529b14ce0d73fd6c644c039522" title="print_hex" alt="" coords="199,31,273,57"/>
+<area shape="rect" id="node4" href="$tests_2random_8c.html#aa77cc587dc65b9282085c7403a84ae8e" title="die" alt="" coords="217,81,255,108"/>
+<area shape="rect" id="node5" href="$rndunix_8c.html#a116f037c42b7ea97421440dce4fb0302" title="waitpid" alt="" coords="205,132,267,159"/>
+</map>

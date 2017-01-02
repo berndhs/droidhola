@@ -1,0 +1,5 @@
+<map id="spoton_misc::cryptFromForwardSecrecyMagnet" name="spoton_misc::cryptFromForwardSecrecyMagnet">
+<area shape="rect" id="node2" href="$classspoton__misc.html#aa75ecc3e2747880fdf0dfca1d8d6a907" title="spoton_misc::isValidForward\lSecrecyMagnet" alt="" coords="264,23,455,65"/>
+<area shape="rect" id="node3" href="$classspoton__crypt.html#ae6806e3af8db24fea0bd179f9a57eb08" title="spoton_crypt::hashTypes" alt="" coords="506,5,675,32"/>
+<area shape="rect" id="node4" href="$classspoton__crypt.html#abeb921c084d1c7878dc1b43b04def0b8" title="spoton_crypt::cipherTypes" alt="" coords="503,56,679,83"/>
+</map>

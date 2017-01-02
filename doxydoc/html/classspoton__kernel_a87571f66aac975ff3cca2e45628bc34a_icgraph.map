@@ -1,0 +1,12 @@
+<map id="spoton_kernel::sendMessage" name="spoton_kernel::sendMessage">
+<area shape="rect" id="node2" href="$classspoton__kernel.html#a46715dcf2e65670e15e91265f20540e0" title="spoton_kernel::slotMessage\lReceivedFromUI" alt="" coords="253,36,438,78"/>
+<area shape="rect" id="node7" href="$classspoton__kernel.html#a9223a77b13d95689d77ea3ba52b59e7d" title="spoton_kernel::connectSignals\lToNeighbor" alt="" coords="245,102,445,143"/>
+<area shape="rect" id="node10" href="$classspoton__kernel.html#a887f66edf07bc429a053b1a34e80fb8c" title="spoton_kernel::slotScramble" alt="" coords="765,218,952,245"/>
+<area shape="rect" id="node3" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="1265,148,1416,190"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#aa9947ef6ff1cc446368a165607518ac0" title="spoton_kernel::slotNewNeighbor" alt="" coords="493,50,704,77"/>
+<area shape="rect" id="node5" href="$classspoton__kernel.html#a7ea263d96ed3589d0709ae5183dca388" title="spoton_kernel::prepareListeners" alt="" coords="755,50,962,77"/>
+<area shape="rect" id="node6" href="$classspoton__kernel.html#a47b33a0b468dd5ff9d112a4be0a78c3b" title="spoton_kernel::slotPrepare\lObjects" alt="" coords="1027,90,1204,131"/>
+<area shape="rect" id="node8" href="$classspoton__kernel.html#acc4b038c20734b08617da1aad9193501" title="spoton_kernel::prepareNeighbors" alt="" coords="752,101,965,128"/>
+<area shape="rect" id="node9" href="$classspoton__kernel.html#a8326fb4c480d72dff4a2357b4f17bee3" title="spoton_kernel::slotUpdate\lSettings" alt="" coords="511,152,686,194"/>
+<area shape="rect" id="node11" href="$classspoton__kernel.html#aae1f4b231c6bc078bc48c4ac9e7c2e70" title="spoton_kernel::slotImpersonate\lTimeout" alt="" coords="1013,258,1217,299"/>
+</map>

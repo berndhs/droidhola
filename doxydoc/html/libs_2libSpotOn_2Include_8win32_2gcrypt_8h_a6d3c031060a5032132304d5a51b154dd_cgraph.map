@@ -1,0 +1,10 @@
+<map id="gcry_mpi_set_opaque" name="gcry_mpi_set_opaque">
+<area shape="rect" id="node2" href="$mpiutil_8c.html#abec5190d979d99200d7d77763c95b24f" title="_gcry_mpi_set_opaque" alt="" coords="203,42,359,69"/>
+<area shape="rect" id="node3" href="$mpiutil_8c.html#a57f1c9a6c9b85748e0dc46300207a5ae" title="_gcry_mpi_free_limb\l_space" alt="" coords="407,5,549,47"/>
+<area shape="rect" id="node4" href="$g10lib_8h.html#a097f30a540a9d8ac76ed54c1316a5376" title="_gcry_is_secure" alt="" coords="419,71,537,98"/>
+<area shape="rect" id="node5" href="$global_8c.html#a16e8af0a857ae959a2abb3c7e88e02f0" title="get_no_secure_memory" alt="" coords="598,46,759,73"/>
+<area shape="rect" id="node8" href="$secmem_8c.html#a1a820af6bf0149451e1de1933f5cc0fb" title="_gcry_private_is_secure" alt="" coords="597,97,760,123"/>
+<area shape="rect" id="node6" href="$fips_8c.html#a63eaab0cb53f75634165b2f2f0a4aa1c" title="_gcry_enforced_fips_mode" alt="" coords="808,46,987,73"/>
+<area shape="rect" id="node7" href="$fips_8c.html#a1236caccf2e256cb9e1b60c894a14639" title="_gcry_fips_mode" alt="" coords="1035,46,1156,73"/>
+<area shape="rect" id="node9" href="$secmem_8c.html#abfb42716ecfabdb452044d583c878448" title="ptr_into_pool_p" alt="" coords="842,97,953,123"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="external_lock_test_lock" name="external_lock_test_lock">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2tests_2t-lock_8c.html#a39bf156a60eb0778b04b1a194641b01e" title="revision_thread" alt="" coords="221,5,332,32"/>
+<area shape="rect" id="node7" href="$libgcrypt-1_86_86_2tests_2t-lock_8c.html#abe3d83bbbc3d1915c29d57ca0e4508f5" title="accountant_thread" alt="" coords="212,56,341,83"/>
+<area shape="rect" id="node3" href="$libgcrypt-1_86_86_2tests_2t-lock_8c.html#a570aa26ee8c42f9a1878387fa8189750" title="run_test" alt="" coords="408,5,477,32"/>
+<area shape="rect" id="node5" href="$libgpg__error-1_824_2tests_2t-lock_8c.html#abaafa4065d52626b53574bfbcf25b935" title="print_accounts" alt="" coords="389,56,496,83"/>
+<area shape="rect" id="node4" href="$libgcrypt-1_86_86_2tests_2t-lock_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="544,5,595,32"/>
+<area shape="rect" id="node6" href="$libgpg__error-1_824_2tests_2t-lock_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="544,56,595,83"/>
+</map>

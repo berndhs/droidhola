@@ -1,0 +1,14 @@
+<map id="spoton_neighbor::saveParticipantStatus" name="spoton_neighbor::saveParticipantStatus">
+<area shape="rect" id="node2" href="$classspoton__neighbor.html#af1f7db5175073ed9b7639123a0e35444" title="spoton_neighbor::process0000" alt="" coords="789,9,988,35"/>
+<area shape="rect" id="node6" href="$classspoton__neighbor.html#ab056ef8633c6384243336ae9160400aa" title="spoton_neighbor::process0001a" alt="" coords="531,59,737,86"/>
+<area shape="rect" id="node7" href="$classspoton__neighbor.html#ac06e75d97aa377630455e184ed002b36" title="spoton_neighbor::process0002a" alt="" coords="531,199,737,226"/>
+<area shape="rect" id="node10" href="$classspoton__neighbor.html#a7f2025e3311b4fa79ab31159e8827ca8" title="spoton_neighbor::process0002b" alt="" coords="272,225,479,251"/>
+<area shape="rect" id="node11" href="$classspoton__neighbor.html#a22235dbf4e997703279aad6541f36420" title="spoton_neighbor::process0013" alt="" coords="1044,313,1243,339"/>
+<area shape="rect" id="node12" href="$classspoton__neighbor.html#a9a0afba3ce71adb122055e968914fd06" title="spoton_neighbor::saveParticipant\lStatus" alt="" coords="268,364,483,405"/>
+<area shape="rect" id="node13" href="$classspoton__neighbor.html#a22a1c325330098c4ca31be700e4a129d" title="spoton_neighbor::storeLetter" alt="" coords="282,110,469,137"/>
+<area shape="rect" id="node3" href="$classspoton__neighbor.html#a7b2aaa9d5b210ff677a7889986a949e6" title="spoton_neighbor::processData" alt="" coords="1295,161,1493,187"/>
+<area shape="rect" id="node4" href="$classspoton__neighbor.html#a9250c88da1eb47de5919685e09657538" title="spoton_neighbor::slotSendMail" alt="" coords="1541,161,1741,187"/>
+<area shape="rect" id="node5" href="$classspoton__neighbor.html#aa6707b3133b337024de82dbd97d9e5ae" title="spoton_neighbor::receivedUuid" alt="" coords="1789,161,1991,187"/>
+<area shape="rect" id="node8" href="$classspoton__neighbor.html#a1bfd68dbdb8367b9fb7d50fec59ebd21" title="spoton_neighbor::process0001c" alt="" coords="785,161,992,187"/>
+<area shape="rect" id="node9" href="$classspoton__neighbor.html#a4a9766329d720cee97275cefde8b0f0f" title="spoton_neighbor::process0001b" alt="" coords="1040,110,1247,137"/>
+</map>

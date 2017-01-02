@@ -1,0 +1,20 @@
+<map id="die" name="die">
+<area shape="rect" id="node2" href="$tests_2pubkey_8c.html#a697cf2d21385b2722bb16269028faf43" title="data_from_hex" alt="" coords="141,5,249,32"/>
+<area shape="rect" id="node4" href="$tests_2pubkey_8c.html#a0ec32c4cf5a0e4ccbf58aea866b46279" title="check_ed25519ecdsa\l_sample_key" alt="" coords="581,41,729,82"/>
+<area shape="rect" id="node5" href="$tests_2pubkey_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="788,461,839,488"/>
+<area shape="rect" id="node6" href="$tests_2pubkey_8c.html#a403230f2ec8e51fc81b4478de39ccbcf" title="check_keys_crypt" alt="" coords="131,157,259,184"/>
+<area shape="rect" id="node7" href="$tests_2pubkey_8c.html#a9162a530dca92e51ec62b89f03d34082" title="check_keys" alt="" coords="389,208,481,235"/>
+<area shape="rect" id="node8" href="$tests_2pubkey_8c.html#acd7533ecaf6417208b0903c22bf6ca04" title="check_run" alt="" coords="614,461,697,488"/>
+<area shape="rect" id="node9" href="$tests_2pubkey_8c.html#a1d0d9e3415a400d84f5654c6a7df411d" title="get_keys_sample" alt="" coords="373,309,497,336"/>
+<area shape="rect" id="node10" href="$tests_2pubkey_8c.html#aaf90a35822eed64394efc16b8eefac02" title="get_keys_new" alt="" coords="381,360,488,387"/>
+<area shape="rect" id="node11" href="$tests_2pubkey_8c.html#a94b3f374c16bbb6ed9c7b6c7bd2371ef" title="get_keys_x931_new" alt="" coords="364,411,505,437"/>
+<area shape="rect" id="node12" href="$tests_2pubkey_8c.html#a4cc708e5428dd45238735c58039214c2" title="get_elg_key_new" alt="" coords="373,461,496,488"/>
+<area shape="rect" id="node13" href="$tests_2pubkey_8c.html#a5855a320fb52297515e4783f036bd7c2" title="get_dsa_key_new" alt="" coords="371,512,498,539"/>
+<area shape="rect" id="node14" href="$tests_2pubkey_8c.html#a654d66f939a8098e1b556b43e8621925" title="get_dsa_key_fips186_new" alt="" coords="347,563,523,589"/>
+<area shape="rect" id="node15" href="$tests_2pubkey_8c.html#a92ff4f8676583d7e0e28419abe93dfc4" title="get_dsa_key_with_domain_new" alt="" coords="92,613,299,640"/>
+<area shape="rect" id="node16" href="$tests_2pubkey_8c.html#a1658899cf07b6bda20ee88bcbcc3b348" title="get_dsa_key_fips186\l_with_domain_new" alt="" coords="123,665,268,706"/>
+<area shape="rect" id="node17" href="$tests_2pubkey_8c.html#aa03a541b822537e0f663dc5aa5eb62bf" title="get_dsa_key_fips186\l_with_seed_new" alt="" coords="123,730,268,771"/>
+<area shape="rect" id="node18" href="$tests_2pubkey_8c.html#a5c984d851484a6a1d02f7827baa44343" title="check_x931_derived_key" alt="" coords="571,583,740,609"/>
+<area shape="rect" id="node19" href="$tests_2pubkey_8c.html#aa94ebddc84cee4c59c09fcf77ab72922" title="check_ecc_sample_key" alt="" coords="574,775,737,801"/>
+<area shape="rect" id="node3" href="$tests_2pubkey_8c.html#a67e55f76abc133f1b4df41e2075389bf" title="extract_cmp_data" alt="" coords="371,5,498,32"/>
+</map>

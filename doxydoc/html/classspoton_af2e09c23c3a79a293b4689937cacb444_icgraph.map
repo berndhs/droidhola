@@ -1,0 +1,6 @@
+<map id="spoton::verifyInitializationPassphrase" name="spoton::verifyInitializationPassphrase">
+<area shape="rect" id="node2" href="$classspoton.html#a7fd5f71f1de76a7d14b119e25cfab0eb" title="spoton::slotSetPassphrase" alt="" coords="224,5,403,32"/>
+<area shape="rect" id="node5" href="$classspoton.html#ab8f5161c2fc6e1ea81e9cf4d68daedff" title="spoton::slotWizardButton\lClicked" alt="" coords="229,57,398,98"/>
+<area shape="rect" id="node3" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="689,35,797,61"/>
+<area shape="rect" id="node4" href="$classspoton.html#a68e6ce65025cb17837acb9ed17556fdf" title="spoton::slotPrepareAndShow\lInstallationWizard" alt="" coords="451,57,641,98"/>
+</map>

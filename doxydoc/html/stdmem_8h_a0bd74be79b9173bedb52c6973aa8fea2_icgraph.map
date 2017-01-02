@@ -1,0 +1,9 @@
+<map id="_gcry_private_free" name="_gcry_private_free">
+<area shape="rect" id="node2" href="$global_8c.html#a2f930c97c22747e97f4fd4a6e56f22a1" title="_gcry_free" alt="" coords="214,5,297,32"/>
+<area shape="rect" id="node4" href="$stdmem_8h.html#a579f9a2c64b300e7c4ab6a83bc5db2b2" title="_gcry_private_realloc" alt="" coords="183,56,328,83"/>
+<area shape="rect" id="node3" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a03dafeae883c568ece762d7f006c2575" title="gcry_free" alt="" coords="387,5,463,32"/>
+<area shape="rect" id="node5" href="$global_8c.html#a31dbb52a966a438c02e5ff7548652d16" title="_gcry_realloc" alt="" coords="376,56,475,83"/>
+<area shape="rect" id="node6" href="$global_8c.html#adf9af44c81575543dd0b9853b1ba4716" title="_gcry_xrealloc" alt="" coords="523,31,629,57"/>
+<area shape="rect" id="node8" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#af440c1f0a34d238104d2533eaf14744f" title="gcry_realloc" alt="" coords="530,81,622,108"/>
+<area shape="rect" id="node7" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#af5cdc9bcd21942d7da753b3129301bc3" title="gcry_xrealloc" alt="" coords="677,31,776,57"/>
+</map>

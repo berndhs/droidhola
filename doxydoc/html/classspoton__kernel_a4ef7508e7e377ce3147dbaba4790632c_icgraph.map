@@ -1,0 +1,10 @@
+<map id="spoton_kernel::sendMail" name="spoton_kernel::sendMail">
+<area shape="rect" id="node2" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="1444,97,1595,138"/>
+<area shape="rect" id="node3" href="$classspoton__kernel.html#a9223a77b13d95689d77ea3ba52b59e7d" title="spoton_kernel::connectSignals\lToNeighbor" alt="" coords="451,86,651,127"/>
+<area shape="rect" id="node9" href="$classspoton__kernel.html#a577b649c69eeb6fa600390dd6cc5f193" title="spoton_kernel::slotSendMail" alt="" coords="216,119,403,145"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#acc4b038c20734b08617da1aad9193501" title="spoton_kernel::prepareNeighbors" alt="" coords="957,43,1171,69"/>
+<area shape="rect" id="node6" href="$classspoton__kernel.html#aa9947ef6ff1cc446368a165607518ac0" title="spoton_kernel::slotNewNeighbor" alt="" coords="699,93,909,120"/>
+<area shape="rect" id="node8" href="$classspoton__kernel.html#a8326fb4c480d72dff4a2357b4f17bee3" title="spoton_kernel::slotUpdate\lSettings" alt="" coords="1220,129,1395,170"/>
+<area shape="rect" id="node5" href="$classspoton__kernel.html#a47b33a0b468dd5ff9d112a4be0a78c3b" title="spoton_kernel::slotPrepare\lObjects" alt="" coords="1219,63,1396,105"/>
+<area shape="rect" id="node7" href="$classspoton__kernel.html#a7ea263d96ed3589d0709ae5183dca388" title="spoton_kernel::prepareListeners" alt="" coords="961,93,1167,120"/>
+</map>

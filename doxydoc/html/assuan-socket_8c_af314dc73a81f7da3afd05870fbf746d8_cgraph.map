@@ -1,0 +1,8 @@
+<map id="socks5_connect" name="socks5_connect">
+<area shape="rect" id="node2" href="$assuan-defs_8h.html#aa6a043c33b5ca4fe09258144033717d1" title="_assuan_connect" alt="" coords="171,5,295,32"/>
+<area shape="rect" id="node3" href="$assuan-socket_8c.html#aaf893c3699d6f3b55634e88c9b6e4863" title="do_writen" alt="" coords="193,56,272,83"/>
+<area shape="rect" id="node5" href="$assuan-socket_8c.html#a991b88657272abf37dda9ec95534e4c9" title="do_readn" alt="" coords="195,107,270,133"/>
+<area shape="rect" id="node4" href="$assuan-defs_8h.html#a53b73bdf3bec3f3d3fd18a7e33d30f4f" title="_assuan_write" alt="" coords="347,56,454,83"/>
+<area shape="rect" id="node6" href="$assuan-defs_8h.html#a894b3af80800b086e743f3e602979170" title="_assuan_read" alt="" coords="349,107,452,133"/>
+<area shape="rect" id="node7" href="$assuan-defs_8h.html#a8db7e3e3ab358d92878da49d2873aaa7" title="_assuan_usleep" alt="" coords="343,157,459,184"/>
+</map>

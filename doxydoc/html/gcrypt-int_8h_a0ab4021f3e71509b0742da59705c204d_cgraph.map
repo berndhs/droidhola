@@ -1,0 +1,17 @@
+<map id="_gcry_cipher_authenticate" name="_gcry_cipher_authenticate">
+<area shape="rect" id="node2" href="$cipher-ccm_8c.html#a1bfea8ccf798329b7b4ee23b324b0cab" title="_gcry_cipher_ccm_authenticate" alt="" coords="231,31,438,57"/>
+<area shape="rect" id="node4" href="$cipher-cmac_8c.html#a9f3757d9b8fe0345947560554857f743" title="_gcry_cipher_cmac_authenticate" alt="" coords="228,93,441,120"/>
+<area shape="rect" id="node7" href="$cipher-gcm_8c.html#ad04188229ee7be27e8df54543fa5247a" title="_gcry_cipher_gcm_authenticate" alt="" coords="231,151,438,177"/>
+<area shape="rect" id="node16" href="$common_8h.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="299,201,371,228"/>
+<area shape="rect" id="node3" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="547,5,594,32"/>
+<area shape="rect" id="node5" href="$cipher-cmac_8c.html#afd97362a82d6f3c328a3fdd007bb64b7" title="cmac_write" alt="" coords="526,56,615,83"/>
+<area shape="rect" id="node6" href="$bufhelp_8h.html#a30056825097495177fbe6cb0e36391ec" title="buf_xor" alt="" coords="749,56,814,83"/>
+<area shape="rect" id="node8" href="$cipher-gcm_8c.html#a77e5a14a9c0df4a907ef9d08609f5838" title="_gcry_cipher_gcm_setiv" alt="" coords="489,208,652,235"/>
+<area shape="rect" id="node10" href="$cipher-gcm_8c.html#a157e728cb2158a31653070a22acebecf" title="gcm_bytecounter_add" alt="" coords="911,259,1062,285"/>
+<area shape="rect" id="node11" href="$cipher-gcm_8c.html#ad2484ed9668fdbcbc3493265b17cbb87" title="gcm_check_aadlen_or\l_ivlen" alt="" coords="911,91,1063,133"/>
+<area shape="rect" id="node12" href="$cipher-gcm_8c.html#a91b664c92503626e9468a222cfefff47" title="do_ghash_buf" alt="" coords="935,157,1038,184"/>
+<area shape="rect" id="node9" href="$cipher-gcm_8c.html#acc95188e5fb8f1f4ab3cfa6ef7404a81" title="_gcry_cipher_gcm_initiv" alt="" coords="700,208,863,235"/>
+<area shape="rect" id="node13" href="$bufhelp_8h.html#a11b1eae9014d477a7ad42a7bb4931d0f" title="buf_cpy" alt="" coords="1111,259,1179,285"/>
+<area shape="rect" id="node15" href="$cipher-gcm_8c.html#a21ffd48e43f1c5ce44c48e60b1038c8d" title="gcm_add32_be128" alt="" coords="921,208,1052,235"/>
+<area shape="rect" id="node14" href="$cipher-gcm_8c.html#a826bbcbaaf9332e21ddb1892f0a76b29" title="ghash" alt="" coords="1116,157,1173,184"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="spoton::saveCommonUrlCredentials" name="spoton::saveCommonUrlCredentials">
+<area shape="rect" id="node2" href="$classspoton.html#a7fd5f71f1de76a7d14b119e25cfab0eb" title="spoton::slotSetPassphrase" alt="" coords="299,44,478,71"/>
+<area shape="rect" id="node5" href="$classspoton.html#a08a5a3e9eedaf9184e157ce979ff597d" title="spoton::slotLaneWidthChanged" alt="" coords="287,124,491,151"/>
+<area shape="rect" id="node8" href="$classspoton.html#a803c65a3b8752d292fa89a0e3af16409" title="spoton::slotSaveCommonUrl\lCredentials" alt="" coords="293,186,484,227"/>
+<area shape="rect" id="node3" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="787,103,895,129"/>
+<area shape="rect" id="node4" href="$classspoton.html#a68e6ce65025cb17837acb9ed17556fdf" title="spoton::slotPrepareAndShow\lInstallationWizard" alt="" coords="543,37,734,78"/>
+<area shape="rect" id="node6" href="$classspoton.html#a96e2124fc17e22c137bd32a39bb27d3a" title="spoton::slotPopulateListeners" alt="" coords="541,103,736,129"/>
+<area shape="rect" id="node7" href="$classspoton.html#a45c38d794f9183efd6718b2fb79def22" title="spoton::slotPopulateNeighbors" alt="" coords="539,153,739,180"/>
+</map>

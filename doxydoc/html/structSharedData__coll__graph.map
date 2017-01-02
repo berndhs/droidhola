@@ -1,0 +1,5 @@
+<map id="SharedData" name="SharedData">
+<area shape="rect" id="node2" href="$structSharedIndex.html" title="SharedIndex" alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node3" href="$structSharedInfo.html" title="SharedInfo" alt="" coords="125,5,210,32"/>
+<area shape="rect" id="node4" href="$structSharedSensor.html" title="SharedSensor" alt="" coords="234,5,338,32"/>
+</map>

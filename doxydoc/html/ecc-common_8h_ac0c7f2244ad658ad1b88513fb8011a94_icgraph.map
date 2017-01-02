@@ -1,0 +1,13 @@
+<map id="_gcry_ecc_ec2os" name="_gcry_ecc_ec2os">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2cipher_2ecc-curves_8c.html#a0277221973f7126d6c8b5ab4da7f4213" title="_gcry_ecc_get_param_sexp" alt="" coords="177,5,363,32"/>
+<area shape="rect" id="node3" href="$mpi_8h.html#a0300cbd8bc101db09f5fd7ab47a1b78b" title="_gcry_mpi_ec_ec2os" alt="" coords="197,56,343,83"/>
+<area shape="rect" id="node10" href="$ecc_8c.html#afb500d86a0c20d38b6e95eac941221ca" title="ecc_generate" alt="" coords="220,107,320,133"/>
+<area shape="rect" id="node11" href="$ecc_8c.html#aa393065ec89267b73e1da57388ee5732" title="ecc_encrypt_raw" alt="" coords="209,157,331,184"/>
+<area shape="rect" id="node12" href="$ecc_8c.html#a3ecb571c9a3e14803ff801832e35c974" title="ecc_decrypt_raw" alt="" coords="209,208,331,235"/>
+<area shape="rect" id="node4" href="$ec-context_8h.html#aa34824964a680de44988831bd8dd7b7e" title="_gcry_ecc_get_mpi" alt="" coords="425,31,559,57"/>
+<area shape="rect" id="node7" href="$pubkey-internal_8h.html#ab296f2a5ff78f1d1675533367fc02fee" title="_gcry_pk_ecc_get_sexp" alt="" coords="411,81,573,108"/>
+<area shape="rect" id="node5" href="$mpi_8h.html#a32929cc32f79bb28e1da54cb8d7cf7ad" title="_gcry_mpi_ec_get_mpi" alt="" coords="625,31,781,57"/>
+<area shape="rect" id="node6" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#afedc31ad12ae2b82d90ec36c552c05e8" title="gcry_mpi_ec_get_mpi" alt="" coords="835,31,985,57"/>
+<area shape="rect" id="node8" href="$gcrypt-int_8h.html#a4eb047984a15e85f2b0cf82ae33f9ddf" title="_gcry_pubkey_get_sexp" alt="" coords="621,81,784,108"/>
+<area shape="rect" id="node9" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a46e2a604365b1c88a86ea8f2b809eef9" title="gcry_pubkey_get_sexp" alt="" coords="832,81,988,108"/>
+</map>

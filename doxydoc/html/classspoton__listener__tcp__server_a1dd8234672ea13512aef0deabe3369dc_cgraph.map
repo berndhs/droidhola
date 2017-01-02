@@ -1,0 +1,9 @@
+<map id="spoton_listener_tcp_server::incomingConnection" name="spoton_listener_tcp_server::incomingConnection">
+<area shape="rect" id="node2" href="$classBitsForQt.html#a85399beafabea0edccc3e2d5bb25956a" title="BitsForQt::sock" alt="" coords="275,5,390,32"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#a623e6cff361e48e7fa0630659eaa2d94" title="spoton_misc::peerAddress\lAndPort" alt="" coords="244,57,421,98"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#a803dc66d138892bd2fdbff9a07b8a33f" title="spoton_kernel::instance" alt="" coords="253,123,413,149"/>
+<area shape="rect" id="node5" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="469,199,619,225"/>
+<area shape="rect" id="node7" href="$classspoton__misc.html#a172d74c3a3df71868964cb512d1e04c0" title="spoton_misc::isIpBlocked" alt="" coords="247,224,419,251"/>
+<area shape="rect" id="node8" href="$classBitsForQt.html#a356e30691edec196cf0ac5afed1a5c31" title="BitsForQt::setSock" alt="" coords="265,275,400,301"/>
+<area shape="rect" id="node6" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="667,199,829,225"/>
+</map>

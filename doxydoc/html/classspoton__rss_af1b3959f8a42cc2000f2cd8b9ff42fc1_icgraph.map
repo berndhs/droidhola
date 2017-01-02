@@ -1,0 +1,10 @@
+<map id="spoton_rss::populateFeeds" name="spoton_rss::populateFeeds">
+<area shape="rect" id="node2" href="$classspoton__rss.html#a723faf23a1bd29f05bfca788704edc4a" title="spoton_rss::prepareAfter\lAuthentication" alt="" coords="233,5,399,47"/>
+<area shape="rect" id="node5" href="$classspoton__rss.html#a2aec8d42dfbba6f77ef2bd75e830af93" title="spoton_rss::slotAddFeed" alt="" coords="478,71,645,98"/>
+<area shape="rect" id="node7" href="$classspoton__rss.html#ab5b309ca651dc3f39c2f00fcd3200d93" title="spoton_rss::slotDeleteAll\lFeeds" alt="" coords="232,123,400,164"/>
+<area shape="rect" id="node9" href="$classspoton__rss.html#a08095ea02fa7b99d1a3a251905993082" title="spoton_rss::slotPopulate\lFeeds" alt="" coords="233,188,399,229"/>
+<area shape="rect" id="node3" href="$classspoton.html#a076aafec8a919d153580364478b0a3a5" title="spoton::slotValidatePassphrase" alt="" coords="458,13,665,39"/>
+<area shape="rect" id="node4" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="748,13,856,39"/>
+<area shape="rect" id="node6" href="$classspoton__rss.html#a6caad21bd892ff578466a9c8b26b7b54" title="spoton_rss::spoton_rss" alt="" coords="723,147,881,174"/>
+<area shape="rect" id="node8" href="$classspoton__rss.html#a87fb6bbe961dba5d102e9703905f7ac6" title="spoton_rss::slotShowContextMenu" alt="" coords="448,173,675,199"/>
+</map>

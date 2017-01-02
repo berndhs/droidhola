@@ -1,0 +1,24 @@
+<map id="_gcry_rngcsprng_update_seed_file" name="_gcry_rngcsprng_update_seed_file">
+<area shape="rect" id="node2" href="$random-csprng_8c.html#a32996bf0c7b224a81202ea810b19e915" title="initialize_basics" alt="" coords="217,41,332,67"/>
+<area shape="rect" id="node6" href="$random-csprng_8c.html#a7b947b17cdbb30209459eb2f43795caf" title="lock_pool" alt="" coords="431,95,508,122"/>
+<area shape="rect" id="node7" href="$random-csprng_8c.html#aad9761a8fed53170181f865c84723003" title="unlock_pool" alt="" coords="424,146,515,173"/>
+<area shape="rect" id="node8" href="$common_8h.html#ade762acc676da9bb7e589a8a1ac43424" title="log_info" alt="" coords="436,247,503,274"/>
+<area shape="rect" id="node9" href="$random-csprng_8c.html#ae6879c4fd09fc78b44e83eeb023d546e" title="mix_pool" alt="" coords="237,323,312,350"/>
+<area shape="rect" id="node23" href="$random-csprng_8c.html#a332f019f9a1dcbcb7d22082428efd16d" title="lock_seed_file" alt="" coords="222,247,327,274"/>
+<area shape="rect" id="node3" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="651,51,690,78"/>
+<area shape="rect" id="node4" href="$common_8h.html#a3c9f2d4104ed4b54b508cfddf9399512" title="log_fatal" alt="" coords="635,131,706,158"/>
+<area shape="rect" id="node5" href="$random-daemon_8c.html#af8d78e76aadde444b45016c206f53cfa" title="_gcry_daemon_initialize\l_basics" alt="" coords="389,29,550,71"/>
+<area shape="rect" id="node10" href="$rmd_8h.html#acfbbc18ac5f27b1e3ed4035d2885bfaa" title="_gcry_rmd160_init" alt="" coords="607,247,735,274"/>
+<area shape="rect" id="node15" href="$rmd_8h.html#ac85b679a0ccd9ee72a9eda884d398197" title="_gcry_rmd160_mixblock" alt="" coords="783,298,945,325"/>
+<area shape="rect" id="node16" href="$rmd160_8c.html#a3f36d9502d22b9a8e20b6f139411008f" title="_gcry_rmd160_hash_buffer" alt="" coords="380,399,559,426"/>
+<area shape="rect" id="node11" href="$rmd160_8c.html#a3ff97f36a3a19f3165a7a820412c2fdd" title="rmd160_init" alt="" coords="819,247,909,274"/>
+<area shape="rect" id="node12" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="1020,247,1067,274"/>
+<area shape="rect" id="node13" href="$rmd160_8c.html#a411078420a44676f9a959e3e1f174fb5" title="transform" alt="" coords="1005,298,1082,325"/>
+<area shape="rect" id="node14" href="$bufhelp_8h.html#acfe6d932d414e9c5bad1ed5fc7aa1891" title="buf_get_le32" alt="" coords="1141,323,1237,350"/>
+<area shape="rect" id="node17" href="$rmd160_8c.html#acfbbc18ac5f27b1e3ed4035d2885bfaa" title="_gcry_rmd160_init" alt="" coords="607,298,735,325"/>
+<area shape="rect" id="node18" href="$hash-common_8c.html#a64fe18539af7de7579ad3cc5e4fceba1" title="_gcry_md_block_write" alt="" coords="788,474,940,501"/>
+<area shape="rect" id="node19" href="$rmd160_8c.html#a953ff3e32c108c3231ba9d0d507b9b01" title="rmd160_final" alt="" coords="623,399,719,426"/>
+<area shape="rect" id="node20" href="$bufhelp_8h.html#a9136154a4fcf2f105d1305e60b33509f" title="buf_put_le32" alt="" coords="816,399,912,426"/>
+<area shape="rect" id="node21" href="$bufhelp_8h.html#a96e58718c5ac641e4b25827c65d9a94b" title="buf_get_be32" alt="" coords="993,399,1093,426"/>
+<area shape="rect" id="node22" href="$bufhelp_8h.html#a57b83780154ec5cf29a60da0e2b2d558" title="buf_put_be32" alt="" coords="993,450,1093,477"/>
+</map>

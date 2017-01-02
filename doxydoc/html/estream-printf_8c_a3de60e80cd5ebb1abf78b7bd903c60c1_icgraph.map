@@ -1,0 +1,5 @@
+<map id="plain_stdio_out" name="plain_stdio_out">
+<area shape="rect" id="node2" href="$estream-printf_8c.html#a0619d7a99d16b48ed736a2a97e2fae77" title="_gpgrt_estream_printf" alt="" coords="168,5,316,32"/>
+<area shape="rect" id="node3" href="$estream-printf_8c.html#ad77515ec4d4ba770e6c3b5206d795fd7" title="_gpgrt_estream_fprintf" alt="" coords="166,56,318,83"/>
+<area shape="rect" id="node4" href="$estream-printf_8c.html#aa176a79c7b058ec16b4ab62d5755a399" title="_gpgrt_estream_vfprintf" alt="" coords="163,107,321,133"/>
+</map>

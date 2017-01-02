@@ -1,0 +1,11 @@
+<map id="spoton_kernel::sendStatus" name="spoton_kernel::sendStatus">
+<area shape="rect" id="node2" href="$classspoton__kernel.html#a9223a77b13d95689d77ea3ba52b59e7d" title="spoton_kernel::connectSignals\lToNeighbor" alt="" coords="231,62,431,103"/>
+<area shape="rect" id="node9" href="$classspoton__kernel.html#a6bfaf47de56ae58fbcc63b053ed69a23" title="spoton_kernel::prepareStatus" alt="" coords="235,153,427,180"/>
+<area shape="rect" id="node3" href="$classspoton__kernel.html#acc4b038c20734b08617da1aad9193501" title="spoton_kernel::prepareNeighbors" alt="" coords="737,5,951,32"/>
+<area shape="rect" id="node6" href="$classspoton__kernel.html#aa9947ef6ff1cc446368a165607518ac0" title="spoton_kernel::slotNewNeighbor" alt="" coords="479,56,689,83"/>
+<area shape="rect" id="node8" href="$classspoton__kernel.html#a8326fb4c480d72dff4a2357b4f17bee3" title="spoton_kernel::slotUpdate\lSettings" alt="" coords="1000,99,1175,141"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#a47b33a0b468dd5ff9d112a4be0a78c3b" title="spoton_kernel::slotPrepare\lObjects" alt="" coords="999,34,1176,75"/>
+<area shape="rect" id="node5" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="1224,99,1375,141"/>
+<area shape="rect" id="node7" href="$classspoton__kernel.html#a7ea263d96ed3589d0709ae5183dca388" title="spoton_kernel::prepareListeners" alt="" coords="741,56,947,83"/>
+<area shape="rect" id="node10" href="$classspoton__kernel.html#af36dd936f356ad3a2c57a368a69b735f" title="spoton_kernel::slotStatus\lTimerExpired" alt="" coords="499,158,669,199"/>
+</map>

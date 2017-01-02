@@ -1,0 +1,7 @@
+<map id="spoton_mailer::moveSentMailToSentFolder" name="spoton_mailer::moveSentMailToSentFolder">
+<area shape="rect" id="node2" href="$classspoton__kernel.html#a0c02131f8a119ec017029e52fce05d61" title="spoton_kernel::postPoptastic" alt="" coords="253,13,443,39"/>
+<area shape="rect" id="node5" href="$classspoton__neighbor.html#a9250c88da1eb47de5919685e09657538" title="spoton_neighbor::slotSendMail" alt="" coords="248,63,448,90"/>
+<area shape="rect" id="node3" href="$classspoton__kernel.html#af7d1db502ae56a455bf25ed6c458f006" title="spoton_kernel::slotPoptasticPost" alt="" coords="496,13,711,39"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="759,5,909,47"/>
+<area shape="rect" id="node6" href="$classspoton__neighbor.html#aa6707b3133b337024de82dbd97d9e5ae" title="spoton_neighbor::receivedUuid" alt="" coords="503,63,704,90"/>
+</map>

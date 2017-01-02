@@ -1,0 +1,6 @@
+<map id="gcry_mpi_ec_set_point" name="gcry_mpi_ec_set_point">
+<area shape="rect" id="node2" href="$ec_8c.html#a424d0a15591312859301b5fa3bfabaf5" title="_gcry_mpi_ec_set_point" alt="" coords="209,31,372,57"/>
+<area shape="rect" id="node3" href="$libgcrypt-1_86_86_2src_2context_8c.html#a9bbd42e4b30317b274a37d7d2a54d2ba" title="_gcry_ctx_get_pointer" alt="" coords="420,5,571,32"/>
+<area shape="rect" id="node5" href="$libgcrypt-1_86_86_2cipher_2ecc-curves_8c.html#a2666e2f10263ff4b6dee6537e1960b8a" title="_gcry_ecc_set_point" alt="" coords="424,56,567,83"/>
+<area shape="rect" id="node4" href="$common_8h.html#a3c9f2d4104ed4b54b508cfddf9399512" title="log_fatal" alt="" coords="619,5,689,32"/>
+</map>

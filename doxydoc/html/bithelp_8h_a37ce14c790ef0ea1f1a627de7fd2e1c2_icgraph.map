@@ -1,0 +1,10 @@
+<map id="ror" name="ror">
+<area shape="rect" id="node2" href="$bithelp_8h.html#a0e7d6651e130967621127fa0028f28d4" title="_gcry_bswap32" alt="" coords="92,5,205,32"/>
+<area shape="rect" id="node3" href="$sha256_8c.html#af1099834de447a92f29910cf0f3c4f91" title="Sum0" alt="" coords="121,56,177,83"/>
+<area shape="rect" id="node9" href="$sha256_8c.html#ad857d0c7d2e1ede08dabcceee18478b0" title="Sum1" alt="" coords="121,107,177,133"/>
+<area shape="rect" id="node4" href="$sha256_8c.html#aeacda6ca6eb9600a4ca356b359826880" title="_transform" alt="" coords="253,81,337,108"/>
+<area shape="rect" id="node5" href="$sha256_8c.html#a946d9ea2510582088b7102912c4e07ef" title="transform" alt="" coords="385,81,463,108"/>
+<area shape="rect" id="node6" href="$sha256_8c.html#a6293c31a191249c505aa8e68d2433db3" title="sha256_init" alt="" coords="514,31,602,57"/>
+<area shape="rect" id="node7" href="$sha256_8c.html#a91ed41bfa543ee5911738d67e467b91c" title="sha224_init" alt="" coords="514,81,602,108"/>
+<area shape="rect" id="node8" href="$sha256_8c.html#a1084a935553e2cd78f1a95d58d6fb023" title="sha256_final" alt="" coords="511,132,605,159"/>
+</map>

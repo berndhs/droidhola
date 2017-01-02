@@ -1,0 +1,8 @@
+<map id="ucs4_to_utf16" name="ucs4_to_utf16">
+<area shape="rect" id="node2" href="$w32-iconv_8c.html#a8aa94272ee37a1249c3ee24718c609fc" title="win_iconv" alt="" coords="169,5,249,32"/>
+<area shape="rect" id="node4" href="$w32-iconv_8c.html#ad0df23b3e44e93ff85af858e7966b8ca" title="utf32_mbtowc" alt="" coords="157,56,261,83"/>
+<area shape="rect" id="node3" href="$gpg-error_8h.html#ad0f8106a8bb4bea951a84e0c89167bc5" title="gpgrt_w32_iconv" alt="" coords="309,5,429,32"/>
+<area shape="rect" id="node5" href="$w32-iconv_8c.html#a23cdcc9e8e9072385ee0e87502fc802a" title="make_csconv" alt="" coords="318,56,421,83"/>
+<area shape="rect" id="node6" href="$w32-iconv_8c.html#a1094b1c628e80149721f4f1c37fdb1ce" title="win_iconv_open" alt="" coords="477,56,592,83"/>
+<area shape="rect" id="node7" href="$gpg-error_8h.html#a2ebf44783347476121a554b911cf9d1b" title="gpgrt_w32_iconv_open" alt="" coords="640,56,795,83"/>
+</map>

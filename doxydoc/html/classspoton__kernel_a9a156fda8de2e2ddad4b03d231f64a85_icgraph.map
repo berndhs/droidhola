@@ -1,0 +1,25 @@
+<map id="spoton_kernel::messagingCacheAdd" name="spoton_kernel::messagingCacheAdd">
+<area shape="rect" id="node2" href="$classspoton__gui__server.html#a31712d729731aab25a783a303c8bdf38" title="spoton_gui_server::\lslotReceivedBuzzMessage" alt="" coords="255,5,436,47"/>
+<area shape="rect" id="node5" href="$classspoton__gui__server.html#ad264bc5ecd62105f7f3d094df26ab845" title="spoton_gui_server::\lslotReceivedChatMessage" alt="" coords="256,71,435,112"/>
+<area shape="rect" id="node6" href="$classspoton__neighbor.html#a7b2aaa9d5b210ff677a7889986a949e6" title="spoton_neighbor::processData" alt="" coords="517,187,715,214"/>
+<area shape="rect" id="node7" href="$classspoton__neighbor.html#a9250c88da1eb47de5919685e09657538" title="spoton_neighbor::slotSendMail" alt="" coords="769,238,969,265"/>
+<area shape="rect" id="node9" href="$classspoton__neighbor.html#af3468cea39d4b7b15b201c51e3082d8e" title="spoton_neighbor::slotSend\lMessage" alt="" coords="257,289,433,331"/>
+<area shape="rect" id="node11" href="$classspoton__neighbor.html#a9987f617865d191c8d0bc09281ada748" title="spoton_neighbor::slotWriteURLs" alt="" coords="511,381,721,407"/>
+<area shape="rect" id="node12" href="$classspoton__neighbor.html#aa8b25c40b6ed89907034dd2e49dde121" title="spoton_neighbor::slotWrite" alt="" coords="257,406,434,433"/>
+<area shape="rect" id="node13" href="$classspoton__neighbor.html#ac83124d7ee7760e34994a599bb50fc6d" title="spoton_neighbor::process0030" alt="" coords="246,187,445,214"/>
+<area shape="rect" id="node14" href="$classspoton__neighbor.html#a95743d347fb9135e6f729fd42bcac8ae" title="spoton_neighbor::slotSend\lStatus" alt="" coords="257,457,433,499"/>
+<area shape="rect" id="node15" href="$classspoton__neighbor.html#aedfb2cac2d039f9de6e234b0be6eeabc" title="spoton_neighbor::slotSend\lMailFromPostOffice" alt="" coords="528,487,704,528"/>
+<area shape="rect" id="node16" href="$classspoton__neighbor.html#ac6afa54e83c640abbcf3a4946f053fbb" title="spoton_neighbor::slotRetrieveMail" alt="" coords="236,574,455,601"/>
+<area shape="rect" id="node17" href="$classspoton__neighbor.html#aa912f8644aca112b453ec20c88f5f8b3" title="spoton_neighbor::slotPublicize\lListenerPlaintext" alt="" coords="246,625,445,667"/>
+<area shape="rect" id="node18" href="$classspoton__neighbor.html#a641bc788b999bb4493e2e8143deae305" title="spoton_neighbor::slotSendBuzz" alt="" coords="242,691,449,718"/>
+<area shape="rect" id="node19" href="$classspoton__neighbor.html#a5e019e311e174edbaeb6570229b92e31" title="spoton_neighbor::slotCall\lParticipant" alt="" coords="261,743,430,784"/>
+<area shape="rect" id="node20" href="$classspoton__neighbor.html#a3e22229fc3fdfa26f2c872f797469251" title="spoton_neighbor::writeMessage0060" alt="" coords="228,809,463,835"/>
+<area shape="rect" id="node21" href="$classspoton__neighbor.html#a1abc72468b717a25d817f8b3dda15656" title="spoton_neighbor::slotNew\lDatagram" alt="" coords="259,860,432,901"/>
+<area shape="rect" id="node22" href="$classspoton__neighbor.html#a4cd58af797dc24cc0c2ff6385fd7421d" title="spoton_neighbor::slotEcho\lKeyShare" alt="" coords="257,925,433,967"/>
+<area shape="rect" id="node23" href="$classspoton__neighbor.html#aa2ccc452f9fad5c7a66c3e67041464f3" title="spoton_neighbor::slotSend\lForwardSecrecyPublicKey" alt="" coords="528,1013,704,1055"/>
+<area shape="rect" id="node24" href="$classspoton__neighbor.html#ad8833d6a94f802aecd2a40b55135177e" title="spoton_neighbor::slotSend\lForwardSecrecySessionKeys" alt="" coords="248,1043,443,1084"/>
+<area shape="rect" id="node3" href="$classspoton__gui__server.html#a48eaccca70ab3057520c4ce98a77ed68" title="spoton_gui_server::\lslotTimeout" alt="" coords="548,5,684,47"/>
+<area shape="rect" id="node4" href="$classspoton__gui__server.html#adfc6a8f4813a0c4a0aa275611bb6118e" title="spoton_gui_server::\lspoton_gui_server" alt="" coords="801,5,937,47"/>
+<area shape="rect" id="node8" href="$classspoton__neighbor.html#aa6707b3133b337024de82dbd97d9e5ae" title="spoton_neighbor::receivedUuid" alt="" coords="1017,238,1219,265"/>
+<area shape="rect" id="node10" href="$classspoton__neighbor.html#a36b3657806c89064920c81ddf8d1e358" title="spoton_neighbor::setId" alt="" coords="539,297,693,323"/>
+</map>

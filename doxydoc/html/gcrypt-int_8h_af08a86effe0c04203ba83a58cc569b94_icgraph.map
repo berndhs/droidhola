@@ -1,0 +1,15 @@
+<map id="_gcry_md_algo_name" name="_gcry_md_algo_name">
+<area shape="rect" id="node2" href="$fips_8c.html#a1e6b9aa9ab163154ffa9262b929fbc54" title="reporter" alt="" coords="241,132,307,159"/>
+<area shape="rect" id="node14" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#ad44b08888c18aad9957643de36e85102" title="gcry_md_algo_name" alt="" coords="203,183,345,209"/>
+<area shape="rect" id="node3" href="$fips_8c.html#afd14c47a4ac75c871a88454a2a1103f9" title="run_cipher_selftests" alt="" coords="400,5,539,32"/>
+<area shape="rect" id="node9" href="$fips_8c.html#a9208cb23479070795efc33b087298efc" title="run_digest_selftests" alt="" coords="400,56,539,83"/>
+<area shape="rect" id="node10" href="$fips_8c.html#aaf632c5775351419fe7dcb840905e875" title="run_hmac_selftests" alt="" coords="401,107,537,133"/>
+<area shape="rect" id="node11" href="$fips_8c.html#a4cc61f7f4abe429fbb6e2668b23ea1d2" title="run_pubkey_selftests" alt="" coords="396,157,543,184"/>
+<area shape="rect" id="node12" href="$fips_8c.html#a6d3efcbe0d8aa5c172873fb628897505" title="run_random_selftests" alt="" coords="396,208,543,235"/>
+<area shape="rect" id="node13" href="$fips_8c.html#a017200f9886b076967965736be0c562a" title="check_binary_integrity" alt="" coords="393,259,545,285"/>
+<area shape="rect" id="node4" href="$g10lib_8h.html#a10a09a1883ee96a71fcccfef32771903" title="_gcry_fips_run_selftests" alt="" coords="593,132,757,159"/>
+<area shape="rect" id="node5" href="$g10lib_8h.html#ac9f86a44740c18904d8eedba9a9f523e" title="_gcry_fips_is_operational" alt="" coords="805,107,975,133"/>
+<area shape="rect" id="node7" href="$global_8c.html#a197de31474f305a294a7555b4ed6f26f" title="_gcry_vcontrol" alt="" coords="1061,157,1167,184"/>
+<area shape="rect" id="node6" href="$global_8c.html#afb83fe45590e215b1a758b86076369a7" title="_gcry_global_is_operational" alt="" coords="1023,107,1205,133"/>
+<area shape="rect" id="node8" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a1880c4ce4c093ba2ea4a775ecf26ca29" title="gcry_control" alt="" coords="1253,157,1347,184"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="spoton_misc::storeAlmostAnonymousLetter" name="spoton_misc::storeAlmostAnonymousLetter">
+<area shape="rect" id="node2" href="$classspoton__receive.html#a1261b1033184ea8de06462b6a8670f5b" title="spoton_receive::process0001c" alt="" coords="228,212,427,239"/>
+<area shape="rect" id="node3" href="$classspoton__receive.html#a897203c119e809c6d76fb08bd7608a47" title="spoton_receive::process0001b" alt="" coords="475,161,673,188"/>
+<area shape="rect" id="node15" href="$classspoton__kernel.html#a11acff8df05edd78c3441343fa9d9b4a" title="spoton_kernel::slotPopped\lMessage" alt="" coords="733,201,909,242"/>
+<area shape="rect" id="node17" href="$classspoton__neighbor.html#a1bfd68dbdb8367b9fb7d50fec59ebd21" title="spoton_neighbor::process0001c" alt="" coords="1469,259,1676,285"/>
+<area shape="rect" id="node4" href="$classspoton__receive.html#a267455a953f454fe6543a38d0c2d33c4" title="spoton_receive::process0000d" alt="" coords="721,149,920,176"/>
+<area shape="rect" id="node5" href="$classspoton__receive.html#ad2b5c83c13f102efe724c0cf38a9cd79" title="spoton_receive::process0000b" alt="" coords="968,99,1167,125"/>
+<area shape="rect" id="node14" href="$classspoton__neighbor.html#a4a5a8fcb0decf3d8a1751b54dda9418e" title="spoton_neighbor::process0000d" alt="" coords="1215,157,1421,184"/>
+<area shape="rect" id="node6" href="$classspoton__receive.html#a22147c70684fd7b0b6d0db65045b1ade" title="spoton_receive::process0000a" alt="" coords="1219,56,1417,83"/>
+<area shape="rect" id="node13" href="$classspoton__neighbor.html#ad1ef5f5cd1a5901e037210351f66462b" title="spoton_neighbor::process0000b" alt="" coords="1215,107,1421,133"/>
+<area shape="rect" id="node7" href="$classspoton__receive.html#a017b25de107f803cf11dd60b76e9e5c6" title="spoton_receive::process0000" alt="" coords="1477,5,1669,32"/>
+<area shape="rect" id="node12" href="$classspoton__neighbor.html#a0cf652ccab9fab6bb6797359b310166c" title="spoton_neighbor::process0000a" alt="" coords="1724,56,1931,83"/>
+<area shape="rect" id="node8" href="$classspoton__neighbor.html#af1f7db5175073ed9b7639123a0e35444" title="spoton_neighbor::process0000" alt="" coords="1728,5,1927,32"/>
+<area shape="rect" id="node9" href="$classspoton__neighbor.html#a7b2aaa9d5b210ff677a7889986a949e6" title="spoton_neighbor::processData" alt="" coords="1979,132,2177,159"/>
+<area shape="rect" id="node10" href="$classspoton__neighbor.html#a9250c88da1eb47de5919685e09657538" title="spoton_neighbor::slotSendMail" alt="" coords="2225,132,2425,159"/>
+<area shape="rect" id="node11" href="$classspoton__neighbor.html#aa6707b3133b337024de82dbd97d9e5ae" title="spoton_neighbor::receivedUuid" alt="" coords="2473,132,2675,159"/>
+<area shape="rect" id="node16" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="992,201,1143,242"/>
+<area shape="rect" id="node18" href="$classspoton__neighbor.html#a4a9766329d720cee97275cefde8b0f0f" title="spoton_neighbor::process0001b" alt="" coords="1724,259,1931,285"/>
+</map>

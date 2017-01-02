@@ -1,0 +1,6 @@
+<map id="gcry_pk_get_curve" name="gcry_pk_get_curve">
+<area shape="rect" id="node2" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="231,5,278,32"/>
+<area shape="rect" id="node3" href="$cipher_2pubkey_8c.html#aafdf3be235a833096ef26a4a2011011e" title="_gcry_pk_get_curve" alt="" coords="185,56,324,83"/>
+<area shape="rect" id="node4" href="$cipher_2pubkey_8c.html#aa55bbc781f1f0c284e185286edd92d07" title="spec_from_sexp" alt="" coords="372,31,491,57"/>
+<area shape="rect" id="node5" href="$cipher_2pubkey_8c.html#a28fb0dc10108f10742f0f130ccb055b9" title="spec_from_name" alt="" coords="539,56,661,83"/>
+</map>

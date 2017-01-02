@@ -1,0 +1,7 @@
+<map id="spoton_gui_server::slotForwardSecrecyResponse" name="spoton_gui_server::slotForwardSecrecyResponse">
+<area shape="rect" id="node2" href="$classspoton__gui__server.html#aeea94c18ac6b0fcfa60fd0781e943075" title="spoton_gui_server::\lslotForwardSecrecyRequest" alt="" coords="251,5,437,47"/>
+<area shape="rect" id="node3" href="$classspoton__gui__server.html#a9bc528cb0dcde8b34280aaeeccffc299" title="spoton_gui_server::\lslotStatusMessageReceived" alt="" coords="485,5,675,47"/>
+<area shape="rect" id="node4" href="$classspoton__gui__server.html#a886cc14e12242a374ed3273cb4926052" title="spoton_gui_server::\lslotAuthenticationRequested" alt="" coords="723,5,912,47"/>
+<area shape="rect" id="node5" href="$classspoton__gui__server.html#a0db82578105c722b36caa8998e7f8a05" title="spoton_gui_server::\lslotFileChanged" alt="" coords="960,5,1096,47"/>
+<area shape="rect" id="node6" href="$classspoton__gui__server.html#adfc6a8f4813a0c4a0aa275611bb6118e" title="spoton_gui_server::\lspoton_gui_server" alt="" coords="1144,5,1280,47"/>
+</map>

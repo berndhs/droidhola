@@ -1,0 +1,5 @@
+<map id="qInitResources_souverain" name="qInitResources_souverain">
+<area shape="rect" id="node2" href="$qrc__souverain_8cpp.html#a2ce5a6cde5b318dc75442940471e05f7" title="qRegisterResourceData" alt="" coords="247,5,409,32"/>
+<area shape="rect" id="node3" href="$qrc__souverain_8cpp.html#ac4454b287c857d4f4b694fd616a16e3a" title="qCleanupResources_souverain" alt="" coords="227,56,429,83"/>
+<area shape="rect" id="node4" href="$qrc__souverain_8cpp.html#a54b96c9f44d004fc0ea13bb581f97a71" title="qUnregisterResourceData" alt="" coords="477,56,651,83"/>
+</map>

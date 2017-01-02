@@ -1,0 +1,5 @@
+<map id="random_bench" name="random_bench">
+<area shape="rect" id="node2" href="$stopwatch_8h.html#a02a9485d8c9ef5eece43e33c41e832a5" title="start_timer" alt="" coords="167,5,251,32"/>
+<area shape="rect" id="node3" href="$stopwatch_8h.html#a153eea17e21df47651e681015514e96f" title="stop_timer" alt="" coords="168,56,251,83"/>
+<area shape="rect" id="node4" href="$stopwatch_8h.html#a1ccc5dfdffac6ac81b4cb937840a032e" title="elapsed_time" alt="" coords="160,107,259,133"/>
+</map>

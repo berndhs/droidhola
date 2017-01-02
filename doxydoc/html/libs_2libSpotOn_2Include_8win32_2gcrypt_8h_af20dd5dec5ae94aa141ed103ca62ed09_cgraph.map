@@ -1,0 +1,16 @@
+<map id="gcry_cipher_gettag" name="gcry_cipher_gettag">
+<area shape="rect" id="node2" href="$cipher_8c.html#a2cfb468b3d52dc85c666260e58227d88" title="_gcry_cipher_gettag" alt="" coords="185,81,324,108"/>
+<area shape="rect" id="node3" href="$cipher-ccm_8c.html#a9586058ecbc2870f5bf9d075ca8c036f" title="_gcry_cipher_ccm_get_tag" alt="" coords="375,5,554,32"/>
+<area shape="rect" id="node5" href="$cipher-cmac_8c.html#a5f2a2fe97036ff97cf8cf5a7cf5d353c" title="_gcry_cipher_cmac_get_tag" alt="" coords="372,56,557,83"/>
+<area shape="rect" id="node10" href="$cipher-gcm_8c.html#ad3a14fb0e37ba46a4891a201b4c8555f" title="_gcry_cipher_gcm_get_tag" alt="" coords="375,107,554,133"/>
+<area shape="rect" id="node15" href="$common_8h.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="429,157,501,184"/>
+<area shape="rect" id="node4" href="$gpgcemgr_8c.html#a1d9dfca2b49866b092e5c5adda9c7960" title="void" alt="" coords="659,5,705,32"/>
+<area shape="rect" id="node6" href="$cipher-cmac_8c.html#a172002cd6f9aebd8cd6ad203d51db123" title="cmac_tag" alt="" coords="643,56,721,83"/>
+<area shape="rect" id="node7" href="$cipher-cmac_8c.html#a1771fe04f3557abada55e987e748c595" title="cmac_final" alt="" coords="815,5,901,32"/>
+<area shape="rect" id="node9" href="$bufhelp_8h.html#ad0ff6925a801a6fba4be8dc65b7959ee" title="buf_eq_const" alt="" coords="808,56,908,83"/>
+<area shape="rect" id="node8" href="$bufhelp_8h.html#a30056825097495177fbe6cb0e36391ec" title="buf_xor" alt="" coords="959,44,1024,71"/>
+<area shape="rect" id="node11" href="$cipher-gcm_8c.html#a2d9df0f323cf45821e1475175c40c05c" title="_gcry_cipher_gcm_tag" alt="" coords="605,107,759,133"/>
+<area shape="rect" id="node12" href="$cipher-gcm_8c.html#a91b664c92503626e9468a222cfefff47" title="do_ghash_buf" alt="" coords="807,157,909,184"/>
+<area shape="rect" id="node13" href="$bufhelp_8h.html#a11b1eae9014d477a7ad42a7bb4931d0f" title="buf_cpy" alt="" coords="957,132,1025,159"/>
+<area shape="rect" id="node14" href="$cipher-gcm_8c.html#a826bbcbaaf9332e21ddb1892f0a76b29" title="ghash" alt="" coords="963,183,1020,209"/>
+</map>

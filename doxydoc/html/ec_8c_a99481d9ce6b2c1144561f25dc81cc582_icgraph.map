@@ -1,0 +1,9 @@
+<map id="_gcry_mpi_point_init" name="_gcry_mpi_point_init">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2cipher_2ecc-curves_8c.html#a0ad8e215fa772f90b58b4115f725f2ed" title="_gcry_ecc_get_curve" alt="" coords="199,5,346,32"/>
+<area shape="rect" id="node3" href="$ecc-misc_8c.html#af28f8c42d1fad559eb51d8ed53274a6f" title="_gcry_ecc_curve_copy" alt="" coords="195,56,351,83"/>
+<area shape="rect" id="node7" href="$gcrypt-int_8h.html#a11c998c835deb61f4f2a1ff046de0a15" title="_gcry_mpi_point_new" alt="" coords="199,107,347,133"/>
+<area shape="rect" id="node4" href="$ecc_8c.html#ab824af94d5e7a2c6a1ad4559ee2ea9a1" title="test_keys" alt="" coords="430,56,509,83"/>
+<area shape="rect" id="node5" href="$ecc_8c.html#a727c0b4e54d26594ca00e4550ec7fb06" title="nist_generate_key" alt="" coords="588,56,716,83"/>
+<area shape="rect" id="node6" href="$ecc_8c.html#afb500d86a0c20d38b6e95eac941221ca" title="ecc_generate" alt="" coords="764,56,864,83"/>
+<area shape="rect" id="node8" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a9ddc533f073697398395fd2b55491767" title="gcry_mpi_point_new" alt="" coords="399,107,540,133"/>
+</map>

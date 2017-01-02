@@ -1,0 +1,6 @@
+<map id="spoton_kernel::prepareStarbeamReaders" name="spoton_kernel::prepareStarbeamReaders">
+<area shape="rect" id="node2" href="$classspoton__misc.html#acbb66a506c79752732614d3883df9298" title="spoton_misc::database" alt="" coords="295,5,452,32"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="531,81,693,108"/>
+<area shape="rect" id="node4" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="299,107,448,133"/>
+<area shape="rect" id="node5" href="$classspoton__kernel.html#abef2ac41b820b41fcd288439a9b5b97f" title="spoton_kernel::cleanupStarbeams\lDatabase" alt="" coords="264,158,483,199"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="parse_content_info" name="parse_content_info">
+<area shape="rect" id="node2" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="533,5,572,32"/>
+<area shape="rect" id="node3" href="$ber-help_8c.html#a31365dfd8e07cab0e08229042b734b13" title="_ksba_ber_read_tl" alt="" coords="185,31,313,57"/>
+<area shape="rect" id="node7" href="$cms-parser_8c.html#a2ae2615789a241bae28e744075bcca26" title="read_buffer" alt="" coords="206,81,293,108"/>
+<area shape="rect" id="node4" href="$ber-help_8c.html#a5141f88194d7dc31b68e4ca87226e816" title="read_byte" alt="" coords="367,31,446,57"/>
+<area shape="rect" id="node5" href="$ber-help_8c.html#a978b00e0c8a250526d1280279de30302" title="eof_or_error" alt="" coords="361,81,452,108"/>
+<area shape="rect" id="node6" href="$ber-help_8c.html#aa91a866323f53a37fff159b22d959a26" title="premature_eof" alt="" coords="500,81,605,108"/>
+</map>

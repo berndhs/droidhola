@@ -1,0 +1,31 @@
+<map id="pr_integer" name="pr_integer">
+<area shape="rect" id="node2" href="$estream-printf_8c.html#aaa11f07b9d92ab75b20597fdde39b7be" title="do_format" alt="" coords="132,132,212,159"/>
+<area shape="rect" id="node3" href="$estream-printf_8c.html#a9b7097f42abe6f85f9dda6e5b4cc7a11" title="_gpgrt_estream_format" alt="" coords="260,132,416,159"/>
+<area shape="rect" id="node4" href="$estream-printf_8c.html#a0619d7a99d16b48ed736a2a97e2fae77" title="_gpgrt_estream_printf" alt="" coords="475,5,623,32"/>
+<area shape="rect" id="node5" href="$estream-printf_8c.html#ad77515ec4d4ba770e6c3b5206d795fd7" title="_gpgrt_estream_fprintf" alt="" coords="473,56,625,83"/>
+<area shape="rect" id="node6" href="$estream-printf_8c.html#aa176a79c7b058ec16b4ab62d5755a399" title="_gpgrt_estream_vfprintf" alt="" coords="469,107,628,133"/>
+<area shape="rect" id="node7" href="$estream-printf_8c.html#a945d6b5990e49146071d2bd10ee52c48" title="_gpgrt_estream_vsnprintf" alt="" coords="464,157,633,184"/>
+<area shape="rect" id="node11" href="$estream-printf_8c.html#add3e659fd104fab34c3eaa92efbc55c4" title="_gpgrt_estream_vasprintf" alt="" coords="464,309,633,336"/>
+<area shape="rect" id="node18" href="$estream_8c.html#a4fb4a3d4f864f0a722dc9f0b79bc230e" title="es_print" alt="" coords="515,588,583,615"/>
+<area shape="rect" id="node8" href="$libgpg__error-1_824_2src_2visibility_8c.html#afaddfde0f119fd2947d31aff6d9e5044" title="gpgrt_snprintf" alt="" coords="713,56,814,83"/>
+<area shape="rect" id="node9" href="$libgpg__error-1_824_2src_2visibility_8c.html#aab0a366fdc12432c70e5192dd038f4a8" title="gpgrt_vsnprintf" alt="" coords="709,107,817,133"/>
+<area shape="rect" id="node10" href="$estream-printf_8c.html#a1f243df0493670d9dcadfa569c0184d0" title="_gpgrt_estream_snprintf" alt="" coords="682,157,845,184"/>
+<area shape="rect" id="node12" href="$libgpg__error-1_824_2src_2visibility_8c.html#aab9637de180d0a04696032200c89c59b" title="gpgrt_asprintf" alt="" coords="713,208,814,235"/>
+<area shape="rect" id="node13" href="$libgpg__error-1_824_2src_2visibility_8c.html#acbb947b09c6f5c480561880f51a07e9d" title="gpgrt_vasprintf" alt="" coords="709,259,817,285"/>
+<area shape="rect" id="node14" href="$libgpg__error-1_824_2src_2visibility_8c.html#ad2afc4b8de021bd4cdef2d79efa16ff7" title="gpgrt_bsprintf" alt="" coords="713,309,814,336"/>
+<area shape="rect" id="node15" href="$libgpg__error-1_824_2src_2visibility_8c.html#aeefcb6a979c1067e4970e71189b36e6b" title="gpgrt_vbsprintf" alt="" coords="709,360,817,387"/>
+<area shape="rect" id="node16" href="$estream-printf_8c.html#adc2651ff4731a1cb6b10bbb5b87048f9" title="_gpgrt_estream_asprintf" alt="" coords="682,411,845,437"/>
+<area shape="rect" id="node17" href="$estream-printf_8c.html#afc7a6eb9a9025da22c48707b602c5bc2" title="_gpgrt_estream_bsprintf" alt="" coords="682,461,845,488"/>
+<area shape="rect" id="node19" href="$estream_8c.html#a56f1d673a1bcc86e28ab0f06658ae80b" title="_gpgrt_vfprintf_unlocked" alt="" coords="681,512,845,539"/>
+<area shape="rect" id="node23" href="$estream_8c.html#ab052188f412f3e86dceb4fc6cadc4f28" title="_gpgrt_vfprintf" alt="" coords="711,588,816,615"/>
+<area shape="rect" id="node27" href="$estream_8c.html#ab33326e4bbcbd057863a8121b0c4dabf" title="_gpgrt_fprintf_unlocked" alt="" coords="685,639,842,665"/>
+<area shape="rect" id="node30" href="$estream_8c.html#a3ef94e15a6389c7f5f8d8a5d5da61608" title="_gpgrt_fprintf" alt="" coords="714,689,813,716"/>
+<area shape="rect" id="node20" href="$libgpg__error-1_824_2src_2visibility_8c.html#af5a62e737704f9b0f84877d4563e105d" title="gpgrt_vfprintf_unlocked" alt="" coords="893,411,1051,437"/>
+<area shape="rect" id="node21" href="$libgpg__error-1_824_2src_2visibility_8c.html#a3cbc1e3dcb9a9bb58bee4a3454f45e78" title="gpgrt_printf_unlocked" alt="" coords="899,461,1045,488"/>
+<area shape="rect" id="node22" href="$libgpg__error-1_824_2src_2visibility_8c.html#a724bc87d47bf1cf783728266a8192669" title="gpgrt_fprintf_unlocked" alt="" coords="897,512,1047,539"/>
+<area shape="rect" id="node24" href="$libgpg__error-1_824_2src_2visibility_8c.html#a891141e09c5a5b55b239cdb8bc7d9cd3" title="gpgrt_vfprintf" alt="" coords="923,563,1021,589"/>
+<area shape="rect" id="node25" href="$libgpg__error-1_824_2src_2visibility_8c.html#a833bd0ea0c4e2584910e3d8f7bea7159" title="gpgrt_printf" alt="" coords="929,613,1015,640"/>
+<area shape="rect" id="node26" href="$libgpg__error-1_824_2src_2visibility_8c.html#af1d067bf84783b4c4ea125c19bb6c94d" title="gpgrt_fprintf" alt="" coords="927,664,1017,691"/>
+<area shape="rect" id="node28" href="$estream_8c.html#a932af49d47438c89e99931e44c9f9a1a" title="_gpgrt_write_sanitized" alt="" coords="896,715,1048,741"/>
+<area shape="rect" id="node29" href="$libgpg__error-1_824_2src_2visibility_8c.html#a8ecaaa7a5496a8b950d58c79f2dbfdb5" title="gpgrt_write_sanitized" alt="" coords="1099,715,1244,741"/>
+</map>

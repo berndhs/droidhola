@@ -1,0 +1,17 @@
+<map id="spoton::slotVerifySMPSecret" name="spoton::slotVerifySMPSecret">
+<area shape="rect" id="node2" href="$classspoton.html#aa668b4a2e7de33b33b3f5b3614c3788b" title="spoton::verifySMPSecret" alt="" coords="244,211,412,237"/>
+<area shape="rect" id="node3" href="$classspoton__smp.html#af96ef41c80e795206c0b6583de4e35d4" title="spoton_smp::initialize" alt="" coords="460,81,608,108"/>
+<area shape="rect" id="node11" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="1573,157,1723,184"/>
+<area shape="rect" id="node14" href="$classspoton__smp.html#a9cfddbd3b5adce8f4823007e5593a279" title="spoton_smp::step1" alt="" coords="467,237,601,264"/>
+<area shape="rect" id="node16" href="$classspoton.html#a73b9e842f8e0cdd1f4e0e6beb779a4c3" title="spoton::sendSMPLinkToKernel" alt="" coords="656,300,859,327"/>
+<area shape="rect" id="node4" href="$classspoton__smp.html#aa915c26c7bed517fed450f94baf3812f" title="spoton_smp::guessString" alt="" coords="672,81,843,108"/>
+<area shape="rect" id="node8" href="$classspoton__smp.html#a561cf179e815a6c53cc1ef210bcd0fcf" title="spoton_smp::reset" alt="" coords="1136,5,1267,32"/>
+<area shape="rect" id="node5" href="$classspoton__smp.html#a288c8906c96c5766099df0d09ae65565" title="spoton_smp::passed" alt="" coords="914,132,1057,159"/>
+<area shape="rect" id="node6" href="$classspoton__smp.html#affb956a8eddaeac6791556e6edb8921c" title="spoton_smp::step" alt="" coords="922,31,1049,57"/>
+<area shape="rect" id="node7" href="$classspoton__smp.html#a53843837b98af5ce1a5565a0c51001d1" title="spoton_smp::setGuess" alt="" coords="907,81,1064,108"/>
+<area shape="rect" id="node9" href="$classspoton__crypt.html#a922d8e7552c33929e84f1f35cd3f7151" title="spoton_crypt::sha512Hash" alt="" coords="1112,132,1291,159"/>
+<area shape="rect" id="node13" href="$classspoton__crypt.html#ad151a70e4b2f02dace6917146c003c97" title="spoton_crypt::whirlpoolHash" alt="" coords="1339,81,1525,108"/>
+<area shape="rect" id="node10" href="$classspoton__crypt.html#a8b936650fc0b669faaa595f21bc56b63" title="spoton_crypt::shaXHash" alt="" coords="1349,132,1515,159"/>
+<area shape="rect" id="node12" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="1771,157,1933,184"/>
+<area shape="rect" id="node15" href="$classspoton__smp.html#acca983fbf56cf6291c087ceb3d1ba38b" title="spoton_smp::generateRandom\lExponent" alt="" coords="657,234,857,275"/>
+</map>

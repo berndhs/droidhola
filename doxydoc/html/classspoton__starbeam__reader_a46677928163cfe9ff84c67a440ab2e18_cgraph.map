@@ -1,0 +1,28 @@
+<map id="spoton_starbeam_reader::elementsFromMagnet" name="spoton_starbeam_reader::elementsFromMagnet">
+<area shape="rect" id="node2" href="$classspoton__crypt.html#a12f4ac308fe55d72e6da84e825009382" title="spoton_crypt::decryptedAfter\lAuthenticated" alt="" coords="219,248,409,290"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="1433,268,1583,294"/>
+<area shape="rect" id="node5" href="$classspoton__crypt.html#a7382dbdb47b772128ea0f12cb975d959" title="spoton_crypt::keyedHash" alt="" coords="943,230,1113,257"/>
+<area shape="rect" id="node7" href="$classspoton__crypt.html#a218293644d28fe63f56ba609d1661245" title="spoton_crypt::memcmp" alt="" coords="477,474,636,501"/>
+<area shape="rect" id="node8" href="$classspoton__crypt.html#ae5a4b0d1d425603ea1cbca9b3dfd6488" title="spoton_crypt::decrypted" alt="" coords="947,529,1109,556"/>
+<area shape="rect" id="node18" href="$classspoton__crypt.html#ab0b90db83948abc5c1ca6b395a88658f" title="spoton_crypt::reencodePrivate\lPublicKeys" alt="" coords="457,168,656,210"/>
+<area shape="rect" id="node4" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="1690,53,1853,80"/>
+<area shape="rect" id="node6" href="$libgcrypt-1_86_86_2doc_2yat2m_8c.html#a3b800e9f8c4915ca5412f4a2a72db54e" title="err" alt="" coords="1489,445,1527,472"/>
+<area shape="rect" id="node9" href="$classspoton__threefish.html#a1eef1a8f7028d45c87e4595ed0f96c81" title="spoton_threefish::decrypted" alt="" coords="1166,689,1349,716"/>
+<area shape="rect" id="node16" href="$classspoton__crypt.html#a68f145c1e953075712bf61089fe716c5" title="spoton_crypt::setInitialization\lVector" alt="" coords="1161,522,1353,563"/>
+<area shape="rect" id="node10" href="$Common_2spot-on-threefish_8cc.html#a1335568fae272a0c8757f40789a4bc19" title="threefish_decrypt" alt="" coords="1447,740,1569,766"/>
+<area shape="rect" id="node15" href="$classspoton__misc.html#adf4be731cf37f969ca3e8417aabf33b9" title="spoton_misc::xor_arrays" alt="" coords="1425,689,1591,716"/>
+<area shape="rect" id="node11" href="$Common_2spot-on-threefish_8cc.html#ab9c67a2d026f017aec9239af124bd6ff" title="threefish_decrypt_implementation" alt="" coords="1663,733,1880,760"/>
+<area shape="rect" id="node12" href="$Common_2spot-on-threefish_8cc.html#af4e98a94fcceb8a18bb05deaaa75d9fc" title="bytesToWords" alt="" coords="1928,676,2035,702"/>
+<area shape="rect" id="node13" href="$Common_2spot-on-threefish_8cc.html#aad891b90fb5eeb40bddc4da78ce274ea" title="mix_inverse" alt="" coords="1935,777,2027,804"/>
+<area shape="rect" id="node14" href="$Common_2spot-on-threefish_8cc.html#a3b72a8021b758ff471d0700ebf7fd5f4" title="wordsToBytes" alt="" coords="1928,726,2035,753"/>
+<area shape="rect" id="node17" href="$classspoton__crypt.html#a9e52c870aa3d859b11052da831090f44" title="spoton_crypt::ivLength" alt="" coords="1431,521,1585,548"/>
+<area shape="rect" id="node19" href="$classspoton__misc.html#acbb66a506c79752732614d3883df9298" title="spoton_misc::database" alt="" coords="949,104,1107,130"/>
+<area shape="rect" id="node20" href="$classspoton__crypt.html#a51837f51f52920c24788eea6b7dfbf47" title="spoton_crypt::publicKey" alt="" coords="718,53,881,80"/>
+<area shape="rect" id="node21" href="$classspoton__crypt.html#a09a98a5b4f7dcf0f596648c98a024ea3" title="spoton_crypt::encryptedThen\lHashed" alt="" coords="704,307,895,348"/>
+<area shape="rect" id="node22" href="$classspoton__crypt.html#a762f0c091d69d6744bcfa28440716df6" title="spoton_crypt::encrypted" alt="" coords="947,420,1109,446"/>
+<area shape="rect" id="node23" href="$classspoton__threefish.html#ae7e9851ce8879099e71ae77773a23e02" title="spoton_threefish::encrypted" alt="" coords="1166,638,1349,665"/>
+<area shape="rect" id="node24" href="$classspoton__threefish.html#a1c153134ac798336e85fd62e80cdad50" title="spoton_threefish::setInitialization\lVector" alt="" coords="1401,572,1615,614"/>
+<area shape="rect" id="node25" href="$Common_2spot-on-threefish_8cc.html#a1747dee2e824c8c403f4fbc2f748144a" title="threefish_encrypt" alt="" coords="1447,638,1569,665"/>
+<area shape="rect" id="node26" href="$Common_2spot-on-threefish_8cc.html#a77e7993e087bbe87cd22bcb78d36d39f" title="threefish_encrypt_implementation" alt="" coords="1663,664,1880,690"/>
+<area shape="rect" id="node27" href="$Common_2spot-on-threefish_8cc.html#ab981012ef172a803efab3c267758553b" title="mix" alt="" coords="1960,625,2003,652"/>
+</map>

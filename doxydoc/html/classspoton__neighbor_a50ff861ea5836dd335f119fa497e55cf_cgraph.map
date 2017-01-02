@@ -1,0 +1,5 @@
+<map id="spoton_neighbor::peerPort" name="spoton_neighbor::peerPort">
+<area shape="rect" id="node2" href="$classspoton__sctp__socket.html#a1ac7709b4896422a780d0b42ca6e6ebb" title="spoton_sctp_socket\l::peerPort" alt="" coords="228,5,367,47"/>
+<area shape="rect" id="node3" href="$classspoton__sctp__socket.html#a80d1276c294589bfcfa8e63fd70db528" title="spoton_sctp_socket\l::peerAddressAndPort" alt="" coords="415,5,565,47"/>
+<area shape="rect" id="node4" href="$classspoton__misc.html#a623e6cff361e48e7fa0630659eaa2d94" title="spoton_misc::peerAddress\lAndPort" alt="" coords="613,5,791,47"/>
+</map>

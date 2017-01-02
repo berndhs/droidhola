@@ -1,0 +1,7 @@
+<map id="spoton::slotReloadEmailNames" name="spoton::slotReloadEmailNames">
+<area shape="rect" id="node2" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="932,5,1040,32"/>
+<area shape="rect" id="node3" href="$classspoton.html#a4635590b460e61a11dee2bd928c8bb2c" title="spoton::slotConfigurePoptastic" alt="" coords="491,56,692,83"/>
+<area shape="rect" id="node5" href="$classspoton.html#adac341f96aa568ea3e7b6539f51a5a44" title="spoton::slotSavePoptastic\lAccount" alt="" coords="264,53,439,94"/>
+<area shape="rect" id="node6" href="$classspoton.html#a20626c15338cfc0a0c1a832e8d987a4f" title="spoton::slotDeletePoptastic\lAccount" alt="" coords="260,118,443,159"/>
+<area shape="rect" id="node4" href="$classspoton.html#a5ecd428270444817f2120b844b46afc5" title="spoton::slotSendMail" alt="" coords="740,56,884,83"/>
+</map>

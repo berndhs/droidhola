@@ -1,0 +1,9 @@
+<map id="_gcry_mpih_release_karatsuba_ctx" name="_gcry_mpih_release_karatsuba_ctx">
+<area shape="rect" id="node2" href="$gcrypt-int_8h.html#ae47e70eab7d91e740fe11fa35d159556" title="_gcry_mpi_powm" alt="" coords="772,28,896,55"/>
+<area shape="rect" id="node4" href="$mpih-mul_8c.html#aed5b2b6f1ad588310e22890827575182" title="_gcry_mpih_mul" alt="" coords="192,79,309,105"/>
+<area shape="rect" id="node3" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#acece3ff43d08e5fe18ff6d5bd94f6bbf" title="gcry_mpi_powm" alt="" coords="944,28,1061,55"/>
+<area shape="rect" id="node5" href="$gcrypt-int_8h.html#aa21fdfcc3a9484ab11a3e85b30f94aea" title="_gcry_mpi_mul" alt="" coords="410,28,521,55"/>
+<area shape="rect" id="node7" href="$mpi-pow_8c.html#afd013205d77218745843758b749f6154" title="mul_mod" alt="" coords="635,79,710,105"/>
+<area shape="rect" id="node8" href="$mpih-mul_8c.html#a4f52fb279e179f272644fdedaadd5837" title="_gcry_mpih_mul_karatsuba_case" alt="" coords="357,129,573,156"/>
+<area shape="rect" id="node6" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a89070e418728f9fe8f0a91ba53f20e78" title="gcry_mpi_mul" alt="" coords="621,28,724,55"/>
+</map>

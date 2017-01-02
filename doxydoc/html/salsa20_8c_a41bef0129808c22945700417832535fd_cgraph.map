@@ -1,0 +1,14 @@
+<map id="salsa20_do_setkey" name="salsa20_do_setkey">
+<area shape="rect" id="node2" href="$salsa20_8c.html#acc2071e18a8fb5ad7b0de8ca170aa7b5" title="selftest" alt="" coords="234,57,299,84"/>
+<area shape="rect" id="node4" href="$salsa20_8c.html#adfcfb6d87b631fd23bbc27f4786432b7" title="salsa20_setiv" alt="" coords="424,7,527,33"/>
+<area shape="rect" id="node9" href="$common_8h.html#a01de98826735d07d7d41604a2ced9a64" title="log_error" alt="" coords="231,108,303,135"/>
+<area shape="rect" id="node10" href="$salsa20_8c.html#aa56c3e192a85c07b5f0caf5f1b194033" title="salsa20_keysetup" alt="" coords="203,159,330,185"/>
+<area shape="rect" id="node11" href="$salsa20_8c.html#a3e35ed0c85dc557590bfc70905310c8b" title="salsa20_ivsetup" alt="" coords="209,209,325,236"/>
+<area shape="rect" id="node12" href="$salsa20_8c.html#a6bbfa35303aba0ef162018fa8ab8bdc7" title="salsa20_core" alt="" coords="217,260,316,287"/>
+<area shape="rect" id="node13" href="$g10lib_8h.html#aea824f7fabf4b6f049106a272b63f36d" title="_gcry_get_hw_features" alt="" coords="188,311,345,337"/>
+<area shape="rect" id="node3" href="$salsa20_8c.html#a3565b183759923e881a40c215b4e9a32" title="salsa20_setkey" alt="" coords="419,236,532,263"/>
+<area shape="rect" id="node6" href="$salsa20_8c.html#a1f423917bcd8a8d7b166cf1b68daea51" title="salsa20_encrypt_stream" alt="" coords="393,60,557,87"/>
+<area shape="rect" id="node5" href="$common_8h.html#ade762acc676da9bb7e589a8a1ac43424" title="log_info" alt="" coords="641,5,708,32"/>
+<area shape="rect" id="node7" href="$salsa20_8c.html#a4a96339853fb68a655cec1a0c42b7362" title="salsa20_do_encrypt\l_stream" alt="" coords="605,57,744,98"/>
+<area shape="rect" id="node8" href="$bufhelp_8h.html#a30056825097495177fbe6cb0e36391ec" title="buf_xor" alt="" coords="792,64,857,91"/>
+</map>

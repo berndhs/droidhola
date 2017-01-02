@@ -1,0 +1,8 @@
+<map id="spoton_chatwindow::slotSendMessage" name="spoton_chatwindow::slotSendMessage">
+<area shape="rect" id="node2" href="$classspoton__chatwindow.html#a450bc5542b3eb04cf2840dfae1282fce" title="spoton_chatwindow::\lsendMessage" alt="" coords="199,49,344,90"/>
+<area shape="rect" id="node3" href="$classspoton.html#a468781b8d373673db1a47d4579a76fbc" title="spoton::instance" alt="" coords="427,5,546,32"/>
+<area shape="rect" id="node4" href="$classspoton.html#aceecd5ebfcf25aebc03caef6faa2e80e" title="spoton::mapIconToEmoticon" alt="" coords="392,56,581,83"/>
+<area shape="rect" id="node6" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="412,107,561,133"/>
+<area shape="rect" id="node5" href="$spot-on-d_8cc.html#a003c58ff2237837ffe1471a92130ba23" title="lengthGreaterThan" alt="" coords="646,56,775,83"/>
+<area shape="rect" id="node7" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="629,107,792,133"/>
+</map>

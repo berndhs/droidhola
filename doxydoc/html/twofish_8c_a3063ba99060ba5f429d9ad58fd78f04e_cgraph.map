@@ -1,0 +1,8 @@
+<map id="_gcry_twofish_cfb_dec" name="_gcry_twofish_cfb_dec">
+<area shape="rect" id="node2" href="$twofish_8c.html#aad7b205cfe5e7d3fb1fa48d1c4610afc" title="twofish_encrypt" alt="" coords="209,56,324,83"/>
+<area shape="rect" id="node6" href="$bufhelp_8h.html#a916800b20dd0d4c6d1a4738a1ba5c1c2" title="buf_xor_n_copy" alt="" coords="209,107,324,133"/>
+<area shape="rect" id="node3" href="$twofish_8c.html#ab8fc9490d2ad622b104c828cfb1b8b4f" title="do_twofish_encrypt" alt="" coords="372,5,507,32"/>
+<area shape="rect" id="node4" href="$twofish_8c.html#a8d912421740f826b522579eec8bc53e2" title="twofish_decrypt" alt="" coords="382,56,497,83"/>
+<area shape="rect" id="node5" href="$twofish_8c.html#a2445e81b0a5b5183651f157769bc7832" title="do_twofish_decrypt" alt="" coords="555,56,689,83"/>
+<area shape="rect" id="node7" href="$bufhelp_8h.html#a5a6fd291daf175f1c1c625e6b5e3859c" title="buf_xor_n_copy_2" alt="" coords="375,107,503,133"/>
+</map>

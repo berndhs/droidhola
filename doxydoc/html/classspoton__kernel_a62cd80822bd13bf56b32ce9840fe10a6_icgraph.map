@@ -1,0 +1,12 @@
+<map id="spoton_kernel::slotSaveForwardSecrecySessionKeys" name="spoton_kernel::slotSaveForwardSecrecySessionKeys">
+<area shape="rect" id="node2" href="$classspoton__kernel.html#a9223a77b13d95689d77ea3ba52b59e7d" title="spoton_kernel::connectSignals\lToNeighbor" alt="" coords="263,107,463,149"/>
+<area shape="rect" id="node9" href="$classspoton__kernel.html#aaf341f9c7581b31e4f74f78583b9a351" title="spoton_kernel::slotForward\lSecrecyResponseReceivedFromUI" alt="" coords="769,166,997,207"/>
+<area shape="rect" id="node3" href="$classspoton__kernel.html#acc4b038c20734b08617da1aad9193501" title="spoton_kernel::prepareNeighbors" alt="" coords="777,5,990,32"/>
+<area shape="rect" id="node6" href="$classspoton__kernel.html#aa9947ef6ff1cc446368a165607518ac0" title="spoton_kernel::slotNewNeighbor" alt="" coords="511,56,721,83"/>
+<area shape="rect" id="node8" href="$classspoton__kernel.html#a8326fb4c480d72dff4a2357b4f17bee3" title="spoton_kernel::slotUpdate\lSettings" alt="" coords="529,107,703,149"/>
+<area shape="rect" id="node4" href="$classspoton__kernel.html#a47b33a0b468dd5ff9d112a4be0a78c3b" title="spoton_kernel::slotPrepare\lObjects" alt="" coords="1074,49,1251,90"/>
+<area shape="rect" id="node5" href="$classspoton__kernel.html#a091890bdfdfec04d2c5be3c80a80eec6" title="spoton_kernel::spoton\l_kernel" alt="" coords="1334,133,1485,174"/>
+<area shape="rect" id="node7" href="$classspoton__kernel.html#a7ea263d96ed3589d0709ae5183dca388" title="spoton_kernel::prepareListeners" alt="" coords="780,56,987,83"/>
+<area shape="rect" id="node10" href="$classspoton__kernel.html#aa11832e947d49a438e4282d14a200b30" title="spoton_kernel::slotForward\lSecrecyInformationReceivedFromUI" alt="" coords="1045,217,1280,258"/>
+<area shape="rect" id="node11" href="$classspoton__kernel.html#a6638a67afa993edb0ae81370396974cd" title="spoton_kernel::saveUrls" alt="" coords="1328,224,1491,251"/>
+</map>

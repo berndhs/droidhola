@@ -1,0 +1,5 @@
+<map id="twofish_encrypt" name="twofish_encrypt">
+<area shape="rect" id="node2" href="$twofish_8c.html#ab8fc9490d2ad622b104c828cfb1b8b4f" title="do_twofish_encrypt" alt="" coords="168,5,303,32"/>
+<area shape="rect" id="node3" href="$twofish_8c.html#a8d912421740f826b522579eec8bc53e2" title="twofish_decrypt" alt="" coords="178,56,293,83"/>
+<area shape="rect" id="node4" href="$twofish_8c.html#a2445e81b0a5b5183651f157769bc7832" title="do_twofish_decrypt" alt="" coords="351,56,485,83"/>
+</map>

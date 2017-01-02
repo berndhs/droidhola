@@ -1,0 +1,9 @@
+<map id="spoton_listener_udp_server::slotReadyRead" name="spoton_listener_udp_server::slotReadyRead">
+<area shape="rect" id="node2" href="$classspoton__kernel.html#a803dc66d138892bd2fdbff9a07b8a33f" title="spoton_kernel::instance" alt="" coords="222,5,382,32"/>
+<area shape="rect" id="node3" href="$classspoton__misc.html#a6b1b4cce528e2dc51329622357bd8a33" title="spoton_misc::logError" alt="" coords="442,81,591,108"/>
+<area shape="rect" id="node5" href="$classspoton__misc.html#a172d74c3a3df71868964cb512d1e04c0" title="spoton_misc::isIpBlocked" alt="" coords="216,107,388,133"/>
+<area shape="rect" id="node6" href="$classBitsForQt.html#a356e30691edec196cf0ac5afed1a5c31" title="BitsForQt::setSock" alt="" coords="235,157,369,184"/>
+<area shape="rect" id="node7" href="$classspoton__listener.html#a5e9b785b6c6ffd87d987b3738fba98e2" title="spoton_listener::spoton\l_listener" alt="" coords="223,209,381,250"/>
+<area shape="rect" id="node4" href="$classspoton__misc.html#a210b10930c4bdc3493173ccf4ec1766b" title="spoton_misc::homePath" alt="" coords="645,81,808,108"/>
+<area shape="rect" id="node8" href="$classspoton__listener__tcp__server.html#a4a4083faafbc32c1dffbd0a10f18c234" title="spoton_listener_tcp\l_server::spoton_listener\l_tcp_server" alt="" coords="436,201,597,257"/>
+</map>

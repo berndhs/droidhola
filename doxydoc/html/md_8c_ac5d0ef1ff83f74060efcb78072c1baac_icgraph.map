@@ -1,0 +1,23 @@
+<map id="_gcry_md_selftest" name="_gcry_md_selftest">
+<area shape="rect" id="node2" href="$gcrypt-int_8h.html#a0cd415fd4b3633f5d10ae1b60d5a9b1e" title="_gcry_md_algo_info" alt="" coords="183,476,321,503"/>
+<area shape="rect" id="node17" href="$fips_8c.html#a9208cb23479070795efc33b087298efc" title="run_digest_selftests" alt="" coords="183,544,321,571"/>
+<area shape="rect" id="node3" href="$rsa-common_8c.html#aafc1be77dc0543f25cf59d55e247c138" title="_gcry_rsa_pkcs1_encode\l_for_sig" alt="" coords="369,338,540,379"/>
+<area shape="rect" id="node16" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a57226680ffc71f70f506e26ebce6086f" title="gcry_md_algo_info" alt="" coords="389,476,520,503"/>
+<area shape="rect" id="node4" href="$pubkey-util_8c.html#afc5cf4c8199aca8b4ecd06262511f420" title="_gcry_pk_util_data\l_to_mpi" alt="" coords="607,277,738,318"/>
+<area shape="rect" id="node5" href="$dsa_8c.html#a92df06c995f05b0bf50f364e4e82c78b" title="dsa_sign" alt="" coords="859,5,934,32"/>
+<area shape="rect" id="node6" href="$dsa_8c.html#ac1046e3d109b3497bfcf16897e0b2a44" title="dsa_verify" alt="" coords="855,56,938,83"/>
+<area shape="rect" id="node7" href="$ecc_8c.html#ae11b517c533d922d85067aa6c4948907" title="ecc_sign" alt="" coords="859,107,934,133"/>
+<area shape="rect" id="node8" href="$ecc_8c.html#a5fa08239782ab59a8a86ea18a4162032" title="ecc_verify" alt="" coords="855,157,938,184"/>
+<area shape="rect" id="node9" href="$ecc_8c.html#aa393065ec89267b73e1da57388ee5732" title="ecc_encrypt_raw" alt="" coords="836,208,957,235"/>
+<area shape="rect" id="node10" href="$elgamal_8c.html#a8635b5cf1e9b3dd12c2daecda94495ac" title="elg_encrypt" alt="" coords="852,259,941,285"/>
+<area shape="rect" id="node11" href="$elgamal_8c.html#a8e9022183dc70a1900751f206dbf64b8" title="elg_sign" alt="" coords="861,309,932,336"/>
+<area shape="rect" id="node12" href="$elgamal_8c.html#a1bafbe2e804b1a272296d246688caf30" title="elg_verify" alt="" coords="857,360,936,387"/>
+<area shape="rect" id="node13" href="$rsa_8c.html#ae2cbdc4204a565e28e5b9152b807e089" title="rsa_encrypt" alt="" coords="851,411,942,437"/>
+<area shape="rect" id="node14" href="$rsa_8c.html#a751b94e6a520716ac1ba8d60906b5d43" title="rsa_sign" alt="" coords="861,461,932,488"/>
+<area shape="rect" id="node15" href="$rsa_8c.html#a3a3be528f459241a9a8818714223ec31" title="rsa_verify" alt="" coords="857,512,936,539"/>
+<area shape="rect" id="node18" href="$g10lib_8h.html#a10a09a1883ee96a71fcccfef32771903" title="_gcry_fips_run_selftests" alt="" coords="373,563,537,589"/>
+<area shape="rect" id="node19" href="$g10lib_8h.html#ac9f86a44740c18904d8eedba9a9f523e" title="_gcry_fips_is_operational" alt="" coords="588,563,757,589"/>
+<area shape="rect" id="node21" href="$global_8c.html#a197de31474f305a294a7555b4ed6f26f" title="_gcry_vcontrol" alt="" coords="843,613,950,640"/>
+<area shape="rect" id="node20" href="$global_8c.html#afb83fe45590e215b1a758b86076369a7" title="_gcry_global_is_operational" alt="" coords="805,563,988,589"/>
+<area shape="rect" id="node22" href="$libs_2libSpotOn_2Include_8win32_2gcrypt_8h.html#a1880c4ce4c093ba2ea4a775ecf26ca29" title="gcry_control" alt="" coords="1036,613,1129,640"/>
+</map>

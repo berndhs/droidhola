@@ -1,0 +1,8 @@
+<map id="check_forking" name="check_forking">
+<area shape="rect" id="node2" href="$tests_2random_8c.html#a41b4d0b77d95a66ca4258694205cbbee" title="inf" alt="" coords="279,5,317,32"/>
+<area shape="rect" id="node3" href="$tests_2random_8c.html#a3cee7c529b14ce0d73fd6c644c039522" title="print_hex" alt="" coords="156,31,231,57"/>
+<area shape="rect" id="node4" href="$tests_2random_8c.html#aa77cc587dc65b9282085c7403a84ae8e" title="die" alt="" coords="174,81,213,108"/>
+<area shape="rect" id="node5" href="$tests_2random_8c.html#ae9ac4b140e20ae335ce4f663505918de" title="writen" alt="" coords="165,132,222,159"/>
+<area shape="rect" id="node6" href="$tests_2random_8c.html#a601ff970e14025533abc58611b4c53f0" title="readn" alt="" coords="166,183,221,209"/>
+<area shape="rect" id="node7" href="$rndunix_8c.html#a116f037c42b7ea97421440dce4fb0302" title="waitpid" alt="" coords="162,233,225,260"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="es_read_fbf" name="es_read_fbf">
+<area shape="rect" id="node2" href="$estream_8c.html#acf82f7a9b82da8daf9afc2341593c2b3" title="es_read_lbf" alt="" coords="144,69,233,96"/>
+<area shape="rect" id="node3" href="$estream_8c.html#a66b7993e39f8d3b9ffc576f9e27a4c32" title="es_readn" alt="" coords="281,95,356,121"/>
+<area shape="rect" id="node4" href="$estream_8c.html#a46d61a323228d7fe96c759807fc75128" title="_gpgrt__getc_underflow" alt="" coords="404,19,564,45"/>
+<area shape="rect" id="node6" href="$estream_8c.html#a092c5be1305e9316f81d680eced50e4a" title="_gpgrt_read" alt="" coords="439,95,529,121"/>
+<area shape="rect" id="node11" href="$estream_8c.html#ae391270dda5bb9cdafc9ea65fd6ccd2e" title="_gpgrt_fread" alt="" coords="437,145,531,172"/>
+<area shape="rect" id="node5" href="$libgpg__error-1_824_2src_2visibility_8c.html#a8f5888e07c266095ccccff668ae6f4c0" title="_gpgrt_getc_underflow" alt="" coords="612,5,765,32"/>
+<area shape="rect" id="node7" href="$libgpg__error-1_824_2src_2visibility_8c.html#a3159ccc553869ae8e3cfcec88b78277d" title="gpgrt_read" alt="" coords="647,56,730,83"/>
+<area shape="rect" id="node8" href="$estream_8c.html#ac78c8f785c8b25f8e8273a45587a234e" title="doreadline" alt="" coords="648,107,729,133"/>
+<area shape="rect" id="node9" href="$estream_8c.html#a1ed1bca7770d739c94682a3a0a9a8d89" title="_gpgrt_getline" alt="" coords="813,107,916,133"/>
+<area shape="rect" id="node10" href="$libgpg__error-1_824_2src_2visibility_8c.html#a18b6cab3ccdc1c243d4d5045e6374900" title="gpgrt_getline" alt="" coords="964,107,1060,133"/>
+<area shape="rect" id="node12" href="$libgpg__error-1_824_2src_2visibility_8c.html#a475613fd1886062d71759b77a045f224" title="gpgrt_fread" alt="" coords="645,157,732,184"/>
+</map>

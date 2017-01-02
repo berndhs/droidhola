@@ -1,0 +1,7 @@
+<map id="spoton::prepareUrlContainers" name="spoton::prepareUrlContainers">
+<area shape="rect" id="node2" href="$classspoton.html#a7fd5f71f1de76a7d14b119e25cfab0eb" title="spoton::slotSetPassphrase" alt="" coords="251,39,430,66"/>
+<area shape="rect" id="node5" href="$classspoton.html#a076aafec8a919d153580364478b0a3a5" title="spoton::slotValidatePassphrase" alt="" coords="484,98,691,124"/>
+<area shape="rect" id="node6" href="$classspoton.html#a803c65a3b8752d292fa89a0e3af16409" title="spoton::slotSaveCommonUrl\lCredentials" alt="" coords="245,141,436,182"/>
+<area shape="rect" id="node3" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="739,68,847,95"/>
+<area shape="rect" id="node4" href="$classspoton.html#a68e6ce65025cb17837acb9ed17556fdf" title="spoton::slotPrepareAndShow\lInstallationWizard" alt="" coords="492,32,683,73"/>
+</map>

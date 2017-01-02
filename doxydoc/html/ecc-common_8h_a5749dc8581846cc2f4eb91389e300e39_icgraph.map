@@ -1,0 +1,8 @@
+<map id="_gcry_ecc_dialect2str" name="_gcry_ecc_dialect2str">
+<area shape="rect" id="node2" href="$ecc_8c.html#afb500d86a0c20d38b6e95eac941221ca" title="ecc_generate" alt="" coords="231,5,331,32"/>
+<area shape="rect" id="node3" href="$ecc_8c.html#af52f50415d9222c1ee17a83564c9839a" title="ecc_check_secret_key" alt="" coords="203,56,359,83"/>
+<area shape="rect" id="node4" href="$ecc_8c.html#ae11b517c533d922d85067aa6c4948907" title="ecc_sign" alt="" coords="243,107,318,133"/>
+<area shape="rect" id="node5" href="$ecc_8c.html#a5fa08239782ab59a8a86ea18a4162032" title="ecc_verify" alt="" coords="239,157,322,184"/>
+<area shape="rect" id="node6" href="$ecc_8c.html#aa393065ec89267b73e1da57388ee5732" title="ecc_encrypt_raw" alt="" coords="220,208,341,235"/>
+<area shape="rect" id="node7" href="$ecc_8c.html#a3ecb571c9a3e14803ff801832e35c974" title="ecc_decrypt_raw" alt="" coords="220,259,341,285"/>
+</map>

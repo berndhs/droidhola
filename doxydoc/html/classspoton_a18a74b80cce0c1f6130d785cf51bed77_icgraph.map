@@ -1,0 +1,8 @@
+<map id="spoton::updatePublicKeysLabel" name="spoton::updatePublicKeysLabel">
+<area shape="rect" id="node2" href="$classspoton.html#a20264e2d17822cce4b60a2dfb8a86718" title="spoton::spoton" alt="" coords="709,95,817,122"/>
+<area shape="rect" id="node3" href="$classspoton.html#a7fd5f71f1de76a7d14b119e25cfab0eb" title="spoton::slotSetPassphrase" alt="" coords="228,66,407,92"/>
+<area shape="rect" id="node5" href="$classspoton.html#a076aafec8a919d153580364478b0a3a5" title="spoton::slotValidatePassphrase" alt="" coords="455,124,661,151"/>
+<area shape="rect" id="node6" href="$classspoton.html#a61dc531883b2842a14e648bb7ebccd85" title="spoton::slotRegenerateKey" alt="" coords="468,175,648,202"/>
+<area shape="rect" id="node7" href="$classspoton.html#a0f9e7bdd1e9b13b67fa57c88b67898c9" title="spoton::slotDeleteKey" alt="" coords="242,226,393,252"/>
+<area shape="rect" id="node4" href="$classspoton.html#a68e6ce65025cb17837acb9ed17556fdf" title="spoton::slotPrepareAndShow\lInstallationWizard" alt="" coords="463,58,653,100"/>
+</map>

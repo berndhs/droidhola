@@ -1,0 +1,20 @@
+<map id="gcry_sexp_nth_mpi" name="gcry_sexp_nth_mpi">
+<area shape="rect" id="node2" href="$gcrypt-int_8h.html#af33374155307ca9e8d97c69e0a45ba85" title="_gcry_sexp_nth_mpi" alt="" coords="188,132,331,159"/>
+<area shape="rect" id="node3" href="$sexp_8c.html#a6125029c507186f2941937f68d71146f" title="_gcry_sexp_nth_buffer" alt="" coords="379,5,533,32"/>
+<area shape="rect" id="node4" href="$sexp_8c.html#a437a1b73b727b4d18f0fa36417f4ec69" title="do_sexp_nth_data" alt="" coords="599,31,727,57"/>
+<area shape="rect" id="node5" href="$g10lib_8h.html#a097f30a540a9d8ac76ed54c1316a5376" title="_gcry_is_secure" alt="" coords="604,208,721,235"/>
+<area shape="rect" id="node11" href="$mpiutil_8c.html#a419051c94a2073990cbdd9ea748c4ae8" title="_gcry_mpi_snew" alt="" coords="396,107,516,133"/>
+<area shape="rect" id="node13" href="$mpiutil_8c.html#aac380243effee2cef8e02d22bfaeb70c" title="_gcry_mpi_new" alt="" coords="399,157,513,184"/>
+<area shape="rect" id="node15" href="$mpicoder_8c.html#a88839eb3c8e5d5262da7a6707064d8dc" title="_gcry_mpi_scan" alt="" coords="397,284,515,311"/>
+<area shape="rect" id="node6" href="$global_8c.html#a16e8af0a857ae959a2abb3c7e88e02f0" title="get_no_secure_memory" alt="" coords="793,183,954,209"/>
+<area shape="rect" id="node9" href="$secmem_8c.html#a1a820af6bf0149451e1de1933f5cc0fb" title="_gcry_private_is_secure" alt="" coords="792,233,955,260"/>
+<area shape="rect" id="node7" href="$fips_8c.html#a63eaab0cb53f75634165b2f2f0a4aa1c" title="_gcry_enforced_fips_mode" alt="" coords="1003,183,1181,209"/>
+<area shape="rect" id="node8" href="$fips_8c.html#a1236caccf2e256cb9e1b60c894a14639" title="_gcry_fips_mode" alt="" coords="1229,183,1351,209"/>
+<area shape="rect" id="node10" href="$secmem_8c.html#abfb42716ecfabdb452044d583c878448" title="ptr_into_pool_p" alt="" coords="1037,233,1147,260"/>
+<area shape="rect" id="node12" href="$mpiutil_8c.html#aeacf751e3500fc59847b02b7d461cd07" title="_gcry_mpi_alloc_secure" alt="" coords="581,107,744,133"/>
+<area shape="rect" id="node14" href="$mpiutil_8c.html#ae70f7d8cd705bc4f2256a37a7c4caaca" title="_gcry_mpi_alloc" alt="" coords="605,157,721,184"/>
+<area shape="rect" id="node16" href="$mpicoder_8c.html#a3f81a0df59f76b9270f67a75a1b3cb09" title="_gcry_mpi_set_buffer" alt="" coords="589,259,736,285"/>
+<area shape="rect" id="node17" href="$mpicoder_8c.html#a02a5680bd71311af65d71e624892607a" title="onecompl" alt="" coords="623,309,702,336"/>
+<area shape="rect" id="node18" href="$mpicoder_8c.html#a818551f69ff9bb89af2c1ff23233c5a9" title="mpi_read_from_buffer" alt="" coords="589,360,737,387"/>
+<area shape="rect" id="node19" href="$mpicoder_8c.html#a1628e7029f0d0bdbddf0f0adbb64363e" title="mpi_fromstr" alt="" coords="617,411,708,437"/>
+</map>

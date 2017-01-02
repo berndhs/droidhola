@@ -1,0 +1,8 @@
+<map id="do_fpopen" name="do_fpopen">
+<area shape="rect" id="node2" href="$gpgrt-int_8h.html#a1233837b3ea249680fc17009c4931e25" title="_gpgrt_fpopen" alt="" coords="165,5,269,32"/>
+<area shape="rect" id="node4" href="$gpgrt-int_8h.html#af0bb20d862998ec7c012f10840f408ab" title="_gpgrt_fpopen_nc" alt="" coords="155,56,280,83"/>
+<area shape="rect" id="node6" href="$gpgrt-int_8h.html#ad584d9eff9e554e55028f02d623db5f0" title="_gpgrt__get_std_stream" alt="" coords="136,107,299,133"/>
+<area shape="rect" id="node3" href="$gpg-error_8h.html#a0eb0357d44380f6aa0f6e7088dd0b037" title="gpgrt_fpopen" alt="" coords="375,5,473,32"/>
+<area shape="rect" id="node5" href="$gpg-error_8h.html#a88db45b1e4a6c6cbed5a92c48b576d82" title="gpgrt_fpopen_nc" alt="" coords="365,56,483,83"/>
+<area shape="rect" id="node7" href="$gpg-error_8h.html#aa1e2507c9c12db6d62aa447c0493238b" title="_gpgrt_get_std_stream" alt="" coords="347,107,501,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="get_section_buffer" name="get_section_buffer">
+<area shape="rect" id="node2" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a22f15655cb3f452f59f5473d1df76a07" title="xcalloc" alt="" coords="185,5,247,32"/>
+<area shape="rect" id="node4" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a1554c7d8af1cb8480d047fd90710499c" title="xrealloc" alt="" coords="183,56,249,83"/>
+<area shape="rect" id="node5" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a621739822f496af87448f3998cd35ca9" title="xstrdup" alt="" coords="183,107,249,133"/>
+<area shape="rect" id="node3" href="$libgpg__error-1_824_2doc_2yat2m_8c.html#a30d6dbd8980d3d70fd7c518aa152d66b" title="die" alt="" coords="308,56,347,83"/>
+<area shape="rect" id="node6" href="$asn1-parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="297,107,357,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="spoton_neighbor::localAddress" name="spoton_neighbor::localAddress">
+<area shape="rect" id="node2" href="$classspoton__sctp__socket.html#a6835b36bd2fc05d4f6c47ee950cc2f75" title="spoton_sctp_socket\l::localAddress" alt="" coords="253,5,392,47"/>
+<area shape="rect" id="node3" href="$classspoton__sctp__socket.html#a6e7ce2b5c537c94cb741ee2514f73d28" title="spoton_sctp_socket\l::localAddressAndPort" alt="" coords="440,5,592,47"/>
+</map>
